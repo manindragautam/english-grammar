@@ -1,0 +1,256 @@
+/* App.css - Styling for the Vocabulary App */
+
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --accent-color: #e74c3c;
+  --success-color: #27ae60;
+  --light-bg: #ecf0f1;
+  --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.app-container {
+  max-width: 900px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.app-header {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.app-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.app-header p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+  font-weight: 300;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+  padding: 20px;
+  background: var(--light-bg);
+  border-bottom: 1px solid #ddd;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: var(--shadow);
+}
+
+.scrape-btn {
+  background: var(--secondary-color);
+  color: white;
+  flex: 1;
+  min-width: 150px;
+  max-width: 250px;
+}
+
+.scrape-btn:hover:not(:disabled) {
+  background: #2980b9;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+}
+
+.scrape-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.save-btn {
+  background: var(--success-color);
+  color: white;
+  flex: 1;
+  min-width: 150px;
+  max-width: 250px;
+}
+
+.save-btn:hover {
+  background: #229954;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(39, 174, 96, 0.3);
+}
+
+.speak-btn {
+  padding: 8px 12px;
+  font-size: 0.9rem;
+  background: #f39c12;
+  color: white;
+  margin-left: 8px;
+}
+
+.speak-btn:hover:not(:disabled) {
+  background: #e67e22;
+  transform: scale(1.05);
+}
+
+.speak-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.vocab-content {
+  padding: 40px;
+  overflow-y: auto;
+  max-height: 70vh;
+}
+
+.vocab-content h1 {
+  color: var(--primary-color);
+  margin-bottom: 30px;
+  font-size: 2rem;
+  border-bottom: 3px solid var(--secondary-color);
+  padding-bottom: 10px;
+}
+
+.vocab-content h2 {
+  color: var(--secondary-color);
+  margin: 30px 0 15px 0;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.word-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  margin: 30px 0 15px 0;
+}
+
+.word-header h2 {
+  margin: 0;
+  flex: 1;
+}
+
+.speak-buttons {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.vocab-content ul,
+.vocab-content ol {
+  margin: 15px 0;
+  margin-left: 25px;
+}
+
+.vocab-content li {
+  margin: 8px 0;
+  line-height: 1.6;
+  color: #333;
+}
+
+.vocab-content strong {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+.vocab-content p {
+  margin: 10px 0;
+  line-height: 1.8;
+  color: #555;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .app-header h1 {
+    font-size: 1.8rem;
+  }
+
+  .button-group {
+    flex-direction: column;
+  }
+
+  .scrape-btn,
+  .save-btn {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .vocab-content {
+    padding: 20px;
+    max-height: 60vh;
+  }
+
+  .vocab-content h2 {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .app-header {
+    padding: 30px 15px;
+  }
+
+  .app-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .app-header p {
+    font-size: 0.95rem;
+  }
+
+  .vocab-content {
+    padding: 15px;
+  }
+
+  button {
+    padding: 10px 16px;
+    font-size: 0.9rem;
+  }
+}
+
+/* Scrollbar Styling */
+.vocab-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.vocab-content::-webkit-scrollbar-track {
+  background: var(--light-bg);
+}
+
+.vocab-content::-webkit-scrollbar-thumb {
+  background: var(--secondary-color);
+  border-radius: 4px;
+}
+
+.vocab-content::-webkit-scrollbar-thumb:hover {
+  background: #2980b9;
+}
