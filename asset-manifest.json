@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/english-grammar/static/css/main.22fcc67d.css",
+    "main.js": "/english-grammar/static/js/main.d47d22fa.js",
+    "index.html": "/english-grammar/index.html",
+    "main.22fcc67d.css.map": "/english-grammar/static/css/main.22fcc67d.css.map",
+    "main.d47d22fa.js.map": "/english-grammar/static/js/main.d47d22fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22fcc67d.css",
+    "static/js/main.d47d22fa.js"
+  ]
+}

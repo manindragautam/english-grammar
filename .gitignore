@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+
+# Environment files
+.env
+
+# Project scripts that should not be committed
+setup.sh
