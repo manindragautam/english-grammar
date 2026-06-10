@@ -9,7 +9,7 @@ export default function SpeakButton({ word, lang = "en-US" }) {
 
     const utterance = new SpeechSynthesisUtterance(word);
     utterance.lang = lang; // 'en-US' for English, 'hi-IN' for Hindi
-    utterance.rate = 0.9;
+    utterance.rate = 0.95;
     utterance.pitch = 1;
 
     utterance.onstart = () => setIsSpeaking(true);
@@ -20,16 +20,18 @@ export default function SpeakButton({ word, lang = "en-US" }) {
   };
 
   const langDisplay = lang === "en-US" ? "English" : "Hindi";
-  const emoji = lang === "en-US" ? "🇬🇧" : "🇮🇳";
+  const flag = lang === "en-US" ? "🇬🇧" : "🇮🇳";
+  const label = lang === "en-US" ? "EN" : "HI";
 
   return (
     <button
       onClick={handleSpeak}
       disabled={isSpeaking}
-      className="speak-btn"
+      className={`speak-btn ${isSpeaking ? "active-speaking" : ""}`}
       title={`Pronounce in ${langDisplay}`}
     >
-      {isSpeaking ? "🔊 Playing..." : `🔉 ${emoji}`}
+      <span>{flag}</span>
+      <span>{isSpeaking ? "Speaking..." : label}</span>
     </button>
   );
 }

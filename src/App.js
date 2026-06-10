@@ -3,21 +3,17 @@ import VocabList from "./components/VocabList";
 import "./App.css";
 
 const PAGE_SIZE = 20;
-const MAX_FETCHED_ENTRIES = 1000;
 const LETTERS = ["All", ...Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i))];
-
-function todayString() {
-  return new Date().toISOString().slice(0, 10);
-}
 
 export default function App() {
   const [currentLetter, setCurrentLetter] = useState("All");
   const [letterEntries, setLetterEntries] = useState({});
-  const [letterMarkdown, setLetterMarkdown] = useState({});
   const [fetchedEntries, setFetchedEntries] = useState([]);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [loadingLetter, setLoadingLetter] = useState(false);
   const [theme, setTheme] = useState("light");
+  const [searchQuery, setSearchQuery] = useState("");
+  const [viewMode, setViewMode] = useState("list"); // "list" or "flashcard"
   const listRef = useRef(null);
 
   useEffect(() => {
@@ -25,9 +21,40 @@ export default function App() {
   }, [theme]);
 
   useEffect(() => {
-    // do not read or persist fetched entries in localStorage for now
     setFetchedEntries([]);
-    loadLetter("All");
+    
+    const loadAllInitial = async () => {
+      setLoadingLetter(true);
+      try {
+        const lettersList = Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i));
+        const results = await Promise.all(
+          lettersList.map((L) =>
+            fetch(`${process.env.PUBLIC_URL}/markdown/${L}.md`)
+              .then((res) => (res.ok ? res.text() : ""))
+              .catch(() => "")
+          )
+        );
+        
+        const allEntries = results
+          .map((text) => parseMarkdownToEntries(text || ""))
+          .reduce((acc, arr) => acc.concat(arr), [])
+          .filter(Boolean);
+
+        // Fisher-Yates shuffle
+        for (let i = allEntries.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [allEntries[i], allEntries[j]] = [allEntries[j], allEntries[i]];
+        }
+
+        setLetterEntries((prev) => ({ ...prev, All: allEntries }));
+      } catch (err) {
+        setLetterEntries((prev) => ({ ...prev, All: [] }));
+      } finally {
+        setLoadingLetter(false);
+      }
+    };
+
+    loadAllInitial();
   }, []);
 
   const loadLetter = async (letter) => {
@@ -43,26 +70,30 @@ export default function App() {
 
     try {
       if (letter === "All") {
-        // fetch all letter files in parallel
-        const letters = Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i));
+        const lettersList = Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i));
         const results = await Promise.all(
-          letters.map((L) =>
-            fetch(`${process.env.PUBLIC_URL}/markdown/${L}.md`).then((res) => (res.ok ? res.text() : "")).catch(() => "")
+          lettersList.map((L) =>
+            fetch(`${process.env.PUBLIC_URL}/markdown/${L}.md`)
+              .then((res) => (res.ok ? res.text() : ""))
+              .catch(() => "")
           )
         );
+        
         const allEntries = results
           .map((text) => parseMarkdownToEntries(text || ""))
           .reduce((acc, arr) => acc.concat(arr), [])
           .filter(Boolean);
-        // randomize order
+
+        // Fisher-Yates shuffle
         for (let i = allEntries.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));
           [allEntries[i], allEntries[j]] = [allEntries[j], allEntries[i]];
         }
+
         setLetterEntries((prev) => ({ ...prev, [letter]: allEntries }));
-        setLetterMarkdown((prev) => ({ ...prev, [letter]: results.join("\n\n") }));
         setCurrentLetter(letter);
         setVisibleCount(PAGE_SIZE);
+        setSearchQuery(""); // Clear search on letter change
         scrollToTop();
       } else {
         const res = await fetch(`${process.env.PUBLIC_URL}/markdown/${letter}.md`);
@@ -70,29 +101,31 @@ export default function App() {
         const text = await res.text();
         const entries = parseMarkdownToEntries(text);
         setLetterEntries((prev) => ({ ...prev, [letter]: entries }));
-        setLetterMarkdown((prev) => ({ ...prev, [letter]: text }));
         setCurrentLetter(letter);
         setVisibleCount(PAGE_SIZE);
+        setSearchQuery(""); // Clear search on letter change
         scrollToTop();
       }
     } catch (err) {
       setLetterEntries((prev) => ({ ...prev, [letter]: [] }));
-      setLetterMarkdown((prev) => ({ ...prev, [letter]: "" }));
       setCurrentLetter(letter);
       setVisibleCount(PAGE_SIZE);
+      setSearchQuery("");
       scrollToTop();
     } finally {
       setLoadingLetter(false);
     }
   };
 
-  const currentLetterEntries = letterEntries[currentLetter] || [];
-  const currentMarkdown = letterMarkdown[currentLetter] || "";
-
-  const fetchedForLetter = useMemo(
-    () => fetchedEntries.filter((e) => e.word[0]?.toUpperCase() === currentLetter),
-    [fetchedEntries, currentLetter]
+  const currentLetterEntries = useMemo(
+    () => letterEntries[currentLetter] || [],
+    [letterEntries, currentLetter]
   );
+
+  const fetchedForLetter = useMemo(() => {
+    if (currentLetter === "All") return fetchedEntries;
+    return fetchedEntries.filter((e) => e.word[0]?.toUpperCase() === currentLetter);
+  }, [fetchedEntries, currentLetter]);
 
   const combinedEntries = useMemo(() => {
     const seen = new Set();
@@ -106,9 +139,21 @@ export default function App() {
     return combined;
   }, [currentLetterEntries, fetchedForLetter]);
 
+  // Apply search query filter
+  const filteredEntries = useMemo(() => {
+    if (!searchQuery.trim()) return combinedEntries;
+    const query = searchQuery.toLowerCase().trim();
+    return combinedEntries.filter(
+      (e) =>
+        e.word.toLowerCase().includes(query) ||
+        (e.meaning && e.meaning.toLowerCase().includes(query)) ||
+        (e.hindi && e.hindi.toLowerCase().includes(query))
+    );
+  }, [combinedEntries, searchQuery]);
+
   const visibleEntries = useMemo(
-    () => combinedEntries.slice(0, visibleCount),
-    [combinedEntries, visibleCount]
+    () => filteredEntries.slice(0, visibleCount),
+    [filteredEntries, visibleCount]
   );
 
   useEffect(() => {
@@ -116,128 +161,124 @@ export default function App() {
     if (!node) return;
     const handleScroll = () => {
       if (node.scrollTop + node.clientHeight >= node.scrollHeight - 80) {
-        // only increase if there are more entries to show
         setVisibleCount((prev) => {
-          if (prev >= combinedEntries.length) return prev;
+          if (prev >= filteredEntries.length) return prev;
           const next = prev + PAGE_SIZE;
-          return next > combinedEntries.length ? combinedEntries.length : next;
+          return next > filteredEntries.length ? filteredEntries.length : next;
         });
       }
     };
     node.addEventListener("scroll", handleScroll);
     return () => node.removeEventListener("scroll", handleScroll);
-  }, [combinedEntries.length]);
-
-  // legacy fetch/clear handlers removed — entries come from markdown
+  }, [filteredEntries.length]);
 
   return (
     <div className={`app-container ${theme}`}>
-      <header className="app-header">
+      {/* Premium Header */}
+      <header className="app-header glass-panel">
         <div className="app-title-group">
-          <div>
-            <h1>📚 Learn with Dheeru</h1>
-            <p>Master English vocabulary with pronunciation, meanings & examples</p>
+          <h1>📚 Learn with Dheeru</h1>
+          <p>Master English vocabulary with pronunciation, meanings & examples</p>
+        </div>
+        
+        <div className="header-actions">
+          {/* Dynamic Text Search */}
+          <div className="search-wrapper">
+            <span className="search-icon">🔍</span>
+            <input
+              type="text"
+              className="search-input"
+              placeholder={`Search in "${currentLetter}" words...`}
+              value={searchQuery}
+              onChange={(e) => {
+                setSearchQuery(e.target.value);
+                setVisibleCount(PAGE_SIZE); // reset pagination when search changes
+              }}
+            />
           </div>
+
+          {/* View Mode Switcher */}
+          <div className="view-mode-toggle">
+            <button
+              className={`mode-btn ${viewMode === "list" ? "active" : ""}`}
+              onClick={() => setViewMode("list")}
+              title="List View"
+            >
+              📝 List
+            </button>
+            <button
+              className={`mode-btn ${viewMode === "flashcard" ? "active" : ""}`}
+              onClick={() => setViewMode("flashcard")}
+              title="Flashcard Study Mode"
+            >
+              🎴 Study
+            </button>
+          </div>
+
+          {/* Theme Switcher */}
           <button
             className="theme-toggle"
             onClick={() => setTheme((prev) => (prev === "light" ? "dark" : "light"))}
             aria-label="Toggle theme"
           >
-            {theme === "light" ? "🌙 Dark mode" : "☀️ Light mode"}
+            {theme === "light" ? "🌙 Dark" : "☀️ Light"}
           </button>
         </div>
       </header>
 
-      <div className="app-body">
-        <div className="letter-strip">
-          {LETTERS.map((letter) => (
-            <button
-              key={letter}
-              className={`letter-btn ${currentLetter === letter ? "active" : ""}`}
-              onClick={() => loadLetter(letter)}
-              disabled={loadingLetter && currentLetter !== letter}
-            >
-              {letter}
-            </button>
-          ))}
-        </div>
+      {/* Main Grid Body */}
+      <main className="app-body">
+        {/* Sticky A-Z Letter Sidebar */}
+        <aside className="letter-sidebar glass-panel">
+          <h2 className="sidebar-title">Categories</h2>
+          <div className="letter-grid">
+            {LETTERS.map((letter) => (
+              <button
+                key={letter}
+                className={`letter-btn ${letter === "All" ? "all-btn" : ""} ${currentLetter === letter ? "active" : ""}`}
+                onClick={() => loadLetter(letter)}
+                disabled={loadingLetter && currentLetter !== letter}
+              >
+                {letter}
+              </button>
+            ))}
+          </div>
+        </aside>
 
-        <div className="vocab-wrapper" ref={listRef}>
-          <VocabList entries={visibleEntries} />
-        </div>
+        {/* Content Area */}
+        <section className="vocab-section">
+          {/* Metadata Statistics Strip */}
+          <div className="section-meta-bar glass-panel">
+            <div className="meta-info">
+              <span className="meta-badge">{currentLetter}</span>
+              <span className="meta-stats">
+                Showing {filteredEntries.length} of {combinedEntries.length} words
+                {searchQuery.trim() && " (Filtered)"}
+              </span>
+            </div>
+          </div>
 
-      {visibleCount < combinedEntries.length && (
-        <div className="scroll-hint">Scroll to load more vocab...</div>
-      )}
+          {/* Main List/Card Area */}
+          <div className="vocab-wrapper" ref={listRef}>
+            <VocabList 
+              entries={viewMode === "list" ? visibleEntries : filteredEntries} 
+              viewMode={viewMode}
+            />
+          </div>
+
+          {/* Pagination Scroll Hint */}
+          {viewMode === "list" && visibleCount < filteredEntries.length && (
+            <div className="scroll-hint glass-panel">
+              Scroll down to discover more vocabulary...
+            </div>
+          )}
+        </section>
+      </main>
     </div>
-  </div>
   );
 }
 
-const SAMPLE_WORDS = [
-  {
-    word: "Ephemeral",
-    dissection: "[e-phe-mer-al]",
-    meaning: "Lasting for a very short time.",
-    hindi: "क्षणकालिक",
-  },
-  {
-    word: "Eloquent",
-    dissection: "[el-o-kwent]",
-    meaning: "Fluent or persuasive in speaking or writing.",
-    hindi: "वाक्पटु",
-  },
-  {
-    word: "Meticulous",
-    dissection: "[me-tic-u-lous]",
-    meaning: "Showing great attention to detail; very careful and precise.",
-    hindi: "बेहद सावधान",
-  },
-  {
-    word: "Pragmatic",
-    dissection: "[prag-mat-ic]",
-    meaning: "Dealing with things in a sensible, realistic way based on actual circumstances rather than theory.",
-    hindi: "व्यावहारिक",
-  },
-  {
-    word: "Ubiquitous",
-    dissection: "[u-biq-ui-tous]",
-    meaning: "Present, appearing, or found everywhere.",
-    hindi: "सर्वत्र विद्यमान",
-  },
-  {
-    word: "Loquacious",
-    dissection: "[lo-qua-cious]",
-    meaning: "Tending to talk a great deal; talkative.",
-    hindi: "बोलीवाला",
-  },
-  {
-    word: "Obscure",
-    dissection: "[ob-scure]",
-    meaning: "Not discovered or known about; uncertain.",
-    hindi: "अस्पष्ट",
-  },
-  {
-    word: "Resilient",
-    dissection: "[re-sil-ient]",
-    meaning: "Able to withstand or recover quickly from difficult conditions.",
-    hindi: "लचीला",
-  },
-  {
-    word: "Candid",
-    dissection: "[can-did]",
-    meaning: "Truthful and straightforward; frank.",
-    hindi: "ईमानदार",
-  },
-  {
-    word: "Apathetic",
-    dissection: "[a-pa-thet-ic]",
-    meaning: "Showing or feeling no interest, enthusiasm, or concern.",
-    hindi: "उदासीन",
-  },
-];
-
-// parse markdown text into entry objects
+// Helper to parse markdown contents into JSON objects
 function parseMarkdownToEntries(md) {
   const sections = md.split(/^##\s+/m).map((s) => s.trim()).filter(Boolean);
   const entries = sections.map((sec) => {
@@ -246,10 +287,15 @@ function parseMarkdownToEntries(md) {
     const word = header.replace(/^[0-9]+:\s*/g, "").replace(/^Word:\s*/i, "").trim();
     const obj = { word, dissection: "", meaning: "", hindi: "", examples: [] };
     for (const line of lines.slice(1)) {
-      if (line.startsWith("- **Dissection:**")) obj.dissection = line.replace("- **Dissection:**", "").trim();
-      else if (line.startsWith("- **Meaning:**")) obj.meaning = line.replace("- **Meaning:**", "").trim();
-      else if (line.startsWith("- **Hindi:**")) obj.hindi = line.replace("- **Hindi:**", "").trim();
-      else if (/^\d+\./.test(line)) obj.examples.push(line.replace(/^\d+\.\s*/, "").trim());
+      if (line.startsWith("- **Dissection:**")) {
+        obj.dissection = line.replace("- **Dissection:**", "").trim();
+      } else if (line.startsWith("- **Meaning:**")) {
+        obj.meaning = line.replace("- **Meaning:**", "").trim();
+      } else if (line.startsWith("- **Hindi:**")) {
+        obj.hindi = line.replace("- **Hindi:**", "").trim();
+      } else if (/^\d+\./.test(line)) {
+        obj.examples.push(line.replace(/^\d+\.\s*/, "").trim());
+      }
     }
     return obj;
   });
