@@ -1,18 +1,18 @@
 ## 1: Daunting
 - **Dissection:** [daunt-ing]
 - **Meaning:** To discourage, intimidate.
-- **Hindi:** चुनौतीपूर्ण
+- **Hindi:** कठिन
 - **Examples:**
   1. It was a daunting task, but it was accomplished with some forward planning.
-  2. The use of daunting made the meaning very clear.
+  2. Facing the board of directors was a daunting prospect for the young manager.
 
 ## 2: Diligent
 - **Dissection:** [di-li-gent]
 - **Meaning:** Performing with industrious concentration; hard-working and focused.
-- **Hindi:** मेहनती
+- **Hindi:** परिश्रमी
 - **Examples:**
   1. Scientists are very diligent in their work.
-  2. The use of diligent made the meaning very clear.
+  2. The diligent detectives spent weeks analyzing evidence to solve the mystery.
 
 ## 3: Dynamic
 - **Dissection:** [dy-nam-ic]
@@ -27,6 +27,6 @@
 - **Meaning:** Pleasant; pleasing, bringing enjoyment, satisfaction, or pleasure.
 - **Hindi:** रमणीय
 - **Examples:**
-  1. One example sentence with delightful shows how it works.
-  2. The use of delightful made the meaning very clear.
+  1. We spent a delightful evening chatting by the fireplace with our old friends.
+  2. The restaurant served a delightful dessert made of fresh strawberries and cream.
 

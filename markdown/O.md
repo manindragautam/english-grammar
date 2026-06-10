@@ -1,7 +1,7 @@
 ## 1: Optimistic
 - **Dissection:** [op-tim-ist-ic]
 - **Meaning:** Expecting the best in all possible ways.
-- **Hindi:** आशावादी:
+- **Hindi:** आशावादी
 - **Examples:**
   1. In an optimistic mood
   2. Optimistic concurrency
@@ -12,7 +12,7 @@
 - **Hindi:** दायित्व
 - **Examples:**
   1. X shall be entitled to subcontract its obligation to provide the support services. <>
-  2. The use of obligation made the meaning very clear.
+  2. She fulfilled her financial obligations by paying off her student loans early.
 
 ## 3: Obscure
 - **Dissection:** [ob-scure]
@@ -25,8 +25,8 @@
 ## 4: Outstanding
 - **Dissection:** [out-stand-ing]
 - **Meaning:** To resist effectually; withstand; sustain without yielding.
-- **Hindi:** बकाया!
+- **Hindi:** असाधारण
 - **Examples:**
   1. Outstanding contracts
-  2. The use of outstanding made the meaning very clear.
+  2. He has a few outstanding bills that need to be paid by the end of the month.
 

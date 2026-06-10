@@ -1,10 +1,10 @@
 ## 1: Wholesome
 - **Dissection:** [whole-some]
 - **Meaning:** Promoting good physical health and well-being.
-- **Hindi:** स्वास्थ्यवर्धक
+- **Hindi:** पौष्टिक
 - **Examples:**
-  1. One example sentence with wholesome shows how it works.
-  2. The use of wholesome made the meaning very clear.
+  1. The organic farm provides fresh and wholesome vegetables to the local community.
+  2. Spending a weekend hiking in the mountains was a wholesome family experience.
 
 ## 2: Witty
 - **Dissection:** [witty]
@@ -17,16 +17,16 @@
 ## 3: Wanderlust
 - **Dissection:** [wan-der-lust]
 - **Meaning:** A strong impulse or longing to travel.
-- **Hindi:** भटकना
+- **Hindi:** सफ़र का अनुराग
 - **Examples:**
-  1. One example sentence with wanderlust shows how it works.
-  2. The use of wanderlust made the meaning very clear.
+  1. Her strong sense of wanderlust led her to travel to over forty countries.
+  2. Looking at the travel brochure reawakened my dormant wanderlust.
 
 ## 4: Wisdom
 - **Dissection:** [wis-dom]
 - **Meaning:** An element of personal character that enables one to distinguish the wise from the unwise.
-- **Hindi:** मैं आपकी सेवा से बहुत निराश हूं।
+- **Hindi:** बुद्धि
 - **Examples:**
-  1. One example sentence with wisdom shows how it works.
-  2. The use of wisdom made the meaning very clear.
+  1. The elders passed down their wisdom to the younger generation through storytelling.
+  2. It is wisdom to know when to speak and when to remain silent.
 
