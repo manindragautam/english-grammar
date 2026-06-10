@@ -6,8 +6,16 @@ const PAGE_SIZE = 20;
 const LETTERS = ["All", ...Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i))];
 
 export default function App() {
+  const [currentCategory, setCurrentCategory] = useState("beginner");
   const [currentLetter, setCurrentLetter] = useState("All");
-  const [letterEntries, setLetterEntries] = useState({});
+  
+  // Nested cache: { categoryName: { letterKey: entriesList } }
+  const [letterEntries, setLetterEntries] = useState({
+    beginner: {},
+    intermediate: {},
+    advanced: {}
+  });
+  
   const [fetchedEntries, setFetchedEntries] = useState([]);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [loadingLetter, setLoadingLetter] = useState(false);
@@ -20,45 +28,23 @@ export default function App() {
     document.body.classList.toggle("dark", theme === "dark");
   }, [theme]);
 
+  // Load initial "All" words for "beginner" category on mount
   useEffect(() => {
     setFetchedEntries([]);
-    
-    const loadAllInitial = async () => {
-      setLoadingLetter(true);
-      try {
-        const lettersList = Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i));
-        const results = await Promise.all(
-          lettersList.map((L) =>
-            fetch(`${process.env.PUBLIC_URL}/markdown/${L}.md`)
-              .then((res) => (res.ok ? res.text() : ""))
-              .catch(() => "")
-          )
-        );
-        
-        const allEntries = results
-          .map((text) => parseMarkdownToEntries(text || ""))
-          .reduce((acc, arr) => acc.concat(arr), [])
-          .filter(Boolean);
-
-        // Fisher-Yates shuffle
-        for (let i = allEntries.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [allEntries[i], allEntries[j]] = [allEntries[j], allEntries[i]];
-        }
-
-        setLetterEntries((prev) => ({ ...prev, All: allEntries }));
-      } catch (err) {
-        setLetterEntries((prev) => ({ ...prev, All: [] }));
-      } finally {
-        setLoadingLetter(false);
-      }
-    };
-
-    loadAllInitial();
+    loadLetter("beginner", "All");
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  const loadLetter = async (letter) => {
-    if (letter === currentLetter && letterEntries[letter]) return;
+  const loadLetter = async (category, letter) => {
+    // If already cached, just select it
+    if (letterEntries[category]?.[letter]) {
+      setCurrentCategory(category);
+      setCurrentLetter(letter);
+      setVisibleCount(PAGE_SIZE);
+      setSearchQuery("");
+      return;
+    }
+
     setLoadingLetter(true);
 
     const scrollToTop = () => {
@@ -73,7 +59,7 @@ export default function App() {
         const lettersList = Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i));
         const results = await Promise.all(
           lettersList.map((L) =>
-            fetch(`${process.env.PUBLIC_URL}/markdown/${L}.md`)
+            fetch(`${process.env.PUBLIC_URL}/markdown/${category}/${L}.md`)
               .then((res) => (res.ok ? res.text() : ""))
               .catch(() => "")
           )
@@ -90,24 +76,48 @@ export default function App() {
           [allEntries[i], allEntries[j]] = [allEntries[j], allEntries[i]];
         }
 
-        setLetterEntries((prev) => ({ ...prev, [letter]: allEntries }));
+        setLetterEntries((prev) => ({
+          ...prev,
+          [category]: {
+            ...prev[category],
+            All: allEntries
+          }
+        }));
+        
+        setCurrentCategory(category);
         setCurrentLetter(letter);
         setVisibleCount(PAGE_SIZE);
-        setSearchQuery(""); // Clear search on letter change
+        setSearchQuery("");
         scrollToTop();
       } else {
-        const res = await fetch(`${process.env.PUBLIC_URL}/markdown/${letter}.md`);
+        const res = await fetch(`${process.env.PUBLIC_URL}/markdown/${category}/${letter}.md`);
         if (!res.ok) throw new Error("Letter file not found");
         const text = await res.text();
         const entries = parseMarkdownToEntries(text);
-        setLetterEntries((prev) => ({ ...prev, [letter]: entries }));
+        
+        setLetterEntries((prev) => ({
+          ...prev,
+          [category]: {
+            ...prev[category],
+            [letter]: entries
+          }
+        }));
+        
+        setCurrentCategory(category);
         setCurrentLetter(letter);
         setVisibleCount(PAGE_SIZE);
-        setSearchQuery(""); // Clear search on letter change
+        setSearchQuery("");
         scrollToTop();
       }
     } catch (err) {
-      setLetterEntries((prev) => ({ ...prev, [letter]: [] }));
+      setLetterEntries((prev) => ({
+        ...prev,
+        [category]: {
+          ...prev[category],
+          [letter]: []
+        }
+      }));
+      setCurrentCategory(category);
       setCurrentLetter(letter);
       setVisibleCount(PAGE_SIZE);
       setSearchQuery("");
@@ -117,9 +127,14 @@ export default function App() {
     }
   };
 
+  // Switch category helper (loads the current letter in the new category)
+  const handleCategoryChange = (newCat) => {
+    loadLetter(newCat, currentLetter);
+  };
+
   const currentLetterEntries = useMemo(
-    () => letterEntries[currentLetter] || [],
-    [letterEntries, currentLetter]
+    () => letterEntries[currentCategory]?.[currentLetter] || [],
+    [letterEntries, currentCategory, currentLetter]
   );
 
   const fetchedForLetter = useMemo(() => {
@@ -192,7 +207,7 @@ export default function App() {
               value={searchQuery}
               onChange={(e) => {
                 setSearchQuery(e.target.value);
-                setVisibleCount(PAGE_SIZE); // reset pagination when search changes
+                setVisibleCount(PAGE_SIZE);
               }}
             />
           </div>
@@ -228,15 +243,31 @@ export default function App() {
 
       {/* Main Grid Body */}
       <main className="app-body">
-        {/* Sticky A-Z Letter Sidebar */}
+        {/* Sticky Sidebar */}
         <aside className="letter-sidebar glass-panel">
-          <h2 className="sidebar-title">Categories</h2>
+          {/* Category/Difficulty Selection */}
+          <h2 className="sidebar-title">Level</h2>
+          <div className="difficulty-tabs">
+            {["beginner", "intermediate", "advanced"].map((cat) => (
+              <button
+                key={cat}
+                className={`diff-btn ${currentCategory === cat ? "active" : ""}`}
+                onClick={() => handleCategoryChange(cat)}
+                disabled={loadingLetter}
+              >
+                {cat === "beginner" ? "🌱 Beginner" : cat === "intermediate" ? "📈 Intermediate" : "🔥 Advanced"}
+              </button>
+            ))}
+          </div>
+
+          {/* Alphabet Selection */}
+          <h2 className="sidebar-title" style={{ marginTop: "16px" }}>Alphabet</h2>
           <div className="letter-grid">
             {LETTERS.map((letter) => (
               <button
                 key={letter}
                 className={`letter-btn ${letter === "All" ? "all-btn" : ""} ${currentLetter === letter ? "active" : ""}`}
-                onClick={() => loadLetter(letter)}
+                onClick={() => loadLetter(currentCategory, letter)}
                 disabled={loadingLetter && currentLetter !== letter}
               >
                 {letter}
@@ -250,7 +281,9 @@ export default function App() {
           {/* Metadata Statistics Strip */}
           <div className="section-meta-bar glass-panel">
             <div className="meta-info">
-              <span className="meta-badge">{currentLetter}</span>
+              <span className="meta-badge" style={{ textTransform: "capitalize" }}>
+                {currentCategory} : {currentLetter}
+              </span>
               <span className="meta-stats">
                 Showing {filteredEntries.length} of {combinedEntries.length} words
                 {searchQuery.trim() && " (Filtered)"}

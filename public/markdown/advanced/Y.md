@@ -1,0 +1,32 @@
+## 1: Yen
+- **Dissection:** [yen]
+- **Meaning:** A yearning for something or to do something
+- **Hindi:** येन
+- **Examples:**
+  1. She ached for a cigarette.
+  2. I am pining for my lover.
+
+## 2: Yeoman
+- **Dissection:** [yeo-man]
+- **Meaning:** Officer in the (ceremonial) bodyguard of the British monarch
+- **Hindi:** फ़र्मर
+- **Examples:**
+  1. Learning the word 'yeoman' can help improve your communication and writing skills.
+  2. It is beneficial to understand the meaning and context of 'yeoman' in daily conversations.
+
+## 3: Yoke
+- **Dissection:** [yoke]
+- **Meaning:** Fabric comprising a fitted part at the top of a garment
+- **Hindi:** घोड़े का अंसबंध
+- **Examples:**
+  1. Under the yoke of a tyrant.
+  2. They threw off the yoke of domination.
+
+## 4: Yokel
+- **Dissection:** [yokel]
+- **Meaning:** A person who is not very intelligent or interested in culture
+- **Hindi:** गांवारू
+- **Examples:**
+  1. Learning the word 'yokel' can help improve your communication and writing skills.
+  2. It is beneficial to understand the meaning and context of 'yokel' in daily conversations.
+

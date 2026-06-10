@@ -26,6 +26,7 @@
         requests
         pyphen
         deep-translator
+        nltk
       '';
     };
   };
