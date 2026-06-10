@@ -1,0 +1,32 @@
+## 1: Zebra
+- **Dissection:** [zebra]
+- **Meaning:** Any of several fleet black-and-white striped African equines
+- **Hindi:** ज़ेबरा
+- **Examples:**
+  1. We watched a large herd of zebras grazing on the grassy plains of the savannah.
+  2. The zebra is easily recognized by its distinctive black and white striped coat.
+
+## 2: Zinc
+- **Dissection:** [zinc]
+- **Meaning:** A bluish-white lustrous metallic element; brittle at ordinary temperatures but malleable when heated; used in a wide variety of alloys and in galvanizing iron; it occurs naturally as zinc sulphide in zinc blende
+- **Hindi:** जस्ता
+- **Examples:**
+  1. Zinc cadmium sulfide in particles of 2 microns in size were disseminated.
+  2. RIO TINTO- ZINC CORP PLC 1986 PRETAX PROFIT 601. 7 mln stg vs 614. 4 mln.
+
+## 3: Zip
+- **Dissection:** [zip]
+- **Meaning:** A quantity of no importance
+- **Hindi:** ज़िप
+- **Examples:**
+  1. It looked like nothing I had ever seen before.
+  2. Reduced to nil all the work we had done.
+
+## 4: Zoom
+- **Dissection:** [zoom]
+- **Meaning:** A rapid rise
+- **Hindi:** ज़ूम
+- **Examples:**
+  1. The dollar soared against the yen.
+  2. Prices zoomed.
+
