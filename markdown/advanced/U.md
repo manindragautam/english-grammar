@@ -20,7 +20,7 @@
 - **Hindi:** अल्टीमेटम
 - **Examples:**
   1. At 7:30 a.m., more than three hours after landing, the Beardens gave an ultimatum:.
-  2. It is beneficial to understand the meaning and context of 'ultimatum' in daily conversations.
+  2. The union issued an ultimatum to management: meet the wage demands by Friday or face an indefinite strike.
 
 ## 4: Umbrage
 - **Dissection:** [um-brage]
@@ -28,7 +28,7 @@
 - **Hindi:** उम्ब्रेज
 - **Examples:**
   1. He took offence at my question.
-  2. It is beneficial to understand the meaning and context of 'umbrage' in daily conversations.
+  2. He took umbrage at the suggestion that his work was anything less than professional, leaving the meeting in anger.
 
 ## 5: Unanimity
 - **Dissection:** [un-an-im-ity]
@@ -92,7 +92,7 @@
 - **Hindi:** गर्मजोशी
 - **Examples:**
   1. 2: 20 But ye have an unction from the Holy One, and ye know all things.
-  2. It is beneficial to understand the meaning and context of 'unction' in daily conversations.
+  2. The priest administered the last rites with great unction, his words bringing comfort to the family gathered around the bedside.
 
 ## 13: Unctuous
 - **Dissection:** [unc-tu-ous]
@@ -124,7 +124,7 @@
 - **Hindi:** अंडरगर्ड
 - **Examples:**
   1. Undergird the ship.
-  2. It is beneficial to understand the meaning and context of 'undergird' in daily conversations.
+  2. Strong mutual respect and clear communication undergird every successful professional partnership.
 
 ## 17: Undermine
 - **Dissection:** [un-der-mine]
@@ -380,7 +380,7 @@
 - **Hindi:** पूरा हुआ
 - **Examples:**
   1. He was quite relieved to finish the conversation unscathed.
-  2. It is beneficial to understand the meaning and context of 'unscathed' in daily conversations.
+  2. Amazingly, the driver walked away from the serious accident completely unscathed, without a scratch on him.
 
 ## 49: Unseemly
 - **Dissection:** [un-seemly]
@@ -396,7 +396,7 @@
 - **Hindi:** भद्दा
 - **Examples:**
   1. Unsightly billboards.
-  2. It is beneficial to understand the meaning and context of 'unsightly' in daily conversations.
+  2. The abandoned building had become an unsightly blot on the neighbourhood, attracting graffiti and litter.
 
 ## 51: Unstinting
 - **Dissection:** [un-stint-ing]
@@ -412,7 +412,7 @@
 - **Hindi:** अस्थिर
 - **Examples:**
   1. The theory of cold fusion was untenable.
-  2. It is beneficial to understand the meaning and context of 'untenable' in daily conversations.
+  2. With evidence mounting against him, his position became increasingly untenable, and he was left with no choice but to resign.
 
 ## 53: Untoward
 - **Dissection:** [un-to-ward]

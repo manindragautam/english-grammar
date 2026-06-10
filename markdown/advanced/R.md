@@ -308,7 +308,7 @@
 - **Hindi:** जुर्म
 - **Examples:**
   1. Alcohol(ic) recidivism.
-  2. It is beneficial to understand the meaning and context of 'recidivism' in daily conversations.
+  2. High rates of recidivism suggest that the current prison system does little to rehabilitate offenders.
 
 ## 40: Recipient
 - **Dissection:** [re-cip-i-ent]
@@ -540,7 +540,7 @@
 - **Hindi:** उत्थान
 - **Examples:**
   1. The conversion of so many old industrial buildings into living quarters was a major factor in the regeneration.
-  2. It is beneficial to understand the meaning and context of 'regeneration' in daily conversations.
+  2. The riverside area underwent dramatic regeneration over the decade, transforming from an industrial wasteland into a thriving neighbourhood.
 
 ## 69: Regicide
 - **Dissection:** [re-gi-cide]
@@ -548,7 +548,7 @@
 - **Hindi:** राज-हत्या
 - **Examples:**
   1. That was all the worth of their French Revolution and regicide.
-  2. It is beneficial to understand the meaning and context of 'regicide' in daily conversations.
+  2. The dramatic events of the civil war culminated in regicide, shocking monarchies across Europe.
 
 ## 70: Regimen
 - **Dissection:** [re-gi-men]
@@ -716,7 +716,7 @@
 - **Hindi:** इनकार
 - **Examples:**
   1. She backed out of her promise.
-  2. It is beneficial to understand the meaning and context of 'renege' in daily conversations.
+  2. He promised to fund the project but reneged on his commitment as soon as the financial situation changed.
 
 ## 91: Renounce
 - **Dissection:** [re-nounce]
@@ -836,7 +836,7 @@
 - **Hindi:** कोष
 - **Examples:**
   1. While Hewlett-Woodmere is the repository of art, music, and foreign languages.
-  2. It is beneficial to understand the meaning and context of 'repository' in daily conversations.
+  2. The national archive serves as a repository for historical documents that might otherwise be lost or destroyed.
 
 ## 106: Reprehensible
 - **Dissection:** [rep-re-hens-ible]
@@ -884,7 +884,7 @@
 - **Hindi:** रीप्राइज़
 - **Examples:**
   1. The aging actress played the role she played in her youth, as if to reprise it.
-  2. It is beneficial to understand the meaning and context of 'reprise' in daily conversations.
+  2. The band closed the concert with a rousing reprise of their most popular song, sending the crowd home happy.
 
 ## 112: Reproach
 - **Dissection:** [re-proach]
@@ -932,7 +932,7 @@
 - **Hindi:** घृणा
 - **Examples:**
   1. To greet them with repulsion would turn what before was neutral into something bad;;.
-  2. It is beneficial to understand the meaning and context of 'repulsion' in daily conversations.
+  2. She felt a strong repulsion towards dishonesty in any form, which had shaped both her career and her friendships.
 
 ## 118: Reputable
 - **Dissection:** [reput-able]
@@ -964,7 +964,7 @@
 - **Hindi:** लौटाना
 - **Examples:**
   1. 32: 6 Do ye thus requite the LORD, O foolish people and unwise?
-  2. It is beneficial to understand the meaning and context of 'requite' in daily conversations.
+  2. He hoped that his years of devotion would eventually be requited, but she had already moved on with her life.
 
 ## 122: Rescind
 - **Dissection:** [res-cind]
@@ -1396,7 +1396,7 @@
 - **Hindi:** व्याख्यान चबूतरा
 - **Examples:**
   1. He had sat beside Alexander Brandel at the rostrum of a congress of Zionists.
-  2. It is beneficial to understand the meaning and context of 'rostrum' in daily conversations.
+  2. The professor stepped up to the rostrum and waited for the audience to settle before beginning his lecture.
 
 ## 176: Rote
 - **Dissection:** [rote]
@@ -1420,7 +1420,7 @@
 - **Hindi:** स्थूलता
 - **Examples:**
   1. There is a musky roundness to his wordiness.
-  2. It is beneficial to understand the meaning and context of 'rotundity' in daily conversations.
+  2. The cartoon character was drawn with exaggerated rotundity, his round belly bouncing as he waddled along.
 
 ## 179: Rousing
 - **Dissection:** [rous-ing]
@@ -1484,7 +1484,7 @@
 - **Hindi:** बदमाश
 - **Examples:**
   1. Ruffian rage.
-  2. It is beneficial to understand the meaning and context of 'ruffian' in daily conversations.
+  2. The old neighbourhood had been known for its ruffians, but years of investment had transformed it into a safe community.
 
 ## 187: Ruminate
 - **Dissection:** [ru-min-ate]
@@ -1508,7 +1508,7 @@
 - **Hindi:** चाल
 - **Examples:**
   1. That had only been a ruse to lure him out on the deserted road.
-  2. It is beneficial to understand the meaning and context of 'ruse' in daily conversations.
+  2. The ruse of pretending to be a customer allowed the detective to gather evidence without arousing suspicion.
 
 ## 190: Rustic
 - **Dissection:** [rus-tic]

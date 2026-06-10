@@ -52,7 +52,7 @@
 - **Hindi:** बोझ गिराना
 - **Examples:**
   1. The ballooners had to jettison all of their sand bags to make it over the final hill.
-  2. It is beneficial to understand the meaning and context of 'jettison' in daily conversations.
+  2. To save the sinking ship, the crew had to jettison the heavy cargo overboard.
 
 ## 8: Jingoist
 - **Dissection:** [jin-go-ist]
@@ -156,5 +156,5 @@
 - **Hindi:** मिलाना
 - **Examples:**
   1. The fauvists juxtaposed strong colors.
-  2. It is beneficial to understand the meaning and context of 'juxtapose' in daily conversations.
+  2. The exhibit juxtaposes Picasso's early paintings with his later works to show how his style evolved.
 

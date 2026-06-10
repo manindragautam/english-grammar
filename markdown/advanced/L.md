@@ -12,7 +12,7 @@
 - **Hindi:** पंगु बनाना
 - **Examples:**
   1. The doctor sewed up the laceration in his arm.
-  2. It is beneficial to understand the meaning and context of 'laceration' in daily conversations.
+  2. The surgeon carefully cleaned the laceration before stitching it closed, warning the patient to keep the wound dry.
 
 ## 3: Lachrymose
 - **Dissection:** [lach-rym-ose]
@@ -108,7 +108,7 @@
 - **Hindi:** कामुक
 - **Examples:**
   1. Libidinous orgies.
-  2. It is beneficial to understand the meaning and context of 'lascivious' in daily conversations.
+  2. The film was banned in several countries for its lascivious content, which many deemed inappropriate for general audiences.
 
 ## 15: Lassitude
 - **Dissection:** [las-sit-ude]
@@ -196,7 +196,7 @@
 - **Hindi:** चालाक
 - **Examples:**
   1. Since he was bitten by a dog when he was young, he has always been leery of animals.
-  2. It is beneficial to understand the meaning and context of 'leery' in daily conversations.
+  2. After being deceived before, she was naturally leery of anyone who approached her with promises of easy money.
 
 ## 26: Legacy
 - **Dissection:** [leg-acy]
@@ -220,7 +220,7 @@
 - **Hindi:** उदारता
 - **Examples:**
   1. Too much indulgence spoils a child.
-  2. It is beneficial to understand the meaning and context of 'leniency' in daily conversations.
+  2. The defence lawyer appealed for leniency, citing the client's clean record and difficult personal circumstances.
 
 ## 29: Leonine
 - **Dissection:** [le-on-ine]
@@ -228,7 +228,7 @@
 - **Hindi:** सिंह जैसा
 - **Examples:**
   1. His leonine face scared the young children.
-  2. It is beneficial to understand the meaning and context of 'leonine' in daily conversations.
+  2. The actor's leonine mane of grey hair and imposing presence made him a natural choice for the role of the king.
 
 ## 30: Lethargic
 - **Dissection:** [leth-ar-gic]
@@ -236,7 +236,7 @@
 - **Hindi:** सुस्त
 - **Examples:**
   1. Bullfrogs became lethargic with the first cold nights.
-  2. It is beneficial to understand the meaning and context of 'lethargic' in daily conversations.
+  2. After eating a large meal in the afternoon, he felt too lethargic to do anything productive for the rest of the day.
 
 ## 31: Levity
 - **Dissection:** [lev-ity]
@@ -308,7 +308,7 @@
 - **Hindi:** मनमाना
 - **Examples:**
   1. Coarse and licentious men.
-  2. It is beneficial to understand the meaning and context of 'licentious' in daily conversations.
+  2. The playwright was criticised for what some called licentious content, though others praised his unflinching honesty.
 
 ## 40: Licit
 - **Dissection:** [li-cit]
@@ -332,7 +332,7 @@
 - **Hindi:** लकड़ी का
 - **Examples:**
   1. Ligneous (or woody) tissue.
-  2. It is beneficial to understand the meaning and context of 'ligneous' in daily conversations.
+  2. The strange fungus gave the dead tree a hard, ligneous texture that made it look almost like carved wood.
 
 ## 43: Lilliputian
 - **Dissection:** [lil-li-pu-tian]
@@ -356,7 +356,7 @@
 - **Hindi:** लीम्बो
 - **Examples:**
   1. My application has been stuck in bureaucratic limbo for two weeks.
-  2. It is beneficial to understand the meaning and context of 'limbo' in daily conversations.
+  2. With the contract still unsigned, the whole development project remained in limbo, causing anxiety among investors.
 
 ## 46: Limpid
 - **Dissection:** [limp-id]
@@ -516,7 +516,7 @@
 - **Hindi:** शोकाकुल
 - **Examples:**
   1. His client’s lugubrious expression tipped off the detective that something lurked beneath her optimistic words.
-  2. It is beneficial to understand the meaning and context of 'lugubrious' in daily conversations.
+  2. The undertaker's lugubrious expression and slow, measured speech seemed entirely in keeping with his profession.
 
 ## 66: Lull
 - **Dissection:** [lull]
@@ -540,7 +540,7 @@
 - **Hindi:** चन्द्रमा
 - **Examples:**
   1. He was host to a large gathering of luminaries.
-  2. It is beneficial to understand the meaning and context of 'luminary' in daily conversations.
+  2. She had become a luminary in the world of renewable energy, shaping policy and inspiring a generation of engineers.
 
 ## 69: Luminous
 - **Dissection:** [lu-min-ous]

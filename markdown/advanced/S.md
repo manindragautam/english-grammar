@@ -92,7 +92,7 @@
 - **Hindi:** भूरे रंग का
 - **Examples:**
   1. The illness has sallowed her face.
-  2. It is beneficial to understand the meaning and context of 'sallow' in daily conversations.
+  2. After weeks of illness, his complexion had turned sallow and his eyes had lost their usual brightness.
 
 ## 13: Salubrious
 - **Dissection:** [sa-lu-bri-ous]
@@ -180,7 +180,7 @@
 - **Hindi:** कपड़ा सीने के विषय का
 - **Examples:**
   1. In his smart suit Jacob was by far the most sartorial of our party.
-  2. It is beneficial to understand the meaning and context of 'sartorial' in daily conversations.
+  2. Known for his sartorial elegance, the diplomat always appeared immaculately dressed, even at informal occasions.
 
 ## 24: Sate
 - **Dissection:** [sate]
@@ -348,7 +348,7 @@
 - **Hindi:** झलक
 - **Examples:**
   1. A scintilla of hope.
-  2. It is beneficial to understand the meaning and context of 'scintilla' in daily conversations.
+  2. There was not a scintilla of doubt in her mind that he was the right person for the job.
 
 ## 45: Scintillate
 - **Dissection:** [scin-til-late]
@@ -564,7 +564,7 @@
 - **Hindi:** सीन
 - **Examples:**
   1. What with some fisherman drawing his seine by the shore as I walk by and pause?
-  2. It is beneficial to understand the meaning and context of 'seine' in daily conversations.
+  2. The fishermen cast their seine across the river at dawn, hauling in enough fish to fill several crates.
 
 ## 72: Seismic
 - **Dissection:** [seis-mic]
@@ -820,7 +820,7 @@
 - **Hindi:** भाई बहन
 - **Examples:**
   1. None of my siblings are married yet.
-  2. It is beneficial to understand the meaning and context of 'sibling' in daily conversations.
+  2. Growing up with four siblings meant that compromise and negotiation were skills she had learned from a very young age.
 
 ## 104: Sibylline
 - **Dissection:** [sibyl-line]
@@ -844,7 +844,7 @@
 - **Hindi:** गाद
 - **Examples:**
   1. The river silted up.
-  2. It is beneficial to understand the meaning and context of 'silt' in daily conversations.
+  2. Over time, silt had built up at the mouth of the river, making it too shallow for large vessels to navigate.
 
 ## 107: Simian
 - **Dissection:** [simi-an]
@@ -852,7 +852,7 @@
 - **Hindi:** एक प्रकार का बंदर
 - **Examples:**
   1. Simian features.
-  2. It is beneficial to understand the meaning and context of 'simian' in daily conversations.
+  2. The primatologist described the creature's simian features in detail, noting the close resemblance to known great apes.
 
 ## 108: Simile
 - **Dissection:** [simile]
@@ -860,7 +860,7 @@
 - **Hindi:** उपमा
 - **Examples:**
   1. A simile is a bit like a metaphor.
-  2. It is beneficial to understand the meaning and context of 'simile' in daily conversations.
+  2. The teacher asked her students to write a simile comparing the moon to something in their everyday life.
 
 ## 109: Simper
 - **Dissection:** [sim-per]
@@ -956,7 +956,7 @@
 - **Hindi:** छिपना
 - **Examples:**
   1. The lonely man skulks down the main street all day.
-  2. It is beneficial to understand the meaning and context of 'skulk' in daily conversations.
+  2. He was spotted skulking around the warehouse late at night, which immediately raised the suspicion of the security guard.
 
 ## 121: Slacken
 - **Dissection:** [slack-en]
@@ -1036,7 +1036,7 @@
 - **Hindi:** लुढ़कना
 - **Examples:**
   1. They slid through the wicket in the big gate.
-  2. It is beneficial to understand the meaning and context of 'slither' in daily conversations.
+  2. The snake began to slither silently through the tall grass, barely disturbing a blade as it moved.
 
 ## 131: Slothful
 - **Dissection:** [sloth-ful]
@@ -1212,7 +1212,7 @@
 - **Hindi:** आत्मभाषण
 - **Examples:**
   1. At the end of the second act the main villain gave a soliloquy detailing his plans to attack the protagonist.
-  2. It is beneficial to understand the meaning and context of 'soliloquy' in daily conversations.
+  2. In his famous soliloquy, the character contemplates the nature of existence and the fear of the unknown.
 
 ## 153: Solitude
 - **Dissection:** [solitude]
@@ -1284,7 +1284,7 @@
 - **Hindi:** मिथ्या हेतुवादी
 - **Examples:**
   1. Which is madder, the Spanish priest who permitted tyranny, or the Prussian sophist who admired it?
-  2. It is beneficial to understand the meaning and context of 'sophist' in daily conversations.
+  2. His argument was cleverly constructed but fundamentally dishonest, the work of a sophist rather than a genuine thinker.
 
 ## 162: Sophistry
 - **Dissection:** [soph-istry]
@@ -1300,7 +1300,7 @@
 - **Hindi:** Sophomoric का हिंदी अर्थ
 - **Examples:**
   1. Sophomoric affectation.
-  2. It is beneficial to understand the meaning and context of 'sophomoric' in daily conversations.
+  2. The film was entertaining but ultimately sophomoric, relying on cheap jokes rather than genuine wit or insight.
 
 ## 164: Soporific
 - **Dissection:** [sop-or-if-ic]
@@ -1428,7 +1428,7 @@
 - **Hindi:** क्रीड़ा
 - **Examples:**
   1. Frolicsome students celebrated their graduation with parties and practical jokes.
-  2. It is beneficial to understand the meaning and context of 'sportive' in daily conversations.
+  2. In a sportive mood, the children chased each other around the garden until they collapsed with laughter.
 
 ## 180: Spry
 - **Dissection:** [spry]
@@ -1452,7 +1452,7 @@
 - **Hindi:** तिरस्कार
 - **Examples:**
   1. She spurned his advances.
-  2. It is beneficial to understand the meaning and context of 'spurn' in daily conversations.
+  2. She chose to spurn his offer of help, determined to solve the problem entirely on her own.
 
 ## 183: Squabble
 - **Dissection:** [squabble]
@@ -1700,7 +1700,7 @@
 - **Hindi:** कपट
 - **Examples:**
   1. His testimony was just a contrivance to throw us off the track.
-  2. It is beneficial to understand the meaning and context of 'stratagem' in daily conversations.
+  2. The general's bold stratagem involved feigning retreat before launching a surprise attack on the enemy's flank.
 
 ## 214: Stratify
 - **Dissection:** [strat-i-fy]
@@ -1884,7 +1884,7 @@
 - **Hindi:** आकारक
 - **Examples:**
   1. The witness and her records were subpoenaed.
-  2. It is beneficial to understand the meaning and context of 'subpoena' in daily conversations.
+  2. The lawyer filed a subpoena to compel the reluctant witness to testify in court the following month.
 
 ## 237: Subservient
 - **Dissection:** [sub-ser-vi-ent]
@@ -1964,7 +1964,7 @@
 - **Hindi:** विनाशक
 - **Examples:**
   1. Does it put the label of un-American or subversive on everyone with whom it disagrees politically??
-  2. It is beneficial to understand the meaning and context of 'subversive' in daily conversations.
+  2. The novel was banned under the authoritarian regime for its subversive themes of individual freedom and resistance.
 
 ## 247: Succinct
 - **Dissection:** [suc-cinct]
@@ -1980,7 +1980,7 @@
 - **Hindi:** परेशानी में सहायता
 - **Examples:**
   1. The contributions provided some relief for the victims.
-  2. It is beneficial to understand the meaning and context of 'succor' in daily conversations.
+  2. The aid workers arrived in time to offer succor to the survivors, providing food, water, and medical attention.
 
 ## 249: Succulent
 - **Dissection:** [suc-cu-lent]
@@ -2228,7 +2228,7 @@
 - **Hindi:** टांका
 - **Examples:**
   1. Suture the wound after surgery.
-  2. It is beneficial to understand the meaning and context of 'suture' in daily conversations.
+  2. The surgeon used absorbable sutures to close the internal wound, which would dissolve naturally as the tissue healed.
 
 ## 280: Swagger
 - **Dissection:** [swag-ger]
@@ -2308,7 +2308,7 @@
 - **Hindi:** पाठ्यक्रम
 - **Examples:**
   1. He was admitted to a new program at the university.
-  2. It is beneficial to understand the meaning and context of 'syllabus' in daily conversations.
+  2. The professor handed out the course syllabus on the first day, outlining the reading list and assessment schedule.
 
 ## 290: Syllogism
 - **Dissection:** [syl-lo-gism]
@@ -2324,7 +2324,7 @@
 - **Hindi:** वनीय
 - **Examples:**
   1. A shady sylvan glade.
-  2. It is beneficial to understand the meaning and context of 'sylvan' in daily conversations.
+  2. They escaped the city for the weekend, spending two days in a sylvan retreat surrounded by ancient woodland.
 
 ## 292: Symmetry
 - **Dissection:** [sym-metry]

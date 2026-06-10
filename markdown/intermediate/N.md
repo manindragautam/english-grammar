@@ -260,5 +260,5 @@
 - **Hindi:** नायलॉन
 - **Examples:**
   1. I tore a hole in my nylons while walking home through the woods.
-  2. It is beneficial to understand the meaning and context of 'nylon' in daily conversations.
+  2. Nylon is commonly used to make durable backpacks, tents, and ropes because of its strength and water resistance.
 

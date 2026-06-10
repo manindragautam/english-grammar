@@ -148,7 +148,7 @@
 - **Hindi:** आनेवाला
 - **Examples:**
   1. He seemed quite used to impenitent Peleg and his ways.
-  2. It is beneficial to understand the meaning and context of 'impenitent' in daily conversations.
+  2. Even after the jury returned a guilty verdict, the accused remained impenitent, showing no remorse for his actions.
 
 ## 20: Imperative
 - **Dissection:** [im-per-at-ive]
@@ -236,7 +236,7 @@
 - **Hindi:** नास्तिकता
 - **Examples:**
   1. Oh, oh,-- Impiety and blasphemy to hunt him more!".
-  2. It is beneficial to understand the meaning and context of 'impiety' in daily conversations.
+  2. The congregation was shocked by the speaker's impiety, as he openly mocked their beliefs and traditions.
 
 ## 31: Impinge
 - **Dissection:** [im-pinge]
@@ -300,7 +300,7 @@
 - **Hindi:** फटना
 - **Examples:**
   1. The bottle imploded.
-  2. It is beneficial to understand the meaning and context of 'implode' in daily conversations.
+  2. If the funding was cut without warning, the entire project would implode, leaving hundreds of workers without jobs.
 
 ## 39: Implore
 - **Dissection:** [im-plore]
@@ -316,7 +316,7 @@
 - **Hindi:** जिद करना
 - **Examples:**
   1. I importune you to help them.
-  2. It is beneficial to understand the meaning and context of 'importune' in daily conversations.
+  2. Street vendors would often importune tourists near the market entrance, pressing them to buy souvenirs.
 
 ## 41: Impotent
 - **Dissection:** [im-pot-ent]
@@ -332,7 +332,7 @@
 - **Hindi:** शाप
 - **Examples:**
   1. He suffered the imprecations of the mob.
-  2. It is beneficial to understand the meaning and context of 'imprecation' in daily conversations.
+  2. In his fury, he hurled an imprecation at the driver who had cut him off, startling those nearby.
 
 ## 43: Impregnable
 - **Dissection:** [im-preg-nable]
@@ -356,7 +356,7 @@
 - **Hindi:** अनौचित्य
 - **Examples:**
   1. I should hold myself guilty of greater impropriety in accepting a horse from my brother, than from Willoughby.
-  2. It is beneficial to understand the meaning and context of 'impropriety' in daily conversations.
+  2. The journalist's report uncovered serious impropriety in the way public funds had been allocated during the crisis.
 
 ## 46: Improvident
 - **Dissection:** [im-provid-ent]
@@ -404,7 +404,7 @@
 - **Hindi:** दण्ड मुक्ति
 - **Examples:**
   1. This left the Soviets plenty of leeway to start low-grade brushfire aggressions with considerable impunity.
-  2. It is beneficial to understand the meaning and context of 'impunity' in daily conversations.
+  2. The powerful official acted with impunity for years, confident that his connections would protect him from accountability.
 
 ## 52: Impute
 - **Dissection:** [im-pute]
@@ -524,7 +524,7 @@
 - **Hindi:** आरंभ
 - **Examples:**
   1. From its inception, the agency has been helping people obtain and properly install car seats for children.
-  2. It is beneficial to understand the meaning and context of 'inception' in daily conversations.
+  2. From its inception, the charity had always focused on providing education to children in the most underserved communities.
 
 ## 67: Incessant
 - **Dissection:** [in-cess-ant]
@@ -668,7 +668,7 @@
 - **Hindi:** बेजोड़ता
 - **Examples:**
   1. Has there been any inconsistency on his side to create alarm?
-  2. It is beneficial to understand the meaning and context of 'inconsistency' in daily conversations.
+  2. The inconsistency in the witness's statements raised serious doubts about the reliability of his testimony.
 
 ## 85: Incontinent
 - **Dissection:** [in-con-tin-ent]
@@ -676,7 +676,7 @@
 - **Hindi:** असंयमी
 - **Examples:**
   1. An incontinent river of pure water.
-  2. It is beneficial to understand the meaning and context of 'incontinent' in daily conversations.
+  2. The elderly patient had become incontinent after his operation, requiring additional medical support during recovery.
 
 ## 86: Incontrovertible
 - **Dissection:** [in-con-tro-vert-ible]
@@ -692,7 +692,7 @@
 - **Hindi:** निराकार
 - **Examples:**
   1. An incorporeal spirit.
-  2. It is beneficial to understand the meaning and context of 'incorporeal' in daily conversations.
+  2. In many folklore traditions, ghosts are described as incorporeal beings, able to pass through walls and solid objects.
 
 ## 88: Incorrigible
 - **Dissection:** [in-cor-ri-gible]
@@ -772,7 +772,7 @@
 - **Hindi:** चढ़ाई
 - **Examples:**
   1. The incursion of television into the American living room.
-  2. It is beneficial to understand the meaning and context of 'incursion' in daily conversations.
+  2. The border patrol reported a fresh incursion by armed fighters, who had crossed overnight under the cover of darkness.
 
 ## 98: Indefatigable
 - **Dissection:** [in-defatig-able]
@@ -908,7 +908,7 @@
 - **Hindi:** राज़ी करना
 - **Examples:**
   1. The Moonies indoctrinate their disciples.
-  2. It is beneficial to understand the meaning and context of 'indoctrinate' in daily conversations.
+  2. Authoritarian regimes often seek to indoctrinate children from a young age, shaping their beliefs to serve the state.
 
 ## 115: Indolent
 - **Dissection:** [in-dol-ent]
@@ -924,7 +924,7 @@
 - **Hindi:** अदम्य
 - **Examples:**
   1. And that the great monster is indomitable, you will yet have reason to know.
-  2. It is beneficial to understand the meaning and context of 'indomitable' in daily conversations.
+  2. Her indomitable spirit kept her going through illness, loss, and hardship, inspiring everyone around her.
 
 ## 117: Indubitable
 - **Dissection:** [in-dubit-able]
@@ -988,7 +988,7 @@
 - **Hindi:** बेअसर
 - **Examples:**
   1. Laws that are inefficacious in stopping crime.
-  2. It is beneficial to understand the meaning and context of 'inefficacious' in daily conversations.
+  2. The treatment proved inefficacious against the new strain of the virus, requiring doctors to rethink their approach.
 
 ## 125: Inept
 - **Dissection:** [in-ept]
@@ -1012,7 +1012,7 @@
 - **Hindi:** अचूकता
 - **Examples:**
   1. Biblical inerrancy.
-  2. It is beneficial to understand the meaning and context of 'inerrancy' in daily conversations.
+  2. Supporters of biblical inerrancy believe that the scripture is completely free from error in every detail.
 
 ## 128: Inert
 - **Dissection:** [in-ert]
@@ -1508,7 +1508,7 @@
 - **Hindi:** घुसपैठिये
 - **Examples:**
   1. They disliked the interloper, and forced him to leave.
-  2. It is beneficial to understand the meaning and context of 'interloper' in daily conversations.
+  2. The local businesspeople viewed the new chain store as an interloper, threatening the community's independent shops.
 
 ## 190: Interminable
 - **Dissection:** [in-ter-min-able]
@@ -1540,7 +1540,7 @@
 - **Hindi:** बैठाना
 - **Examples:**
   1. In verse 74, the second line is clearly interpolated.
-  2. It is beneficial to understand the meaning and context of 'interpolate' in daily conversations.
+  2. The editor decided to interpolate several clarifying paragraphs into the original document to help modern readers understand the context.
 
 ## 194: Interregnum
 - **Dissection:** [in-ter-regnum]
@@ -1604,7 +1604,7 @@
 - **Hindi:** आत्मनिरीक्षण
 - **Examples:**
   1. Mr. Nixon is `` a broody, moody man, given to long stretches of introspection;;.
-  2. It is beneficial to understand the meaning and context of 'introspection' in daily conversations.
+  2. Periods of quiet introspection helped her understand her own motivations and make more thoughtful decisions.
 
 ## 202: Introvert
 - **Dissection:** [in-tro-vert]
@@ -1740,7 +1740,7 @@
 - **Hindi:** मंगलाचरण
 - **Examples:**
   1. The invocation of papers or evidence into court.
-  2. It is beneficial to understand the meaning and context of 'invocation' in daily conversations.
+  2. The ceremony began with a solemn invocation, calling upon the divine to bless those gathered and guide their work.
 
 ## 219: Invoke
 - **Dissection:** [in-voke]
@@ -1764,7 +1764,7 @@
 - **Hindi:** योटा
 - **Examples:**
   1. As a Greek numeral, iota represents ten.
-  2. It is beneficial to understand the meaning and context of 'iota' in daily conversations.
+  2. She refused to change her position by even an iota, convinced that she was entirely right in her assessment.
 
 ## 222: Irascible
 - **Dissection:** [iras-cible]

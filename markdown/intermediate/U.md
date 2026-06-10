@@ -204,7 +204,7 @@
 - **Hindi:** अपलोड करें
 - **Examples:**
   1. You will have to convert your photograph to a jpg format if you wish to upload it.
-  2. It is beneficial to understand the meaning and context of 'upload' in daily conversations.
+  2. After editing the video, she had to wait several minutes for it to upload to the cloud server.
 
 ## 27: Upright
 - **Dissection:** [up-right]

@@ -116,7 +116,7 @@
 - **Hindi:** पाक
 - **Examples:**
   1. New England gastronomy.
-  2. It is beneficial to understand the meaning and context of 'gastronomy' in daily conversations.
+  2. Her interest in gastronomy took her from a small home kitchen to cooking professionally in some of Europe's finest restaurants.
 
 ## 16: Gauche
 - **Dissection:** [gauche]
@@ -148,7 +148,7 @@
 - **Hindi:** भूमि का लगान
 - **Examples:**
   1. The judge gavelled for order in the courtroom after the defendant burst out with a confession.
-  2. It is beneficial to understand the meaning and context of 'gavel' in daily conversations.
+  2. The auctioneer brought down the gavel with a sharp crack, signalling that the painting had been sold.
 
 ## 20: Gawk
 - **Dissection:** [gawk]
@@ -228,7 +228,7 @@
 - **Hindi:** जेंट्री
 - **Examples:**
   1. From the outside it was an ordinary enough house of the gentry.
-  2. It is beneficial to understand the meaning and context of 'gentry' in daily conversations.
+  2. The old manor house had once belonged to the local gentry, whose family had owned the land for generations.
 
 ## 30: Germane
 - **Dissection:** [ger-mane]
@@ -236,7 +236,7 @@
 - **Hindi:** सार्थक
 - **Examples:**
   1. He asks questions that are germane and central to the issue.
-  2. It is beneficial to understand the meaning and context of 'germane' in daily conversations.
+  2. His comments about historical precedent were not germane to the current discussion, which focused on modern policy.
 
 ## 31: Germinal
 - **Dissection:** [ger-min-al]
@@ -324,7 +324,7 @@
 - **Hindi:** परिधि
 - **Examples:**
   1. Cinch horses.
-  2. It is beneficial to understand the meaning and context of 'girth' in daily conversations.
+  2. The ancient oak was remarkable for its girth, with a trunk so wide that three people could not wrap their arms around it.
 
 ## 42: Gist
 - **Dissection:** [gist]
@@ -380,7 +380,7 @@
 - **Hindi:** घूरना
 - **Examples:**
   1. To gloat so over the wounds and deaths of the enemy.
-  2. It is beneficial to understand the meaning and context of 'gloat' in daily conversations.
+  2. It is considered poor sportsmanship to gloat over a victory, especially in front of a defeated opponent.
 
 ## 49: Glossary
 - **Dissection:** [gloss-ary]
@@ -388,7 +388,7 @@
 - **Hindi:** शब्दकोष
 - **Examples:**
   1. The first stage of translation after glossary lookup is structural analysis of the input text.
-  2. It is beneficial to understand the meaning and context of 'glossary' in daily conversations.
+  2. The textbook included a comprehensive glossary at the back, defining all the technical terms used throughout the chapters.
 
 ## 50: Glut
 - **Dissection:** [glut]
@@ -612,7 +612,7 @@
 - **Hindi:** मांड़
 - **Examples:**
   1. My dear Emma, suppose we all have a little gruel.".
-  2. It is beneficial to understand the meaning and context of 'gruel' in daily conversations.
+  2. The prisoners were fed nothing but thin gruel each morning, barely enough to sustain them through a day of hard labour.
 
 ## 78: Grueling
 - **Dissection:** [gruel-ing]
@@ -636,7 +636,7 @@
 - **Hindi:** खिलखिलाकर हंसना
 - **Examples:**
   1. The little man stared an instant and then said:" Yes," and Turnbull broke into a guffaw.
-  2. It is beneficial to understand the meaning and context of 'guffaw' in daily conversations.
+  2. The comedian's punchline provoked a loud guffaw from the audience, with several people nearly falling off their chairs.
 
 ## 81: Guile
 - **Dissection:** [guile]

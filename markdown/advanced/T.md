@@ -12,7 +12,7 @@
 - **Hindi:** अल्पभाषी
 - **Examples:**
   1. The two sisters could hardly have been more different, one so boisterous and expressive, the other so taciturn and calm.
-  2. It is beneficial to understand the meaning and context of 'taciturn' in daily conversations.
+  2. By nature taciturn, he preferred to listen carefully before offering his thoughts, rarely speaking unless he had something valuable to add.
 
 ## 3: Tactile
 - **Dissection:** [tact-ile]
@@ -204,7 +204,7 @@
 - **Hindi:** Temporize का हिंदी अर्थ
 - **Examples:**
   1. The speaker temporized in order to delay the vote.
-  2. It is beneficial to understand the meaning and context of 'temporize' in daily conversations.
+  2. Rather than making a firm decision, the committee chose to temporize, delaying a commitment until further information was available.
 
 ## 27: Tenacious
 - **Dissection:** [ten-a-cious]
@@ -220,7 +220,7 @@
 - **Hindi:** दृढ़ता
 - **Examples:**
   1. He alone has the wisdom, the conviction, the tenacity, and the courage to reach a decision.
-  2. It is beneficial to understand the meaning and context of 'tenacity' in daily conversations.
+  2. Her tenacity in pursuing justice for the victims was remarkable; she refused to drop the case despite years of obstacles.
 
 ## 29: Tendentious
 - **Dissection:** [tenden-tious]
@@ -332,7 +332,7 @@
 - **Hindi:** बांधने की रस्सी
 - **Examples:**
   1. Tether horses.
-  2. It is beneficial to understand the meaning and context of 'tether' in daily conversations.
+  2. The goat had been tethered to a post in the garden but had somehow managed to chew through the rope.
 
 ## 43: Thematic
 - **Dissection:** [them-at-ic]
@@ -348,7 +348,7 @@
 - **Hindi:** थेअक्रसी
 - **Examples:**
   1. Tibet was a Buddhist theocracy ruled by the Dalai Lama.
-  2. It is beneficial to understand the meaning and context of 'theocracy' in daily conversations.
+  2. In a theocracy, religious law and civil law are one and the same, with the clergy holding political power.
 
 ## 45: Therapeutic
 - **Dissection:** [thera-peut-ic]
@@ -372,7 +372,7 @@
 - **Hindi:** नाटकीय
 - **Examples:**
   1. The movie director had thespian cooperation.
-  2. It is beneficial to understand the meaning and context of 'thespian' in daily conversations.
+  2. The veteran thespian had spent fifty years on stage, and his final performance was considered one of the greatest of the decade.
 
 ## 48: Thrall
 - **Dissection:** [thrall]
@@ -428,7 +428,7 @@
 - **Hindi:** कंजूस
 - **Examples:**
   1. That tightwad would drive ten miles to save a few cents on gas.
-  2. It is beneficial to understand the meaning and context of 'tightwad' in daily conversations.
+  2. His reputation as a tightwad was well earned; he would spend hours finding a discount rather than pay full price.
 
 ## 55: Tiller
 - **Dissection:** [tiller]
@@ -516,7 +516,7 @@
 - **Hindi:** चापलूस
 - **Examples:**
   1. He is always kowtowing to his boss.
-  2. It is beneficial to understand the meaning and context of 'toady' in daily conversations.
+  2. Rather than offering genuine advice, the assistant had become little more than a toady, agreeing with everything his boss said.
 
 ## 66: Tome
 - **Dissection:** [tome]
@@ -556,7 +556,7 @@
 - **Hindi:** टॉर्कः
 - **Examples:**
   1. This torque causes the entire system to rotate about the **yf axis, since the response to Af.
-  2. It is beneficial to understand the meaning and context of 'torque' in daily conversations.
+  2. The mechanic applied the correct amount of torque to each bolt, ensuring the engine components were properly secured.
 
 ## 71: Torrent
 - **Dissection:** [tor-rent]
@@ -644,7 +644,7 @@
 - **Hindi:** बदनाम करना
 - **Examples:**
   1. She badmouths her husband everywhere.
-  2. It is beneficial to understand the meaning and context of 'traduce' in daily conversations.
+  2. His enemies sought to traduce his character in the press, spreading rumours that had no basis in fact.
 
 ## 82: Trajectory
 - **Dissection:** [tra-ject-ory]
@@ -652,7 +652,7 @@
 - **Hindi:** प्रक्षेपवक्र
 - **Examples:**
   1. Because of a missile's ballistic trajectory, the location of a fixed target must be known quite accurately.
-  2. It is beneficial to understand the meaning and context of 'trajectory' in daily conversations.
+  2. The analyst studied the company's financial trajectory over five years and predicted continued growth through the next decade.
 
 ## 83: Tranquility
 - **Dissection:** [tran-quil-ity]
@@ -756,7 +756,7 @@
 - **Hindi:** सदमा
 - **Examples:**
   1. " I hope never again to go through the trauma of 1986.
-  2. It is beneficial to understand the meaning and context of 'trauma' in daily conversations.
+  2. The survivors of the disaster received long-term support to help them process the emotional trauma of what they had experienced.
 
 ## 96: Travail
 - **Dissection:** [trav-ail]
@@ -868,7 +868,7 @@
 - **Hindi:** ट्राइडेंट
 - **Examples:**
   1. Poseidon's trident.
-  2. It is beneficial to understand the meaning and context of 'trident' in daily conversations.
+  2. Neptune is traditionally depicted holding a trident, symbolising his dominion over the seas and their creatures.
 
 ## 110: Trifling
 - **Dissection:** [tri-fling]
@@ -1020,7 +1020,7 @@
 - **Hindi:** अधमता
 - **Examples:**
   1. The various turpitudes of modern society.
-  2. It is beneficial to understand the meaning and context of 'turpitude' in daily conversations.
+  2. The official was dismissed for moral turpitude after an internal investigation uncovered a pattern of dishonest behaviour.
 
 ## 129: Tutelage
 - **Dissection:** [tu-tel-age]
@@ -1028,7 +1028,7 @@
 - **Hindi:** संरक्षण
 - **Examples:**
   1. He is in the care of a bodyguard.
-  2. It is beneficial to understand the meaning and context of 'tutelage' in daily conversations.
+  2. Under the tutelage of an experienced mentor, the young scientist quickly developed the skills needed to lead her own research team.
 
 ## 130: Tycoon
 - **Dissection:** [ty-coon]

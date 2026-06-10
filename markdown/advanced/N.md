@@ -172,7 +172,8 @@
 - **Hindi:** थोड़े में
 - **Examples:**
   1. A niggardly tip.
-  2. It is beneficial to understand the meaning and context of 'niggardly' in daily conversations.
+  2. The billionaire was known for his niggardly donations to charity despite his enormous wealth.
+
 
 ## 23: Niggle
 - **Dissection:** [niggle]
@@ -348,7 +349,7 @@
 - **Hindi:** हेच
 - **Examples:**
   1. A nugatory law.
-  2. It is beneficial to understand the meaning and context of 'nugatory' in daily conversations.
+  2. The committee dismissed the proposal as nugatory, claiming it would have no meaningful impact on the problem.
 
 ## 45: Nullify
 - **Dissection:** [nul-li-fy]
@@ -380,5 +381,5 @@
 - **Hindi:** पुष्टिकर
 - **Examples:**
   1. Good nourishing stew.
-  2. It is beneficial to understand the meaning and context of 'nutrient' in daily conversations.
+  2. Leafy green vegetables are packed with essential nutrients like iron, calcium, and vitamins.
 

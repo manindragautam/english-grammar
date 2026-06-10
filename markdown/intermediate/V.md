@@ -388,7 +388,8 @@
 - **Hindi:** विटामिन
 - **Examples:**
   1. A Schilling test demonstrated normal absorption of vitamin Af.
-  2. It is beneficial to understand the meaning and context of 'vitamin' in daily conversations.
+  2. Eating a balanced diet rich in fruits and vegetables ensures you get all the essential vitamins your body needs.
+
 
 ## 50: Vivid
 - **Dissection:** [vivid]
