@@ -28,7 +28,7 @@
 - **Hindi:** परित्यक्त
 - **Examples:**
   1. Street children beg or steal in order to survive.
-  2. It is beneficial to understand the meaning and context of 'waif' in daily conversations.
+  2. The movie told the heartbreaking story of a waif living alone in the streets of Mumbai.
 
 ## 5: Waive
 - **Dissection:** [waive]
@@ -228,7 +228,7 @@
 - **Hindi:** वोर्ल
 - **Examples:**
   1. A coil of rope.
-  2. It is beneficial to understand the meaning and context of 'whorl' in daily conversations.
+  2. The fingerprint analyst identified the suspect by the unique whorl pattern on his thumb.
 
 ## 30: Willful
 - **Dissection:** [will-ful]
@@ -276,7 +276,7 @@
 - **Hindi:** मनोहर
 - **Examples:**
   1. For sleeping man,' twas hard to choose between such winsome days and such seducing nights.
-  2. It is beneficial to understand the meaning and context of 'winsome' in daily conversations.
+  2. The young actress had a winsome smile that immediately made the audience fall in love with her.
 
 ## 36: Wispy
 - **Dissection:** [wispy]
@@ -332,7 +332,7 @@
 - **Hindi:** Wizardry का हिंदी अर्थ
 - **Examples:**
   1. He used his computing wizardry to automate the search-and-replace process.
-  2. It is beneficial to understand the meaning and context of 'wizardry' in daily conversations.
+  2. The special effects in the film were pure cinematic wizardry, creating a magical world that amazed viewers.
 
 ## 43: Wizen
 - **Dissection:** [wizen]

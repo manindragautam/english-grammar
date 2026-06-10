@@ -4,7 +4,7 @@
 - **Hindi:** भद्दा
 - **Examples:**
   1. Ouch! You dropped that box on my feet, you lumbering oaf!
-  2. It is beneficial to understand the meaning and context of 'oaf' in daily conversations.
+  2. That clumsy oaf tripped over the carpet and spilled coffee all over the white tablecloth.
 
 ## 2: Obdurate
 - **Dissection:** [ob-dur-ate]
@@ -204,7 +204,7 @@
 - **Hindi:** रोक देना
 - **Examples:**
   1. Obstruct the path.
-  2. It is beneficial to understand the meaning and context of 'occlude' in daily conversations.
+  2. A blood clot can occlude an artery and lead to a heart attack if not treated immediately.
 
 ## 27: Occult
 - **Dissection:** [oc-cult]

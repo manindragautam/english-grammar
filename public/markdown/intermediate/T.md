@@ -260,7 +260,7 @@
 - **Hindi:** ख़ौफ़ में डालना
 - **Examples:**
   1. For he never means to swallow a single limb; he only thinks to terrify by feints.
-  2. It is beneficial to understand the meaning and context of 'terrify' in daily conversations.
+  2. The thought of speaking in front of a large audience used to terrify her, but she overcame that fear through practice.
 
 ## 34: Territory
 - **Dissection:** [ter-rit-ory]
@@ -676,7 +676,7 @@
 - **Hindi:** ट्राम
 - **Examples:**
   1. A tramcar carries coal out of a coal mine.
-  2. It is beneficial to understand the meaning and context of 'tram' in daily conversations.
+  2. Tourists enjoy riding the historic tram up the mountain to get a panoramic view of the city.
 
 ## 86: Transaction
 - **Dissection:** [trans-ac-tion]

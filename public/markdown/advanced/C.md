@@ -28,7 +28,7 @@
 - **Hindi:** काजोल
 - **Examples:**
   1. He palavered her into going along.
-  2. It is beneficial to understand the meaning and context of 'cajole' in daily conversations.
+  2. She tried to cajole her younger brother into doing the dishes by promising to help with his homework later.
 
 ## 5: Calamity
 - **Dissection:** [calam-ity]
@@ -732,7 +732,7 @@
 - **Hindi:** लायक़
 - **Examples:**
   1. Condign censure.
-  2. It is beneficial to understand the meaning and context of 'condign' in daily conversations.
+  2. The judge handed down condign punishment to the corrupt official, ensuring the sentence matched the severity of the crime.
 
 ## 93: Condone
 - **Dissection:** [con-done]
@@ -836,7 +836,7 @@
 - **Hindi:** विशेषज्ञ
 - **Examples:**
   1. He admires as a lover, not as a connoisseur.
-  2. It is beneficial to understand the meaning and context of 'connoisseur' in daily conversations.
+  2. As a connoisseur of fine wines, he could identify the vineyard and vintage just by the aroma.
 
 ## 106: Consanguinity
 - **Dissection:** [con-san-guin-ity]
@@ -884,7 +884,7 @@
 - **Hindi:** अनुरूप
 - **Examples:**
   1. This would be in perfect consonance with the underlying concern in the administration -- the shortage of cash.
-  2. It is beneficial to understand the meaning and context of 'consonance' in daily conversations.
+  2. There was a pleasing consonance between the speaker's words and her actions, making her arguments all the more convincing.
 
 ## 112: Consort
 - **Dissection:** [con-sort]
@@ -1004,7 +1004,7 @@
 - **Hindi:** पछताया हुआ
 - **Examples:**
   1. `` Oh, I forget '', and Helva's voice was really contrite.
-  2. It is beneficial to understand the meaning and context of 'contrite' in daily conversations.
+  2. After realizing the hurt his words had caused, he felt genuinely contrite and offered a heartfelt apology.
 
 ## 127: Contumacious
 - **Dissection:** [con-tu-ma-cious]
@@ -1012,7 +1012,7 @@
 - **Hindi:** दुराचारी
 - **Examples:**
   1. A contumaceous witness is subject to punishment.
-  2. It is beneficial to understand the meaning and context of 'contumacious' in daily conversations.
+  2. The contumacious student refused to follow any school rule, constantly challenging authority at every turn.
 
 ## 128: Contusion
 - **Dissection:** [con-tu-sion]
@@ -1020,7 +1020,7 @@
 - **Hindi:** नील
 - **Examples:**
   1. The bruise resulted from a contusion.
-  2. It is beneficial to understand the meaning and context of 'contusion' in daily conversations.
+  2. The athlete suffered a serious contusion on his knee after colliding with another player during the match.
 
 ## 129: Conundrum
 - **Dissection:** [conun-drum]
@@ -1212,7 +1212,7 @@
 - **Hindi:** क्रास
 - **Examples:**
   1. The striptease is crass;;.
-  2. It is beneficial to understand the meaning and context of 'crass' in daily conversations.
+  2. His crass remarks at the dinner table shocked the guests and left everyone feeling deeply uncomfortable.
 
 ## 153: Craven
 - **Dissection:** [craven]
@@ -1348,7 +1348,7 @@
 - **Hindi:** कृपण
 - **Examples:**
   1. John Doe's old age and stubborn aversion to new ideas make him a curmudgeon of a candidate.
-  2. It is beneficial to understand the meaning and context of 'curmudgeon' in daily conversations.
+  2. Despite being known as a curmudgeon, the old professor had a soft spot for students who genuinely loved literature.
 
 ## 170: Cursory
 - **Dissection:** [curs-ory]
@@ -1380,5 +1380,5 @@
 - **Hindi:** निंदक
 - **Examples:**
   1. The cynic, or Sothic, year; cynic cycle.
-  2. It is beneficial to understand the meaning and context of 'cynic' in daily conversations.
+  2. A cynic might argue that politicians only help others for personal gain, never out of genuine compassion.
 

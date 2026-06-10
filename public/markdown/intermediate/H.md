@@ -412,7 +412,7 @@
 - **Hindi:** बंधक
 - **Examples:**
   1. The Hostage ( closed ), by Ireland's Brendan Behan.
-  2. It is beneficial to understand the meaning and context of 'hostage' in daily conversations.
+  2. The bank robbers took three employees hostage during the six-hour standoff with police.
 
 ## 53: Hostile
 - **Dissection:** [hos-tile]

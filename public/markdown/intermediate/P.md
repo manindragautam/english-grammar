@@ -92,7 +92,7 @@
 - **Hindi:** पैराशूट
 - **Examples:**
   1. The soldiers were parachuted behind enemy lines.
-  2. It is beneficial to understand the meaning and context of 'parachute' in daily conversations.
+  2. The skydiver pulled the ripcord, but the parachute failed to deploy properly.
 
 ## 13: Parade
 - **Dissection:** [parade]

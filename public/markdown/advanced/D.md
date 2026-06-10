@@ -28,7 +28,7 @@
 - **Hindi:** डरपोक
 - **Examples:**
   1. The unprovoked and dastardly attack by Japan on...December 7th.
-  2. It is beneficial to understand the meaning and context of 'dastardly' in daily conversations.
+  2. The villain's dastardly scheme involved framing an innocent man for a crime he did not commit.
 
 ## 5: Daub
 - **Dissection:** [daub]
@@ -132,7 +132,7 @@
 - **Hindi:** तबाह
 - **Examples:**
   1. The plague wiped out an entire population.
-  2. It is beneficial to understand the meaning and context of 'decimate' in daily conversations.
+  2. The disease threatened to decimate the local bird population, wiping out nearly a third of the species.
 
 ## 18: Decipher
 - **Dissection:** [de-cipher]
@@ -164,7 +164,7 @@
 - **Hindi:** प्रलोभन
 - **Examples:**
   1. To decoy troops into an ambush; to decoy ducks into a net.
-  2. It is beneficial to understand the meaning and context of 'decoy' in daily conversations.
+  2. The police used a decoy to lure the thieves into a trap, arresting them as soon as they took the bait.
 
 ## 22: Decrepit
 - **Dissection:** [de-crep-it]
@@ -244,7 +244,7 @@
 - **Hindi:** पत्तों से रहित करना
 - **Examples:**
   1. Defoliate the trees with pesticides.
-  2. It is beneficial to understand the meaning and context of 'defoliate' in daily conversations.
+  2. The strong herbicide used in the conflict was designed to defoliate entire forests, destroying the enemy's cover.
 
 ## 32: Defray
 - **Dissection:** [de-fray]
@@ -292,7 +292,7 @@
 - **Hindi:** अनुग्रह करना
 - **Examples:**
   1. He didn't even deign to give us a nod of the head; he thought us that far beneath him.
-  2. It is beneficial to understand the meaning and context of 'deign' in daily conversations.
+  2. The celebrity did not deign to acknowledge the fans waiting outside, walking past them without a glance.
 
 ## 38: Deleterious
 - **Dissection:** [de-le-ter-i-ous]
@@ -436,7 +436,7 @@
 - **Hindi:** उपसंहार
 - **Examples:**
   1. The spectacle progressed towards a denouement which was obviously still remote;;.
-  2. It is beneficial to understand the meaning and context of 'denouement' in daily conversations.
+  2. In the novel's satisfying denouement, all the loose ends are tied up and the killer is finally unmasked.
 
 ## 56: Depict
 - **Dissection:** [de-pict]
@@ -524,7 +524,7 @@
 - **Hindi:** उपहास करना
 - **Examples:**
   1. He derided his student's attempt to solve the biggest problem in mathematics.
-  2. It is beneficial to understand the meaning and context of 'deride' in daily conversations.
+  2. Critics were quick to deride the new art installation, calling it meaningless and overpriced.
 
 ## 67: Derivative
 - **Dissection:** [de-riv-at-ive]
@@ -684,7 +684,7 @@
 - **Hindi:** शिक्षाप्रद
 - **Examples:**
   1. Didactic poetry.
-  2. It is beneficial to understand the meaning and context of 'didactic' in daily conversations.
+  2. The film was praised for being didactic without being preachy, teaching important moral lessons through compelling storytelling.
 
 ## 87: Diffident
 - **Dissection:** [dif-fid-ent]
@@ -724,7 +724,7 @@
 - **Hindi:** धीमा
 - **Examples:**
   1. A dilatory strategy.
-  2. It is beneficial to understand the meaning and context of 'dilatory' in daily conversations.
+  2. His dilatory approach to submitting the report frustrated his manager, who needed the data urgently.
 
 ## 92: Dilettante
 - **Dissection:** [di-let-tante]
@@ -740,7 +740,7 @@
 - **Hindi:** शोकगीत
 - **Examples:**
   1. The dark forms moved like mourners on some nocturnal pilgrimage, their dirge unsung for want of vocal chords.
-  2. It is beneficial to understand the meaning and context of 'dirge' in daily conversations.
+  2. The choir performed a mournful dirge at the memorial service, bringing many attendees to tears.
 
 ## 94: Disabuse
 - **Dissection:** [dis-ab-use]
@@ -756,7 +756,7 @@
 - **Hindi:** अप्रभावित करना
 - **Examples:**
   1. She alienated her friends when she became fanatically religious.
-  2. It is beneficial to understand the meaning and context of 'disaffect' in daily conversations.
+  2. Years of broken promises had managed to disaffect the once-loyal voters, who now refused to support the party.
 
 ## 96: Disarray
 - **Dissection:** [dis-ar-ray]
@@ -788,7 +788,7 @@
 - **Hindi:** छोड़ना
 - **Examples:**
   1. He disclaimed any responsibility.
-  2. It is beneficial to understand the meaning and context of 'disclaim' in daily conversations.
+  2. He chose to disclaim any responsibility for the failed project, insisting he had warned against the approach from the start.
 
 ## 100: Discomfit
 - **Dissection:** [dis-com-fit]
@@ -796,7 +796,7 @@
 - **Hindi:** गड़बड़ करना
 - **Examples:**
   1. Don't worry. Your joke did not really discomfit me.
-  2. It is beneficial to understand the meaning and context of 'discomfit' in daily conversations.
+  2. The unexpected question clearly discomfited the spokesperson, who stumbled over her words before composing herself.
 
 ## 101: Disconcert
 - **Dissection:** [dis-con-cert]
@@ -964,7 +964,7 @@
 - **Hindi:** उपेक्षा करना
 - **Examples:**
   1. She disparaged her student's efforts.
-  2. It is beneficial to understand the meaning and context of 'disparage' in daily conversations.
+  2. It is unfair to disparage someone's efforts without understanding the challenges they faced along the way.
 
 ## 122: Disparate
 - **Dissection:** [dis-par-ate]
@@ -988,7 +988,7 @@
 - **Hindi:** आवेगहीन
 - **Examples:**
   1. A journalist should be a dispassionate reporter of fact.
-  2. It is beneficial to understand the meaning and context of 'dispassionate' in daily conversations.
+  2. The journalist tried to write a dispassionate account of the trial, presenting the facts without emotional bias.
 
 ## 125: Dispel
 - **Dissection:** [dis-pel]
@@ -1084,7 +1084,7 @@
 - **Hindi:** मतभेद
 - **Examples:**
   1. Modern music is just noise to me.
-  2. It is beneficial to understand the meaning and context of 'dissonance' in daily conversations.
+  2. There was a jarring dissonance between the upbeat music and the sorrowful lyrics of the song.
 
 ## 137: Dissuade
 - **Dissection:** [dis-suade]
@@ -1212,7 +1212,7 @@
 - **Hindi:** उल्लू
 - **Examples:**
   1. The economy, stupid!
-  2. It is beneficial to understand the meaning and context of 'dolt' in daily conversations.
+  2. He felt like a complete dolt after locking his keys inside the car on a busy Monday morning.
 
 ## 153: Domicile
 - **Dissection:** [dom-i-cile]

@@ -668,7 +668,7 @@
 - **Hindi:** मच्छर
 - **Examples:**
   1. For mosquito bites a paste of half a glass of salt and half a glass of soda was made.
-  2. It is beneficial to understand the meaning and context of 'mosquito' in daily conversations.
+  2. The buzzing sound of a mosquito near your ear at night can be incredibly annoying and keep you awake.
 
 ## 85: Motive
 - **Dissection:** [motive]

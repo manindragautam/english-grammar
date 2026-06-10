@@ -20,7 +20,7 @@
 - **Hindi:** ख़ाली करना
 - **Examples:**
   1. The men gulped down their beers.
-  2. It is beneficial to understand the meaning and context of 'quaff' in daily conversations.
+  2. After the long hike, the weary walkers sat down in the pub to quaff cold pints of ale and share their stories.
 
 ## 4: Quagmire
 - **Dissection:** [quag-mire]
@@ -36,7 +36,7 @@
 - **Hindi:** बटेर
 - **Examples:**
   1. She flinched when they showed the slaughtering of the calf.
-  2. It is beneficial to understand the meaning and context of 'quail' in daily conversations.
+  2. Even the most experienced journalists seemed to quail at the prospect of interviewing such a formidable political figure.
 
 ## 6: Quaint
 - **Dissection:** [quaint]
@@ -52,7 +52,7 @@
 - **Hindi:** हिचक
 - **Examples:**
   1. This lawyer has no qualms about saving people who are on the wrong side of the law.
-  2. It is beneficial to understand the meaning and context of 'qualms' in daily conversations.
+  2. She had no qualms about leaving the company once it became clear that its practices conflicted with her values.
 
 ## 8: Quandary
 - **Dissection:** [quandary]
@@ -68,7 +68,7 @@
 - **Hindi:** संगरोधन
 - **Examples:**
   1. My dog was quarantined before he could live in England.
-  2. It is beneficial to understand the meaning and context of 'quarantine' in daily conversations.
+  2. All passengers arriving from the affected region were required to quarantine for ten days before being allowed to travel freely.
 
 ## 10: Quarry
 - **Dissection:** [quarry]
@@ -164,7 +164,7 @@
 - **Hindi:** हीर
 - **Examples:**
   1. Have you ever read _The Quintessence of Ibsenism_?
-  2. It is beneficial to understand the meaning and context of 'quintessence' in daily conversations.
+  2. Her patient and thoughtful approach to teaching was seen by many as the quintessence of good pedagogy.
 
 ## 22: Quip
 - **Dissection:** [quip]
@@ -212,5 +212,5 @@
 - **Hindi:** कोरम
 - **Examples:**
   1. We can discuss the issue tonight, but cannot vote until we have a quorum.
-  2. It is beneficial to understand the meaning and context of 'quorum' in daily conversations.
+  2. The meeting could not proceed because only five of the twelve members were present, which was not enough to form a quorum.
 

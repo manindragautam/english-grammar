@@ -1196,7 +1196,7 @@
 - **Hindi:** धावक
 - **Examples:**
   1. She's the first athlete in her sport to obtain a corporate sponsor.
-  2. It is beneficial to understand the meaning and context of 'athlete' in daily conversations.
+  2. To become a professional athlete, one must dedicate years to intense training, discipline, and proper nutrition.
 
 ## 151: Atmosphere
 - **Dissection:** [at-mo-sphere]

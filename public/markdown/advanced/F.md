@@ -44,7 +44,7 @@
 - **Hindi:** प्रतिकृति
 - **Examples:**
   1. Can you fax me the report right away?
-  2. It is beneficial to understand the meaning and context of 'facsimile' in daily conversations.
+  2. The museum displayed a perfect facsimile of the ancient manuscript, while the original was kept safely in storage.
 
 ## 7: Faction
 - **Dissection:** [fac-tion]
@@ -68,7 +68,7 @@
 - **Hindi:** नक़ली
 - **Examples:**
   1. Brokers created a factitious demand for stocks.
-  2. It is beneficial to understand the meaning and context of 'factitious' in daily conversations.
+  2. The committee suspected that the enthusiasm shown by the crowd had been factitious, arranged by the campaign organisers.
 
 ## 10: Factotum
 - **Dissection:** [factot-um]
@@ -148,7 +148,7 @@
 - **Hindi:** नियतिवाद
 - **Examples:**
   1. Was there, perhaps, some such fatalism in friendship as all lovers talk about in love?
-  2. It is beneficial to understand the meaning and context of 'fatalism' in daily conversations.
+  2. His fatalism led him to believe that no matter what choices he made, the outcome would always be the same.
 
 ## 20: Fathom
 - **Dissection:** [fathom]
@@ -164,7 +164,7 @@
 - **Hindi:** बुद्धिहीन
 - **Examples:**
   1. Then he turned his own rather fatuous face to the company.
-  2. It is beneficial to understand the meaning and context of 'fatuous' in daily conversations.
+  2. The board dismissed his fatuous suggestion without discussion, recognising immediately that it showed no understanding of the issue.
 
 ## 22: Fauna
 - **Dissection:** [fauna]
@@ -412,7 +412,7 @@
 - **Hindi:** चुराना
 - **Examples:**
   1. Hey, someone filched my wallet!
-  2. It is beneficial to understand the meaning and context of 'filch' in daily conversations.
+  2. Someone managed to filch a wallet from the tourist's bag while she was distracted at the market.
 
 ## 53: Filial
 - **Dissection:** [fi-li-al]
@@ -604,7 +604,7 @@
 - **Hindi:** घबड़ाना
 - **Examples:**
   1. He seemed to get flustered when speaking in front of too many people.
-  2. It is beneficial to understand the meaning and context of 'fluster' in daily conversations.
+  2. The sudden noise from the street was enough to fluster the speaker, causing her to lose her train of thought.
 
 ## 77: Flux
 - **Dissection:** [flux]
@@ -620,7 +620,7 @@
 - **Hindi:** चरित्र की दुर्बलता
 - **Examples:**
   1. Try to look past his foibles and see the friendly fellow underneath.
-  2. It is beneficial to understand the meaning and context of 'foible' in daily conversations.
+  2. His tendency to over-apologise was a well-known foible that his colleagues teased him about affectionately.
 
 ## 79: Foil
 - **Dissection:** [foil]
@@ -636,7 +636,7 @@
 - **Hindi:** थोपना
 - **Examples:**
   1. He foisted his work on me.
-  2. It is beneficial to understand the meaning and context of 'foist' in daily conversations.
+  2. He tried to foist his personal preferences onto the rest of the team, insisting that his taste was objectively superior.
 
 ## 81: Foment
 - **Dissection:** [fo-ment]
@@ -876,7 +876,7 @@
 - **Hindi:** फ्रेस्को
 - **Examples:**
   1. The painting `` a fresco '' stood up superbly;;.
-  2. It is beneficial to understand the meaning and context of 'fresco' in daily conversations.
+  2. The magnificent fresco on the ceiling of the chapel had survived for centuries, its colours still vivid and clear.
 
 ## 111: Fret
 - **Dissection:** [fret]
@@ -956,7 +956,7 @@
 - **Hindi:** आधार
 - **Examples:**
   1. It is possible to flick food across the table using your fork as a lever and your finger as a fulcrum.
-  2. It is beneficial to understand the meaning and context of 'fulcrum' in daily conversations.
+  2. Education is often described as the fulcrum of social mobility, the point around which opportunities rise or fall.
 
 ## 121: Fulminate
 - **Dissection:** [ful-min-ate]
@@ -1012,7 +1012,7 @@
 - **Hindi:** गोलीकांड
 - **Examples:**
   1. Our fusillade from the left flank caught them by surprise.
-  2. It is beneficial to understand the meaning and context of 'fusillade' in daily conversations.
+  2. The debate turned hostile when one candidate launched a fusillade of accusations against the other.
 
 ## 128: Fusion
 - **Dissection:** [fu-sion]

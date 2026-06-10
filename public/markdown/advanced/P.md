@@ -4,7 +4,7 @@
 - **Hindi:** गतिनिर्धारक
 - **Examples:**
   1. The new policy will be a pacesetter in community relations.
-  2. It is beneficial to understand the meaning and context of 'pacesetter' in daily conversations.
+  2. The company was a true pacesetter in the industry, consistently pioneering new technologies before its competitors.
 
 ## 2: Pacifist
 - **Dissection:** [pa-ci-fist]
@@ -12,7 +12,7 @@
 - **Hindi:** शांतिवादी
 - **Examples:**
   1. Mahatma Gandhi was one of the world's most famous pacifists.
-  2. It is beneficial to understand the meaning and context of 'pacifist' in daily conversations.
+  2. As a committed pacifist, he refused to take up arms even when conscripted, choosing civilian service instead.
 
 ## 3: Pacify
 - **Dissection:** [pa-ci-fy]
@@ -124,7 +124,7 @@
 - **Hindi:** रामबाण
 - **Examples:**
   1. A monorail will be a panacea for our traffic woes.
-  2. It is beneficial to understand the meaning and context of 'panacea' in daily conversations.
+  2. Many people mistakenly believe that technology is a panacea for all social problems, when in fact it often creates new ones.
 
 ## 17: Panache
 - **Dissection:** [pan-ache]
@@ -132,7 +132,7 @@
 - **Hindi:** कलँगी
 - **Examples:**
   1. He wooed her with the confident dash of a cavalry officer.
-  2. It is beneficial to understand the meaning and context of 'panache' in daily conversations.
+  2. She handled the difficult interview with great panache, turning every awkward question into an opportunity to shine.
 
 ## 18: Pandemic
 - **Dissection:** [pan-dem-ic]
@@ -148,7 +148,7 @@
 - **Hindi:** विप्लव
 - **Examples:**
   1. " Whatever all this pandemonium means, I suppose the police station will help us.
-  2. It is beneficial to understand the meaning and context of 'pandemonium' in daily conversations.
+  2. When the fire alarm went off mid-performance, there was complete pandemonium in the theatre as the crowd rushed for the exits.
 
 ## 20: Pander
 - **Dissection:** [pander]
@@ -156,7 +156,7 @@
 - **Hindi:** बढ़ावा देना
 - **Examples:**
   1. His latest speech panders to the worst instincts of the electorate.
-  2. It is beneficial to understand the meaning and context of 'pander' in daily conversations.
+  2. Critics accused the network of choosing to pander to its audience's prejudices rather than challenge them with serious journalism.
 
 ## 21: Panegyric
 - **Dissection:** [pan-egyr-ic]
@@ -228,7 +228,7 @@
 - **Hindi:** समानता
 - **Examples:**
   1. That parallelism affects his picture of man's disobedience too;;.
-  2. It is beneficial to understand the meaning and context of 'parallelism' in daily conversations.
+  2. The speech used deliberate parallelism to great effect: we shall fight on the beaches, we shall fight in the hills.
 
 ## 30: Parameter
 - **Dissection:** [para-met-er]
@@ -308,7 +308,7 @@
 - **Hindi:** बोल-चाल
 - **Examples:**
   1. In common parlance they would be described as misses -- misinterpreters, misunderstanders, misdirectors and kindred misdeeds.
-  2. It is beneficial to understand the meaning and context of 'parlance' in daily conversations.
+  2. In common parlance, the term 'literally' has come to be used even when the speaker means something figurative.
 
 ## 40: Parley
 - **Dissection:** [par-ley]
@@ -348,7 +348,7 @@
 - **Hindi:** लकड़ी की छत
 - **Examples:**
   1. Dr. Louis Lalaurie examined the inert form of the slave on the parquet dance floor and pronounced him dead.
-  2. It is beneficial to understand the meaning and context of 'parquet' in daily conversations.
+  2. The ballroom featured a beautifully restored parquet floor that gleamed under the chandeliers.
 
 ## 45: Parry
 - **Dissection:** [parry]
@@ -364,7 +364,7 @@
 - **Hindi:** बचत
 - **Examples:**
   1. He despised parsimony, and particularly of words.
-  2. It is beneficial to understand the meaning and context of 'parsimony' in daily conversations.
+  2. His parsimony was well known at the office; he never bought a round of drinks and always split bills to the last penny.
 
 ## 47: Partiality
 - **Dissection:** [par-ti-al-ity]
@@ -396,7 +396,7 @@
 - **Hindi:** मिलावट
 - **Examples:**
   1. The house failed to attract a buyer because the decor was a pastiche of Bohemian and Scandinavian styles.
-  2. It is beneficial to understand the meaning and context of 'pastiche' in daily conversations.
+  2. The director's latest film was a loving pastiche of 1960s spy thrillers, full of knowing winks to the genre.
 
 ## 51: Pastoral
 - **Dissection:** [pas-tor-al]
@@ -468,7 +468,7 @@
 - **Hindi:** कमी
 - **Examples:**
   1. Only the amethystine python and the anaconda must be excluded for lack or paucity of data.
-  2. It is beneficial to understand the meaning and context of 'paucity' in daily conversations.
+  2. A paucity of evidence made it nearly impossible for investigators to build a strong case against the suspect.
 
 ## 60: Pauper
 - **Dissection:** [pau-per]
@@ -548,7 +548,7 @@
 - **Hindi:** अपमानजनक
 - **Examples:**
   1. Dyslogistic terms like `nitwit' and `scalawag'.
-  2. It is beneficial to understand the meaning and context of 'pejorative' in daily conversations.
+  2. The word once had a neutral meaning but gradually took on a pejorative sense through years of negative association.
 
 ## 70: Pellucid
 - **Dissection:** [pel-lu-cid]
@@ -604,7 +604,7 @@
 - **Hindi:** अनुतापी
 - **Examples:**
   1. But he died penitent -- he just died of being penitent.
-  2. It is beneficial to understand the meaning and context of 'penitent' in daily conversations.
+  2. Standing before the congregation, the penitent publicly confessed his wrongdoings and vowed to make amends.
 
 ## 77: Pensive
 - **Dissection:** [pens-ive]
@@ -956,7 +956,7 @@
 - **Hindi:** फ़रीसीवादी
 - **Examples:**
   1. A sickening sanctimonious smile.
-  2. It is beneficial to understand the meaning and context of 'pharisaical' in daily conversations.
+  2. Her pharisaical attitude to diet and exercise made her insufferable at dinner parties, as she judged everyone's choices.
 
 ## 121: Philanderer
 - **Dissection:** [phil-an-der-er]
@@ -1028,7 +1028,7 @@
 - **Hindi:** संघ
 - **Examples:**
   1. Mammals belong to the phylum Chordata.
-  2. It is beneficial to understand the meaning and context of 'phylum' in daily conversations.
+  2. Scientists discovered a new phylum of microscopic organisms living in the deepest parts of the ocean trench.
 
 ## 130: Physiognomy
 - **Dissection:** [physiognomy]
@@ -1156,7 +1156,7 @@
 - **Hindi:** देन
 - **Examples:**
   1. They work all day for a mere pittance.
-  2. It is beneficial to understand the meaning and context of 'pittance' in daily conversations.
+  2. After decades of loyal service, he was offered only a pittance as a redundancy payment, which felt deeply insulting.
 
 ## 146: Pivotal
 - **Dissection:** [pivotal]
@@ -1180,7 +1180,7 @@
 - **Hindi:** तसल्ली देना
 - **Examples:**
   1. She managed to mollify the angry customer.
-  2. It is beneficial to understand the meaning and context of 'placate' in daily conversations.
+  2. The manager tried to placate the angry customer by offering a full refund and an apology.
 
 ## 149: Placebo
 - **Dissection:** [placebo]
@@ -1228,7 +1228,7 @@
 - **Hindi:** प्लास्टिसिटी
 - **Examples:**
   1. In order to be saved, plasticity had had to be isolated;;.
-  2. It is beneficial to understand the meaning and context of 'plasticity' in daily conversations.
+  2. The plasticity of the human brain means that new skills can be learned and old habits broken throughout a lifetime.
 
 ## 155: Platitude
 - **Dissection:** [plat-it-ude]
@@ -1324,7 +1324,7 @@
 - **Hindi:** पक्षति
 - **Examples:**
   1. Long I gazed at that prodigy of plumage.
-  2. It is beneficial to understand the meaning and context of 'plumage' in daily conversations.
+  2. The male peacock fanned out its spectacular plumage in an elaborate display to attract a potential mate.
 
 ## 167: Plumb
 - **Dissection:** [plumb]
@@ -1356,7 +1356,7 @@
 - **Hindi:** पोडियाट्रिस्ट
 - **Examples:**
   1. I visited my podiatrist to get a new pair of orthopedic inserts for my sneakers.
-  2. It is beneficial to understand the meaning and context of 'podiatrist' in daily conversations.
+  2. After months of foot pain, she finally made an appointment with a podiatrist, who diagnosed a stress fracture.
 
 ## 171: Podium
 - **Dissection:** [po-di-um]
@@ -1380,7 +1380,7 @@
 - **Hindi:** फूट डालना
 - **Examples:**
   1. Polarize light waves.
-  2. It is beneficial to understand the meaning and context of 'polarize' in daily conversations.
+  2. The controversial proposal quickly began to polarize opinion, creating two strongly opposed camps within the community.
 
 ## 174: Polemic
 - **Dissection:** [po-lem-ic]
@@ -1420,7 +1420,7 @@
 - **Hindi:** भव्य
 - **Examples:**
   1. With their super-formal tone and heavy use of jargon, legal documents are renowned for their pomposity.
-  2. It is beneficial to understand the meaning and context of 'pomposity' in daily conversations.
+  2. His pomposity was off-putting to many colleagues, who found his self-important manner difficult to work with.
 
 ## 179: Ponderous
 - **Dissection:** [pon-der-ous]
@@ -1916,7 +1916,7 @@
 - **Hindi:** छलकपट
 - **Examples:**
   1. The people saw the politician prevaricate every day.
-  2. It is beneficial to understand the meaning and context of 'prevaricate' in daily conversations.
+  2. When asked directly about the missing funds, the treasurer began to prevaricate, avoiding a clear answer for several minutes.
 
 ## 241: Prim
 - **Dissection:** [prim]
@@ -2068,7 +2068,7 @@
 - **Hindi:** रोग का निदान
 - **Examples:**
   1. Shell people were schooled to examine every aspect of a problem or situation before making a prognosis.
-  2. It is beneficial to understand the meaning and context of 'prognosis' in daily conversations.
+  2. The doctor delivered an uncertain prognosis, explaining that the patient's recovery would depend on how the treatment went.
 
 ## 260: Projectile
 - **Dissection:** [pro-jectile]
@@ -2084,7 +2084,7 @@
 - **Hindi:** सर्वहारा
 - **Examples:**
   1. Workers of the world--unite!
-  2. It is beneficial to understand the meaning and context of 'proletarian' in daily conversations.
+  2. The novel depicted the lives of proletarian workers in the mines, showing the harsh realities of industrial labour.
 
 ## 262: Proliferate
 - **Dissection:** [pro-lif-er-ate]
@@ -2388,7 +2388,7 @@
 - **Hindi:** नियम
 - **Examples:**
   1. He accepted subject to one provision.
-  2. It is beneficial to understand the meaning and context of 'proviso' in daily conversations.
+  2. He agreed to sign the contract, but only with the proviso that the delivery date would be extended by two weeks.
 
 ## 300: Provocative
 - **Dissection:** [pro-voc-at-ive]
@@ -2468,7 +2468,7 @@
 - **Hindi:** उपनाम
 - **Examples:**
   1. The Reverend Charles Lutwidge Dodgson wrote "Alice's Adventures in Wonderland" under the pseudonym Lewis Carroll.
-  2. It is beneficial to understand the meaning and context of 'pseudonym' in daily conversations.
+  2. The author published her controversial political essays under a pseudonym to protect her professional reputation.
 
 ## 310: Psyche
 - **Dissection:** [psyche]
@@ -2644,7 +2644,7 @@
 - **Hindi:** नजदीक
 - **Examples:**
   1. The merchants are the purveyors of fine selections.
-  2. It is beneficial to understand the meaning and context of 'purveyor' in daily conversations.
+  2. The company had established itself as a trusted purveyor of high-quality artisan cheeses across the country.
 
 ## 332: Pusillanimous
 - **Dissection:** [pusil-lan-im-ous]

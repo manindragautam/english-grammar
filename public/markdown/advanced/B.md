@@ -36,7 +36,7 @@
 - **Hindi:** मज़ाक
 - **Examples:**
   1. After we relaxed, we just kidded around.
-  2. It is beneficial to understand the meaning and context of 'banter' in daily conversations.
+  2. The friends engaged in playful banter throughout the dinner, teasing each other about their embarrassing childhood memories.
 
 ## 6: Bard
 - **Dissection:** [bard]
@@ -92,7 +92,7 @@
 - **Hindi:** छोटी बात
 - **Examples:**
   1. Another is a bubble of a bauble ''.
-  2. It is beneficial to understand the meaning and context of 'bauble' in daily conversations.
+  2. The child was easily distracted by shiny baubles and cheap trinkets at the souvenir shop.
 
 ## 13: Bawdy
 - **Dissection:** [bawdy]
@@ -132,7 +132,7 @@
 - **Hindi:** आबी घोड़ा
 - **Examples:**
   1. 40: 15 Behold now behemoth, which I made with thee; he eateth grass as an ox.
-  2. It is beneficial to understand the meaning and context of 'behemoth' in daily conversations.
+  2. The multinational corporation grew into a behemoth that dominated the entire industry and crushed smaller competitors.
 
 ## 18: Belabor
 - **Dissection:** [be-labor]
@@ -228,7 +228,7 @@
 - **Hindi:** वसीयत
 - **Examples:**
   1. Joan Sheldon had earned the larger bequest.
-  2. It is beneficial to understand the meaning and context of 'bequest' in daily conversations.
+  2. The elderly woman left a generous bequest of fifty thousand dollars to her favorite animal shelter.
 
 ## 30: Berate
 - **Dissection:** [be-rate]
@@ -452,7 +452,7 @@
 - **Hindi:** साँड़ का
 - **Examples:**
   1. Showed a bovine apathy.
-  2. It is beneficial to understand the meaning and context of 'bovine' in daily conversations.
+  2. The farmer raised several bovine animals, including cows and oxen, on his large pasture.
 
 ## 58: Bowdlerize
 - **Dissection:** [bowd-ler-ize]

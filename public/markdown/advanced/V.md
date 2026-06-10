@@ -228,7 +228,7 @@
 - **Hindi:** ज़हर
 - **Examples:**
   1. By the Gods, You shall digest the Venom of your Spleene Though it do Split you.
-  2. It is beneficial to understand the meaning and context of 'venom' in daily conversations.
+  2. He delivered his speech with barely concealed venom, each word carefully chosen to wound rather than to persuade.
 
 ## 30: Vent
 - **Dissection:** [vent]
@@ -300,7 +300,7 @@
 - **Hindi:** सब्ज़
 - **Examples:**
   1. A verdant youth from the interior of Connecticut.
-  2. It is beneficial to understand the meaning and context of 'verdant' in daily conversations.
+  2. After the spring rains, the hills were lush and verdant, a brilliant green that stretched to the horizon.
 
 ## 39: Verge
 - **Dissection:** [verge]
@@ -364,7 +364,7 @@
 - **Hindi:** चुस्ती
 - **Examples:**
   1. What remained lacked the original verve but it was at least dignified, as befitting the tragic circumstances.
-  2. It is beneficial to understand the meaning and context of 'verve' in daily conversations.
+  2. The young dancer performed with extraordinary verve, her energy and passion captivating everyone who watched.
 
 ## 47: Vestige
 - **Dissection:** [vestige]
@@ -404,7 +404,7 @@
 - **Hindi:** अन्याय
 - **Examples:**
   1. The project was subject to the usual vicissitudes of exploratory research.
-  2. It is beneficial to understand the meaning and context of 'vicissitude' in daily conversations.
+  2. He had weathered every vicissitude of fortune with patience, never allowing setbacks to shake his fundamental optimism.
 
 ## 52: Victuals
 - **Dissection:** [victu-als]
@@ -420,7 +420,7 @@
 - **Hindi:** वि
 - **Examples:**
   1. Her suitors were all vying for her attention.
-  2. It is beneficial to understand the meaning and context of 'vie' in daily conversations.
+  2. Three candidates continued to vie for the last remaining seat, each campaigning aggressively in the final days.
 
 ## 54: Vigilance
 - **Dissection:** [vi-gil-ance]
@@ -444,7 +444,7 @@
 - **Hindi:** गाली देना
 - **Examples:**
   1. The Nazi propaganda vilified the Jews.
-  2. It is beneficial to understand the meaning and context of 'vilify' in daily conversations.
+  2. It is easy to vilify those we disagree with, but genuine progress requires understanding rather than contempt.
 
 ## 57: Vindicate
 - **Dissection:** [vin-dic-ate]
@@ -468,7 +468,7 @@
 - **Hindi:** नाग
 - **Examples:**
   1. 20: 16 He shall suck the poison of asps: the viper' s tongue shall slay him.
-  2. It is beneficial to understand the meaning and context of 'viper' in daily conversations.
+  2. In the political drama, the character was portrayed as a viper in the nest, sabotaging his colleagues while pretending to help.
 
 ## 60: Virago
 - **Dissection:** [virago]
@@ -620,7 +620,7 @@
 - **Hindi:** बातूनी
 - **Examples:**
   1. She is an extremely voluble young woman who engages in soliloquies not conversations.
-  2. It is beneficial to understand the meaning and context of 'voluble' in daily conversations.
+  2. The voluble tour guide kept the group entertained throughout the journey with a constant stream of stories and facts.
 
 ## 79: Voluminous
 - **Dissection:** [vo-lu-min-ous]
@@ -652,7 +652,7 @@
 - **Hindi:** भंवर
 - **Examples:**
   1. 2004: the consumer vortex that is East Hampton — The New Yorker, 30 August 2004, p.38.
-  2. It is beneficial to understand the meaning and context of 'vortex' in daily conversations.
+  2. The small business was caught in a vortex of debt, each loan taken out to cover the last pulling it deeper into financial trouble.
 
 ## 83: Vouchsafe
 - **Dissection:** [vouch-safe]

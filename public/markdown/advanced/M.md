@@ -196,7 +196,7 @@
 - **Hindi:** बदबूदार
 - **Examples:**
   1. There were tons of malodorous garbage bags outside her house.
-  2. It is beneficial to understand the meaning and context of 'malodorous' in daily conversations.
+  2. The drains had not been cleaned in weeks, and the corridor outside the kitchen had become unpleasantly malodorous.
 
 ## 26: Mammoth
 - **Dissection:** [mam-moth]
@@ -236,7 +236,7 @@
 - **Hindi:** Maniacal का हिंदी अर्थ
 - **Examples:**
   1. A maniacal frenzy.
-  2. It is beneficial to understand the meaning and context of 'maniacal' in daily conversations.
+  2. The inventor's maniacal dedication to his project alarmed his family, as he rarely slept or ate during the final weeks.
 
 ## 31: Manifesto
 - **Dissection:** [mani-festo]
@@ -244,7 +244,7 @@
 - **Hindi:** घोषणापत्र
 - **Examples:**
   1. A creed is a manifesto of religious or spiritual beliefs.
-  2. It is beneficial to understand the meaning and context of 'manifesto' in daily conversations.
+  2. The young party leader launched an ambitious manifesto promising sweeping reforms to healthcare and education.
 
 ## 32: Manifold
 - **Dissection:** [man-i-fold]
@@ -460,7 +460,7 @@
 - **Hindi:** शहद उत्पन्न करनेवाला
 - **Examples:**
   1. The dulcet tones of the cello.
-  2. It is beneficial to understand the meaning and context of 'mellifluous' in daily conversations.
+  2. The presenter's mellifluous voice made even the dullest content sound engaging and effortlessly easy to listen to.
 
 ## 59: Membrane
 - **Dissection:** [mem-brane]
@@ -476,7 +476,7 @@
 - **Hindi:** स्मृति चिन्ह
 - **Examples:**
   1. I kept the shell as a memento of my visit to the seashore.
-  2. It is beneficial to understand the meaning and context of 'memento' in daily conversations.
+  2. She kept the pressed flower as a memento of the afternoon she had spent with her grandmother in the garden.
 
 ## 61: Menagerie
 - **Dissection:** [me-na-ger-ie]
@@ -484,7 +484,7 @@
 - **Hindi:** जंगली पशुओं का पिंजड़ों में संग्रह
 - **Examples:**
   1. He let his keepers lead him away to the royal menagerie without hurting them.
-  2. It is beneficial to understand the meaning and context of 'menagerie' in daily conversations.
+  2. The eccentric billionaire kept a private menagerie on his estate, home to exotic birds, big cats, and primates.
 
 ## 62: Mendacious
 - **Dissection:** [men-dacious]
@@ -500,7 +500,7 @@
 - **Hindi:** भिक्षुक
 - **Examples:**
   1. Mendicant friars.
-  2. It is beneficial to understand the meaning and context of 'mendicant' in daily conversations.
+  2. The mendicant friar had taken a vow of poverty and relied entirely on the generosity of those he served.
 
 ## 64: Menial
 - **Dissection:** [meni-al]
@@ -972,7 +972,7 @@
 - **Hindi:** मठवासी
 - **Examples:**
   1. The Dartmouth student does not live in monastic seclusion, as he once did.
-  2. It is beneficial to understand the meaning and context of 'monastic' in daily conversations.
+  2. He adopted a monastic lifestyle in his retirement, rising at dawn, eating simply, and spending his days in quiet study.
 
 ## 123: Monetary
 - **Dissection:** [mon-et-ary]

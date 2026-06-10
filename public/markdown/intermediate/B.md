@@ -748,7 +748,7 @@
 - **Hindi:** आंतें
 - **Examples:**
   1. The treasures were stored in the bowels of the ship.
-  2. It is beneficial to understand the meaning and context of 'bowel' in daily conversations.
+  2. Eating a fiber-rich diet helps keep your bowels functioning regularly and prevents constipation.
 
 ## 95: Boycott
 - **Dissection:** [boy-cott]

@@ -156,7 +156,7 @@
 - **Hindi:** अभिमान
 - **Examples:**
   1. " Oh, you can see my certificate if you like," she replied with some hauteur.
-  2. It is beneficial to understand the meaning and context of 'hauteur' in daily conversations.
+  2. She carried herself with an air of hauteur that made newcomers hesitant to approach her at social events.
 
 ## 21: Haven
 - **Dissection:** [haven]
@@ -212,7 +212,7 @@
 - **Hindi:** हेकलर
 - **Examples:**
   1. The juggler always seemed to have a heckler or two in the crowd on Saturdays.
-  2. It is beneficial to understand the meaning and context of 'heckler' in daily conversations.
+  2. The politician remained composed even as a heckler at the back of the hall repeatedly interrupted his speech.
 
 ## 28: Hedonism
 - **Dissection:** [he-don-ism]
@@ -284,7 +284,7 @@
 - **Hindi:** विधर्मिक
 - **Examples:**
   1. The Church of Alexandria in Egypt is considered heterodox, not heretical.
-  2. It is beneficial to understand the meaning and context of 'heterodox' in daily conversations.
+  2. His heterodox views on economics set him apart from mainstream academics, though his predictions often proved correct.
 
 ## 37: Heterogeneous
 - **Dissection:** [het-ero-gen-eous]
@@ -300,7 +300,7 @@
 - **Hindi:** उमंग का समय
 - **Examples:**
   1. The early twentieth century was the heyday of the steam locomotive.
-  2. It is beneficial to understand the meaning and context of 'heyday' in daily conversations.
+  2. In its heyday, the theatre could seat over a thousand people and attracted performers from across the country.
 
 ## 39: Hiatus
 - **Dissection:** [hi-atus]
@@ -316,7 +316,7 @@
 - **Hindi:** जाड़ों का
 - **Examples:**
   1. Bears in brumal sleep.
-  2. It is beneficial to understand the meaning and context of 'hibernal' in daily conversations.
+  2. The bear's hibernal instincts kicked in as the temperatures dropped, and it retreated to its den for the winter.
 
 ## 41: Hibernate
 - **Dissection:** [hi-bern-ate]
@@ -332,7 +332,7 @@
 - **Hindi:** पदानुक्रम
 - **Examples:**
   1. Put honesty first in her hierarchy of values.
-  2. It is beneficial to understand the meaning and context of 'hierarchy' in daily conversations.
+  2. The hierarchy within the organisation was strictly observed, with decisions flowing from the top down to front-line staff.
 
 ## 43: Hilarity
 - **Dissection:** [hil-ar-ity]

@@ -452,7 +452,7 @@
 - **Hindi:** चाक
 - **Examples:**
   1. Draw each outline in a different-color chalk, one on top of the other.
-  2. It is beneficial to understand the meaning and context of 'chalk' in daily conversations.
+  2. The teacher picked up a piece of white chalk and began writing the equations on the blackboard.
 
 ## 58: Chamber
 - **Dissection:** [cham-ber]
@@ -612,7 +612,7 @@
 - **Hindi:** रसायनज्ञ
 - **Examples:**
   1. The bid is Woolworth' s second attempt in recent months to acquire a retail chemist chain.
-  2. It is beneficial to understand the meaning and context of 'chemist' in daily conversations.
+  2. The chemist spent years in the laboratory developing a new compound that could fight antibiotic-resistant bacteria.
 
 ## 78: Chemistry
 - **Dissection:** [chem-istry]
@@ -996,7 +996,7 @@
 - **Hindi:** क्लिनिक
 - **Examples:**
   1. Hospital outpatient clinic diagnostic service for all costs in excess of $20 a patient.
-  2. It is beneficial to understand the meaning and context of 'clinic' in daily conversations.
+  2. She visited the free clinic in her neighborhood to get a routine checkup and flu shot.
 
 ## 126: Clip
 - **Dissection:** [clip]
@@ -2468,7 +2468,7 @@
 - **Hindi:** संकेत
 - **Examples:**
   1. What would he doe, Had he the Motiue and the Cue for passion That I haue?
-  2. It is beneficial to understand the meaning and context of 'cue' in daily conversations.
+  2. The actor missed his cue to enter the stage, causing an awkward silence during the play.
 
 ## 310: Cultivate
 - **Dissection:** [cul-tiv-ate]

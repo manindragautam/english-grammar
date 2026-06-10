@@ -180,7 +180,7 @@
 - **Hindi:** फटना
 - **Examples:**
   1. -- but checking her desire, confined herself to this silent ejaculation.
-  2. It is beneficial to understand the meaning and context of 'ejaculation' in daily conversations.
+  2. With a sudden ejaculation of surprise, she dropped her phone when she saw the unexpected news notification.
 
 ## 24: Elation
 - **Dissection:** [ela-tion]
@@ -220,7 +220,7 @@
 - **Hindi:** अंडाकार
 - **Examples:**
   1. For some reason, this ellipsis in the conversation spread until it swallowed up every other topic.
-  2. It is beneficial to understand the meaning and context of 'ellipsis' in daily conversations.
+  2. The writer used an ellipsis at the end of the sentence to suggest that there was more left unsaid...
 
 ## 29: Elliptical
 - **Dissection:** [el-lipt-ic-al]
@@ -268,7 +268,7 @@
 - **Hindi:** स्वतंत्र करना
 - **Examples:**
   1. Emancipate someone from prejudices or error.
-  2. It is beneficial to understand the meaning and context of 'emancipate' in daily conversations.
+  2. The new legislation sought to emancipate workers from exploitative contracts by guaranteeing fair wages and safe conditions.
 
 ## 35: Embargo
 - **Dissection:** [em-bargo]
@@ -316,7 +316,7 @@
 - **Hindi:** ठीक करना
 - **Examples:**
   1. The text was emended in the second edition.
-  2. It is beneficial to understand the meaning and context of 'emend' in daily conversations.
+  2. The editor asked the author to emend the manuscript by correcting several factual inaccuracies in the historical chapters.
 
 ## 41: Emetic
 - **Dissection:** [emet-ic]
@@ -412,7 +412,7 @@
 - **Hindi:** कमज़ोर
 - **Examples:**
   1. After being laid off three times in a row, she felt too enervated to look for another job.
-  2. It is beneficial to understand the meaning and context of 'enervate' in daily conversations.
+  2. The oppressive summer heat began to enervate the hikers, draining their energy and slowing their pace considerably.
 
 ## 53: Enfranchise
 - **Dissection:** [en-fran-chise]
@@ -420,7 +420,7 @@
 - **Hindi:** मताधिकार देना
 - **Examples:**
   1. Slaves were enfranchised in the mid-19th century.
-  2. It is beneficial to understand the meaning and context of 'enfranchise' in daily conversations.
+  2. The movement fought to enfranchise all eligible citizens, ensuring no one was denied the right to vote.
 
 ## 54: Engender
 - **Dissection:** [en-gender]
@@ -476,7 +476,7 @@
 - **Hindi:** प्रफुल्ल करना
 - **Examples:**
   1. Her song enraptured the audience with vivid images of the Scandinavian landscapes.
-  2. It is beneficial to understand the meaning and context of 'enrapture' in daily conversations.
+  2. The violinist's performance seemed to enrapture the entire audience, leaving them breathless and completely spellbound.
 
 ## 61: Ensconce
 - **Dissection:** [en-sconce]
@@ -484,7 +484,7 @@
 - **Hindi:** आश्वस्त
 - **Examples:**
   1. He ensconced himself in the chair.
-  2. It is beneficial to understand the meaning and context of 'ensconce' in daily conversations.
+  2. After a long day at work, she liked to ensconce herself in her favourite armchair with a good book.
 
 ## 62: Ensue
 - **Dissection:** [en-sue]
@@ -508,7 +508,7 @@
 - **Hindi:** कीटविज्ञान
 - **Examples:**
   1. Entomology is an important field of study within biology.
-  2. It is beneficial to understand the meaning and context of 'entomology' in daily conversations.
+  2. Her passion for entomology began as a child when she started collecting beetles and pinning them to boards.
 
 ## 65: Entourage
 - **Dissection:** [en-tour-age]
@@ -548,7 +548,7 @@
 - **Hindi:** घेरना
 - **Examples:**
   1. The forest surrounds my property.
-  2. It is beneficial to understand the meaning and context of 'environ' in daily conversations.
+  2. The factory was built to environ the town on three sides, blocking access to the river and open fields.
 
 ## 70: Ephemeral
 - **Dissection:** [eph-em-er-al]
@@ -780,7 +780,7 @@
 - **Hindi:** प्रकृति
 - **Examples:**
   1. The Greek ethos.
-  2. It is beneficial to understand the meaning and context of 'ethos' in daily conversations.
+  2. The company's ethos of transparency and accountability was reflected in its open-door policy and honest communication.
 
 ## 99: Eulogy
 - **Dissection:** [eu-logy]
@@ -788,7 +788,7 @@
 - **Hindi:** स्तवन
 - **Examples:**
   1. And who pronounced our glowing eulogy in Parliament?
-  2. It is beneficial to understand the meaning and context of 'eulogy' in daily conversations.
+  2. He delivered a moving eulogy at his grandmother's funeral, celebrating her life, her laughter, and her love for family.
 
 ## 100: Euphemism
 - **Dissection:** [eu-phem-ism]
@@ -812,7 +812,7 @@
 - **Hindi:** उत्साह
 - **Examples:**
   1. The runner was in absolute euphoria after winning his first marathon.
-  2. It is beneficial to understand the meaning and context of 'euphoria' in daily conversations.
+  2. Winning the championship filled the team with a sense of euphoria that lasted for days after the final whistle.
 
 ## 103: Euthanasia
 - **Dissection:** [eu-thanas-ia]
@@ -820,7 +820,7 @@
 - **Hindi:** इच्छामृत्यु
 - **Examples:**
   1. Euthanasia is the most difficult part of a veterinarian's job.
-  2. It is beneficial to understand the meaning and context of 'euthanasia' in daily conversations.
+  2. The debate around euthanasia raises difficult ethical questions about individual autonomy, compassion, and the role of medicine.
 
 ## 104: Evanescent
 - **Dissection:** [evan-es-cent]
@@ -900,7 +900,7 @@
 - **Hindi:** सफ़ाई देना
 - **Examples:**
   1. The suspect was cleared of the murder charges.
-  2. It is beneficial to understand the meaning and context of 'exculpate' in daily conversations.
+  2. New DNA evidence was presented to exculpate the wrongly convicted man after he had spent a decade in prison.
 
 ## 114: Execrable
 - **Dissection:** [ex-ec-rable]
@@ -964,7 +964,7 @@
 - **Hindi:** पृथ्वी खोद कर निकालना
 - **Examples:**
   1. The archeologist exhumed artifacts from the ground with a shovel.
-  2. It is beneficial to understand the meaning and context of 'exhume' in daily conversations.
+  2. Investigators sought permission to exhume the body in order to carry out a second post-mortem examination.
 
 ## 122: Exigency
 - **Dissection:** [ex-i-gency]
@@ -980,7 +980,7 @@
 - **Hindi:** अल्प
 - **Examples:**
   1. An exiguous budget.
-  2. It is beneficial to understand the meaning and context of 'exiguous' in daily conversations.
+  2. The refugees survived on exiguous rations for weeks before international aid finally reached their camp.
 
 ## 124: Existential
 - **Dissection:** [ex-ist-en-tial]
@@ -1004,7 +1004,7 @@
 - **Hindi:** हक़ बहाल करना
 - **Examples:**
   1. The suspect was cleared of the murder charges.
-  2. It is beneficial to understand the meaning and context of 'exonerate' in daily conversations.
+  2. The court's decision to exonerate him was a relief after years of fighting to clear his name.
 
 ## 127: Exorbitant
 - **Dissection:** [ex-or-bit-ant]
@@ -1068,7 +1068,7 @@
 - **Hindi:** निवृत्त करना
 - **Examples:**
   1. Expiate one's sins.
-  2. It is beneficial to understand the meaning and context of 'expiate' in daily conversations.
+  2. He volunteered at the community centre for years in an effort to expiate his past mistakes and give back.
 
 ## 135: Expletive
 - **Dissection:** [ex-plet-ive]
@@ -1148,7 +1148,7 @@
 - **Hindi:** धीमा करना
 - **Examples:**
   1. The circumstances extenuate the crime.
-  2. It is beneficial to understand the meaning and context of 'extenuate' in daily conversations.
+  2. While his apology did not extenuate the damage caused, it showed that he acknowledged his wrongdoing.
 
 ## 145: Extirpate
 - **Dissection:** [ex-tirp-ate]
@@ -1180,7 +1180,7 @@
 - **Hindi:** अपराधी देना
 - **Examples:**
   1. They extradited the fugitive to his native country so he could be tried there.
-  2. It is beneficial to understand the meaning and context of 'extradite' in daily conversations.
+  2. The government agreed to extradite the suspected fraud to stand trial in the country where the crime took place.
 
 ## 149: Extraneous
 - **Dissection:** [ex-traneous]
@@ -1196,7 +1196,7 @@
 - **Hindi:** एक्सट्रपलेशन करना
 - **Examples:**
   1. " But it' s jumping to conclusions to extrapolate this report into the future.".
-  2. It is beneficial to understand the meaning and context of 'extrapolate' in daily conversations.
+  2. From the limited data available, scientists were able to extrapolate broader trends about climate change over the next century.
 
 ## 151: Extricate
 - **Dissection:** [ex-tric-ate]
@@ -1228,7 +1228,7 @@
 - **Hindi:** बाहर निकालना
 - **Examples:**
   1. Extrude steel.
-  2. It is beneficial to understand the meaning and context of 'extrude' in daily conversations.
+  2. The machine was used to extrude metal rods of uniform thickness, which were then cut to the required lengths.
 
 ## 155: Exuberance
 - **Dissection:** [ex-uber-ance]
@@ -1236,7 +1236,7 @@
 - **Hindi:** अधिकता
 - **Examples:**
   1. The exuberance on this occasion set a standard for subsequent Dartmouth gatherings.
-  2. It is beneficial to understand the meaning and context of 'exuberance' in daily conversations.
+  2. The children's exuberance at the party was infectious, with their laughter filling every corner of the room.
 
 ## 156: Exude
 - **Dissection:** [ex-ude]

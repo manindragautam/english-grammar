@@ -36,7 +36,7 @@
 - **Hindi:** अस्वीकार
 - **Examples:**
   1. Abnegation of the Holy Trinity.
-  2. It is beneficial to understand the meaning and context of 'abnegation' in daily conversations.
+  2. His abnegation of all material comforts surprised everyone who knew his wealthy background.
 
 ## 6: Abortive
 - **Dissection:** [abort-ive]
@@ -172,7 +172,7 @@
 - **Hindi:** मनुहार
 - **Examples:**
   1. He was uncomfortable with the adulation from his fans.
-  2. It is beneficial to understand the meaning and context of 'adulation' in daily conversations.
+  2. The celebrity grew tired of the constant adulation and longed for a normal life away from the spotlight.
 
 ## 23: Adulterate
 - **Dissection:** [adul-ter-ate]
@@ -220,7 +220,7 @@
 - **Hindi:** शक्ति अथवा प्रतिक्षा में बढ़ाना
 - **Examples:**
   1. To aggrandize one's authority, distress.
-  2. It is beneficial to understand the meaning and context of 'aggrandize' in daily conversations.
+  2. The dictator used propaganda to aggrandize his image and portray himself as a heroic leader.
 
 ## 29: Alacrity
 - **Dissection:** [alac-rity]
@@ -300,7 +300,7 @@
 - **Hindi:** माहौल
 - **Examples:**
   1. There was an atmosphere of excitement.
-  2. It is beneficial to understand the meaning and context of 'ambience' in daily conversations.
+  2. The soft lighting and quiet jazz music gave the restaurant a cozy and romantic ambience.
 
 ## 39: Ameliorate
 - **Dissection:** [ameli-or-ate]
@@ -348,7 +348,7 @@
 - **Hindi:** कालभ्रम
 - **Examples:**
   1. It becomes a perilous anachronism when adopted on a world-wide basis.
-  2. It is beneficial to understand the meaning and context of 'anachronism' in daily conversations.
+  2. The knight in shining armor riding a bicycle through the modern city was a ridiculous anachronism in the film.
 
 ## 45: Analgesic
 - **Dissection:** [an-al-ges-ic]
@@ -628,7 +628,7 @@
 - **Hindi:** मूलरूप आदर्श
 - **Examples:**
   1. This painting is a copy of the original.
-  2. It is beneficial to understand the meaning and context of 'archetype' in daily conversations.
+  2. The hero who embarks on a life-changing journey is an archetype found in stories from nearly every culture around the world.
 
 ## 80: Ardent
 - **Dissection:** [ar-dent]
@@ -676,7 +676,7 @@
 - **Hindi:** बेड़े
 - **Examples:**
   1. An armada of insects attacked us every day at sunset.
-  2. It is beneficial to understand the meaning and context of 'armada' in daily conversations.
+  2. The naval armada consisted of over one hundred ships prepared for the invasion.
 
 ## 86: Aromatic
 - **Dissection:** [aro-mat-ic]
@@ -700,7 +700,7 @@
 - **Hindi:** युक्ति
 - **Examples:**
   1. Emma saw its artifice, and returned to her first surmises.
-  2. It is beneficial to understand the meaning and context of 'artifice' in daily conversations.
+  2. The magician's tricks relied on clever artifice rather than any real supernatural power.
 
 ## 89: Ascendant
 - **Dissection:** [as-cend-ant]
@@ -868,7 +868,7 @@
 - **Hindi:** मेल करना
 - **Examples:**
   1. Expiate one's sins.
-  2. It is beneficial to understand the meaning and context of 'atone' in daily conversations.
+  2. He tried to atone for his past mistakes by dedicating his life to helping others.
 
 ## 110: Atrophy
 - **Dissection:** [at-rophy]
@@ -884,7 +884,7 @@
 - **Hindi:** दुर्बल होना
 - **Examples:**
   1. The faded tones of an old recording.
-  2. It is beneficial to understand the meaning and context of 'attenuate' in daily conversations.
+  2. The medicine helped attenuate the symptoms of the disease, though it did not cure it completely.
 
 ## 112: Attest
 - **Dissection:** [at-test]
@@ -964,7 +964,7 @@
 - **Hindi:** लोभ
 - **Examples:**
   1. Barbara' s avarice was moved, she consented for this ransom to liberate her prisoner.
-  2. It is beneficial to understand the meaning and context of 'avarice' in daily conversations.
+  2. The billionaire's avarice led him to exploit workers and avoid paying taxes, accumulating far more money than he could ever spend.
 
 ## 122: Aver
 - **Dissection:** [aver]
@@ -996,7 +996,7 @@
 - **Hindi:** खुलकर कहना
 - **Examples:**
   1. Before God I swear I am innocent.
-  2. It is beneficial to understand the meaning and context of 'avow' in daily conversations.
+  2. The politician avowed his commitment to improving education, though his actions later suggested otherwise.
 
 ## 126: Avuncular
 - **Dissection:** [avun-cu-lar]
@@ -1012,7 +1012,7 @@
 - **Hindi:** स्वयंसिद्ध
 - **Examples:**
   1. The axioms of political economy cannot be considered absolute truths.
-  2. It is beneficial to understand the meaning and context of 'axiom' in daily conversations.
+  2. In geometry, the axiom that a straight line is the shortest distance between two points is fundamental to many proofs.
 
 ## 128: Azure
 - **Dissection:** [azure]
@@ -1021,4 +1021,3 @@
 - **Examples:**
   1. Morning azured the village.
   2. October's bright blue weather.
-
