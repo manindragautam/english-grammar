@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/english-grammar/static/css/main.b623e76c.css",
-    "main.js": "/english-grammar/static/js/main.dcb2cb6d.js",
+    "main.css": "/english-grammar/static/css/main.24a1dd2f.css",
+    "main.js": "/english-grammar/static/js/main.837a7065.js",
     "index.html": "/english-grammar/index.html",
-    "main.b623e76c.css.map": "/english-grammar/static/css/main.b623e76c.css.map",
-    "main.dcb2cb6d.js.map": "/english-grammar/static/js/main.dcb2cb6d.js.map"
+    "main.24a1dd2f.css.map": "/english-grammar/static/css/main.24a1dd2f.css.map",
+    "main.837a7065.js.map": "/english-grammar/static/js/main.837a7065.js.map"
   },
   "entrypoints": [
-    "static/css/main.b623e76c.css",
-    "static/js/main.dcb2cb6d.js"
+    "static/css/main.24a1dd2f.css",
+    "static/js/main.837a7065.js"
   ]
 }
