@@ -7,7 +7,6 @@
   # https://devenv.sh/packages/
   packages = [
     pkgs.git
-    (pkgs.python3.withPackages (ps: with ps; [ requests pyphen ]))
   ];
 
   # https://devenv.sh/languages/
@@ -16,6 +15,18 @@
     bun = {
       enable = true;
       install.enable = true;
+    };
+  };
+
+  languages.python = {
+    enable = true;
+    venv = {
+      enable = true;
+      requirements = ''
+        requests
+        pyphen
+        deep-translator
+      '';
     };
   };
 

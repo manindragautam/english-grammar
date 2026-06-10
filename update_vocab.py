@@ -4,6 +4,7 @@ import requests
 import pyphen
 import time
 from collections import defaultdict
+from deep_translator import GoogleTranslator
 
 def get_next_index(filename):
     """Reads the existing markdown file to find the last used number."""
@@ -93,11 +94,9 @@ def update_markdown_files():
                     pass
                     
                 try:
-                    trans_res = requests.get(f"https://api.mymemory.translated.net/get?q={word}&langpair=en|hi").json()
-                    if trans_res and 'responseData' in trans_res:
-                        translated_text = trans_res['responseData'].get('translatedText', '')
-                        if translated_text and not translated_text.isascii():
-                            hindi = translated_text
+                    translated_text = GoogleTranslator(source='en', target='hi').translate(word)
+                    if translated_text and not translated_text.isascii():
+                        hindi = translated_text
                 except:
                     pass
                 

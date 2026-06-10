@@ -1,10 +1,10 @@
 ## 1: Resilient
 - **Dissection:** [re-si-li-ent]
 - **Meaning:** (of objects or substances) Returning quickly to original shape after force is applied; elastic.
-- **Hindi:** दृढ़
+- **Hindi:** लचीला
 - **Examples:**
-  1. One example sentence with resilient shows how it works.
-  2. The use of resilient made the meaning very clear.
+  1. The resilient economy quickly bounced back after the severe winter storm.
+  2. He is a resilient individual who overcame many hardships early in life.
 
 ## 2: Radiant
 - **Dissection:** [ra-di-ant]
@@ -19,8 +19,8 @@
 - **Meaning:** Unrelenting or unyielding in severity.
 - **Hindi:** दयाहीन
 - **Examples:**
-  1. One example sentence with relentless shows how it works.
-  2. The use of relentless made the meaning very clear.
+  1. The relentless rain caused minor flooding in the lower parts of the town.
+  2. The detective's relentless pursuit of the truth finally solved the cold case.
 
 ## 4: Rational
 - **Dissection:** [ra-tion-al]
