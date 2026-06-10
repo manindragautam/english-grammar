@@ -35,8 +35,8 @@
 - **Meaning:** A collection of facts from which conclusions may be drawn
 - **Hindi:** डेटा
 - **Examples:**
-  1. Statistical data.
-  2. It is beneficial to understand the meaning and context of 'data' in daily conversations.
+  1. The bank installed a magnetic tape electronic data processing system to handle things.
+  2. So you yourself must seek these objective data, and come to your own conclusions.
 
 ## 6: Daughter
 - **Dissection:** [daugh-ter]
@@ -171,8 +171,8 @@
 - **Meaning:** A member of the Democratic Party
 - **Hindi:** प्रजातंत्रवादी
 - **Examples:**
-  1. Learning the word 'democrat' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'democrat' in daily conversations.
+  1. The principal speaker will be Senator Stuart Symington, Democrat of Missouri.
+  2. Sam Rayburn was a good man, a good American, and, third, a good Democrat.
 
 ## 23: Democratic
 - **Dissection:** [demo-crat-ic]
@@ -187,8 +187,8 @@
 - **Meaning:** A person qualified to practice dentistry
 - **Hindi:** दाँतों का डॉक्टर
 - **Examples:**
-  1. Learning the word 'dentist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'dentist' in daily conversations.
+  1. During these visits the dentist will adjust the braces to increase the pressure on her teeth.
+  2. Now a dentist can recommend extraction immediately.
 
 ## 25: Depend
 - **Dissection:** [de-pend]
@@ -235,8 +235,8 @@
 - **Meaning:** A piece of furniture with a writing surface and usually drawers or other compartments
 - **Hindi:** मेज़
 - **Examples:**
-  1. City desk.
-  2. It is beneficial to understand the meaning and context of 'desk' in daily conversations.
+  1. A fascinating letter has just reached this desk from a correspondent who likes to receive so-called junk mail.
+  2. In addition Rep. Frelinghuysen's brother Harry was on the Korean desk of the State Department in World War 2.
 
 ## 31: Despite
 - **Dissection:** [des-pite]
@@ -283,8 +283,8 @@
 - **Meaning:** A reference book containing an alphabetical list of words with information about them
 - **Hindi:** शब्दकोष
 - **Examples:**
-  1. Learning the word 'dictionary' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'dictionary' in daily conversations.
+  1. Also you can spell, without consulting a dictionary for every other word.
+  2. The logical scheme used to accomplish the former influences the placement of information in the dictionary file.
 
 ## 37: Die
 - **Dissection:** [die]
@@ -355,16 +355,16 @@
 - **Meaning:** Someone who controls resources and expenditures
 - **Hindi:** निदेशक
 - **Examples:**
-  1. Learning the word 'director' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'director' in daily conversations.
+  1. He is not interested in being named a full-time director.
+  2. R. Sargent Shriver Jr., director of the corps, is certain that they can.
 
 ## 46: Dirt
 - **Dissection:** [dirt]
 - **Meaning:** The part of the earth's surface consisting of humus and disintegrated rock
 - **Hindi:** गंध
 - **Examples:**
-  1. The reporter uncovered the dirt on the businessman by going undercover.
-  2. It is beneficial to understand the meaning and context of 'dirt' in daily conversations.
+  1. Catcher Frank House's throw in an effort to nab Throneberry was wide and in the dirt.
+  2. Be sure the bugs and dirt are blown out of the radiator fins.
 
 ## 47: Dirty
 - **Dissection:** [dirty]
@@ -403,8 +403,8 @@
 - **Meaning:** An impairment of health or a condition of abnormal functioning
 - **Hindi:** बीमारी
 - **Examples:**
-  1. The tomato plants had some kind of disease that left their leaves splotchy and fruit withered.
-  2. It is beneficial to understand the meaning and context of 'disease' in daily conversations.
+  1. He was obsessed by disease and poverty, by the melancholy of old age and the tyranny of lust.
+  2. And extra weight increases the risk of cancer, diabetes, artery disease and heart attack.
 
 ## 52: Dish
 - **Dissection:** [dish]

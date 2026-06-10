@@ -27,8 +27,8 @@
 - **Meaning:** An orientation that characterizes the thinking of a group or nation
 - **Hindi:** विचारधारा
 - **Examples:**
-  1. Learning the word 'ideology' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ideology' in daily conversations.
+  1. The pervasive influence of ideology on our political judgments needs to be recognized and taken into due account;;.
+  2. The human is deeper than a mass ideology, certainly deeper than the isolated individual;;.
 
 ## 5: Idiom
 - **Dissection:** [idiom]
@@ -43,8 +43,8 @@
 - **Meaning:** A person of subnormal intelligence
 - **Hindi:** बेवकूफ़
 - **Examples:**
-  1. Learning the word 'idiot' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'idiot' in daily conversations.
+  1. He'd be an idiot to let them stay he thought, but he couldn't send them on, either.
+  2. " Why, you idiot," began Turnbull.
 
 ## 7: Idle
 - **Dissection:** [idle]
@@ -67,8 +67,8 @@
 - **Meaning:** The lack of knowledge or education
 - **Hindi:** अज्ञान
 - **Examples:**
-  1. Learning the word 'ignorance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ignorance' in daily conversations.
+  1. Ignorance of the law is no better excuse on the water than it is on land;;.
+  2. Ignorance on this point has caused a great deal of needless anxiety, misunderstanding and suspicion.
 
 ## 10: Ignore
 - **Dissection:** [ig-nore]
@@ -243,8 +243,8 @@
 - **Meaning:** The financial gain (earned or unearned) accruing over a given period of time
 - **Hindi:** आय
 - **Examples:**
-  1. Learning the word 'income' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'income' in daily conversations.
+  1. Farmers spend more of their income on tractors and implements than on any other group of products.
+  2. The Government also is aiding farmers' income prospects.
 
 ## 32: Incorporate
 - **Dissection:** [in-cor-por-ate]
@@ -363,8 +363,8 @@
 - **Meaning:** A person who inhabits a particular place
 - **Hindi:** निवासी
 - **Examples:**
-  1. Learning the word 'inhabitant' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'inhabitant' in daily conversations.
+  1. 10: 17 Gather up thy wares out of the land, O inhabitant of the fortress.
+  2. " Well, we' ve taken the only inhabitant into captivity.".
 
 ## 47: Inherit
 - **Dissection:** [in-her-it]
@@ -507,8 +507,8 @@
 - **Meaning:** Clear or deep perception of a situation
 - **Hindi:** अंतर्दृष्टि
 - **Examples:**
-  1. Learning the word 'insight' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'insight' in daily conversations.
+  1. ( Babin has acquired some of Schnabel's keyboard manner, but his playing is of limited insight.
+  2. I was grateful for their insight into my need for this experience.
 
 ## 65: Insist
 - **Dissection:** [in-sist]
@@ -724,7 +724,7 @@
 - **Hindi:** अंतराल
 - **Examples:**
   1. Fragile items require separation and cushioning.
-  2. It is beneficial to understand the meaning and context of 'interval' in daily conversations.
+  2. The interval between contractions during childbirth.
 
 ## 92: Intervene
 - **Dissection:** [in-ter-vene]
@@ -763,8 +763,8 @@
 - **Meaning:** A crafty and involved plot to achieve your (usually sinister) ends
 - **Hindi:** साज़िश
 - **Examples:**
-  1. Learning the word 'intrigue' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'intrigue' in daily conversations.
+  1. They attributed everything that went wrong in Russia to German influence and intrigue.
+  2. To the directors the problem appeared a matter of intrigue or diplomacy.
 
 ## 97: Intrinsic
 - **Dissection:** [in-trins-ic]
@@ -899,6 +899,6 @@
 - **Meaning:** A hard smooth ivory colored dentine that makes up most of the tusks of elephants and walruses
 - **Hindi:** हाथी दांत
 - **Examples:**
-  1. Learning the word 'ivory' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ivory' in daily conversations.
+  1. It was a simple ivory crucifix which my mother had given me.
+  2. A forest crop that has not been extensively cultivated is ivory nuts from the tagua palm.
 

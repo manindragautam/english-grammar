@@ -51,8 +51,8 @@
 - **Meaning:** A university student who has not yet received a first degree
 - **Hindi:** अवर
 - **Examples:**
-  1. After completing my undergraduate studies, I embarked on a career in publishing.
-  2. It is beneficial to understand the meaning and context of 'undergraduate' in daily conversations.
+  1. The Soccer Club was organized by undergraduate men interested in playing soccer and promoting the sport.
+  2. After completing my undergraduate studies, I embarked on a career in publishing.
 
 ## 8: Underlying
 - **Dissection:** [un-der-ly-ing]

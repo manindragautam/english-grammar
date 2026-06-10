@@ -11,8 +11,8 @@
 - **Meaning:** A state or condition markedly different from the norm
 - **Hindi:** विपथन
 - **Examples:**
-  1. Aberration of character.
-  2. It is beneficial to understand the meaning and context of 'aberration' in daily conversations.
+  1. Neither of these poems is an aberration;;.
+  2. But he added that would be a statistical aberration and not a significant shift in economic activity.
 
 ## 3: Abhor
 - **Dissection:** [ab-hor]
@@ -131,8 +131,8 @@
 - **Meaning:** To agree or express agreement
 - **Hindi:** संतुष्ट होना
 - **Examples:**
-  1. The Maestro assented to the request for an encore.
-  2. It is beneficial to understand the meaning and context of 'acquiesce' in daily conversations.
+  1. Not acquiesce to an international planning board.
+  2. The question is now do they acquiesce to GAF.
 
 ## 18: Acrimonious
 - **Dissection:** [ac-ri-mo-ni-ous]
@@ -267,8 +267,8 @@
 - **Meaning:** Passing reference or indirect mention
 - **Hindi:** संकेत
 - **Examples:**
-  1. Learning the word 'allusion' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'allusion' in daily conversations.
+  1. Indefinite reference also carries double-meaning where an allusion to one person or thing seems to refer to another.
+  2. " It was an allusion to my family," said Syme firmly.
 
 ## 35: Aloof
 - **Dissection:** [aloof]
@@ -331,8 +331,8 @@
 - **Meaning:** Characterized by friendship and good will
 - **Hindi:** मैत्रीपूर्ण
 - **Examples:**
-  1. He was an amicable fellow with an easy smile.
-  2. It is beneficial to understand the meaning and context of 'amicable' in daily conversations.
+  1. Attorneys for the mayor said that an amicable property settlement has been agreed upon.
+  2. GAF emphasized" the amicable nature of the proposed transaction," which it characterized as a partnership.
 
 ## 43: Amortize
 - **Dissection:** [amort-ize]
@@ -347,7 +347,7 @@
 - **Meaning:** Something located at a time when it could not have existed or occurred
 - **Hindi:** कालभ्रम
 - **Examples:**
-  1. Learning the word 'anachronism' can help improve your communication and writing skills.
+  1. It becomes a perilous anachronism when adopted on a world-wide basis.
   2. It is beneficial to understand the meaning and context of 'anachronism' in daily conversations.
 
 ## 45: Analgesic
@@ -371,16 +371,16 @@
 - **Meaning:** A state of lawlessness and disorder (usually resulting from a failure of government)
 - **Hindi:** अराजकता
 - **Examples:**
-  1. Learning the word 'anarchy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'anarchy' in daily conversations.
+  1. Yet this basic condition of outlawry and anarchy is not the work of Katanga.
+  2. Further, it has its work cut out stopping anarchy where it is now garrisoned.
 
 ## 48: Anathema
 - **Dissection:** [ana-thema]
 - **Meaning:** A detested person
 - **Hindi:** अभिशाप
 - **Examples:**
-  1. He is an anathema to me.
-  2. It is beneficial to understand the meaning and context of 'anathema' in daily conversations.
+  1. 16: 22 If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.
+  2. He is an anathema to me.
 
 ## 49: Ancillary
 - **Dissection:** [an-cil-lary]
@@ -395,8 +395,8 @@
 - **Meaning:** A feeling of ill will arousing active hostility
 - **Hindi:** बैर
 - **Examples:**
-  1. Learning the word 'animosity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'animosity' in daily conversations.
+  1. The animosity expressed by such a scene had the penetrating quality of a natural force;;.
+  2. From shock and incredulity, most of the listeners went on to open resistance and animosity.
 
 ## 51: Annex
 - **Dissection:** [an-nex]
@@ -475,8 +475,8 @@
 - **Meaning:** An absence of emotion or enthusiasm
 - **Hindi:** उदासीनता
 - **Examples:**
-  1. Learning the word 'apathy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'apathy' in daily conversations.
+  1. Thank you for the article by George Sokolsky on the public apathy to impudence.
+  2. Others displayed utter apathy and indifference to any decision about the past or the future.
 
 ## 61: Apex
 - **Dissection:** [apex]
@@ -515,24 +515,24 @@
 - **Meaning:** A final climactic stage
 - **Hindi:** पराकाष्ठा
 - **Examples:**
-  1. Their achievements stand as a culmination of centuries of development.
-  2. It is beneficial to understand the meaning and context of 'apogee' in daily conversations.
+  1. `` U.S. pressure on Britain to foster war hysteria over the status of West Berlin has reached its apogee.
+  2. Their achievements stand as a culmination of centuries of development.
 
 ## 66: Apologist
 - **Dissection:** [apo-lo-gist]
 - **Meaning:** A person who argues to defend or justify some policy or institution
 - **Hindi:** क्षमा की प्रार्थना करनेवाला
 - **Examples:**
-  1. An apologist for capital punishment.
-  2. It is beneficial to understand the meaning and context of 'apologist' in daily conversations.
+  1. Faulkner's is not the mind of the apologist which Mr. O'Donnell implies that it is.
+  2. An apologist for capital punishment.
 
 ## 67: Apostate
 - **Dissection:** [apostate]
 - **Meaning:** A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
 - **Hindi:** स्वधर्मत्यागी
 - **Examples:**
-  1. We must punish this apostate priest.
-  2. It is beneficial to understand the meaning and context of 'apostate' in daily conversations.
+  1. France, at whose first council table sits the sublime figure of Julian the Apostate.
+  2. We must punish this apostate priest.
 
 ## 68: Appall
 - **Dissection:** [ap-pall]
@@ -563,7 +563,7 @@
 - **Meaning:** Identifying word or words by which someone or something is called and classified or distinguished from others
 - **Hindi:** पदवी
 - **Examples:**
-  1. Learning the word 'appellation' can help improve your communication and writing skills.
+  1. How can she find any appellation for them, deep enough in familiar vulgarity?
   2. It is beneficial to understand the meaning and context of 'appellation' in daily conversations.
 
 ## 72: Apposite
@@ -587,16 +587,16 @@
 - **Meaning:** Official approval
 - **Hindi:** प्रशंसा
 - **Examples:**
-  1. Learning the word 'approbation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'approbation' in daily conversations.
+  1. He walked off in more complete self- approbation than he left for her.
+  2. He may be sure of every woman' s approbation while he writes with such gallantry.".
 
 ## 75: Aptitude
 - **Dissection:** [aptitude]
 - **Meaning:** Inherent ability
 - **Hindi:** कौशल
 - **Examples:**
-  1. Learning the word 'aptitude' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'aptitude' in daily conversations.
+  1. Young Mercer showed a remarkable lack of aptitude for both instruments.
+  2. They may be related to mental immaturity or lack of aptitude for certain types of school work.
 
 ## 76: Arbiter
 - **Dissection:** [ar-bit-er]
@@ -667,8 +667,8 @@
 - **Meaning:** A privileged class holding hereditary titles
 - **Hindi:** शिष्टजन
 - **Examples:**
-  1. Learning the word 'aristocracy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'aristocracy' in daily conversations.
+  1. President Emeritus Hopkins once proposed to corral an `` aristocracy of brains '' in Hanover.
+  2. Yards of barbarian etiquette, to throttle the freedom of aristocracy!
 
 ## 85: Armada
 - **Dissection:** [ar-mada]
@@ -699,7 +699,7 @@
 - **Meaning:** A deceptive maneuver (especially to avoid capture)
 - **Hindi:** युक्ति
 - **Examples:**
-  1. Learning the word 'artifice' can help improve your communication and writing skills.
+  1. Emma saw its artifice, and returned to her first surmises.
   2. It is beneficial to understand the meaning and context of 'artifice' in daily conversations.
 
 ## 89: Ascendant
@@ -739,8 +739,8 @@
 - **Meaning:** Devoid of intelligence
 - **Hindi:** गदहे का
 - **Examples:**
-  1. Learning the word 'asinine' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'asinine' in daily conversations.
+  1. He smiled also at a British bloke seated next to me, who asked the most asinine questions.
+  2. Better to give an asinine answer than none at all.
 
 ## 94: Askance
 - **Dissection:** [askance]
@@ -875,8 +875,8 @@
 - **Meaning:** A decrease in size of an organ caused by disease or disuse
 - **Hindi:** शोष
 - **Examples:**
-  1. Muscles that are not used will atrophy.
-  2. It is beneficial to understand the meaning and context of 'atrophy' in daily conversations.
+  1. Microscopically, there was hyperemia of the central veins, and there was some atrophy of adjacent parenchyma.
+  2. Muscles that are not used will atrophy.
 
 ## 111: Attenuate
 - **Dissection:** [at-ten-u-ate]
@@ -963,7 +963,7 @@
 - **Meaning:** Reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)
 - **Hindi:** लोभ
 - **Examples:**
-  1. Learning the word 'avarice' can help improve your communication and writing skills.
+  1. Barbara' s avarice was moved, she consented for this ransom to liberate her prisoner.
   2. It is beneficial to understand the meaning and context of 'avarice' in daily conversations.
 
 ## 122: Aver

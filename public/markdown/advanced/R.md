@@ -19,8 +19,8 @@
 - **Meaning:** Especially fine or decorative clothing
 - **Hindi:** पोशाक
 - **Examples:**
-  1. Parents must feed and dress their child.
-  2. It is beneficial to understand the meaning and context of 'raiment' in daily conversations.
+  1. Is not the life more than meat, and the body than raiment?
+  2. 6: 28 And why take ye thought for raiment?
 
 ## 4: Rakish
 - **Dissection:** [rak-ish]
@@ -83,7 +83,7 @@
 - **Meaning:** A loud bombastic declamation expressed with strong emotion
 - **Hindi:** शेख़ी
 - **Examples:**
-  1. Learning the word 'rant' can help improve your communication and writing skills.
+  1. Nay, and thou' lt mouth, Ile rant as well as thou.
   2. It is beneficial to understand the meaning and context of 'rant' in daily conversations.
 
 ## 12: Rapacious
@@ -99,8 +99,8 @@
 - **Meaning:** A relationship of mutual understanding or trust and agreement between people
 - **Hindi:** संबंध
 - **Examples:**
-  1. He always tried to maintain a rapport with his customers.
-  2. It is beneficial to understand the meaning and context of 'rapport' in daily conversations.
+  1. Maestro's biggest stock in trade is his personality, and ability to establish a warm rapport with his audience.
+  2. Its findings are reported each year in its Rapport Sur l'activite Pendant annee ( Bruxelles ).
 
 ## 14: Rapt
 - **Dissection:** [rapt]
@@ -211,8 +211,8 @@
 - **Meaning:** An extreme conservative; an opponent of progress or liberalism
 - **Hindi:** प्रतिक्रियावादी
 - **Examples:**
-  1. Learning the word 'reactionary' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'reactionary' in daily conversations.
+  1. The reactionary misses the point that tradition exists ontologically only in the form of psychological-intellectual relations.
+  2. Reactionary theories, for this reason, usually assume some form of organismic theory.
 
 ## 28: Reaper
 - **Dissection:** [reap-er]
@@ -299,8 +299,8 @@
 - **Meaning:** The state of the economy declines; a widespread decline in the GDP and employment and trade lasting from six months to a year
 - **Hindi:** मंदी
 - **Examples:**
-  1. Learning the word 'recession' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'recession' in daily conversations.
+  1. Analysts say that Fed tightening now could choke off the current modest economic expansion and threaten a recession.
+  2. That distaste stems in part from fears of recession.
 
 ## 39: Recidivism
 - **Dissection:** [re-cidiv-ism]
@@ -315,8 +315,8 @@
 - **Meaning:** A person who receives something
 - **Hindi:** प्राप्तकर्ता
 - **Examples:**
-  1. My e-mail never reached the intended recipient.
-  2. It is beneficial to understand the meaning and context of 'recipient' in daily conversations.
+  1. Each of those tickets was of great value to its rightful recipient.
+  2. My e-mail never reached the intended recipient.
 
 ## 41: Reciprocal
 - **Dissection:** [re-cip-roc-al]
@@ -355,8 +355,8 @@
 - **Meaning:** The act of reconnoitring (especially to gain information about an enemy or potential enemy)
 - **Hindi:** टोही
 - **Examples:**
-  1. An exchange of fire occurred on a reconnaissance mission.
-  2. It is beneficial to understand the meaning and context of 'reconnaissance' in daily conversations.
+  1. Our first necessity, at the very outset of war, is post-attack reconnaissance.
+  2. These crucial questions must be answered by post-attack reconnaissance.
 
 ## 46: Recourse
 - **Dissection:** [re-course]
@@ -435,8 +435,8 @@
 - **Meaning:** A sum of money paid in compensation for loss or injury
 - **Hindi:** प्रतिकार
 - **Examples:**
-  1. Right a wrongs done to the victims of the Holocaust.
-  2. It is beneficial to understand the meaning and context of 'redress' in daily conversations.
+  1. There have been indications that he hopes to redress that situation, commencing with the White House.
+  2. Nomura urged the government to take pump- priming measures to help redress trade imbalances and boost employment.
 
 ## 56: Redundant
 - **Dissection:** [re-dund-ant]
@@ -507,8 +507,8 @@
 - **Meaning:** Overthrow by argument, evidence, or proof
 - **Hindi:** खंडन
 - **Examples:**
-  1. The speaker refuted his opponent's arguments.
-  2. It is beneficial to understand the meaning and context of 'refute' in daily conversations.
+  1. He was astonished, indeed, but his character and general conduct must refute it.
+  2. The speaker refuted his opponent's arguments.
 
 ## 65: Regal
 - **Dissection:** [regal]
@@ -547,7 +547,7 @@
 - **Meaning:** Someone who commits regicide; the killer of a king
 - **Hindi:** राज-हत्या
 - **Examples:**
-  1. Learning the word 'regicide' can help improve your communication and writing skills.
+  1. That was all the worth of their French Revolution and regicide.
   2. It is beneficial to understand the meaning and context of 'regicide' in daily conversations.
 
 ## 70: Regimen
@@ -635,8 +635,8 @@
 - **Meaning:** A mental impression retained and recalled from the past
 - **Hindi:** संस्मरण
 - **Examples:**
-  1. He has total recall of the episode.
-  2. It is beneficial to understand the meaning and context of 'reminiscence' in daily conversations.
+  1. He was full of heavy family reminiscence.
+  2. He has total recall of the episode.
 
 ## 81: Remiss
 - **Dissection:** [re-miss]
@@ -651,24 +651,24 @@
 - **Meaning:** An abatement in intensity or degree (as in the manifestations of a disease)
 - **Hindi:** क्षमा
 - **Examples:**
-  1. His cancer is in remission.
-  2. It is beneficial to understand the meaning and context of 'remission' in daily conversations.
+  1. 10: 18 Now where remission of these is, there is no more offering for sin.
+  2. His cancer is in remission.
 
 ## 83: Remonstrance
 - **Dissection:** [re-mon-strance]
 - **Meaning:** The act of expressing earnest opposition or protest
 - **Hindi:** प्रतिवाद
 - **Examples:**
-  1. Learning the word 'remonstrance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'remonstrance' in daily conversations.
+  1. I cannot see you acting wrong, without a remonstrance.
+  2. She meant to avoid any such alteration of manners as might provoke a remonstrance on his side.
 
 ## 84: Remorse
 - **Dissection:** [re-morse]
 - **Meaning:** A feeling of deep regret (usually for some misdeed)
 - **Hindi:** आत्मा ग्लानि
 - **Examples:**
-  1. Learning the word 'remorse' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'remorse' in daily conversations.
+  1. So farewell, hope; and with hope farewell, fear; Farewell, remorse!
+  2. How, without remorse, The ruin of so many glorious once And perfect while they stood?
 
 ## 85: Remunerative
 - **Dissection:** [re-mu-ner-at-ive]
@@ -739,8 +739,8 @@
 - **Meaning:** The state or quality of being widely honored and acclaimed
 - **Hindi:** यश
 - **Examples:**
-  1. Learning the word 'renown' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'renown' in daily conversations.
+  1. Thus fame shall be achieved, renown on earth; And what most merits fame, in silence hid.
+  2. The most renown' d poems would be ashes, orations and plays would be vacuums.
 
 ## 94: Reparation
 - **Dissection:** [re-par-a-tion]
@@ -835,7 +835,7 @@
 - **Meaning:** A facility where things can be deposited for storage or safekeeping
 - **Hindi:** कोष
 - **Examples:**
-  1. Learning the word 'repository' can help improve your communication and writing skills.
+  1. While Hewlett-Woodmere is the repository of art, music, and foreign languages.
   2. It is beneficial to understand the meaning and context of 'repository' in daily conversations.
 
 ## 106: Reprehensible
@@ -859,8 +859,8 @@
 - **Meaning:** A (temporary) relief from harm or discomfort
 - **Hindi:** दण्डविराम
 - **Examples:**
-  1. Learning the word 'reprieve' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'reprieve' in daily conversations.
+  1. So Linda Kay gave up asking, and accepted her reprieve.
+  2. The German's words worked on the newspaperman like a reprieve from an odious duty.
 
 ## 109: Reprimand
 - **Dissection:** [rep-rim-and]
@@ -875,8 +875,8 @@
 - **Meaning:** A retaliatory action against an enemy in wartime
 - **Hindi:** प्रतिहिंसा
 - **Examples:**
-  1. Learning the word 'reprisal' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'reprisal' in daily conversations.
+  1. ( In the heat of the anti-Colmer drive last week, Judge Smith threatened reprisal against Powell.
+  2. IRAN VOWS REPRISAL FOR U. S.
 
 ## 111: Reprise
 - **Dissection:** [re-prise]
@@ -907,8 +907,8 @@
 - **Meaning:** Take to task
 - **Hindi:** निंदा करना
 - **Examples:**
-  1. He admonished the child for his bad behavior.
-  2. It is beneficial to understand the meaning and context of 'reprove' in daily conversations.
+  1. But what doth your arguing reprove?
+  2. 13: 10 He will surely reprove you, if ye do secretly accept persons.
 
 ## 115: Repudiate
 - **Dissection:** [re-pu-di-ate]
@@ -931,7 +931,7 @@
 - **Meaning:** The force by which bodies repel one another
 - **Hindi:** घृणा
 - **Examples:**
-  1. Learning the word 'repulsion' can help improve your communication and writing skills.
+  1. To greet them with repulsion would turn what before was neutral into something bad;;.
   2. It is beneficial to understand the meaning and context of 'repulsion' in daily conversations.
 
 ## 118: Reputable
@@ -963,7 +963,7 @@
 - **Meaning:** Make repayment for or return something
 - **Hindi:** लौटाना
 - **Examples:**
-  1. Learning the word 'requite' can help improve your communication and writing skills.
+  1. 32: 6 Do ye thus requite the LORD, O foolish people and unwise?
   2. It is beneficial to understand the meaning and context of 'requite' in daily conversations.
 
 ## 122: Rescind
@@ -979,8 +979,8 @@
 - **Meaning:** A feeling of deep and bitter anger and ill-will
 - **Hindi:** क्रोध
 - **Examples:**
-  1. Learning the word 'resentment' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'resentment' in daily conversations.
+  1. -- A wave of public resentment against corruption in government is rising in Massachusetts.
+  2. I know a man who held resentment against a neighbor for more than three decades.
 
 ## 124: Residue
 - **Dissection:** [residue]
@@ -995,8 +995,8 @@
 - **Meaning:** Acceptance of despair
 - **Hindi:** इस्तीफा
 - **Examples:**
-  1. He submitted his resignation as of next month.
-  2. It is beneficial to understand the meaning and context of 'resignation' in daily conversations.
+  1. Caldwell's resignation had been expected for some time.
+  2. But I was deeply moved by his letter of resignation as rector of St. Luke's Church in Atlanta.
 
 ## 126: Resilient
 - **Dissection:** [re-si-li-ent]
@@ -1027,8 +1027,8 @@
 - **Meaning:** An excited state of a stable particle causing a sharp maximum in the probability of absorption of electromagnetic radiation
 - **Hindi:** गूंज
 - **Examples:**
-  1. 2004, When experiments with the first ‘atom-smashers’ took place in the 1950s to 1960s, many short-lived heavier siblings of the proton and neutron, known as ‘resonances’, were discovered. — Frank Close, Particle Physics: A Very Short Introduction (Oxford 2004, p. 35).
-  2. It is beneficial to understand the meaning and context of 'resonance' in daily conversations.
+  1. The timbre remains that of the instruments unclouded by resonance.
+  2. The first diatomic hydride investigated by the paramagnetic resonance method was the OH radical.
 
 ## 130: Respire
 - **Dissection:** [respire]
@@ -1059,8 +1059,8 @@
 - **Meaning:** Responsive to stimulation
 - **Hindi:** जवाबदेही
 - **Examples:**
-  1. The responsiveness of my old PC is nearly zero!
-  2. It is beneficial to understand the meaning and context of 'responsiveness' in daily conversations.
+  1. Moreover, the responsiveness of the hypothalamus to nociceptive stimulation is greatly increased under these conditions.
+  2. The responsiveness of my old PC is nearly zero!
 
 ## 134: Restitution
 - **Dissection:** [resti-tu-tion]
@@ -1075,8 +1075,8 @@
 - **Meaning:** Being in a tense state
 - **Hindi:** अशांत
 - **Examples:**
-  1. The government has done nothing to ease restrictions and manufacturers are growing restive.
-  2. It is beneficial to understand the meaning and context of 'restive' in daily conversations.
+  1. The men were restive, he wrote, ready to take the battle to the enemy as Jackson wished.
+  2. Not only workers but also businessmen are restive.
 
 ## 136: Restraint
 - **Dissection:** [re-straint]
@@ -1091,7 +1091,7 @@
 - **Meaning:** Beginning again
 - **Hindi:** पुनरारंभ
 - **Examples:**
-  1. Learning the word 'resumption' can help improve your communication and writing skills.
+  1. But a resumption does not seem justifiable now.
   2. It is beneficial to understand the meaning and context of 'resumption' in daily conversations.
 
 ## 138: Resurge
@@ -1155,8 +1155,8 @@
 - **Meaning:** Tighten one's belt; use resources carefully
 - **Hindi:** छटनी करना
 - **Examples:**
-  1. The company had to retrench.
-  2. It is beneficial to understand the meaning and context of 'retrench' in daily conversations.
+  1. Does it occur to you that there is any one article in which we can retrench?".
+  2. They must retrench; that did not admit of a doubt.
 
 ## 146: Retribution
 - **Dissection:** [re-tri-bu-tion]
@@ -1195,7 +1195,7 @@
 - **Meaning:** Unrestrained merrymaking
 - **Hindi:** मद्यपान का उत्सव
 - **Examples:**
-  1. Learning the word 'revelry' can help improve your communication and writing skills.
+  1. [ A BURST OF REVELRY FROM THE FORECASTLE.].
   2. It is beneficial to understand the meaning and context of 'revelry' in daily conversations.
 
 ## 151: Reverberate
@@ -1219,8 +1219,8 @@
 - **Meaning:** Absentminded dreaming while awake
 - **Hindi:** भावना
 - **Examples:**
-  1. Learning the word 'reverie' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'reverie' in daily conversations.
+  1. The slow tapping of a cane on the stone steps coming up to the tower interrupted his reverie.
+  2. Said Susan, starting from a reverie into which she had fallen, as she contemplated the purse.
 
 ## 154: Revert
 - **Dissection:** [re-vert]
@@ -1235,8 +1235,8 @@
 - **Meaning:** Spread negative information about
 - **Hindi:** गाली देना
 - **Examples:**
-  1. The Nazi propaganda vilified the Jews.
-  2. It is beneficial to understand the meaning and context of 'revile' in daily conversations.
+  1. 22: 28 Thou shalt not revile the gods, nor curse the ruler of thy people.
+  2. To whom The gracious Judge without revile replied.
 
 ## 156: Revoke
 - **Dissection:** [re-voke]
@@ -1251,8 +1251,8 @@
 - **Meaning:** Intense aversion
 - **Hindi:** तबदीली
 - **Examples:**
-  1. Learning the word 'revulsion' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'revulsion' in daily conversations.
+  1. There is a tangible feeling in the air of revulsion toward politics.
+  2. Then suddenly there was a tremendous revulsion of popular feeling.
 
 ## 158: Rhapsodize
 - **Dissection:** [rhaps-od-ize]
@@ -1283,8 +1283,8 @@
 - **Meaning:** A traveler who actively rides an animal (as a horse or camel)
 - **Hindi:** सवार
 - **Examples:**
-  1. Learning the word 'rider' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'rider' in daily conversations.
+  1. It required both a quick and swift hoss and a darin' rider.
+  2. The Hetman's physical aspects were not those of a savage rider of the steppes.
 
 ## 162: Rife
 - **Dissection:** [rife]
@@ -1363,8 +1363,8 @@
 - **Meaning:** Fanciful but graceful asymmetric ornamentation in art and architecture that originated in France in the 18th century
 - **Hindi:** रोकोको
 - **Examples:**
-  1. An exquisite gilded rococo mirror.
-  2. It is beneficial to understand the meaning and context of 'rococo' in daily conversations.
+  1. This is exactly what happened in the transition from baroque to rococo music.
+  2. At its best the abstract expressionists achieve a simple rococo decorative surface.
 
 ## 172: Roil
 - **Dissection:** [roil]
@@ -1395,7 +1395,7 @@
 - **Meaning:** A platform raised above the surrounding level to give prominence to the person on it
 - **Hindi:** व्याख्यान चबूतरा
 - **Examples:**
-  1. Learning the word 'rostrum' can help improve your communication and writing skills.
+  1. He had sat beside Alexander Brandel at the rostrum of a congress of Zionists.
   2. It is beneficial to understand the meaning and context of 'rostrum' in daily conversations.
 
 ## 176: Rote
@@ -1411,8 +1411,8 @@
 - **Meaning:** A building having a circular plan and a dome
 - **Hindi:** रोटोंडा
 - **Examples:**
-  1. Learning the word 'rotunda' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'rotunda' in daily conversations.
+  1. Its rotunda forms a perfect circle whose diameter is equal to the height from the floor to the ceiling.
+  2. A blank undecorated void, plastered in roughcast, disfigured the wall of the Rotunda until 1951.
 
 ## 178: Rotundity
 - **Dissection:** [ro-tund-ity]
@@ -1443,7 +1443,7 @@
 - **Meaning:** The remains of something that has been destroyed or broken up
 - **Hindi:** मलवा
 - **Examples:**
-  1. Learning the word 'rubble' can help improve your communication and writing skills.
+  1. In place of the police headquarters was a new square filled with rubble.
   2. It is beneficial to understand the meaning and context of 'rubble' in daily conversations.
 
 ## 182: Rubric
@@ -1507,7 +1507,7 @@
 - **Meaning:** A deceptive maneuver (especially to avoid capture)
 - **Hindi:** चाल
 - **Examples:**
-  1. Learning the word 'ruse' can help improve your communication and writing skills.
+  1. That had only been a ruse to lure him out on the deserted road.
   2. It is beneficial to understand the meaning and context of 'ruse' in daily conversations.
 
 ## 190: Rustic

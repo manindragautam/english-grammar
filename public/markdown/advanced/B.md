@@ -51,8 +51,8 @@
 - **Meaning:** The historic period from about 1600 until 1750 when the baroque style of art, architecture, and music flourished in Europe
 - **Hindi:** बरोक
 - **Examples:**
-  1. The building...frantically baroque.
-  2. It is beneficial to understand the meaning and context of 'baroque' in daily conversations.
+  1. This is exactly what happened in the transition from baroque to rococo music.
+  2. The building...frantically baroque.
 
 ## 8: Barrage
 - **Dissection:** [bar-rage]
@@ -91,7 +91,7 @@
 - **Meaning:** A mock scepter carried by a court jester
 - **Hindi:** छोटी बात
 - **Examples:**
-  1. Learning the word 'bauble' can help improve your communication and writing skills.
+  1. Another is a bubble of a bauble ''.
   2. It is beneficial to understand the meaning and context of 'bauble' in daily conversations.
 
 ## 13: Bawdy
@@ -115,8 +115,8 @@
 - **Meaning:** A state of extreme confusion and disorder
 - **Hindi:** हंगामा
 - **Examples:**
-  1. Learning the word 'bedlam' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'bedlam' in daily conversations.
+  1. Instead of that he was engulfed by bedlam.
+  2. " Well, what in the name of Bedlam do you mean?".
 
 ## 16: Beguile
 - **Dissection:** [be-guile]
@@ -131,7 +131,7 @@
 - **Meaning:** Someone or something that is abnormally large and powerful
 - **Hindi:** आबी घोड़ा
 - **Examples:**
-  1. Learning the word 'behemoth' can help improve your communication and writing skills.
+  1. 40: 15 Behold now behemoth, which I made with thee; he eateth grass as an ox.
   2. It is beneficial to understand the meaning and context of 'behemoth' in daily conversations.
 
 ## 18: Belabor
@@ -203,8 +203,8 @@
 - **Meaning:** The act of praying for divine protection
 - **Hindi:** आशीर्वाद
 - **Examples:**
-  1. To pronounce / give / say the benediction; the nuptial benediction; a parting benediction.
-  2. It is beneficial to understand the meaning and context of 'benediction' in daily conversations.
+  1. The light at that time is a benediction.
+  2. So saying, he arose; whom Adam thus Followed with benediction.
 
 ## 27: Benefactor
 - **Dissection:** [be-ne-fact-or]
@@ -227,7 +227,7 @@
 - **Meaning:** (law) a gift of personal property by will
 - **Hindi:** वसीयत
 - **Examples:**
-  1. Learning the word 'bequest' can help improve your communication and writing skills.
+  1. Joan Sheldon had earned the larger bequest.
   2. It is beneficial to understand the meaning and context of 'bequest' in daily conversations.
 
 ## 30: Berate
@@ -251,8 +251,8 @@
 - **Meaning:** Ask for or request earnestly
 - **Hindi:** प्रार्थना करना
 - **Examples:**
-  1. The prophet bid all people to become good persons.
-  2. It is beneficial to understand the meaning and context of 'beseech' in daily conversations.
+  1. 33: 18 And he said, I beseech thee, shew me thy glory.
+  2. O LORD God of Israel, I beseech thee, tell thy servant.
 
 ## 33: Beset
 - **Dissection:** [be-set]
@@ -323,7 +323,7 @@
 - **Meaning:** Relating to or containing bile
 - **Hindi:** बिलियस
 - **Examples:**
-  1. Learning the word 'bilious' can help improve your communication and writing skills.
+  1. " Think, think of the fevers, yellow and bilious!
   2. It is beneficial to understand the meaning and context of 'bilious' in daily conversations.
 
 ## 42: Bilk
@@ -475,24 +475,24 @@
 - **Meaning:** A very boastful and talkative person
 - **Hindi:** डींगमार
 - **Examples:**
-  1. Big talk.
-  2. It is beneficial to understand the meaning and context of 'braggart' in daily conversations.
+  1. I was quite conscious of the possibility that the whole was the extravagance of an old braggart and gossip.
+  2. O I could play the woman with mine eyes, And Braggart with my tongue.
 
 ## 61: Bravado
 - **Dissection:** [bravado]
 - **Meaning:** A swaggering show of courage
 - **Hindi:** वाहवाही
 - **Examples:**
-  1. The angry customer stood in the middle of the showroom and voiced his complaints with loud bravado.
-  2. It is beneficial to understand the meaning and context of 'bravado' in daily conversations.
+  1. Among the boys, there is very little bravado about drinking.
+  2. It required strength, bravado, daring to commit murder.
 
 ## 62: Brawn
 - **Dissection:** [brawn]
 - **Meaning:** Possessing muscular strength
 - **Hindi:** मांसपेशी
 - **Examples:**
-  1. Learning the word 'brawn' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'brawn' in daily conversations.
+  1. I have seldom seen such brawn in a man.
+  2. Mix' d tussled hay of head, beard, brawn, it shall be you!
 
 ## 63: Brazen
 - **Dissection:** [brazen]
@@ -507,16 +507,16 @@
 - **Meaning:** The use of brief expressions
 - **Hindi:** संक्षिप्तता
 - **Examples:**
-  1. Learning the word 'brevity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'brevity' in daily conversations.
+  1. " Yes," said Turnbull with brevity.
+  2. " Quite sure, thank you," said Turnbull with broken brevity.
 
 ## 65: Brigand
 - **Dissection:** [brig-and]
 - **Meaning:** An armed thief who is (usually) a member of a band
 - **Hindi:** बटमार
 - **Examples:**
-  1. Learning the word 'brigand' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'brigand' in daily conversations.
+  1. It is Richard, the last Plantagenet, giving his crown to Bolingbroke as to a common brigand.
+  2. He seems to me much more inexplicable as a brigand even than he was as a courier.".
 
 ## 66: Broach
 - **Dissection:** [broach]

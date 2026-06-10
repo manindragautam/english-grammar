@@ -75,7 +75,7 @@
 - **Meaning:** (folklore) a corpse that rises at night to drink the blood of the living
 - **Hindi:** पिशाच
 - **Examples:**
-  1. Learning the word 'vampire' can help improve your communication and writing skills.
+  1. I read up all about bishops in our anarchist pamphlets, in Superstition the Vampire and Priests of Prey.
   2. It is beneficial to understand the meaning and context of 'vampire' in daily conversations.
 
 ## 11: Vanguard
@@ -123,8 +123,8 @@
 - **Meaning:** Change the appearance of, especially by marking with different colors
 - **Hindi:** तरह तरह का
 - **Examples:**
-  1. Vary the menu.
-  2. It is beneficial to understand the meaning and context of 'variegated' in daily conversations.
+  1. ) And his eyes -- those miniature sundials of variegated yellow -- had not altered their expression or direction.
+  2. Vary the menu.
 
 ## 17: Vassal
 - **Dissection:** [vas-sal]
@@ -163,8 +163,8 @@
 - **Meaning:** Distance travelled per unit time
 - **Hindi:** वेग
 - **Examples:**
-  1. Learning the word 'velocity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'velocity' in daily conversations.
+  1. It was exposed to a high velocity gas jet.
+  2. After it has reached terminal velocity, the time for the tape to travel a known distance is recorded.
 
 ## 22: Venal
 - **Dissection:** [venal]
@@ -227,7 +227,7 @@
 - **Meaning:** Toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions)
 - **Hindi:** ज़हर
 - **Examples:**
-  1. Learning the word 'venom' can help improve your communication and writing skills.
+  1. By the Gods, You shall digest the Venom of your Spleene Though it do Split you.
   2. It is beneficial to understand the meaning and context of 'venom' in daily conversations.
 
 ## 30: Vent
@@ -243,7 +243,7 @@
 - **Meaning:** A performer who projects the voice into a wooden dummy
 - **Hindi:** Ventriloquist का हिंदी अर्थ
 - **Examples:**
-  1. Learning the word 'ventriloquist' can help improve your communication and writing skills.
+  1. " Have you never heard a ventriloquist?".
   2. It is beneficial to understand the meaning and context of 'ventriloquist' in daily conversations.
 
 ## 32: Venturesome
@@ -347,23 +347,23 @@
 - **Meaning:** The point of intersection of lines or the point opposite the base of a figure
 - **Hindi:** शिखर
 - **Examples:**
-  1. At the peak of the pyramid.
-  2. It is beneficial to understand the meaning and context of 'vertex' in daily conversations.
+  1. For the vertex at Af, these values will be denoted by Af.
+  2. At the peak of the pyramid.
 
 ## 45: Vertigo
 - **Dissection:** [ver-tigo]
 - **Meaning:** A reeling sensation; a feeling that you are about to fall
 - **Hindi:** सिर का चक्कर
 - **Examples:**
-  1. Learning the word 'vertigo' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'vertigo' in daily conversations.
+  1. He fought the panic of vertigo.
+  2. His soul swayed in a vertigo of moral indecision.
 
 ## 46: Verve
 - **Dissection:** [verve]
 - **Meaning:** An energetic style
 - **Hindi:** चुस्ती
 - **Examples:**
-  1. Learning the word 'verve' can help improve your communication and writing skills.
+  1. What remained lacked the original verve but it was at least dignified, as befitting the tragic circumstances.
   2. It is beneficial to understand the meaning and context of 'verve' in daily conversations.
 
 ## 47: Vestige
@@ -467,7 +467,7 @@
 - **Meaning:** Venomous Old World snakes characterized by hollow venom-conducting fangs in the upper jaw
 - **Hindi:** नाग
 - **Examples:**
-  1. Learning the word 'viper' can help improve your communication and writing skills.
+  1. 20: 16 He shall suck the poison of asps: the viper' s tongue shall slay him.
   2. It is beneficial to understand the meaning and context of 'viper' in daily conversations.
 
 ## 60: Virago
@@ -659,8 +659,8 @@
 - **Meaning:** Grant in a condescending manner
 - **Hindi:** विभूषित करना
 - **Examples:**
-  1. She vouchsafed to me that she regretted ever marrying him.
-  2. It is beneficial to understand the meaning and context of 'vouchsafe' in daily conversations.
+  1. Elinor would not vouchsafe any answer.
+  2. Vouchsafe good morrow from a feeble tongue.
 
 ## 84: Voyeur
 - **Dissection:** [voyeur]

@@ -195,8 +195,8 @@
 - **Meaning:** An active and efficient cause; capable of producing a certain effect
 - **Hindi:** प्रतिनिधि
 - **Examples:**
-  1. Their research uncovered new disease agents.
-  2. It is beneficial to understand the meaning and context of 'agent' in daily conversations.
+  1. Is your purchasing agent offering too much free-buying service for employees??
+  2. Have a talk with your insurance agent.
 
 ## 26: Ago
 - **Dissection:** [ago]
@@ -251,8 +251,8 @@
 - **Meaning:** An airfield equipped with control tower and hangars as well as accommodations for passengers and cargo
 - **Hindi:** एयरपोर्ट
 - **Examples:**
-  1. Because of this, and contrary to popular belief, British airports primarily act as giant wealth extractors, transporting our richest citizens out of the country as often as possible to take their money overseas. ― The Independent, Heathrow expansion to mainly benefit wealthy frequent fliers, research finds, 23 june 2018.
-  2. It is beneficial to understand the meaning and context of 'airport' in daily conversations.
+  1. The pilot radioed El Paso International Airport with just that message.
+  2. There was no such thing as an airport in Vermont.
 
 ## 33: All
 - **Dissection:** [all]
@@ -300,7 +300,7 @@
 - **Hindi:** पहले से
 - **Examples:**
   1. She has already graduated.
-  2. It is beneficial to understand the meaning and context of 'already' in daily conversations.
+  2. Are you quitting already?
 
 ## 39: Also
 - **Dissection:** [also]
@@ -355,16 +355,16 @@
 - **Meaning:** An investigation of the component parts of a whole and their relations in making up the whole
 - **Hindi:** विश्लेषण
 - **Examples:**
-  1. His physician recommended psychoanalysis.
-  2. It is beneficial to understand the meaning and context of 'analysis' in daily conversations.
+  1. Newspapermen and politicians especially are aware of the penetrating attention and expert analysis the league gives to public affairs.
+  2. But a somewhat more detailed analysis of this process may be illuminating.
 
 ## 46: And
 - **Dissection:** [and]
 - **Meaning:** In rhythm, the second half of a divided beat.
 - **Hindi:** और
 - **Examples:**
-  1. Learning the word 'and' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'and' in daily conversations.
+  1. They have a son, William Berry Jr., and a daughter, Mrs. J. M. Cheshire of Griffin.
+  2. The petition listed the mayor's occupation as `` attorney '' and his age as 71.
 
 ## 47: Animal
 - **Dissection:** [an-im-al]
@@ -403,8 +403,8 @@
 - **Meaning:** Any person; anybody.
 - **Hindi:** कोई भी
 - **Examples:**
-  1. Almost anyone can change a light bulb.
-  2. It is beneficial to understand the meaning and context of 'anyone' in daily conversations.
+  1. He kids his Tarzan roles more than anyone.
+  2. Anyone interested in attending the meeting may have reservations with Mrs. John Whelan at the Hollywood Public Library.
 
 ## 52: Anything
 - **Dissection:** [any-thing]
@@ -419,8 +419,8 @@
 - **Meaning:** A suite of rooms usually on one floor of an apartment house
 - **Hindi:** अपार्टमेंट
 - **Examples:**
-  1. Learning the word 'apartment' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'apartment' in daily conversations.
+  1. Mrs. John C. Vroman Jr. of Manzanola is spending several days in her Sherman Plaza apartment.
+  2. The audition was held a few minutes later in somebody's apartment.
 
 ## 54: Appear
 - **Dissection:** [ap-pear]
@@ -435,8 +435,8 @@
 - **Meaning:** Fruit with red or yellow or green skin and sweet to tart crisp whitish flesh
 - **Hindi:** सेब
 - **Examples:**
-  1. Learning the word 'apple' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'apple' in daily conversations.
+  1. ) Apple trees grew there also.
+  2. Winter itch was treated by applying strong apple cider in which pulverized bloodroot had been steeped.
 
 ## 56: Apply
 - **Dissection:** [ap-ply]
@@ -531,8 +531,8 @@
 - **Meaning:** A person whose creative work shows sensitivity and imagination
 - **Hindi:** कलाकार
 - **Examples:**
-  1. Learning the word 'artist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'artist' in daily conversations.
+  1. His portrayal of an edgy head-in-the-clouds artist is virtually flawless.
+  2. Furthermore, he's something of a scoundrel, an artist whose mind and feelings are all finger-tips.
 
 ## 68: As
 - **Dissection:** [as]
@@ -595,8 +595,8 @@
 - **Meaning:** The sister of your father or mother; the wife of your uncle
 - **Hindi:** चाची
 - **Examples:**
-  1. Learning the word 'aunt' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'aunt' in daily conversations.
+  1. He also struck his aunt and wife, and during the melee the baby also suffered scratches.
+  2. Uncle and Aunt Howe were the witnesses ''.
 
 ## 76: Author
 - **Dissection:** [au-thor]

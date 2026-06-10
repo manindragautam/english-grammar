@@ -19,7 +19,7 @@
 - **Meaning:** A final peremptory demand
 - **Hindi:** अल्टीमेटम
 - **Examples:**
-  1. Learning the word 'ultimatum' can help improve your communication and writing skills.
+  1. At 7:30 a.m., more than three hours after landing, the Beardens gave an ultimatum:.
   2. It is beneficial to understand the meaning and context of 'ultimatum' in daily conversations.
 
 ## 4: Umbrage
@@ -35,8 +35,8 @@
 - **Meaning:** Everyone being of one mind
 - **Hindi:** मतैक्य
 - **Examples:**
-  1. Learning the word 'unanimity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'unanimity' in daily conversations.
+  1. So we note approvingly a fresh sample of unanimity.
+  2. Unanimity on Interama is not surprising.
 
 ## 6: Unassailable
 - **Dissection:** [un-as-sail-able]
@@ -91,7 +91,7 @@
 - **Meaning:** Excessive but superficial compliments given with affected charm
 - **Hindi:** गर्मजोशी
 - **Examples:**
-  1. Learning the word 'unction' can help improve your communication and writing skills.
+  1. 2: 20 But ye have an unction from the Holy One, and ye know all things.
   2. It is beneficial to understand the meaning and context of 'unction' in daily conversations.
 
 ## 13: Unctuous
@@ -115,7 +115,7 @@
 - **Meaning:** One at a disadvantage and expected to lose
 - **Hindi:** कम क्षमता का व्यक्ती या समूह
 - **Examples:**
-  1. Learning the word 'underdog' can help improve your communication and writing skills.
+  1. Seen by the public, the musician is the underdog par excellence.
   2. It is beneficial to understand the meaning and context of 'underdog' in daily conversations.
 
 ## 16: Undergird
@@ -155,8 +155,8 @@
 - **Meaning:** A statement that is restrained in ironic contrast to what might have been said
 - **Hindi:** परदा डालना
 - **Examples:**
-  1. Learning the word 'understatement' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'understatement' in daily conversations.
+  1. It would be pretty difficult to install a Tri-State system in old neighborhoods, and that's an understatement.
+  2. '' This, for the liberals I know, would be an understatement.
 
 ## 21: Underwrite
 - **Dissection:** [un-der-write]
@@ -259,8 +259,8 @@
 - **Meaning:** A condition in which everything is regular and unvarying
 - **Hindi:** वर्दी
 - **Examples:**
-  1. The uniformity of the decor.
-  2. It is beneficial to understand the meaning and context of 'uniformity' in daily conversations.
+  1. A review of practices in other states regarding fiscal uniformity is pertinent to this report.
+  2. Fiscal uniformity: advantages and disadvantages.
 
 ## 34: Unilateral
 - **Dissection:** [uni-lat-er-al]
@@ -283,8 +283,8 @@
 - **Meaning:** Not inhibited or restrained
 - **Hindi:** बेहिचक
 - **Examples:**
-  1. Uninhibited exuberance.
-  2. It is beneficial to understand the meaning and context of 'uninhibited' in daily conversations.
+  1. Movements unfold freely because they are uninhibited by emotional bias or purposive drive.
+  2. Varlaam is loud, rowdy, uninhibited in his pleasures and impatient with anyone who is not the same.
 
 ## 37: Unintimidating
 - **Dissection:** [un-in-tim-id-at-ing]
@@ -323,8 +323,8 @@
 - **Meaning:** Not obtrusive or undesirably noticeable
 - **Hindi:** विनीत
 - **Examples:**
-  1. A quiet, unobtrusive life of self-denial.
-  2. It is beneficial to understand the meaning and context of 'unobtrusive' in daily conversations.
+  1. Many a student was able to remain at Spelman, only because of her unobtrusive help.
+  2. She saw only that he was quiet and unobtrusive, and she liked him for it.
 
 ## 42: Unpalatable
 - **Dissection:** [un-pal-at-able]
@@ -339,8 +339,8 @@
 - **Meaning:** Having no precedent; novel
 - **Hindi:** अभूतपूर्व
 - **Examples:**
-  1. An unprecedented expansion in population and industry.
-  2. It is beneficial to understand the meaning and context of 'unprecedented' in daily conversations.
+  1. Nor can one forget Pope John's unprecedented meeting with the Archbishop of Canterbury.
+  2. If that was the skiff, it was making unprecedented speed.
 
 ## 44: Unprepossessing
 - **Dissection:** [un-pre-pos-sess-ing]
@@ -451,8 +451,8 @@
 - **Meaning:** Express criticism towards
 - **Hindi:** फटकारना
 - **Examples:**
-  1. The president reproached the general for his irresponsible behavior.
-  2. It is beneficial to understand the meaning and context of 'upbraid' in daily conversations.
+  1. No lurking horrors were to upbraid him for his easy credulity.
+  2. The president reproached the general for his irresponsible behavior.
 
 ## 58: Uproarious
 - **Dissection:** [up-roari-ous]
@@ -499,7 +499,7 @@
 - **Meaning:** An exorbitant or unlawful rate of interest
 - **Hindi:** सूदखोरी
 - **Examples:**
-  1. Learning the word 'usury' can help improve your communication and writing skills.
+  1. 15: 5 He that putteth not out his money to usury, nor taketh reward against the innocent.
   2. It is beneficial to understand the meaning and context of 'usury' in daily conversations.
 
 ## 64: Utopia
@@ -507,6 +507,6 @@
 - **Meaning:** A book written by Sir Thomas More (1516) describing the perfect society on an imaginary island
 - **Hindi:** आदर्शलोक
 - **Examples:**
-  1. Learning the word 'utopia' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'utopia' in daily conversations.
+  1. Under their rule, earth becomes a technological utopia.
+  2. Utopia is still widely read because in a sense More stood on the margin of modernity.
 

@@ -11,8 +11,8 @@
 - **Meaning:** Measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects
 - **Hindi:** राडार
 - **Examples:**
-  1. His sensitive radar for hidden alliances keeps him out of trouble.
-  2. It is beneficial to understand the meaning and context of 'radar' in daily conversations.
+  1. The radar station with the best location was still not serviceable.
+  2. They had ruined the radar warning system with their window, they had made themselves invisible above their flares.
 
 ## 3: Radiant
 - **Dissection:** [ra-di-ant]
@@ -187,8 +187,8 @@
 - **Meaning:** Edge tool used in shaving
 - **Hindi:** उस्तरा
 - **Examples:**
-  1. Occam's razor, Hanlon's razor.
-  2. It is beneficial to understand the meaning and context of 'razor' in daily conversations.
+  1. The same can be said of shaving yet the electric razor has proved useful to many men.
+  2. He stropped the razor slowly;;.
 
 ## 25: React
 - **Dissection:** [re-act]
@@ -235,8 +235,8 @@
 - **Meaning:** `Johnny' was applied as a nickname for Confederate soldiers by the Federal soldiers in the American Civil War; `greyback' derived from their grey Confederate uniforms
 - **Hindi:** बागी
 - **Examples:**
-  1. Learning the word 'rebel' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'rebel' in daily conversations.
+  1. The hard core of the pro-Communist rebel force numbers only some 2,000 tough Viet Minh guerrilla fighters.
+  2. But the disposition to rebel is most definitely there.
 
 ## 31: Recall
 - **Dissection:** [re-call]
@@ -323,8 +323,8 @@
 - **Meaning:** A parallelogram with four right angles
 - **Hindi:** आयत
 - **Examples:**
-  1. Learning the word 'rectangle' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'rectangle' in daily conversations.
+  1. Place on rectangle of foil and pinch edges together tightly.
+  2. Knead on lightly floured board and roll out to form a Af-inch rectangle.
 
 ## 42: Recycle
 - **Dissection:** [re-cycle]
@@ -387,8 +387,8 @@
 - **Meaning:** An exile who flees for safety
 - **Hindi:** शरणार्थी
 - **Examples:**
-  1. Learning the word 'refugee' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'refugee' in daily conversations.
+  1. There was a refugee who was able to come here because of her.
+  2. She said, `` Reuveni wanted your mother to give up her deep interest in this refugee.
 
 ## 50: Refund
 - **Dissection:** [re-fund]
@@ -483,8 +483,8 @@
 - **Meaning:** Feel happiness or joy
 - **Hindi:** ख़ुश हो जाओ
 - **Examples:**
-  1. Who cannot exult in Spring?
-  2. It is beneficial to understand the meaning and context of 'rejoice' in daily conversations.
+  1. In the next few days they had cause to rejoice.
+  2. Emma could not but rejoice to hear that she had a fault.
 
 ## 62: Relative
 - **Dissection:** [re-l-at-ive]
@@ -595,8 +595,8 @@
 - **Meaning:** Put in the mind of someone
 - **Hindi:** याद दिलाना
 - **Examples:**
-  1. Remind me to call Mother.
-  2. It is beneficial to understand the meaning and context of 'remind' in daily conversations.
+  1. Just to remind the Communists that the bombs dropped on Japan were to end a war not start one.
+  2. It may remind one of Russia, China or East Berlin;;.
 
 ## 76: Remote
 - **Dissection:** [re-mote]
@@ -611,8 +611,8 @@
 - **Meaning:** The period of European history at the close of the Middle Ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries
 - **Hindi:** पुनर्जागरण
 - **Examples:**
-  1. Learning the word 'renaissance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'renaissance' in daily conversations.
+  1. Go inside for a closer look at a Renaissance palace.
+  2. Stephen Gosson and Sir Philip Sidney from renaissance England;;.
 
 ## 78: Render
 - **Dissection:** [render]
@@ -635,8 +635,8 @@
 - **Meaning:** The state or quality of being widely honored and acclaimed
 - **Hindi:** यश
 - **Examples:**
-  1. Learning the word 'renown' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'renown' in daily conversations.
+  1. Thus fame shall be achieved, renown on earth; And what most merits fame, in silence hid.
+  2. The most renown' d poems would be ashes, orations and plays would be vacuums.
 
 ## 81: Repel
 - **Dissection:** [re-pel]
@@ -859,8 +859,8 @@
 - **Meaning:** The entire amount of income before any deductions are made
 - **Hindi:** आय
 - **Examples:**
-  1. Learning the word 'revenue' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'revenue' in daily conversations.
+  1. It declares that Sunday sales licenses provide `` great revenue '' to the local government.
+  2. If the indenture is accepted, the authority will proceed to validate a bond issue repayable from revenue.
 
 ## 109: Reverse
 - **Dissection:** [re-verse]
@@ -1043,16 +1043,16 @@
 - **Meaning:** A thief who steals from someone by threatening violence
 - **Hindi:** डाकू
 - **Examples:**
-  1. Learning the word 'robber' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'robber' in daily conversations.
+  1. 18: 9 The gin shall take him by the heel, and the robber shall prevail against him.
+  2. Now Barabbas was a robber.
 
 ## 132: Robe
 - **Dissection:** [robe]
 - **Meaning:** Any loose flowing garment
 - **Hindi:** लबादा
 - **Examples:**
-  1. The mountain was clothed in tropical trees.
-  2. It is beneficial to understand the meaning and context of 'robe' in daily conversations.
+  1. She came out pink from a hot bath, and I gave her my robe.
+  2. 28: 31 And thou shalt make the robe of the ephod all of blue.
 
 ## 133: Robot
 - **Dissection:** [ro-bot]
@@ -1067,8 +1067,8 @@
 - **Meaning:** Any vehicle self-propelled by a rocket engine
 - **Hindi:** राकेट
 - **Examples:**
-  1. Prices skyrocketed.
-  2. It is beneficial to understand the meaning and context of 'rocket' in daily conversations.
+  1. The tremendous energy released by giant rocket engines perhaps can be felt much better than it can be heard.
+  2. He's president of the rocket club here, you know.
 
 ## 135: Rod
 - **Dissection:** [rod]
@@ -1163,8 +1163,8 @@
 - **Meaning:** Floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)
 - **Hindi:** गलीचा
 - **Examples:**
-  1. Learning the word 'rug' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'rug' in daily conversations.
+  1. One such, in fact, is a rug.
+  2. The pattern of the Oriental rug, the delicate cut-glass chandelier.
 
 ## 147: Ruin
 - **Dissection:** [ru-in]

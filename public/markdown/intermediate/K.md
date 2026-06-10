@@ -19,16 +19,16 @@
 - **Meaning:** Device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like
 - **Hindi:** कीबोर्ड
 - **Examples:**
-  1. Keyboarding is the part of this job I hate the most.
-  2. It is beneficial to understand the meaning and context of 'keyboard' in daily conversations.
+  1. Turning to the more modern versions, Curzon's ( London ) offers the most sophisticated keyboard work.
+  2. ( Babin has acquired some of Schnabel's keyboard manner, but his playing is of limited insight.
 
 ## 4: Kidney
 - **Dissection:** [kid-ney]
 - **Meaning:** Either of two bean-shaped excretory organs that filter wastes (especially urea) from the blood and excrete them and water in urine
 - **Hindi:** किडनी
 - **Examples:**
-  1. Urine passes out of the kidney through ureters to the bladder.
-  2. It is beneficial to understand the meaning and context of 'kidney' in daily conversations.
+  1. She had -- he informed her -- kidney trouble, liver trouble, and a severe female disorder.
+  2. These changes were more marked in the atrophic right kidney than in the left.
 
 ## 5: Kilometer
 - **Dissection:** [kilo-met-er]
@@ -59,8 +59,8 @@
 - **Meaning:** Young domestic cat
 - **Hindi:** बिल्ली का बच्चा
 - **Examples:**
-  1. Our cat kittened again this year.
-  2. It is beneficial to understand the meaning and context of 'kitten' in daily conversations.
+  1. Honest, kitten, that's all it is -- I don't even like Lucille much ''.
+  2. `` I will, kitten ''!!
 
 ## 9: Kneel
 - **Dissection:** [kneel]

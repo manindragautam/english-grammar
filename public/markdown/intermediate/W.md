@@ -11,16 +11,16 @@
 - **Meaning:** Any of various kinds of wheeled vehicles drawn by an animal or a tractor
 - **Hindi:** गाड़ी
 - **Examples:**
-  1. Learning the word 'wagon' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'wagon' in daily conversations.
+  1. `` Wagon Train '' is reported the No. 1 TV show.
+  2. After all, where else can the public see a wagon these days??
 
 ## 3: Waist
 - **Dissection:** [waist]
 - **Meaning:** The narrowing of the body between the ribs and hips
 - **Hindi:** कमर
 - **Examples:**
-  1. Learning the word 'waist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'waist' in daily conversations.
+  1. Broader leather belt round the waist, holding cartridges and light sabre.
+  2. Each wore the monkish scourge at his waist but this, it seems, was not employed for self-flagellation.
 
 ## 4: Wander
 - **Dissection:** [wander]
@@ -43,8 +43,8 @@
 - **Meaning:** A tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes
 - **Hindi:** कपड़े की अलमारी
 - **Examples:**
-  1. Learning the word 'wardrobe' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'wardrobe' in daily conversations.
+  1. The wardrobe for a foreign bomb is a little expensive.
+  2. You must have opened my wardrobe.".
 
 ## 7: Warehouse
 - **Dissection:** [ware-house]
@@ -75,16 +75,16 @@
 - **Meaning:** Someone engaged in or experienced in warfare
 - **Hindi:** योद्धा
 - **Examples:**
-  1. Learning the word 'warrior' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'warrior' in daily conversations.
+  1. In More's Utopia communism is not a means of separating out a warrior elite from the lumpish mass.
+  2. As he started to slump over, another warrior swung him onto his horse.
 
 ## 11: Waterproof
 - **Dissection:** [wa-ter-proof]
 - **Meaning:** Any fabric impervious to water
 - **Hindi:** जलरोधक
 - **Examples:**
-  1. Waterproof the coat.
-  2. It is beneficial to understand the meaning and context of 'waterproof' in daily conversations.
+  1. Ground together they made a strong adhesive, which became waterproof in drying.
+  2. Waterproof the coat.
 
 ## 12: Wax
 - **Dissection:** [wax]
@@ -163,8 +163,8 @@
 - **Meaning:** Annual or biennial grass having erect flower spikes and light brown grains
 - **Hindi:** गेहूँ
 - **Examples:**
-  1. Learning the word 'wheat' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'wheat' in daily conversations.
+  1. Miss Colman pours measures of whole wheat, oats, and soy beans and turns on the motor.
+  2. They serve cracked wheat, oats or cornmeal.
 
 ## 22: Whip
 - **Dissection:** [whip]
@@ -203,16 +203,16 @@
 - **Meaning:** A woman whose husband is dead especially one who has not remarried
 - **Hindi:** विधवा
 - **Examples:**
-  1. The war widowed many women in the former Yugoslavia.
-  2. It is beneficial to understand the meaning and context of 'widow' in daily conversations.
+  1. His widow started the circulation of petitions after Barnard was reprimanded for violating the probation.
+  2. Survivors are his widow, Alice;;.
 
 ## 27: Width
 - **Dissection:** [width]
 - **Meaning:** The extent of something from side to side
 - **Hindi:** चौड़ाई
 - **Examples:**
-  1. Manchester United like to play with width.
-  2. It is beneficial to understand the meaning and context of 'width' in daily conversations.
+  1. You need the barbell variation to build width and mass in the pecs.
+  2. Spread article on flat surface to required width before measuring length at center.
 
 ## 28: Wilderness
 - **Dissection:** [wil-der-ness]
@@ -227,8 +227,8 @@
 - **Meaning:** Any of numerous deciduous trees and shrubs of the genus Salix
 - **Hindi:** विलो
 - **Examples:**
-  1. Learning the word 'willow' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'willow' in daily conversations.
+  1. Each male willow catkin is composed of a large number of small flowers.
+  2. The staminate willow catkins, then, provide their visitors with both nectar and pollen;;.
 
 ## 30: Wipe
 - **Dissection:** [wipe]
@@ -259,8 +259,8 @@
 - **Meaning:** A female sorcerer or magician
 - **Hindi:** चुड़ैल
 - **Examples:**
-  1. I hate that old witch.
-  2. It is beneficial to understand the meaning and context of 'witch' in daily conversations.
+  1. But he's a welfare case now -- a human wreck -- thanks to this modern witch doctor.
+  2. There were no witch burnings here because everyone had a witch in the family.
 
 ## 34: Withdraw
 - **Dissection:** [with-draw]
@@ -307,16 +307,16 @@
 - **Meaning:** A fabric made from the hair of sheep
 - **Hindi:** ऊन
 - **Examples:**
-  1. Learning the word 'wool' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'wool' in daily conversations.
+  1. The wool would become frazzled around the edges from blowing in the wind, and Mama would mend it.
+  2. Lister is a manufacturer, dyer and finisher of cotton, silk wool and man- made fibres.
 
 ## 40: Workshop
 - **Dissection:** [work-shop]
 - **Meaning:** Small workplace where handcrafts or manufacturing are done
 - **Hindi:** कार्यशाला
 - **Examples:**
-  1. Learning the word 'workshop' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'workshop' in daily conversations.
+  1. The micrometer caliper, as a common workshop tool, also owes much to J. R. Brown.
+  2. These extra-curricular activities are conducted under supervision of the Director of the Student Workshop.
 
 ## 41: Worldwide
 - **Dissection:** [world-wide]
@@ -387,6 +387,6 @@
 - **Meaning:** A joint between the distal end of the radius and the proximal row of carpal bones
 - **Hindi:** कलाई
 - **Examples:**
-  1. Learning the word 'wrist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'wrist' in daily conversations.
+  1. It had a tiny envelope tied to its wrist.
+  2. Angelina placed the tray on the table and with a flick of dark wrist drew off the cloth.
 

@@ -43,8 +43,8 @@
 - **Meaning:** A square piece of cloth used for wiping the eyes or nose or as a costume accessory
 - **Hindi:** रूमाल
 - **Examples:**
-  1. Learning the word 'handkerchief' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'handkerchief' in daily conversations.
+  1. We did that and found a dirty handkerchief, some matches and fourteen cents in change.
+  2. In the other: a wristwatch with broken crystal wrapped in a dirty handkerchief.
 
 ## 7: Handsome
 - **Dissection:** [hand-some]
@@ -75,8 +75,8 @@
 - **Meaning:** Major items of military weaponry (as tanks or missile)
 - **Hindi:** हार्डवेयर
 - **Examples:**
-  1. Military hardware.
-  2. It is beneficial to understand the meaning and context of 'hardware' in daily conversations.
+  1. The company began operation in 1900 with hardware and oil mill supplies.
+  2. In fact the accumulation of the hardware of destruction is day by day increasing our fear of each other.
 
 ## 11: Harm
 - **Dissection:** [harm]
@@ -91,8 +91,8 @@
 - **Meaning:** Compatibility in opinion and action
 - **Hindi:** सद्भाव
 - **Examples:**
-  1. A harmony of the Gospels.
-  2. It is beneficial to understand the meaning and context of 'harmony' in daily conversations.
+  1. He was a member of Harmony lodge, No. 12, AF & AM, Scottish Rite;;.
+  2. Neither has the establishment of the State of Israel fostered harmony between Muslims and Jews.
 
 ## 13: Harness
 - **Dissection:** [har-ness]
@@ -139,8 +139,8 @@
 - **Meaning:** The emotion of intense dislike; a feeling of dislike so strong that it demands action
 - **Hindi:** घृणा
 - **Examples:**
-  1. Learning the word 'hatred' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hatred' in daily conversations.
+  1. The whole official City apparently has an intense hatred toward birds.
+  2. For Castro was bringing Cuba not freedom, but hatred.
 
 ## 19: Haul
 - **Dissection:** [haul]
@@ -179,8 +179,8 @@
 - **Meaning:** The heading or caption of a newspaper article
 - **Hindi:** शीर्षक
 - **Examples:**
-  1. The headline on today's newspaper reads "John Doe Wins Wood-Splitting Competition.".
-  2. It is beneficial to understand the meaning and context of 'headline' in daily conversations.
+  1. Wagner replied, `` Can't you just see the headline:' City Hooked for $172,000' ''??
+  2. And watch for a headline from this pair any time now.
 
 ## 24: Heal
 - **Dissection:** [heal]
@@ -203,8 +203,8 @@
 - **Meaning:** Any place of complete bliss and delight and peace
 - **Hindi:** स्वर्ग
 - **Examples:**
-  1. Learning the word 'heaven' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'heaven' in daily conversations.
+  1. And if you bore each other then, heaven help you.
+  2. After baptism Jesus came up out of the water at once, and at that moment heaven opened;;.
 
 ## 27: Heel
 - **Dissection:** [heel]
@@ -219,8 +219,8 @@
 - **Meaning:** A person who is entitled by law or by the terms of a will to inherit the estate of another
 - **Hindi:** वारिस
 - **Examples:**
-  1. Learning the word 'heir' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'heir' in daily conversations.
+  1. He is still heir to the rare gifts of space and silence, if he chooses to be.
+  2. After the war back to the heir apparency of the steel company.
 
 ## 29: Helicopter
 - **Dissection:** [heli-copter]
@@ -243,8 +243,8 @@
 - **Meaning:** Armor plate that protects the head
 - **Hindi:** हेलमेट
 - **Examples:**
-  1. Learning the word 'helmet' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'helmet' in daily conversations.
+  1. The top of a policeman' s helmet appeared above the garden wall.
+  2. How comes a man like you to be talking philosophy in a blue helmet on the Thames embankment?
 
 ## 32: Herd
 - **Dissection:** [herd]
@@ -275,8 +275,8 @@
 - **Meaning:** A major road for any form of motor transport
 - **Hindi:** हाइवे
 - **Examples:**
-  1. Learning the word 'highway' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'highway' in daily conversations.
+  1. Maybe motel-keeping isn't the nation's biggest industry, but it certainly looks that way from the highway.
+  2. In the 12 months ended in February, 1961, this highway earned 93 per cent of its interest.
 
 ## 36: Hint
 - **Dissection:** [hint]
@@ -299,8 +299,8 @@
 - **Meaning:** A person who is an authority on history and who studies it and writes about it
 - **Hindi:** इतिहासकार
 - **Examples:**
-  1. Learning the word 'historian' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'historian' in daily conversations.
+  1. Yet nationalism has lost few of its charms for the historian, writer or man in the street.
+  2. The historian Charles Francis Adams called him `` a crude and half-crazy thinker ''.
 
 ## 39: Hive
 - **Dissection:** [hive]
@@ -315,8 +315,8 @@
 - **Meaning:** An auxiliary activity
 - **Hindi:** शौक
 - **Examples:**
-  1. I like to collect stamps from different countries as a hobby.
-  2. It is beneficial to understand the meaning and context of 'hobby' in daily conversations.
+  1. You say, `` But it costs a lot of money to have a hobby.
+  2. Folklore is his hobby, and he, all too rightly, wishes it to remain as such.
 
 ## 41: Hollow
 - **Dissection:** [hol-low]
@@ -339,8 +339,8 @@
 - **Meaning:** All of the same or similar kind or nature
 - **Hindi:** सजातीय
 - **Examples:**
-  1. A close-knit homogeneous group.
-  2. It is beneficial to understand the meaning and context of 'homogeneous' in daily conversations.
+  1. Folklore is individually created art that a homogeneous group of people preserve, vary and recreate through oral transmission.
+  2. The folk are simply not homogeneous with respect to nation or political attitude.
 
 ## 44: Honey
 - **Dissection:** [honey]
@@ -395,8 +395,8 @@
 - **Meaning:** Socks and stockings and tights collectively (the British include underwear)
 - **Hindi:** नली
 - **Examples:**
-  1. Hose the lawn.
-  2. It is beneficial to understand the meaning and context of 'hose' in daily conversations.
+  1. Mr. Parrillo was given first aid at Johnston Hose 1.
+  2. Use the air hose for this job.
 
 ## 51: Host
 - **Dissection:** [host]
@@ -411,7 +411,7 @@
 - **Meaning:** A prisoner who is held by one party to insure that another party will meet specified terms
 - **Hindi:** बंधक
 - **Examples:**
-  1. Learning the word 'hostage' can help improve your communication and writing skills.
+  1. The Hostage ( closed ), by Ireland's Brendan Behan.
   2. It is beneficial to understand the meaning and context of 'hostage' in daily conversations.
 
 ## 53: Hostile
@@ -483,8 +483,8 @@
 - **Meaning:** A severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)
 - **Hindi:** चक्रवात
 - **Examples:**
-  1. Learning the word 'hurricane' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hurricane' in daily conversations.
+  1. The basement or belowground shelters also will serve for tornado or hurricane protection.
+  2. He replenished the dipper and handed it to his young wife riding the hurricane deck.
 
 ## 62: Hut
 - **Dissection:** [hut]
@@ -499,8 +499,8 @@
 - **Meaning:** A nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe
 - **Hindi:** हाइड्रोजन
 - **Examples:**
-  1. Learning the word 'hydrogen' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hydrogen' in daily conversations.
+  1. This would give the hydrogen atom a slight charge-excess.
+  2. Dr. Lyttleton then imagines the universe as a large hydrogen sphere with surface atoms shooting away from it.
 
 ## 64: Hygiene
 - **Dissection:** [hy-giene]
@@ -515,8 +515,8 @@
 - **Meaning:** An expression of agreement that is not supported by real conviction
 - **Hindi:** पाखंड
 - **Examples:**
-  1. Learning the word 'hypocrisy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hypocrisy' in daily conversations.
+  1. Hypocrisy thus becomes the answer to a foolish public policy.
+  2. I was searching for an accent of self-delusion or, even, of hypocrisy.
 
 ## 66: Hypothesis
 - **Dissection:** [hy-po-thes-is]

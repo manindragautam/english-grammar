@@ -91,8 +91,8 @@
 - **Meaning:** A writer for newspapers and magazines
 - **Hindi:** पत्रकार
 - **Examples:**
-  1. Learning the word 'journalist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'journalist' in daily conversations.
+  1. Poehl was born in 1929 and worked as a financial journalist in the 1960s before starting his ministerial career.
+  2. I am a journalist, and I know.
 
 ## 13: Journey
 - **Dissection:** [jour-ney]
@@ -123,8 +123,8 @@
 - **Meaning:** A body of citizens sworn to give a true verdict according to the evidence presented in a court of law
 - **Hindi:** जूरी
 - **Examples:**
-  1. Jury mast; jury rudder.
-  2. It is beneficial to understand the meaning and context of 'jury' in daily conversations.
+  1. Implementation of Georgia's automobile title law was also recommended by the outgoing jury.
+  2. On other matters, the jury recommended that: ( 1 ).
 
 ## 17: Justice
 - **Dissection:** [justice]

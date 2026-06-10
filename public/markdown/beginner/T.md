@@ -107,8 +107,8 @@
 - **Meaning:** The practical application of science to commerce or industry
 - **Hindi:** तकनीकी
 - **Examples:**
-  1. He had trouble deciding which branch of engineering to study.
-  2. It is beneficial to understand the meaning and context of 'technology' in daily conversations.
+  1. In addition, Dr. Clark has studied at Rhode Island State College and Massachusetts Institute of Technology.
+  2. We have the technology today with which to build aircraft shelters which could withstand at least 200 Aj.
 
 ## 15: Telephone
 - **Dissection:** [tele-phone]
@@ -235,16 +235,16 @@
 - **Meaning:** A vocabulary word: their.
 - **Hindi:** उनका
 - **Examples:**
-  1. Learning the word 'their' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'their' in daily conversations.
+  1. The attorney general has advised local police that it is their duty to enforce the blue laws.
+  2. An agreement among the Princes on a coalition government would ease their task, diplomats conceded.
 
 ## 31: Them
 - **Dissection:** [them]
 - **Meaning:** (plural) Those ones.
 - **Hindi:** उन्हें
 - **Examples:**
-  1. Learning the word 'them' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'them' in daily conversations.
+  1. Local police have hesitated to prosecute them because of the heavy court costs involved even for the simplest offense.
+  2. In the 1920 presidential election they had that right and many of them did vote for the first time.
 
 ## 32: Theme
 - **Dissection:** [theme]
@@ -291,8 +291,8 @@
 - **Meaning:** The thing, item, etc. being indicated.
 - **Hindi:** इन
 - **Examples:**
-  1. This isn't the item that I ordered.
-  2. It is beneficial to understand the meaning and context of 'these' in daily conversations.
+  1. These would be paid for out of general, not payroll, taxes.
+  2. It excuses these actions as being the chain reaction to basic errors made in the previous administration.
 
 ## 38: They
 - **Dissection:** [they]
@@ -379,8 +379,8 @@
 - **Meaning:** The cardinal number that is the product of 10 and 100
 - **Hindi:** हज़ार
 - **Examples:**
-  1. Many thousands of people came to the conference.
-  2. It is beneficial to understand the meaning and context of 'thousand' in daily conversations.
+  1. In the early spring of 1913 a few hundred thousand persons turned out to watch 5000 women parade.
+  2. A trillion peas would fill all the houses in a town of about ten thousand people;;.
 
 ## 49: Thread
 - **Dissection:** [thread]
@@ -427,8 +427,8 @@
 - **Meaning:** From first to last
 - **Hindi:** लगातार
 - **Examples:**
-  1. The play was excellent end-to-end.
-  2. It is beneficial to understand the meaning and context of 'throughout' in daily conversations.
+  1. The description of the car was immediately broadcast throughout Southern Maryland on police radio.
+  2. For many years he had provided music and entertainment for functions throughout the Northwest.
 
 ## 55: Throw
 - **Dissection:** [throw]
@@ -531,8 +531,8 @@
 - **Meaning:** Mildly acid red or yellow pulpy fruit eaten as a vegetable
 - **Hindi:** टमाटर
 - **Examples:**
-  1. Lookit the legs on that hot tomato!
-  2. It is beneficial to understand the meaning and context of 'tomato' in daily conversations.
+  1. Contribute also an onion, a peeled tomato and two pickled gherkins, and a mashed lime.
+  2. And Margery' s father made a row of holes, after that, for the tomato plants.
 
 ## 68: Tomorrow
 - **Dissection:** [to-mor-row]

@@ -67,8 +67,8 @@
 - **Meaning:** A deceitful and unreliable scoundrel
 - **Hindi:** धूर्त
 - **Examples:**
-  1. Learning the word 'knave' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'knave' in daily conversations.
+  1. She said it to the Knave of Hearts, who only bowed and smiled in reply.
+  2. The Queen turned angrily away from him, and said to the Knave' Turn them over!'.
 
 ## 10: Knead
 - **Dissection:** [knead]

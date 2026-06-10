@@ -11,8 +11,8 @@
 - **Meaning:** The brother of your father or mother; the husband of your aunt
 - **Hindi:** चाचा
 - **Examples:**
-  1. He played uncle to lonely students.
-  2. It is beneficial to understand the meaning and context of 'uncle' in daily conversations.
+  1. Uncle Sam would then accuse them of creating a monopoly by `` unfair competition ''.
+  2. In the spacious hunting grounds of `` Uncle Sam '';;.
 
 ## 3: Under
 - **Dissection:** [un-der]

@@ -60,7 +60,7 @@
 - **Hindi:** कोमल
 - **Examples:**
   1. She managed to mollify the angry customer.
-  2. Understanding the term 'gentle' helps refine your vocabulary.
+  2. A gentle reprimand.
 
 ## 9: Get
 - **Dissection:** [get]
@@ -163,16 +163,16 @@
 - **Meaning:** The father of your father or mother
 - **Hindi:** दादा
 - **Examples:**
-  1. Learning the word 'grandfather' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'grandfather' in daily conversations.
+  1. My grandfather had been stoned because of his editorials.
+  2. That is in the continuance of the `` grandfather clauses '' in their membership requirements.
 
 ## 22: Grandmother
 - **Dissection:** [grand-moth-er]
 - **Meaning:** The mother of your father or mother
 - **Hindi:** दादी
 - **Examples:**
-  1. Learning the word 'grandmother' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'grandmother' in daily conversations.
+  1. Do, pray, dear grandmother, try us for one day -- to- morrow, will you?".
+  2. Let us count the halfpence, and carry them home now to grandmother.".
 
 ## 23: Grass
 - **Dissection:** [grass]

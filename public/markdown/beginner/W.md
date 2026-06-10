@@ -347,8 +347,8 @@
 - **Meaning:** A married woman; a man's partner in marriage
 - **Hindi:** पत्नी
 - **Examples:**
-  1. A new wife for the gander is introduced into the pen.
-  2. It is beneficial to understand the meaning and context of 'wife' in daily conversations.
+  1. The petition said that the couple has not lived together as man and wife for more than a year.
+  2. Shea and his wife, Nori, make their home at Sands Point, L. I..
 
 ## 45: Wild
 - **Dissection:** [wild]
@@ -555,8 +555,8 @@
 - **Meaning:** Something that would happen, or would be the case, under different circumstances; a potentiality.
 - **Hindi:** चाहेंगे
 - **Examples:**
-  1. Learning the word 'would' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'would' in daily conversations.
+  1. Cox argued that the bill is `` probably unconstitutional '' since, he said, it would impair contracts.
+  2. -- State representatives decided Thursday against taking a poll on what kind of taxes Texans would prefer to pay.
 
 ## 71: Wound
 - **Dissection:** [wound]
@@ -587,8 +587,8 @@
 - **Meaning:** Writes (books or stories or articles or the like) professionally (for pay)
 - **Hindi:** लेखक
 - **Examples:**
-  1. Has your girlfriend written you another letter already? She’s quite a writer!
-  2. It is beneficial to understand the meaning and context of 'writer' in daily conversations.
+  1. Sports Writer Ensign Ritchie of the Ogden Standard Examiner went to his compartment to talk with him.
+  2. Liston is Bill Liston, baseball writer for the Boston Traveler, who quoted Jensen as saying:.
 
 ## 75: Wrong
 - **Dissection:** [wrong]

@@ -83,8 +83,8 @@
 - **Meaning:** A container that is usually woven and has handles
 - **Hindi:** टोकरी
 - **Examples:**
-  1. Learning the word 'basket' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'basket' in daily conversations.
+  1. A basket of fake fruit adorned the table.
+  2. The point guard drove toward the basket.
 
 ## 12: Bath
 - **Dissection:** [bath]
@@ -99,8 +99,8 @@
 - **Meaning:** A room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet
 - **Hindi:** स्नानघर
 - **Examples:**
-  1. Most Americans don't know 'WC' and many Brits mock 'bathroom' but almost everyone understands 'toilet' or 'lavatory'.
-  2. It is beneficial to understand the meaning and context of 'bathroom' in daily conversations.
+  1. Set your bathtub before you close in the end of the bathroom.
+  2. I know now why our Japanese friends were surprised when they walked into our bathroom.
 
 ## 14: Be
 - **Dissection:** [be]
@@ -115,8 +115,8 @@
 - **Meaning:** An area of sand sloping down to the water of a sea or lake
 - **Hindi:** समुद्र तट
 - **Examples:**
-  1. The ship beached near the port.
-  2. It is beneficial to understand the meaning and context of 'beach' in daily conversations.
+  1. Mrs. Hamm will not come from Vero Beach, Fla., for the wedding.
+  2. It looks more like they are going to play at the beach instead of taking lessons on bettering themselves.
 
 ## 16: Bear
 - **Dissection:** [bear]
@@ -171,8 +171,8 @@
 - **Meaning:** A room used primarily for sleeping
 - **Hindi:** सोने का कमरा
 - **Examples:**
-  1. Please don't enter my bedroom without knocking.
-  2. It is beneficial to understand the meaning and context of 'bedroom' in daily conversations.
+  1. Mantle and Cerv use the twin beds in the bedroom;;.
+  2. Avoid attic placement directly above a bedroom.
 
 ## 23: Before
 - **Dissection:** [be-fore]
@@ -267,7 +267,7 @@
 - **Meaning:** A wheeled vehicle that has two wheels and is moved by foot pedals
 - **Hindi:** साइकिल
 - **Examples:**
-  1. Learning the word 'bicycle' can help improve your communication and writing skills.
+  1. With leather cups fitted in his handlebars, he steered his bicycle.
   2. It is beneficial to understand the meaning and context of 'bicycle' in daily conversations.
 
 ## 35: Big
@@ -307,8 +307,8 @@
 - **Meaning:** An anniversary of the day on which a person was born (or the celebration of it)
 - **Hindi:** जन्मदिन
 - **Examples:**
-  1. Learning the word 'birthday' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'birthday' in daily conversations.
+  1. For example, the Friday after Thanksgiving can be substituted for Washington's birthday.
+  2. 1543 A.D. is often venerated as the birthday of the scientific revolution.
 
 ## 40: Bit
 - **Dissection:** [bit]
@@ -507,8 +507,8 @@
 - **Meaning:** Food made from dough of flour or meal and usually raised with yeast or baking powder and then baked
 - **Hindi:** रोटी
 - **Examples:**
-  1. Bread the pork chops before frying them.
-  2. It is beneficial to understand the meaning and context of 'bread' in daily conversations.
+  1. The Bible is as obviously and truly food for the spirit as bread is food for the body.
+  2. Limit yourself to good meat and drink, with bread, salad, corn or potatoes as accessories.
 
 ## 65: Break
 - **Dissection:** [break]

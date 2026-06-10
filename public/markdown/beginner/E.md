@@ -123,8 +123,8 @@
 - **Meaning:** The cardinal number that is the sum of seven and one
 - **Hindi:** आठ
 - **Examples:**
-  1. He works eight hours a day.
-  2. It is beneficial to understand the meaning and context of 'eight' in daily conversations.
+  1. Karns' ruling pertained to eight of the 10 cases.
+  2. He hopes to melt off an additional eight pounds before the Flock breaks camp three weeks hence.
 
 ## 17: Either
 - **Dissection:** [either]
@@ -315,16 +315,16 @@
 - **Meaning:** All people.
 - **Hindi:** हर कोई
 - **Examples:**
-  1. Learning the word 'everybody' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'everybody' in daily conversations.
+  1. Everybody has a different idea on the ethics and morals of driving away neighbors, when and if.
+  2. Everybody had heard of Van Gogh, the French impressionist.
 
 ## 41: Everyone
 - **Dissection:** [every-one]
 - **Meaning:** Every person.
 - **Hindi:** सब लोग
 - **Examples:**
-  1. Learning the word 'everyone' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'everyone' in daily conversations.
+  1. It is one of the rare public ventures here on which nearly everyone is agreed.
+  2. Does it put the label of un-American or subversive on everyone with whom it disagrees politically??
 
 ## 42: Everything
 - **Dissection:** [everything]

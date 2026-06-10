@@ -3,16 +3,16 @@
 - **Meaning:** A device or control that is very useful for a particular job
 - **Hindi:** गैजेट
 - **Examples:**
-  1. He bought a neat new gadget for shredding potatoes.
-  2. It is beneficial to understand the meaning and context of 'gadget' in daily conversations.
+  1. The gadget faker operates or sells his phony machines for $5 to $10,000 -- anything the traffic will bear.
+  2. Perhaps one bored holes in the stone with some kind of an electric gadget.
 
 ## 2: Galaxy
 - **Dissection:** [galaxy]
 - **Meaning:** A splendid assemblage (especially of famous people)
 - **Hindi:** आकाशगंगा
 - **Examples:**
-  1. `extragalactic nebula' is a former name for `galaxy'.
-  2. It is beneficial to understand the meaning and context of 'galaxy' in daily conversations.
+  1. And what a galaxy of those adorns that fair land!!
+  2. Terms were not disclosed and the Galaxy did not identify the buyer.
 
 ## 3: Gallery
 - **Dissection:** [gal-lery]
@@ -75,8 +75,8 @@
 - **Meaning:** A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines
 - **Hindi:** पेट्रोल
 - **Examples:**
-  1. The refinery produces a wide range of gasolines.
-  2. It is beneficial to understand the meaning and context of 'gasoline' in daily conversations.
+  1. Luckily, she was not completely aflame and would go down before the gasoline could erupt.
+  2. Gasoline and automobile tires were rationed commodities.
 
 ## 11: Gasp
 - **Dissection:** [gasp]
@@ -171,32 +171,32 @@
 - **Meaning:** Study of the earth's surface; includes people's responses to topography and climate and soil and vegetation
 - **Hindi:** भूगोल
 - **Examples:**
-  1. Learning the word 'geography' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'geography' in daily conversations.
+  1. Its boundaries had nothing to do with geography or ethnic groupings;;.
+  2. However, the Multiplication Table doesn' t signify: let' s try Geography.
 
 ## 23: Geology
 - **Dissection:** [geo-logy]
 - **Meaning:** A science that deals with the history of the earth as recorded in rocks
 - **Hindi:** भूगर्भ शास्त्र
 - **Examples:**
-  1. The geology of the Alps.
-  2. It is beneficial to understand the meaning and context of 'geology' in daily conversations.
+  1. The key to the world of geology is change;;.
+  2. Since 1948 the working headquarters has been the Department of Geology and Mineralogy.
 
 ## 24: Geometry
 - **Dissection:** [geo-metry]
 - **Meaning:** The pure mathematics of points and lines and curves and surfaces
 - **Hindi:** ज्यामिति
 - **Examples:**
-  1. Learning the word 'geometry' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'geometry' in daily conversations.
+  1. This characterizes Euclid's formulation of geometry, but not Ptolemy's astronomy.
+  2. The experimental arrangement as described below is based on the geometry of free burning arcs.
 
 ## 25: Germ
 - **Dissection:** [germ]
 - **Meaning:** Anything that provides inspiration for later work
 - **Hindi:** रोगाणु
 - **Examples:**
-  1. The germ of civil liberty.
-  2. It is beneficial to understand the meaning and context of 'germ' in daily conversations.
+  1. It is through the metamorphosed dancer that the germ of form is discovered.
+  2. Thou well- kept, latent germ!
 
 ## 26: Gesture
 - **Dissection:** [ges-ture]
@@ -363,8 +363,8 @@
 - **Meaning:** The head of a state government
 - **Hindi:** राज्यपाल
 - **Examples:**
-  1. Learning the word 'governor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'governor' in daily conversations.
+  1. He will then appoint the study committee with Mr. Nugent's cooperation, the governor said.
+  2. The prospect of cutting back spending is an unpleasant one for any governor.
 
 ## 47: Grab
 - **Dissection:** [grab]
@@ -435,8 +435,8 @@
 - **Meaning:** A visual representation of the relations between certain quantities plotted with reference to a set of axes
 - **Hindi:** ग्राफ़
 - **Examples:**
-  1. Chart the data.
-  2. It is beneficial to understand the meaning and context of 'graph' in daily conversations.
+  1. By the use of various weights, data for a force-rate of shear graph can be obtained.
+  2. We consider now the graph of the function f{t} on Af.
 
 ## 56: Grasp
 - **Dissection:** [grasp]
@@ -491,8 +491,8 @@
 - **Meaning:** Excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves
 - **Hindi:** लालच
 - **Examples:**
-  1. His greed was his undoing.
-  2. It is beneficial to understand the meaning and context of 'greed' in daily conversations.
+  1. Pumblechook's hands throughout the novel serve to travesty greed and hypocritical self-aggrandizement.
+  2. His greed was his undoing.
 
 ## 63: Grief
 - **Dissection:** [grief]
@@ -563,8 +563,8 @@
 - **Meaning:** A marketplace where groceries are sold
 - **Hindi:** किराना
 - **Examples:**
-  1. The grocery store included a meat market.
-  2. It is beneficial to understand the meaning and context of 'grocery' in daily conversations.
+  1. Grocery stores sell dozens of foods that boast of having almost no food value at all.
+  2. The large amount of vegetable grindings from the grocery store in the shopping center created a suspended solids problem.
 
 ## 72: Guarantee
 - **Dissection:** [guar-an-tee]
@@ -587,16 +587,16 @@
 - **Meaning:** The state of having committed an offense
 - **Hindi:** अपराध
 - **Examples:**
-  1. He didn't want to do it, but his wife guilted him into it.
-  2. It is beneficial to understand the meaning and context of 'guilt' in daily conversations.
+  1. Attorneys for the eight other defendants said only that there was no proof of their clients' guilt.
+  2. These needs usually concern the reduction of guilt and some relief of tension.
 
 ## 75: Guitar
 - **Dissection:** [gui-tar]
 - **Meaning:** A stringed instrument usually having six strings; played by strumming or plucking
 - **Hindi:** गिटार
 - **Examples:**
-  1. Learning the word 'guitar' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'guitar' in daily conversations.
+  1. Julian Davidson, guitar;;.
+  2. The second reason for his popularity is his complete spontaneity with the guitar.
 
 ## 76: Gulf
 - **Dissection:** [gulf]

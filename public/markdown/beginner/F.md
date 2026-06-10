@@ -83,8 +83,8 @@
 - **Meaning:** A person who operates a farm
 - **Hindi:** किसान
 - **Examples:**
-  1. A farmer of the revenues.
-  2. It is beneficial to understand the meaning and context of 'farmer' in daily conversations.
+  1. He identified the man as Lewis Martin Parker, 59, a farmer of Hartselle, Ala..
+  2. Kid Ory, the trombonist chicken farmer, is also one of the solid anchor points of jazz.
 
 ## 12: Fast
 - **Dissection:** [fast]
@@ -155,8 +155,8 @@
 - **Meaning:** A barrier that serves to enclose an area
 - **Hindi:** बाड़
 - **Examples:**
-  1. We fenced in our yard.
-  2. It is beneficial to understand the meaning and context of 'fence' in daily conversations.
+  1. Gaines hammered the ball over the left fence for the third Indianapolis run in the ninth.
+  2. The audience filled all the seats inside the Wollman enclosure and overflowed onto the lawns outside the fence.
 
 ## 21: Few
 - **Dissection:** [few]
@@ -403,8 +403,8 @@
 - **Meaning:** A vocabulary word: for.
 - **Hindi:** के लिए
 - **Examples:**
-  1. Learning the word 'for' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'for' in daily conversations.
+  1. Attorneys for the mayor said that an amicable property settlement has been agreed upon.
+  2. The petition said that the couple has not lived together as man and wife for more than a year.
 
 ## 52: Force
 - **Dissection:** [force]
@@ -516,7 +516,7 @@
 - **Hindi:** दोस्त
 - **Examples:**
   1. He was my best friend at the university.
-  2. Understanding the term 'friend' helps refine your vocabulary.
+  2. He's a good ally in fight.
 
 ## 66: From
 - **Dissection:** [from]

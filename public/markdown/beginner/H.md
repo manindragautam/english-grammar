@@ -187,8 +187,8 @@
 - **Meaning:** A female person or animal.
 - **Hindi:** उसकी
 - **Examples:**
-  1. I think this bird is a him, but it may be a her.
-  2. It is beneficial to understand the meaning and context of 'her' in daily conversations.
+  1. The bride's brother, Walter D. Monroe Jr., will give her in marriage.
+  2. Her husband recently was appointed vice president of the university, bringing them back here from the east.
 
 ## 25: Here
 - **Dissection:** [here]
@@ -235,8 +235,8 @@
 - **Meaning:** Honorific alternative letter-case form of him, sometimes used when referring to God or another important figure who is understood from context.
 - **Hindi:** उसे
 - **Examples:**
-  1. I think this bird is a him, but it may be a her.
-  2. It is beneficial to understand the meaning and context of 'him' in daily conversations.
+  1. But he added that none of Georgia's congressmen specifically asked him to offer the resolution.
+  2. The younger boy said the blast knocked him out of bed and against the wall.
 
 ## 31: Himself
 - **Dissection:** [him-self]
@@ -339,8 +339,8 @@
 - **Meaning:** A health facility where patients receive treatment
 - **Hindi:** अस्पताल
 - **Examples:**
-  1. Learning the word 'hospital' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hospital' in daily conversations.
+  1. Full payment of nursing home bills for up to 180 days following discharge from a hospital.
+  2. Hospital outpatient clinic diagnostic service for all costs in excess of $20 a patient.
 
 ## 44: Hot
 - **Dissection:** [hot]
@@ -355,8 +355,8 @@
 - **Meaning:** A building where travelers can pay for lodging and meals and other services
 - **Hindi:** होटल
 - **Examples:**
-  1. Learning the word 'hotel' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hotel' in daily conversations.
+  1. When he protested, the hotel owner said:.
+  2. The dinner will be held at the Hotel Pierre.
 
 ## 46: Hour
 - **Dissection:** [hour]

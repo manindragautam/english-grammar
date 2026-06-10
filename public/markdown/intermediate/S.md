@@ -35,7 +35,7 @@
 - **Meaning:** An overland journey by hunters (especially in Africa)
 - **Hindi:** सफ़ारी
 - **Examples:**
-  1. Learning the word 'safari' can help improve your communication and writing skills.
+  1. Ruger reports that on his recent African safari the little Magnum cartridge was a real work horse.
   2. It is beneficial to understand the meaning and context of 'safari' in daily conversations.
 
 ## 6: Salary
@@ -83,8 +83,8 @@
 - **Meaning:** Two (or more) slices of bread with a filling between them
 - **Hindi:** सैंडविच
 - **Examples:**
-  1. She was sandwiched in her airplane seat between two fat men.
-  2. It is beneficial to understand the meaning and context of 'sandwich' in daily conversations.
+  1. A gross boy in his teens, shuffling in from the kitchen with a sandwich in his hands;;.
+  2. For a steak sandwich, or `` Kohi Futotsu ''!!
 
 ## 12: Satellite
 - **Dissection:** [satel-lite]
@@ -195,8 +195,8 @@
 - **Meaning:** A garment worn around the head or neck or shoulders for warmth or decoration
 - **Hindi:** दुपट्टा
 - **Examples:**
-  1. You sure scarfed that pizza.
-  2. It is beneficial to understand the meaning and context of 'scarf' in daily conversations.
+  1. And another time, without accusation: `` You never wore that scarf I bought you ''.
+  2. His hand went to her shoulder and pushed aside the knotted scarf that surmounted the striped poplin gown;;.
 
 ## 26: Scatter
 - **Dissection:** [scat-ter]
@@ -211,8 +211,8 @@
 - **Meaning:** The painted structures of a stage set that are intended to suggest a particular locale
 - **Hindi:** प्राकृतिक दृश्य
 - **Examples:**
-  1. They worked all night painting the scenery.
-  2. It is beneficial to understand the meaning and context of 'scenery' in daily conversations.
+  1. Gazing too long at the scenery could be tiring, so halts were contrived between meals.
+  2. While here, visit Theodore Roosevelt National Park for its spectacular scenery.
 
 ## 28: Schedule
 - **Dissection:** [sched-ule]
@@ -227,24 +227,24 @@
 - **Meaning:** An elaborate and systematic plan of action
 - **Hindi:** योजना
 - **Examples:**
-  1. A vast system of production and distribution and consumption keep the country going.
-  2. It is beneficial to understand the meaning and context of 'scheme' in daily conversations.
+  1. She fits into the general scheme well enough.
+  2. Here's how the scheme works: Suppose the operator pulls the lever to clear a particular signal.
 
 ## 30: Scholar
 - **Dissection:** [schol-ar]
 - **Meaning:** A learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines
 - **Hindi:** पंडित
 - **Examples:**
-  1. Learning the word 'scholar' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'scholar' in daily conversations.
+  1. I am a very poor Italian scholar.".
+  2. Susan had once been under her gentle dominion, and had been deservedly her favourite scholar.
 
 ## 31: Scholarship
 - **Dissection:** [schol-ar-ship]
 - **Meaning:** Financial aid provided to a student on the basis of academic merit
 - **Hindi:** छात्रवृत्ति
 - **Examples:**
-  1. Learning the word 'scholarship' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'scholarship' in daily conversations.
+  1. However, Biblical scholars frequently attested to its numerous inaccuracies, as old manuscripts were uncovered and scholarship advanced.
+  2. He gave a resume of the steps taken in order for the boy he sponsored to win the scholarship.
 
 ## 32: Scissors
 - **Dissection:** [scis-sors]
@@ -283,8 +283,8 @@
 - **Meaning:** A person employed to keep watch for some anticipated event
 - **Hindi:** स्काउट
 - **Examples:**
-  1. To scout an idea or an apology.
-  2. It is beneficial to understand the meaning and context of 'scout' in daily conversations.
+  1. Using launch systems presently available, we are developing satellites to scout the world's weather;;.
+  2. She asked hopefully, as she recognized the Scout Service uniform.
 
 ## 37: Scrape
 - **Dissection:** [scrape]
@@ -411,8 +411,8 @@
 - **Meaning:** Concerned chiefly or only with yourself and your advantage to the exclusion of others; - Maria Weston Chapman
 - **Hindi:** स्वार्थी
 - **Examples:**
-  1. Selfish men were...trying to make capital for themselves out of the sacred cause of civil rights.
-  2. It is beneficial to understand the meaning and context of 'selfish' in daily conversations.
+  1. He must begin, paradoxically, by becoming more selfish.
+  2. `` Don't you think it's selfish to have dinner before you go to pick her up ''??
 
 ## 53: Seminar
 - **Dissection:** [sem-in-ar]
@@ -427,16 +427,16 @@
 - **Meaning:** Assembly possessing high legislative powers
 - **Hindi:** प्रबंधकारिणी समिति
 - **Examples:**
-  1. Learning the word 'senate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'senate' in daily conversations.
+  1. A similar resolution passed in the Senate by a vote of 29-5.
+  2. There was no debate as the Senate passed the bill on to the House.
 
 ## 55: Senator
 - **Dissection:** [sen-at-or]
 - **Meaning:** A member of a senate
 - **Hindi:** सीनेटर
 - **Examples:**
-  1. Learning the word 'senator' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'senator' in daily conversations.
+  1. The principal speaker will be Senator Stuart Symington, Democrat of Missouri.
+  2. This is all the more remarkable because the Kirov is to ballet what Senator Goldwater is to American politics.
 
 ## 56: Sensation
 - **Dissection:** [sen-sa-tion]
@@ -595,16 +595,16 @@
 - **Meaning:** A clergyman who watches over a group of people
 - **Hindi:** चरवाहा
 - **Examples:**
-  1. Learning the word 'shepherd' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'shepherd' in daily conversations.
+  1. Are there individuals in your organization who can shepherd a new product through to commercialization;;.
+  2. He had his shepherd' s son into the parlour one night on purpose to sing to her.
 
 ## 76: Shield
 - **Dissection:** [shield]
 - **Meaning:** A protective covering or structure
 - **Hindi:** कवच
 - **Examples:**
-  1. She is harboring a grudge against him.
-  2. It is beneficial to understand the meaning and context of 'shield' in daily conversations.
+  1. All over the country a massive shield of prayer was thrown around him.
+  2. In addition, the inner surface of the carbon shield was covered with aluminum foil to reduce radiation.
 
 ## 77: Shift
 - **Dissection:** [shift]
@@ -651,8 +651,8 @@
 - **Meaning:** The property of being an amount by which something is less than expected or required
 - **Hindi:** कमी
 - **Examples:**
-  1. New blood vessels bud out from the already dilated vascular bed to make up the nutritional deficit.
-  2. It is beneficial to understand the meaning and context of 'shortage' in daily conversations.
+  1. This would be in perfect consonance with the underlying concern in the administration -- the shortage of cash.
+  2. The shortage was discovered after Huff failed to report for work on Sept. 18.
 
 ## 83: Shove
 - **Dissection:** [shove]
@@ -691,8 +691,8 @@
 - **Meaning:** Badminton equipment consisting of a ball of cork or rubber with a crown of feathers
 - **Hindi:** शटल
 - **Examples:**
-  1. Learning the word 'shuttle' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'shuttle' in daily conversations.
+  1. 7: 6 My days are swifter than a weaver' s shuttle, and are spent without hope.
+  2. Through the lacings of the leaves, the great sun seemed a flying shuttle weaving the unwearied verdure.
 
 ## 88: Shy
 - **Dissection:** [shy]
@@ -739,8 +739,8 @@
 - **Meaning:** A tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors
 - **Hindi:** सिलिकॉन
 - **Examples:**
-  1. Learning the word 'silicon' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'silicon' in daily conversations.
+  1. Semiconductors are the small silicon chips used for memory and recall purposes in a wide variety of computers.
+  2. Globe produces silicon metals and magnesium ferrosilicon.
 
 ## 94: Simplicity
 - **Dissection:** [sim-pli-city]
@@ -803,8 +803,8 @@
 - **Meaning:** A sea nymph (part woman and part bird) supposed to lure sailors to destruction on the rocks where the nymphs lived
 - **Hindi:** भोंपू
 - **Examples:**
-  1. Odysseus ordered his crew to plug their ears so they would not hear the Siren's fatal song.
-  2. It is beneficial to understand the meaning and context of 'siren' in daily conversations.
+  1. It was the sound of a siren.
+  2. Odysseus ordered his crew to plug their ears so they would not hear the Siren's fatal song.
 
 ## 102: Sketch
 - **Dissection:** [sketch]
@@ -843,7 +843,7 @@
 - **Meaning:** A very tall building with many stories
 - **Hindi:** गगनचुंबी इमारत
 - **Examples:**
-  1. Learning the word 'skyscraper' can help improve your communication and writing skills.
+  1. Los Angeles in 1957 finally bowed to the skyscraper.
   2. It is beneficial to understand the meaning and context of 'skyscraper' in daily conversations.
 
 ## 107: Slam
@@ -883,8 +883,8 @@
 - **Meaning:** The part of a garment that is attached at the armhole and that provides a cloth covering for the arm
 - **Hindi:** आस्तीन
 - **Examples:**
-  1. Learning the word 'sleeve' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sleeve' in daily conversations.
+  1. Place sleeve seam at center underarm and center of sleeve cap at shoulder seam.
+  2. He wiped his lips with a sleeve, then stared at Clayton in a childish kind of wonder.
 
 ## 112: Slender
 - **Dissection:** [slender]
@@ -931,7 +931,7 @@
 - **Meaning:** A favorite saying of a sect or political group
 - **Hindi:** नारा
 - **Examples:**
-  1. Learning the word 'slogan' can help improve your communication and writing skills.
+  1. Slogan of the John Birch Society: `` Paddle your own canoe.
   2. It is beneficial to understand the meaning and context of 'slogan' in daily conversations.
 
 ## 118: Slope
@@ -955,8 +955,8 @@
 - **Meaning:** A district of a city marked by poverty and inferior living conditions
 - **Hindi:** गंदी बस्ती
 - **Examples:**
-  1. Attending a motion picture show by the upper class was considered sluming in the early 20th century.
-  2. It is beneficial to understand the meaning and context of 'slum' in daily conversations.
+  1. Sir -- Your editorial, `` Housing Speedup '', is certainly not the answer to our slum problems.
+  2. The very rules and regulations in every city are the primary case of slum conditions.
 
 ## 121: Smash
 - **Dissection:** [smash]
@@ -995,8 +995,8 @@
 - **Meaning:** A symptom consisting of the involuntary expulsion of air from the nose
 - **Hindi:** छींक
 - **Examples:**
-  1. Pepper makes me sneeze.
-  2. It is beneficial to understand the meaning and context of 'sneeze' in daily conversations.
+  1. That' s where Cray' s bullet struck, shaking up the pepper and making the criminal sneeze.".
+  2. Pepper makes me sneeze.
 
 ## 126: Sniff
 - **Dissection:** [sniff]
@@ -1043,7 +1043,7 @@
 - **Meaning:** A football game in which two teams of 11 players try to kick or head a ball into the opponents' goal
 - **Hindi:** फुटबॉल
 - **Examples:**
-  1. Learning the word 'soccer' can help improve your communication and writing skills.
+  1. The Soccer Club was organized by undergraduate men interested in playing soccer and promoting the sport.
   2. It is beneficial to understand the meaning and context of 'soccer' in daily conversations.
 
 ## 132: Sociology
@@ -1051,16 +1051,16 @@
 - **Meaning:** The study and classification of human societies
 - **Hindi:** समाज शास्त्र
 - **Examples:**
-  1. Learning the word 'sociology' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sociology' in daily conversations.
+  1. The preconditions of sociology have remained largely unexamined by the sociologist.
+  2. But what is the operational worth of a sociology which mimetically reproduces the idea of physical models??
 
 ## 133: Software
 - **Dissection:** [soft-ware]
 - **Meaning:** (computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory
 - **Hindi:** सॉफ़्टवेयर
 - **Examples:**
-  1. The market for software is expected to expand.
-  2. It is beneficial to understand the meaning and context of 'software' in daily conversations.
+  1. Both companies produce and market microcomputer software.
+  2. It said Process' software helps companies monitor industrial processes, identifies problems and recommends solutions.
 
 ## 134: Soil
 - **Dissection:** [soil]
@@ -1099,8 +1099,8 @@
 - **Meaning:** A petitioner who solicits contributions or trade or votes
 - **Hindi:** वकील
 - **Examples:**
-  1. Learning the word 'solicitor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'solicitor' in daily conversations.
+  1. On the brief were Solicitor General Rankin, Assistant Attorney General Wilkey, Beatrice Rosenberg and J. F. Bishop.
+  2. And how can he write about Normans if the man' s only a solicitor?
 
 ## 139: Solo
 - **Dissection:** [solo]
@@ -1131,8 +1131,8 @@
 - **Meaning:** Some unspecified time in the future
 - **Hindi:** किसी दिन
 - **Examples:**
-  1. Someday you will understand my actions.
-  2. It is beneficial to understand the meaning and context of 'someday' in daily conversations.
+  1. Someday God would choose him.
+  2. I used to love this country and believe that someday we'd win our battle for equality.
 
 ## 143: Somehow
 - **Dissection:** [some-how]
@@ -1163,8 +1163,8 @@
 - **Meaning:** Give moral or emotional strength to
 - **Hindi:** शांत करना
 - **Examples:**
-  1. The medicine soothes the pain of the inflammation.
-  2. It is beneficial to understand the meaning and context of 'soothe' in daily conversations.
+  1. But none of this could soothe the exacerbated nerves.
+  2. O moon immense with your silvery face you soothe me!
 
 ## 147: Sophisticated
 - **Dissection:** [soph-ist-ic-ated]
@@ -1235,7 +1235,7 @@
 - **Meaning:** A health resort near a spring or at the seaside
 - **Hindi:** स्पा
 - **Examples:**
-  1. Learning the word 'spa' can help improve your communication and writing skills.
+  1. Chrysler also holds a 15 pct interest in Italian sports car producer & lt; Alfieri Maserati Spa >.
   2. It is beneficial to understand the meaning and context of 'spa' in daily conversations.
 
 ## 156: Spade
@@ -1267,8 +1267,8 @@
 - **Meaning:** Any of several small dull-colored singing birds feeding on seeds or insects
 - **Hindi:** गौरैया
 - **Examples:**
-  1. Learning the word 'sparrow' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sparrow' in daily conversations.
+  1. 102: 7 I watch, and am as a sparrow alone upon the house top.
+  2. A sparrow, that in at the window flew, Had crept into Piccola' s tiny shoe!
 
 ## 160: Spatial
 - **Dissection:** [spa-tial]
@@ -1331,8 +1331,8 @@
 - **Meaning:** An ordered array of the components of an emission or wave
 - **Hindi:** स्पेक्ट्रम
 - **Examples:**
-  1. Learning the word 'spectrum' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'spectrum' in daily conversations.
+  1. But it could also be looked at from the other end of the spectrum.
+  2. There is a broad spectrum of organisms from which selection for a specified military purpose might be made.
 
 ## 168: Speculate
 - **Dissection:** [spec-u-late]
@@ -1355,8 +1355,8 @@
 - **Meaning:** Aromatic substances of vegetable origin used as a preservative
 - **Hindi:** मसाला
 - **Examples:**
-  1. Spice up the evening by inviting a belly dancer.
-  2. It is beneficial to understand the meaning and context of 'spice' in daily conversations.
+  1. Spice is a fact of life in the U.S.A..
+  2. Spice up the evening by inviting a belly dancer.
 
 ## 171: Spill
 - **Dissection:** [spill]
@@ -1451,8 +1451,8 @@
 - **Meaning:** A male spokesperson
 - **Hindi:** प्रवक्ता
 - **Examples:**
-  1. Learning the word 'spokesman' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'spokesman' in daily conversations.
+  1. One house was without power for about half an hour, a Narragansett Electric Co. spokesman said.
+  2. The Unilever spokesman declined to say how much the group expected to receive for Stauffer.
 
 ## 183: Sponge
 - **Dissection:** [sponge]
@@ -1515,8 +1515,8 @@
 - **Meaning:** A kind of arboreal rodent having a long bushy tail
 - **Hindi:** गिलहरी
 - **Examples:**
-  1. Learning the word 'squirrel' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'squirrel' in daily conversations.
+  1. It can cut a red squirrel neatly in two or burst a crow into a flurry of feathers.
+  2. When Farmer Brown' s boy disappeared in the barn, Chatterer the Red Squirrel snickered right out loud.
 
 ## 191: Stab
 - **Dissection:** [stab]
@@ -1531,8 +1531,8 @@
 - **Meaning:** The quality or attribute of being firm and steadfast
 - **Hindi:** स्थिरता
 - **Examples:**
-  1. Early mariners relied on the constancy of the trade winds.
-  2. It is beneficial to understand the meaning and context of 'stability' in daily conversations.
+  1. There seems to be no purpose in life that is sure -- no certain guiding principles to give stability.
+  2. Otherwise, development will not lead to longrun stability.
 
 ## 193: Stable
 - **Dissection:** [stable]
@@ -1555,8 +1555,8 @@
 - **Meaning:** A large structure for open-air sports or entertainments
 - **Hindi:** स्टेडियम
 - **Examples:**
-  1. Learning the word 'stadium' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'stadium' in daily conversations.
+  1. SMU will play the Owls at Rice Stadium in Houston in a night game Saturday, Oct. 21.
+  2. Shea's efforts figure prominently in the new stadium.
 
 ## 196: Stain
 - **Dissection:** [stain]
@@ -1635,8 +1635,8 @@
 - **Meaning:** A sculpture representing a human or animal
 - **Hindi:** मूर्ति
 - **Examples:**
-  1. Learning the word 'statue' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'statue' in daily conversations.
+  1. Take away George Washington's statue.
+  2. Replace it with the statue of one or another of the world's famous dictators.
 
 ## 206: Status
 - **Dissection:** [status]
@@ -1659,8 +1659,8 @@
 - **Meaning:** A slice of meat cut from the fleshy part of an animal or large fish
 - **Hindi:** माँस का कबाब
 - **Examples:**
-  1. Learning the word 'steak' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'steak' in daily conversations.
+  1. `` Flip '' Phillips for a return engagement at Fireside Steak Ranch Wednesday;;.
+  2. If doubtful about a steak, boldly cut it in half.
 
 ## 209: Steep
 - **Dissection:** [steep]
@@ -1691,8 +1691,8 @@
 - **Meaning:** Reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound
 - **Hindi:** स्टीरियो
 - **Examples:**
-  1. He liked to listen to classical music on his stereo.
-  2. It is beneficial to understand the meaning and context of 'stereo' in daily conversations.
+  1. Edison could hardly have guessed, however, that Sophocles would one day appear in stereo.
+  2. This is a characteristic of good stereo recording and one of its tremendous advantages over monaural sound.
 
 ## 213: Stern
 - **Dissection:** [stern]
@@ -1771,8 +1771,8 @@
 - **Meaning:** A simple seat without a back or arms
 - **Hindi:** स्टूल
 - **Examples:**
-  1. The dog had made in the flower beds.
-  2. It is beneficial to understand the meaning and context of 'stool' in daily conversations.
+  1. His files, desk, drafting board and a high stool formed the only clean island in the chaos.
+  2. Her legs hung down long and thin as she sat on the high stool.
 
 ## 223: Stoop
 - **Dissection:** [stoop]
@@ -1931,7 +1931,7 @@
 - **Meaning:** A leisurely walk (usually in some public place)
 - **Hindi:** चहलक़दमी
 - **Examples:**
-  1. Learning the word 'stroll' can help improve your communication and writing skills.
+  1. Returning from my first morning stroll, I again sallied out upon this special errand.
   2. It is beneficial to understand the meaning and context of 'stroll' in daily conversations.
 
 ## 243: Struggle
@@ -2043,16 +2043,16 @@
 - **Meaning:** A residential district located on the outskirts of a city
 - **Hindi:** उपनगर
 - **Examples:**
-  1. Learning the word 'suburb' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'suburb' in daily conversations.
+  1. Commentary was a mere suburb of Partisan Review, the arch-enemy.
+  2. The ghetto, a miniature of Warsaw's, was emptied into the camp in the Majdan-Tartarski suburb called Majdanek.
 
 ## 257: Subway
 - **Dissection:** [sub-way]
 - **Meaning:** An electric railway operating below the surface of the ground (usually in a city)
 - **Hindi:** सबवे
 - **Examples:**
-  1. In Paris the subway system is called the `metro' and in London it is called the `tube' or the `underground'.
-  2. It is beneficial to understand the meaning and context of 'subway' in daily conversations.
+  1. She: `` By subway or cab ''??
+  2. In Paris the subway system is called the `metro' and in London it is called the `tube' or the `underground'.
 
 ## 258: Succeed
 - **Dissection:** [suc-ceed]
@@ -2155,8 +2155,8 @@
 - **Meaning:** A large self-service grocery store selling groceries and dairy products and household goods
 - **Hindi:** सुपरमार्केट
 - **Examples:**
-  1. I went to the supermarket to buy some food.
-  2. It is beneficial to understand the meaning and context of 'supermarket' in daily conversations.
+  1. Analyst Comeau said" supermarkets general may seek a combination with another supermarket company.".
+  2. Supermarkets General owns the Path Mark supermarket chain and Rickels home centres.
 
 ## 271: Supervise
 - **Dissection:** [su-per-vise]
@@ -2203,8 +2203,8 @@
 - **Meaning:** A physician who specializes in surgery
 - **Hindi:** सर्जन
 - **Examples:**
-  1. The surgeon refused to operate because the patient was her son.
-  2. It is beneficial to understand the meaning and context of 'surgeon' in daily conversations.
+  1. With Hudson looking on, his protege Greene picked a fight with the ship's surgeon, Edward Wilson.
+  2. Galli arrived with his family surgeon, Maestro Lippi.
 
 ## 277: Surgery
 - **Dissection:** [sur-gery]
@@ -2403,8 +2403,8 @@
 - **Meaning:** A cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard
 - **Hindi:** तलवार
 - **Examples:**
-  1. Learning the word 'sword' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sword' in daily conversations.
+  1. Historically, the flaming sword laid across this Eden is the Civil War.
+  2. ALLEGHENY INTERNATIONAL SELLS WILKINSON SWORD GROUP FOR 230 MLN DLRS.
 
 ## 302: Symbol
 - **Dissection:** [sym-bol]
@@ -2427,16 +2427,16 @@
 - **Meaning:** A long and complex sonata for symphony orchestra
 - **Hindi:** स्वर की समता
 - **Examples:**
-  1. We heard the Vienna symphony.
-  2. It is beneficial to understand the meaning and context of 'symphony' in daily conversations.
+  1. Performers include a company of 46 dancers and a symphony orchestra.
+  2. Howard Mitchell and the National Symphony perform in the first two releases, designed for grades one and two.
 
 ## 305: Symptom
 - **Dissection:** [symp-tom]
 - **Meaning:** (medicine) any sensation or change in bodily function that is experienced by a patient and is associated with a particular disease
 - **Hindi:** लक्षण
 - **Examples:**
-  1. Learning the word 'symptom' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'symptom' in daily conversations.
+  1. This is a common symptom and the cause usually is pressure on the nerve leading to the affected hand.
+  2. But Albania is merely a symptom of a real malaise between China and Russia.
 
 ## 306: Syndrome
 - **Dissection:** [syn-drome]
@@ -2451,8 +2451,8 @@
 - **Meaning:** The process of producing a chemical compound (usually by the union of simpler chemical compounds)
 - **Hindi:** संश्लेषण
 - **Examples:**
-  1. Learning the word 'synthesis' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'synthesis' in daily conversations.
+  1. True, a Mason watercolor is unmistakably a synthesis of nature rather than a detailed inventory.
+  2. Impartiality to him meant an unwillingness to generalize and to search for a synthesis.
 
 ## 308: Syrup
 - **Dissection:** [syr-up]

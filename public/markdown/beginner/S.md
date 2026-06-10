@@ -99,8 +99,8 @@
 - **Meaning:** A person with advanced knowledge of one or more sciences
 - **Hindi:** वैज्ञानिक
 - **Examples:**
-  1. Learning the word 'scientist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'scientist' in daily conversations.
+  1. Beadle is even that rare scientist who takes an interest in money matters;;.
+  2. The scientist who rebelled against the personnel and paper work;;.
 
 ## 14: Score
 - **Dissection:** [score]
@@ -171,8 +171,8 @@
 - **Meaning:** A person who is head of an administrative department of government
 - **Hindi:** सचिव
 - **Examples:**
-  1. Ban Ki-Moon was a secretary general of the United Nations.
-  2. It is beneficial to understand the meaning and context of 'secretary' in daily conversations.
+  1. One diplomat described the tenor of Secretary of State Dean Rusk's speeches as `` inconclusive ''.
+  2. Five candidates seek the place vacated by Secretary Hugh G. Stout.
 
 ## 23: Section
 - **Dissection:** [sec-tion]
@@ -299,8 +299,8 @@
 - **Meaning:** The cardinal number that is the sum of six and one
 - **Hindi:** सात
 - **Examples:**
-  1. He wrote three sevens on the paper.
-  2. It is beneficial to understand the meaning and context of 'seven' in daily conversations.
+  1. Karns had been scheduled this week to hear seven cases involving 35 persons.
+  2. In August of 1960, he sold seven.
 
 ## 39: Several
 - **Dissection:** [sev-er-al]
@@ -395,8 +395,8 @@
 - **Meaning:** Woolly usually horned ruminant mammal related to the goat
 - **Hindi:** भेड़
 - **Examples:**
-  1. His students followed him like sheep.
-  2. It is beneficial to understand the meaning and context of 'sheep' in daily conversations.
+  1. Janet Jossy of North Plains won grand champion honors of the 4-H sheep showman contest.
+  2. To reduce vibrionic abortion in breeding sheep, feed 80 milligrams per head daily.
 
 ## 51: Sheet
 - **Dissection:** [sheet]
@@ -411,8 +411,8 @@
 - **Meaning:** A support that consists of a horizontal surface for holding objects
 - **Hindi:** दराज
 - **Examples:**
-  1. A shelf of videos.
-  2. It is beneficial to understand the meaning and context of 'shelf' in daily conversations.
+  1. This happens on the grocer's shelf or in your kitchen.
+  2. Near it was a metal ladder on casters attached to the top shelf.
 
 ## 53: Shine
 - **Dissection:** [shine]
@@ -435,8 +435,8 @@
 - **Meaning:** A garment worn on the upper half of the body
 - **Hindi:** कमीज
 - **Examples:**
-  1. It can take a while to learn how to iron a shirt properly.
-  2. It is beneficial to understand the meaning and context of 'shirt' in daily conversations.
+  1. He wore a brown knit sports shirt with no tie.
+  2. Dark gray sports jacket, lighter gray slacks, pink flannel shirt, black silk necktie.
 
 ## 56: Shoe
 - **Dissection:** [shoe]
@@ -571,8 +571,8 @@
 - **Meaning:** A fabric made from the fine threads produced by certain insect larvae
 - **Hindi:** रेशम
 - **Examples:**
-  1. The thread made of silk was barely visible.
-  2. It is beneficial to understand the meaning and context of 'silk' in daily conversations.
+  1. Her favorite cocktail dress is a Norell, a black and white organdy and silk jersey.
+  2. Winston had heard her shaking out the skirt of her new pink silk hostess gown.
 
 ## 73: Silver
 - **Dissection:** [sil-ver]
@@ -667,8 +667,8 @@
 - **Meaning:** The cardinal number that is the sum of five and one
 - **Hindi:** छह
 - **Examples:**
-  1. Cover my six.
-  2. It is beneficial to understand the meaning and context of 'six' in daily conversations.
+  1. Six of these were proposed by religious groups.
+  2. $15,000 to pay six policemen assigned as dog catchers and $15,000 to investigate dog bites.
 
 ## 85: Size
 - **Dissection:** [size]
@@ -772,7 +772,7 @@
 - **Hindi:** मुस्कान
 - **Examples:**
   1. She smiled her thanks.
-  2. It is beneficial to understand the meaning and context of 'smile' in daily conversations.
+  2. He always puts a smile on my face.
 
 ## 98: Smoke
 - **Dissection:** [smoke]
@@ -827,7 +827,7 @@
 - **Meaning:** Hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee
 - **Hindi:** मौज़ा
 - **Examples:**
-  1. Learning the word 'sock' can help improve your communication and writing skills.
+  1. Instead of wanting to sock the poor bastard I found myself having a fellowfeeling for him.
   2. It is beneficial to understand the meaning and context of 'sock' in daily conversations.
 
 ## 105: Soft
@@ -843,8 +843,8 @@
 - **Meaning:** An enlisted man or woman who serves in an army
 - **Hindi:** सैनिक
 - **Examples:**
-  1. The soldiers stood at attention.
-  2. It is beneficial to understand the meaning and context of 'soldier' in daily conversations.
+  1. Former British Prime Minister Attlee says Eisenhower was not a `` great soldier ''.
+  2. Every soldier in the army has, somewhere, relatives who are close to starvation.
 
 ## 107: Solid
 - **Dissection:** [sol-id]
@@ -1195,8 +1195,8 @@
 - **Meaning:** An alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range
 - **Hindi:** इस्पात
 - **Examples:**
-  1. Learning the word 'steel' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'steel' in daily conversations.
+  1. Mr. Mitchell had an excuse for losing -- the steel strike lasted much longer than he anticipated.
+  2. And the composer himself was called the `` age of steel pianist ''.
 
 ## 151: Step
 - **Dissection:** [step]
@@ -1307,8 +1307,8 @@
 - **Meaning:** An elaborate and systematic plan of action
 - **Hindi:** रणनीति
 - **Examples:**
-  1. Learning the word 'strategy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'strategy' in daily conversations.
+  1. This strategy heightened the possibility that we would have a nuclear war.
+  2. Both won a pretty fair-sized war with a modest assist from British strategy.
 
 ## 165: Street
 - **Dissection:** [street]
@@ -1355,8 +1355,8 @@
 - **Meaning:** A learner who is enrolled in an educational institution
 - **Hindi:** विद्यार्थी
 - **Examples:**
-  1. He is a student of life.
-  2. It is beneficial to understand the meaning and context of 'student' in daily conversations.
+  1. Mr. Wall is a student at Tulane university, where he is a member of Delta Kappa Epsilon fraternity.
+  2. The student newspaper, The Emory Wheel, as early as the fall of 1954 called for desegregation.
 
 ## 171: Study
 - **Dissection:** [study]

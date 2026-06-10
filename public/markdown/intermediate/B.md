@@ -3,8 +3,8 @@
 - **Meaning:** A man who has never been married
 - **Hindi:** अविवाहित
 - **Examples:**
-  1. Learning the word 'bachelor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'bachelor' in daily conversations.
+  1. Handsome bachelor Charley was a favorite date of many of Hollywood's glamor gals for years.
+  2. He has a Bachelor of Science from the University of Manchester, England.
 
 ## 2: Backbone
 - **Dissection:** [back-bone]
@@ -19,8 +19,8 @@
 - **Meaning:** (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants
 - **Hindi:** जीवाणु
 - **Examples:**
-  1. Learning the word 'bacteria' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'bacteria' in daily conversations.
+  1. The bacteria formed typical activated sludge floc.
+  2. Of special concern is the growth of bacteria such as Clostridium botulinum which generate poisonous products.
 
 ## 4: Badge
 - **Dissection:** [badge]
@@ -75,8 +75,8 @@
 - **Meaning:** An upper floor projecting from the rear over the main floor in an auditorium
 - **Hindi:** बालकनी
 - **Examples:**
-  1. Learning the word 'balcony' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'balcony' in daily conversations.
+  1. At General Power's seat in the balcony there is also a gold phone.
+  2. We have our breakfast on a balcony -- on a balcony, if you please -- overlooking Leicester Square.".
 
 ## 11: Bald
 - **Dissection:** [bald]
@@ -91,8 +91,8 @@
 - **Meaning:** A theatrical representation of a story that is performed to music by trained dancers
 - **Hindi:** बैले
 - **Examples:**
-  1. Learning the word 'ballet' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ballet' in daily conversations.
+  1. In other words, no merely male creature can resist that corps de ballet.
+  2. This is all the more remarkable because the Kirov is to ballet what Senator Goldwater is to American politics.
 
 ## 13: Balloon
 - **Dissection:** [bal-loon]
@@ -195,8 +195,8 @@
 - **Meaning:** A structure or object that impedes free movement
 - **Hindi:** रुकावट
 - **Examples:**
-  1. Intolerance is a barrier to understanding.
-  2. It is beneficial to understand the meaning and context of 'barrier' in daily conversations.
+  1. This time more of them hurdled the barrier.
+  2. The dollar fell to a record low against the yen this morning, piercing the 150 yen barrier.
 
 ## 26: Baseball
 - **Dissection:** [base-ball]
@@ -211,8 +211,8 @@
 - **Meaning:** The lowermost portion of a structure partly or wholly below ground level; often used for storage
 - **Hindi:** तहखाना
 - **Examples:**
-  1. Learning the word 'basement' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'basement' in daily conversations.
+  1. The meter is mounted high on the basement wall.
+  2. Ventilation is provided in a concrete block basement shelter by vents in the wall and by the open entrance.
 
 ## 28: Basin
 - **Dissection:** [basin]
@@ -259,8 +259,8 @@
 - **Meaning:** Beaklike mouth of animals other than birds (e.g., turtles)
 - **Hindi:** चोंच
 - **Examples:**
-  1. Learning the word 'beak' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'beak' in daily conversations.
+  1. He flew to her shoulder, caressed her hair with his beak, and cooed in her ear.
+  2. Just then, a Skylark fluttered to the ground and eagerly darted his beak at the Diamond.
 
 ## 34: Beam
 - **Dissection:** [beam]
@@ -283,8 +283,8 @@
 - **Meaning:** A living organism characterized by voluntary movement
 - **Hindi:** जानवर
 - **Examples:**
-  1. That is a beast of a stadium.
-  2. It is beneficial to understand the meaning and context of 'beast' in daily conversations.
+  1. 22: 19 Whosoever lieth with a beast shall surely be put to death.
+  2. 24: 18 And he that killeth a beast shall make it good; beast for beast.
 
 ## 37: Beg
 - **Dissection:** [beg]
@@ -347,8 +347,8 @@
 - **Meaning:** A beloved person; used as terms of endearment
 - **Hindi:** प्यारा
 - **Examples:**
-  1. Learning the word 'beloved' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'beloved' in daily conversations.
+  1. Since it is a purely professional situation, none of the pain is associated with love-making or the beloved.
+  2. It was no coincidence that Goulding was one of the most beloved platoon leaders in the regiment.
 
 ## 45: Bench
 - **Dissection:** [bench]
@@ -371,8 +371,8 @@
 - **Meaning:** In or to a place that is lower
 - **Hindi:** नीचे
 - **Examples:**
-  1. Learning the word 'beneath' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'beneath' in daily conversations.
+  1. He thought of the tons and tons of flammable fluid beneath his feet and shook his head.
+  2. The onion was then fastened together with string and placed beneath a dripping eave.
 
 ## 48: Berry
 - **Dissection:** [berry]
@@ -403,16 +403,16 @@
 - **Meaning:** Any liquid suitable for drinking
 - **Hindi:** पेय
 - **Examples:**
-  1. May I take your beverage order?
-  2. It is beneficial to understand the meaning and context of 'beverage' in daily conversations.
+  1. Many food and beverage companies are already on a highly planned basis.
+  2. Beer, generally fermented from barley, is an old alcoholic beverage.
 
 ## 52: Beware
 - **Dissection:** [be-ware]
 - **Meaning:** Be on one's guard; be cautious or wary about; be alert to
 - **Hindi:** खबरदार
 - **Examples:**
-  1. Beware of telephone salesmen.
-  2. It is beneficial to understand the meaning and context of 'beware' in daily conversations.
+  1. Also, beware of open-end policies, especially in the medical field.
+  2. Let evildoers contemplate their ways, and let every man beware ''!!
 
 ## 53: Bias
 - **Dissection:** [bi-as]
@@ -427,8 +427,8 @@
 - **Meaning:** The sacred writings of the Christian religions
 - **Hindi:** बाइबिल
 - **Examples:**
-  1. He went to carry the Word to the heathen.
-  2. It is beneficial to understand the meaning and context of 'bible' in daily conversations.
+  1. The changes, unanimously adopted, were felt necessary in the face of modern trends away from the Bible.
+  2. The council agreed it should more firmly state its belief in and dependence on the Bible.
 
 ## 55: Bid
 - **Dissection:** [bid]
@@ -451,8 +451,8 @@
 - **Meaning:** An account of the series of events making up a person's life
 - **Hindi:** जीवनी
 - **Examples:**
-  1. There are many biographies of Benjamin Franklin.
-  2. It is beneficial to understand the meaning and context of 'biography' in daily conversations.
+  1. History, biography, and education are centered in Hempstead;;.
+  2. Of the two, The Life Of Bright is incomparably the better biography.
 
 ## 58: Biology
 - **Dissection:** [bio-logy]
@@ -467,16 +467,16 @@
 - **Meaning:** Small round bread leavened with baking-powder or soda
 - **Hindi:** बिस्कुट
 - **Examples:**
-  1. Cheese and biscuits.
-  2. It is beneficial to understand the meaning and context of 'biscuit' in daily conversations.
+  1. One even gave my little dog a biscuit.
+  2. Blend 2 cups biscuit mix with 2/3 cup milk to make a soft dough.
 
 ## 60: Bishop
 - **Dissection:** [bish-op]
 - **Meaning:** A senior member of the Christian clergy having spiritual and administrative authority; appointed in Christian churches to oversee priests or ministers; considered in some churches to be successors of the twelve Apostles of Christ
 - **Hindi:** बिशप
 - **Examples:**
-  1. Learning the word 'bishop' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'bishop' in daily conversations.
+  1. Pianists Leon Fleisher, Ruth Slenczynka and Stephen Bishop and conductor Earl Bernard Murray.
+  2. Below decks, Seaman 1/c Stanley Bishop had begun to write a letter home.
 
 ## 61: Bitter
 - **Dissection:** [bit-ter]
@@ -555,8 +555,8 @@
 - **Meaning:** Give a benediction to
 - **Hindi:** आशीर्वाद
 - **Examples:**
-  1. The dying man blessed his son.
-  2. It is beneficial to understand the meaning and context of 'bless' in daily conversations.
+  1. Bless you my friends, for it is through love and service that brotherhood becomes a reality.
+  2. But when you write to Congresswoman Church, bless her heart, your letter is answered fully and completely.
 
 ## 71: Blink
 - **Dissection:** [blink]
@@ -675,8 +675,8 @@
 - **Meaning:** A table (in a restaurant or bar) surrounded by two high-backed benches
 - **Hindi:** बूथ
 - **Examples:**
-  1. Learning the word 'booth' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'booth' in daily conversations.
+  1. In Boston, Edwin Booth was winding up a performance of A New Way To Pay Old Debts.
+  2. Booth had delivered his line.
 
 ## 86: Bore
 - **Dissection:** [bore]
@@ -755,8 +755,8 @@
 - **Meaning:** A group's refusal to have commercial dealings with some organization in protest against its policies
 - **Hindi:** बहिष्कार
 - **Examples:**
-  1. Learning the word 'boycott' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'boycott' in daily conversations.
+  1. Then the boycott would not be secondary, but a primary one.
+  2. Such a general boycott might still be a blunt or indiscriminating instrument, and therefore of questionable justification.
 
 ## 96: Brace
 - **Dissection:** [brace]
@@ -771,8 +771,8 @@
 - **Meaning:** A band of cloth or leather or metal links attached to a wristwatch and wrapped around the wrist
 - **Hindi:** कंगन
 - **Examples:**
-  1. Learning the word 'bracelet' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'bracelet' in daily conversations.
+  1. `` Do you think Laura did have the counterfeit bracelet made without her husband's knowledge ''??
+  2. It was the picture of Mrs. Villars in a small bracelet.
 
 ## 98: Bracket
 - **Dissection:** [brack-et]
@@ -867,8 +867,8 @@
 - **Meaning:** A woman who has recently been married
 - **Hindi:** दुल्हन
 - **Examples:**
-  1. Learning the word 'bride' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'bride' in daily conversations.
+  1. Mr. Wendell and his bride will live in his Lake Forest house.
+  2. Parents of the bride are Mr. and Mrs. Ferris M. Gay, 7034 Coronado.
 
 ## 110: Brief
 - **Dissection:** [brief]
@@ -1011,8 +1011,8 @@
 - **Meaning:** A brief report (especially an official statement issued for immediate publication or broadcast)
 - **Hindi:** बुलेटिन
 - **Examples:**
-  1. Learning the word 'bulletin' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'bulletin' in daily conversations.
+  1. Its supplement, The Medical Technicians Bulletin, supplied similar material to enlisted medical personnel.
+  2. In addition, their establishment made it unnecessary to begin publication of a contemplated Air Force medical bulletin.
 
 ## 128: Bully
 - **Dissection:** [bully]
@@ -1075,8 +1075,8 @@
 - **Meaning:** A thief who enters a building with intent to steal
 - **Hindi:** सेंधमार
 - **Examples:**
-  1. The burglar made off with a large diamond from the museum.
-  2. It is beneficial to understand the meaning and context of 'burglar' in daily conversations.
+  1. Systems which detect submarines over wide areas are attractive, although they can be only `` burglar alarms ''.
+  2. Then, after a bewildered pause, he said:" Was it a burglar?".
 
 ## 136: Bury
 - **Dissection:** [bury]
@@ -1123,6 +1123,6 @@
 - **Meaning:** A highway that encircles an urban area so that traffic does not have to pass through the center
 - **Hindi:** बाईपास
 - **Examples:**
-  1. You cannot bypass these rules!
-  2. It is beneficial to understand the meaning and context of 'bypass' in daily conversations.
+  1. After that Salem ships decided to bypass unfriendly Burma.
+  2. You cannot bypass these rules!
 

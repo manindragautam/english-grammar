@@ -243,32 +243,32 @@
 - **Meaning:** Feeling an inappropriate lack of seriousness
 - **Hindi:** छिछोरापन
 - **Examples:**
-  1. Learning the word 'levity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'levity' in daily conversations.
+  1. He does not really approve of levity and laughter, but sex is the deadly sin.
+  2. He fell to fighting again with a supernatural levity, like a Mohammedan panting for Paradise.
 
 ## 32: Lexicon
 - **Dissection:** [lex-icon]
 - **Meaning:** A language user's knowledge of words
 - **Hindi:** शब्दकोश
 - **Examples:**
-  1. A baseball lexicon.
-  2. It is beneficial to understand the meaning and context of 'lexicon' in daily conversations.
+  1. Certainly, it needs a definition, and should be incorporated into the Lexicon.
+  2. A baseball lexicon.
 
 ## 33: Liability
 - **Dissection:** [li-ab-il-ity]
 - **Meaning:** The state of being legally obliged and responsible
 - **Hindi:** देयता
 - **Examples:**
-  1. Learning the word 'liability' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'liability' in daily conversations.
+  1. Usually premium reductions can be obtained by applying deductibles to your liability plan.
+  2. The state has recently undertaken liability insurance for drivers of state cars.
 
 ## 34: Liaison
 - **Dissection:** [li-ais-on]
 - **Meaning:** A usually secretive or illicit sexual relationship
 - **Hindi:** मेल जोल
 - **Examples:**
-  1. He provided a liaison with the guerrillas.
-  2. It is beneficial to understand the meaning and context of 'liaison' in daily conversations.
+  1. By assuring good liaison between the committees and the administration;;.
+  2. But the liaison successfully started in the last days of autumn was now languishing.
 
 ## 35: Libel
 - **Dissection:** [li-bel]
@@ -299,8 +299,8 @@
 - **Meaning:** Driven by lust; preoccupied with or exhibiting lustful desires
 - **Hindi:** संगी
 - **Examples:**
-  1. Libidinous orgies.
-  2. It is beneficial to understand the meaning and context of 'libidinous' in daily conversations.
+  1. Something I cannot see puts upward libidinous prongs, Seas of bright juice suffuse heaven.
+  2. Libidinous orgies.
 
 ## 39: Licentious
 - **Dissection:** [li-centious]
@@ -323,7 +323,7 @@
 - **Meaning:** The right to take another's property if an obligation is not discharged
 - **Hindi:** धारणाधिकार
 - **Examples:**
-  1. Learning the word 'lien' can help improve your communication and writing skills.
+  1. Had we taken a lien on a state park??
   2. It is beneficial to understand the meaning and context of 'lien' in daily conversations.
 
 ## 42: Ligneous
@@ -427,8 +427,8 @@
 - **Meaning:** A legal proceeding in a court; a judicial contest to determine and enforce legal rights
 - **Hindi:** मुकदमेबाजी
 - **Examples:**
-  1. That attorney has been chastised for his litigation behavior.
-  2. It is beneficial to understand the meaning and context of 'litigation' in daily conversations.
+  1. The litigation was costly and seemingly endless.
+  2. Current year net both periods includes gain six cts shr from plywood manufacturers litigation settlement.
 
 ## 55: Livid
 - **Dissection:** [liv-id]
@@ -499,16 +499,16 @@
 - **Meaning:** A slow pace of running
 - **Hindi:** छलांग
 - **Examples:**
-  1. He loped along, hour after hour, not fast but steady and covering much ground.
-  2. It is beneficial to understand the meaning and context of 'lope' in daily conversations.
+  1. At once the whole band set off at a lope.
+  2. He loped along, hour after hour, not fast but steady and covering much ground.
 
 ## 64: Loquacious
 - **Dissection:** [lo-qua-cious]
 - **Meaning:** Full of trivial conversation
 - **Hindi:** बातूनी
 - **Examples:**
-  1. Kept from her housework by gabby neighbors.
-  2. Understanding the term 'loquacious' helps refine your vocabulary.
+  1. For an anthropologist, loquacious old L'Turu was a mine of information.
+  2. Kept from her housework by gabby neighbors.
 
 ## 65: Lugubrious
 - **Dissection:** [lugubri-ous]
@@ -555,16 +555,16 @@
 - **Meaning:** An awkward stupid person
 - **Hindi:** मूढ़
 - **Examples:**
-  1. You've broken the plates, you great lummox!
-  2. It is beneficial to understand the meaning and context of 'lummox' in daily conversations.
+  1. Peter, you lummox, you've forgot to order the musicians ''.
+  2. You've broken the plates, you great lummox!
 
 ## 71: Lunge
 - **Dissection:** [lunge]
 - **Meaning:** The act of moving forward suddenly
 - **Hindi:** झपट्टा
 - **Examples:**
-  1. I lunged at the police officer and made a grab for her gun.
-  2. It is beneficial to understand the meaning and context of 'lunge' in daily conversations.
+  1. The One Leg Lunge is a split and all lifters practice this in their regular workouts.
+  2. That's the One-Leg Lunge in a nutshell.
 
 ## 72: Lurch
 - **Dissection:** [lurch]

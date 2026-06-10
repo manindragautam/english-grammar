@@ -3,8 +3,8 @@
 - **Meaning:** A long depression in the surface of the land that usually contains a river
 - **Hindi:** घाटी
 - **Examples:**
-  1. Learning the word 'valley' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'valley' in daily conversations.
+  1. Look to Coosa Valley for industrial progress.
+  2. Philadelphia with its historic buildings and nearby Valley Forge;;.
 
 ## 2: Value
 - **Dissection:** [value]
@@ -35,8 +35,8 @@
 - **Meaning:** An unfortunate person who suffers from some adverse circumstance
 - **Hindi:** पीड़ित
 - **Examples:**
-  1. The youngest victims of the brutal war.
-  2. It is beneficial to understand the meaning and context of 'victim' in daily conversations.
+  1. Victim of the accident was Robert Lee Stansbery, 39.
+  2. The victim was beaten when he attempted to stop the bandit.
 
 ## 6: View
 - **Dissection:** [view]
@@ -51,8 +51,8 @@
 - **Meaning:** A community of people smaller than a town
 - **Hindi:** गाँव
 - **Examples:**
-  1. There are 2 churches and 3 shops in our village.
-  2. It is beneficial to understand the meaning and context of 'village' in daily conversations.
+  1. He said contributions also could be mailed to Post Office Box 553, Warren Village Station.
+  2. At Sturbridge Village, Massachusetts, you'll find a completely-restored New England town.
 
 ## 8: Violence
 - **Dissection:** [vi-ol-ence]
@@ -76,7 +76,7 @@
 - **Hindi:** आवाज़
 - **Examples:**
   1. A shrill voice sounded behind us.
-  2. Understanding the term 'voice' helps refine your vocabulary.
+  2. A singer takes good care of his voice.
 
 ## 11: Vote
 - **Dissection:** [vote]

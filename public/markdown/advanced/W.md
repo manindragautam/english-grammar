@@ -19,8 +19,8 @@
 - **Meaning:** Witty or joking; - James Fenimore Cooper
 - **Hindi:** चंचल
 - **Examples:**
-  1. Muskrat Castle as the house has been facetiously named by some waggish officer.
-  2. It is beneficial to understand the meaning and context of 'waggish' in daily conversations.
+  1. Such a waggish leering as lurks in all your horribles!
+  2. Muskrat Castle as the house has been facetiously named by some waggish officer.
 
 ## 4: Waif
 - **Dissection:** [waif]
@@ -83,8 +83,8 @@
 - **Meaning:** A lumpy abscess under the hide of domestic mammals caused by larvae of a botfly or warble fly
 - **Hindi:** गीत
 - **Examples:**
-  1. The Austrians were yodeling in the mountains.
-  2. It is beneficial to understand the meaning and context of 'warble' in daily conversations.
+  1. Fountains, and ye that warble, as ye flow, Melodious murmurs, warbling tune his praise.
+  2. 10 O how shall I warble myself for the dead one there I loved?
 
 ## 12: Warp
 - **Dissection:** [warp]
@@ -99,16 +99,16 @@
 - **Meaning:** A written assurance that some product or service will be provided or will meet certain specifications
 - **Hindi:** गारंटी
 - **Examples:**
-  1. I made sure to check the terms of my warranty for my computer to ensure I was covered in case it broke down.
-  2. It is beneficial to understand the meaning and context of 'warranty' in daily conversations.
+  1. The emergence of the crisis itself would seem to constitute a warranty for the victory of disorder.
+  2. I made sure to check the terms of my warranty for my computer to ensure I was covered in case it broke down.
 
 ## 14: Warren
 - **Dissection:** [war-ren]
 - **Meaning:** United States writer and poet (1905-1989)
 - **Hindi:** ख़रगोश पालने का बाड़ा
 - **Examples:**
-  1. Learning the word 'warren' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'warren' in daily conversations.
+  1. Honor attendants for the couple were Miss Sandra Branum and Warren V. McRoberts.
+  2. He said contributions also could be mailed to Post Office Box 553, Warren Village Station.
 
 ## 15: Wary
 - **Dissection:** [wary]
@@ -211,7 +211,7 @@
 - **Meaning:** The characteristic sounds made by a horse
 - **Hindi:** हिनाहिनाहट
 - **Examples:**
-  1. Learning the word 'whinny' can help improve your communication and writing skills.
+  1. Just at that moment he felt something warm nosing about at his shoulder, and heard a little whinny.
   2. It is beneficial to understand the meaning and context of 'whinny' in daily conversations.
 
 ## 28: Whittling
@@ -219,8 +219,8 @@
 - **Meaning:** Cut small bits or pare shavings from
 - **Hindi:** व्हिटलिंग
 - **Examples:**
-  1. Whittle a piece of wood.
-  2. It is beneficial to understand the meaning and context of 'whittling' in daily conversations.
+  1. Hecla in a snow- storm --" landlord, stop whittling.
+  2. Whittle a piece of wood.
 
 ## 29: Whorl
 - **Dissection:** [whorl]
@@ -275,7 +275,7 @@
 - **Meaning:** Charming in a childlike or naive way
 - **Hindi:** मनोहर
 - **Examples:**
-  1. Learning the word 'winsome' can help improve your communication and writing skills.
+  1. For sleeping man,' twas hard to choose between such winsome days and such seducing nights.
   2. It is beneficial to understand the meaning and context of 'winsome' in daily conversations.
 
 ## 36: Wispy
@@ -371,8 +371,8 @@
 - **Meaning:** Intense anger (usually on an epic scale)
 - **Hindi:** क्रोध
 - **Examples:**
-  1. Learning the word 'wrath' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'wrath' in daily conversations.
+  1. The skies turn dark but the clouds do not loose their wrath.
+  2. In its present artless, low-budget form, the subject matter seems designed to invite censorial wrath.
 
 ## 48: Wreak
 - **Dissection:** [wreak]

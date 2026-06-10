@@ -371,8 +371,8 @@
 - **Meaning:** A building where people go to eat
 - **Hindi:** रेस्टोरेंट
 - **Examples:**
-  1. Learning the word 'restaurant' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'restaurant' in daily conversations.
+  1. She will entertain at a Vieux Carre restaurant at 1 o'clock in the early afternoon.
+  2. Don Drinkhouse of Pal's Restaurant planning a reunion with the Miami Playboy Club's pianist, Julian Gould.
 
 ## 48: Result
 - **Dissection:** [res-ult]
@@ -403,8 +403,8 @@
 - **Meaning:** Grains used as food either unpolished or more often polished
 - **Hindi:** चावल
 - **Examples:**
-  1. Rice the potatoes.
-  2. It is beneficial to understand the meaning and context of 'rice' in daily conversations.
+  1. `` Kelsey is very doubtful for the Rice game '', Meek said.
+  2. Rice has not played since injuring a knee in the opener with Maryland.
 
 ## 52: Rich
 - **Dissection:** [rich]

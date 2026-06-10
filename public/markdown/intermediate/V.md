@@ -43,8 +43,8 @@
 - **Meaning:** Any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts)
 - **Hindi:** वैन
 - **Examples:**
-  1. The van sped down the road.
-  2. It is beneficial to understand the meaning and context of 'van' in daily conversations.
+  1. In the past the club depended largely on Van Brocklin's aerials.
+  2. Among them will be Marc Shoettle, Ben Shahn, Nicholas Marsicano, Alfred Van Loen and Milton Avery.
 
 ## 7: Vanish
 - **Dissection:** [van-ish]
@@ -67,8 +67,8 @@
 - **Meaning:** A visible suspension in the air of particles of some substance
 - **Hindi:** भाप
 - **Examples:**
-  1. To vapor away a heated fluid.
-  2. It is beneficial to understand the meaning and context of 'vapor' in daily conversations.
+  1. This has been attributed to helium film flow in the vapor pressure thermometer.
+  2. Mass spectrometric analysis of gases evolved upon heating to 410-degrees-C indicated nitrogen oxides and water vapor.
 
 ## 10: Variable
 - **Dissection:** [vari-able]
@@ -99,8 +99,8 @@
 - **Meaning:** An open jar of glass or porcelain used as an ornament or to hold flowers
 - **Hindi:** फूलदान
 - **Examples:**
-  1. Learning the word 'vase' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'vase' in daily conversations.
+  1. Painters left less and less of a vase in a plain dark color;;.
+  2. The table was now set in the arbour -- the vase was now placed in the middle.
 
 ## 14: Vast
 - **Dissection:** [vast]
@@ -123,8 +123,8 @@
 - **Meaning:** Edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant
 - **Hindi:** सब्ज़ी
 - **Examples:**
-  1. Learning the word 'vegetable' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'vegetable' in daily conversations.
+  1. The so-called vegetable ivory is the hard endosperm of the egg-sized seed.
+  2. Today, by contrast it is a lively and colorful fruit, vegetable, and flower market.
 
 ## 17: Vehicle
 - **Dissection:** [vehicle]
@@ -155,8 +155,8 @@
 - **Meaning:** A silky densely piled fabric with a plain back
 - **Hindi:** मख़मली
 - **Examples:**
-  1. Learning the word 'velvet' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'velvet' in daily conversations.
+  1. A little man with a velvet coat and pointed beard seconded.
+  2. In the abrupt silence, the man with the velvet jacket said, in a high, squeaky voice --.
 
 ## 21: Vengeance
 - **Dissection:** [ven-geance]
@@ -219,8 +219,8 @@
 - **Meaning:** A tube in which a body fluid circulates
 - **Hindi:** जहाज़
 - **Examples:**
-  1. Blood and lymph vessels are found in humans; xylem and phloem vessels are found in plants.
-  2. It is beneficial to understand the meaning and context of 'vessel' in daily conversations.
+  1. And the waves threatening to swallow up the vessel;;.
+  2. However, we sent a third vessel out, a much smaller and faster one than the first two.
 
 ## 29: Veteran
 - **Dissection:** [vet-er-an]
@@ -291,24 +291,24 @@
 - **Meaning:** Mexican revolutionary leader (1877-1923)
 - **Hindi:** विला
 - **Examples:**
-  1. Learning the word 'villa' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'villa' in daily conversations.
+  1. Most of the emphasis has been placed on a `` wild party '' at a seaside villa.
+  2. The massive gate of the Maltese villa affords one of the most extraordinary views in Rome.
 
 ## 38: Vine
 - **Dissection:** [vine]
 - **Meaning:** A plant with a weak stem that derives support from climbing, twining, or creeping along a surface
 - **Hindi:** बेल
 - **Examples:**
-  1. Learning the word 'vine' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'vine' in daily conversations.
+  1. Bright flowers from the trumpet vine that made `` gloves '' on the ends of ten waggling fingers.
+  2. 9: 12 Then said the trees unto the vine, Come thou, and reign over us.
 
 ## 39: Vinegar
 - **Dissection:** [vin-eg-ar]
 - **Meaning:** Sour-tasting liquid produced usually by oxidation of the alcohol in wine or cider and used as a condiment or food preservative
 - **Hindi:** सिरका
 - **Examples:**
-  1. A range of herb-flavoured vinegars.
-  2. It is beneficial to understand the meaning and context of 'vinegar' in daily conversations.
+  1. They looked as if they had been fed on vinegar and shavings.
+  2. Another swore by vinegar baths for burns, and still another recommended salted butter.
 
 ## 40: Violate
 - **Dissection:** [vi-ol-ate]
@@ -347,8 +347,8 @@
 - **Meaning:** An endorsement made in a passport that allows the bearer to enter the country issuing it
 - **Hindi:** वीज़ा
 - **Examples:**
-  1. The list of speakers must be visaed.
-  2. It is beneficial to understand the meaning and context of 'visa' in daily conversations.
+  1. Then will you give me a visa to re-enter France ''??
+  2. But there is no question of a visa.
 
 ## 45: Visible
 - **Dissection:** [vis-ible]
@@ -387,7 +387,7 @@
 - **Meaning:** Any of a group of organic substances essential in small quantities to normal metabolism
 - **Hindi:** विटामिन
 - **Examples:**
-  1. Learning the word 'vitamin' can help improve your communication and writing skills.
+  1. A Schilling test demonstrated normal absorption of vitamin Af.
   2. It is beneficial to understand the meaning and context of 'vitamin' in daily conversations.
 
 ## 50: Vivid
@@ -411,8 +411,8 @@
 - **Meaning:** A fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt
 - **Hindi:** ज्वालामुखी
 - **Examples:**
-  1. Learning the word 'volcano' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'volcano' in daily conversations.
+  1. Clerfayt, driving, sees himself `` a volcano whose cone funneled down to hell '';;.
+  2. The Aguarico bridge was also close to the volcano, he said.
 
 ## 53: Volume
 - **Dissection:** [volume]
@@ -443,16 +443,16 @@
 - **Meaning:** A speech sound made with the vocal tract open
 - **Hindi:** स्वर
 - **Examples:**
-  1. Learning the word 'vowel' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'vowel' in daily conversations.
+  1. For example, duration sometimes figures in both the vowel system and the intonation.
+  2. One other paper deals with a phonologic problem: Vowel Harmony In Igbo, by J. Carnochan.
 
 ## 57: Voyage
 - **Dissection:** [voy-age]
 - **Meaning:** An act of traveling by water
 - **Hindi:** जलयात्रा
 - **Examples:**
-  1. The QE2 will sail to Southampton tomorrow.
-  2. It is beneficial to understand the meaning and context of 'voyage' in daily conversations.
+  1. The man who now commanded her had started the voyage as an ordinary seaman.
+  2. The purpose of this fourth voyage was clear.
 
 ## 58: Vulgar
 - **Dissection:** [vul-gar]

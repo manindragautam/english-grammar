@@ -19,8 +19,8 @@
 - **Meaning:** A plan for attaining a particular goal
 - **Hindi:** रणनीति
 - **Examples:**
-  1. Learning the word 'tactic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tactic' in daily conversations.
+  1. The principal tactic in controlling the ball was giving it to Abner Haynes, the flashy halfback.
+  2. It should be appallingly apparent that city-trading is not a profitable military tactic.
 
 ## 4: Tag
 - **Dissection:** [tag]
@@ -123,16 +123,16 @@
 - **Meaning:** Someone whose occupation involves training in a specific technical process
 - **Hindi:** तकनीशियन
 - **Examples:**
-  1. Learning the word 'technician' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'technician' in daily conversations.
+  1. An impressive technician, Mr. Skolovsky has fine rhythm, to boot.
+  2. During the night, a phone company technician had deadened the bells and installed red blinkers on the phones.
 
 ## 17: Technique
 - **Dissection:** [tech-nique]
 - **Meaning:** A practical method or art applied to some particular task
 - **Hindi:** तकनीक
 - **Examples:**
-  1. Practice greatly improves proficiency.
-  2. It is beneficial to understand the meaning and context of 'technique' in daily conversations.
+  1. Since the apparatus is new, it requires experimentation and changes in technique.
+  2. His technique is ample and his musical ideas are projected beautifully.
 
 ## 18: Tedious
 - **Dissection:** [te-di-ous]
@@ -195,8 +195,8 @@
 - **Meaning:** Someone who pays rent to use land or a building or a car that is owned by someone else
 - **Hindi:** किराएदार
 - **Examples:**
-  1. The landlord can evict a tenant who doesn't pay the rent.
-  2. It is beneficial to understand the meaning and context of 'tenant' in daily conversations.
+  1. If you are a life tenant, you deduct allowable depreciation and depletion.
+  2. She's married that tenant!!
 
 ## 26: Tendency
 - **Dissection:** [tend-ency]
@@ -259,7 +259,7 @@
 - **Meaning:** Fill with terror; frighten greatly
 - **Hindi:** ख़ौफ़ में डालना
 - **Examples:**
-  1. Learning the word 'terrify' can help improve your communication and writing skills.
+  1. For he never means to swallow a single limb; he only thinks to terrify by feints.
   2. It is beneficial to understand the meaning and context of 'terrify' in daily conversations.
 
 ## 34: Territory
@@ -307,8 +307,8 @@
 - **Meaning:** The act of taking something from someone unlawfully
 - **Hindi:** चोरी
 - **Examples:**
-  1. The thieving is awful at Kennedy International.
-  2. It is beneficial to understand the meaning and context of 'theft' in daily conversations.
+  1. He had done time for the theft.
+  2. The thieving is awful at Kennedy International.
 
 ## 40: Theology
 - **Dissection:** [theo-logy]
@@ -339,15 +339,15 @@
 - **Meaning:** Measuring instrument for measuring temperature
 - **Hindi:** थर्मामीटर
 - **Examples:**
-  1. Learning the word 'thermometer' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'thermometer' in daily conversations.
+  1. For roasts, insert meat thermometer diagonally so it does not rest on bone.
+  2. Also make sure thermometer does not touch the revolving spit or hit the coals.
 
 ## 44: Thesis
 - **Dissection:** [thes-is]
 - **Meaning:** An unproved statement put forward as a premise in an argument
 - **Hindi:** थीसिस
 - **Examples:**
-  1. Learning the word 'thesis' can help improve your communication and writing skills.
+  1. " I have considered the thesis," answered the little man, composedly.
   2. It is beneficial to understand the meaning and context of 'thesis' in daily conversations.
 
 ## 45: Thigh
@@ -355,8 +355,8 @@
 - **Meaning:** The part of the leg between the hip and the knee
 - **Hindi:** जाँघ
 - **Examples:**
-  1. Learning the word 'thigh' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'thigh' in daily conversations.
+  1. It's a complete thigh contraction-extension exercise.
+  2. It landed on Roberts' sprawled right thigh, poised precariously, then slid off to the ground.
 
 ## 46: Thirst
 - **Dissection:** [thirst]
@@ -507,8 +507,8 @@
 - **Meaning:** Leaves of the tobacco plant dried and prepared for smoking or ingestion
 - **Hindi:** तंबाकू
 - **Examples:**
-  1. Tobaccos from the Connecticut Valley were used for wrapping cigars.
-  2. It is beneficial to understand the meaning and context of 'tobacco' in daily conversations.
+  1. Smokers reduced to `` the makings '', spoke of the sack tobacco as `` Hoover dust ''.
+  2. Early in 1822 he was at Fort Garry offering to bring in pork, flour, liquor and tobacco.
 
 ## 65: Token
 - **Dissection:** [token]
@@ -539,16 +539,16 @@
 - **Meaning:** A place for the burial of a corpse (especially beneath the ground and marked by a tombstone)
 - **Hindi:** मकबरा
 - **Examples:**
-  1. He put flowers on his mother's grave.
-  2. It is beneficial to understand the meaning and context of 'tomb' in daily conversations.
+  1. Similarly in Illinois there is Lincoln country to be seen -- his tomb and other landmarks.
+  2. In this true lover's tomb interred A world of love lies sepulchred.
 
 ## 69: Ton
 - **Dissection:** [ton]
 - **Meaning:** A United States unit of weight equivalent to 2000 pounds
 - **Hindi:** टन
 - **Examples:**
-  1. I've got tons of work to do.
-  2. It is beneficial to understand the meaning and context of 'ton' in daily conversations.
+  1. A ton of cooling compares to the cooling you get by melting a ton of ice.
+  2. -- To increase rate of gain and improve feed efficiency, feed 10 to 20 grams per ton.
 
 ## 70: Tone
 - **Dissection:** [tone]
@@ -587,8 +587,8 @@
 - **Meaning:** Usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except Australia and Antarctica
 - **Hindi:** कछुआ
 - **Examples:**
-  1. Learning the word 'tortoise' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tortoise' in daily conversations.
+  1. I wore my sword because the Tortoise came wearing his coat of mail.".
+  2. So the Tortoise was sent for.
 
 ## 75: Torture
 - **Dissection:** [tor-ture]
@@ -635,8 +635,8 @@
 - **Meaning:** A wheeled vehicle with large wheels; used in farming and other applications
 - **Hindi:** ट्रैक्टर
 - **Examples:**
-  1. Learning the word 'tractor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tractor' in daily conversations.
+  1. The Eleanor Roosevelt Tractor Committee acts on behalf of the Cuban freedom fighters.
+  2. I almost ran over the snake before I could stop the tractor in time.
 
 ## 81: Tragedy
 - **Dissection:** [tragedy]
@@ -667,8 +667,8 @@
 - **Meaning:** Someone who betrays his country by committing treason
 - **Hindi:** गद्दार
 - **Examples:**
-  1. Learning the word 'traitor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'traitor' in daily conversations.
+  1. I mean the traitor, if he was a traitor.
+  2. There is a traitor at this table.
 
 ## 85: Tram
 - **Dissection:** [tram]
@@ -787,8 +787,8 @@
 - **Meaning:** A crime that undermines the offender's government
 - **Hindi:** राज-द्रोह
 - **Examples:**
-  1. Learning the word 'treason' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'treason' in daily conversations.
+  1. Then Athaliah rent her clothes, and said, Treason, Treason.
+  2. Perjury or treason is the only crime I haven' t committed.
 
 ## 100: Treasure
 - **Dissection:** [treas-ure]
@@ -803,8 +803,8 @@
 - **Meaning:** A written agreement between two states or sovereigns
 - **Hindi:** संधि
 - **Examples:**
-  1. Learning the word 'treaty' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'treaty' in daily conversations.
+  1. Catherine's first war against the Grand Turk had ended in 1774 with a peace treaty quite favorable to her.
+  2. And Emergency War Surgery in support of the North Atlantic Treaty Organization ( NATO ) Handbook.
 
 ## 102: Tremble
 - **Dissection:** [tremble]
@@ -835,8 +835,8 @@
 - **Meaning:** A social division of (usually preliterate) people
 - **Hindi:** जनजाति
 - **Examples:**
-  1. The Duchess tribe of shorthorns.
-  2. It is beneficial to understand the meaning and context of 'tribe' in daily conversations.
+  1. 1: 47 But the Levites after the tribe of their fathers were not numbered among them.
+  2. 13: 5 Of the tribe of Simeon, Shaphat the son of Hori.
 
 ## 106: Tribute
 - **Dissection:** [trib-ute]
@@ -924,7 +924,7 @@
 - **Hindi:** टब
 - **Examples:**
   1. A tub of water.
-  2. It is beneficial to understand the meaning and context of 'tub' in daily conversations.
+  2. He bought a tub of lard to roast the potatoes in.
 
 ## 117: Tumble
 - **Dissection:** [tumble]
@@ -1003,6 +1003,6 @@
 - **Meaning:** A cruel and oppressive dictator
 - **Hindi:** तानाशाह
 - **Examples:**
-  1. His father was a tyrant.
-  2. It is beneficial to understand the meaning and context of 'tyrant' in daily conversations.
+  1. Assassination, even of a tyrant, is repulsive to men of good conscience.
+  2. He has been a tyrant to me as to everybody else.
 

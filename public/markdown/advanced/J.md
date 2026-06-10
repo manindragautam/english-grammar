@@ -139,7 +139,7 @@
 - **Meaning:** A group of military officers who rule a country after seizing power
 - **Hindi:** जून्टा
 - **Examples:**
-  1. Learning the word 'junta' can help improve your communication and writing skills.
+  1. Gen. Gursel has headed the military junta the last 17 months.
   2. It is beneficial to understand the meaning and context of 'junta' in daily conversations.
 
 ## 19: Jurisprudence

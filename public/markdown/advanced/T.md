@@ -163,8 +163,8 @@
 - **Meaning:** Your usual mood
 - **Hindi:** स्वभाव
 - **Examples:**
-  1. He has a happy disposition.
-  2. It is beneficial to understand the meaning and context of 'temperament' in daily conversations.
+  1. Garrison, Massachusetts born of Nova Scotian parentage, was by temperament and conviction a reformer.
+  2. As for himself, he just didn't have the temperament for it.
 
 ## 22: Temperance
 - **Dissection:** [tem-per-ance]
@@ -187,8 +187,8 @@
 - **Meaning:** (music) the speed at which a composition is to be played
 - **Hindi:** गति
 - **Examples:**
-  1. Learning the word 'tempo' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tempo' in daily conversations.
+  1. Increasing tempo of new product development.
+  2. Their own easier, slower tempo is especially dear to Southerners;;.
 
 ## 25: Temporal
 - **Dissection:** [tem-por-al]
@@ -219,7 +219,7 @@
 - **Meaning:** Persistent determination
 - **Hindi:** दृढ़ता
 - **Examples:**
-  1. Learning the word 'tenacity' can help improve your communication and writing skills.
+  1. He alone has the wisdom, the conviction, the tenacity, and the courage to reach a decision.
   2. It is beneficial to understand the meaning and context of 'tenacity' in daily conversations.
 
 ## 29: Tendentious
@@ -267,8 +267,8 @@
 - **Meaning:** The term during which some position is held
 - **Hindi:** कार्यकाल
 - **Examples:**
-  1. She was tenured after she published her book.
-  2. It is beneficial to understand the meaning and context of 'tenure' in daily conversations.
+  1. Much has been made of the fact that major Catholic institutions now guarantee firm tenure.
+  2. This is a problem that goes considerably beyond questions of salary and tenure.
 
 ## 35: Tepid
 - **Dissection:** [tep-id]
@@ -411,8 +411,8 @@
 - **Meaning:** A large gathering of people
 - **Hindi:** भीड़
 - **Examples:**
-  1. The crowd packed the auditorium.
-  2. It is beneficial to understand the meaning and context of 'throng' in daily conversations.
+  1. On the fringe of the amused throng of white onlookers stood a young woman of remarkable beauty and poise.
+  2. Fellow, come from the throng, look vpon Caesar.
 
 ## 53: Thwart
 - **Dissection:** [thwart]
@@ -435,16 +435,16 @@
 - **Meaning:** A shoot that sprouts from the base of a grass
 - **Hindi:** टिलर
 - **Examples:**
-  1. Learning the word 'tiller' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tiller' in daily conversations.
+  1. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
+  2. It must be, he' s lost his tiller.".
 
 ## 56: Timidity
 - **Dissection:** [timid-ity]
 - **Meaning:** Fear of the unknown or unfamiliar or fear of making decisions
 - **Hindi:** कातरता
 - **Examples:**
-  1. Learning the word 'timidity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'timidity' in daily conversations.
+  1. It had been weakness and timidity.
+  2. But this occasional timidity is characteristic of almost all herding creatures.
 
 ## 57: Timorous
 - **Dissection:** [timor-ous]
@@ -499,8 +499,8 @@
 - **Meaning:** A nervous restrained laugh
 - **Hindi:** मुंह दबाकर हंसना
 - **Examples:**
-  1. The girls giggled when the rock star came into the classroom.
-  2. It is beneficial to understand the meaning and context of 'titter' in daily conversations.
+  1. Usually, they titter loudly after they have passed by.
+  2. The girls giggled when the rock star came into the classroom.
 
 ## 64: Titular
 - **Dissection:** [tit-u-lar]
@@ -531,8 +531,8 @@
 - **Meaning:** The configuration of a surface and the relations among its man-made and natural features
 - **Hindi:** तलरूप
 - **Examples:**
-  1. Learning the word 'topography' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'topography' in daily conversations.
+  1. -- Topography is very important.
+  2. Determine how much topography limits useful area or what the costs of earth moving or grading might be.
 
 ## 68: Torpid
 - **Dissection:** [tor-pid]
@@ -547,15 +547,15 @@
 - **Meaning:** A state of motor and mental inactivity with a partial suspension of sensibility
 - **Hindi:** सो हो जाना
 - **Examples:**
-  1. He fell into a deep torpor.
-  2. It is beneficial to understand the meaning and context of 'torpor' in daily conversations.
+  1. Apart from the honeybee, practically all bees and bumblebees hibernate in a state of torpor.
+  2. The woman seemed utterly unafraid of the snake which coiled on the floor in a torpor.
 
 ## 70: Torque
 - **Dissection:** [torque]
 - **Meaning:** A twisting force
 - **Hindi:** टॉर्कः
 - **Examples:**
-  1. Learning the word 'torque' can help improve your communication and writing skills.
+  1. This torque causes the entire system to rotate about the **yf axis, since the response to Af.
   2. It is beneficial to understand the meaning and context of 'torque' in daily conversations.
 
 ## 71: Torrent
@@ -651,7 +651,7 @@
 - **Meaning:** The path followed by an object moving through space
 - **Hindi:** प्रक्षेपवक्र
 - **Examples:**
-  1. Learning the word 'trajectory' can help improve your communication and writing skills.
+  1. Because of a missile's ballistic trajectory, the location of a fixed target must be known quite accurately.
   2. It is beneficial to understand the meaning and context of 'trajectory' in daily conversations.
 
 ## 83: Tranquility
@@ -667,8 +667,8 @@
 - **Meaning:** Exceeding or surpassing usual limits especially in excellence
 - **Hindi:** उत्कृष्ट
 - **Examples:**
-  1. The notion of any transcendent reality beyond thought.
-  2. It is beneficial to understand the meaning and context of 'transcendent' in daily conversations.
+  1. Here artistic realism involves the audience in an impassioned participation in events whose overtones and implications are transcendent.
+  2. The notion of any transcendent reality beyond thought.
 
 ## 85: Transcribe
 - **Dissection:** [tran-scribe]
@@ -683,8 +683,8 @@
 - **Meaning:** The act of transgressing; the violation of a law or a duty or moral principle
 - **Hindi:** उल्लंघन
 - **Examples:**
-  1. The boy was punished for the transgressions of his father.
-  2. It is beneficial to understand the meaning and context of 'transgression' in daily conversations.
+  1. 7: 21 And why dost thou not pardon my transgression, and take away my iniquity?
+  2. Make me to know my transgression and my sin.
 
 ## 87: Transient
 - **Dissection:** [tran-si-ent]
@@ -747,15 +747,15 @@
 - **Meaning:** (usually plural) accessory wearing apparel
 - **Hindi:** ताम-झाम
 - **Examples:**
-  1. He went through his belongings, gradually shedding the trappings of youth.
-  2. It is beneficial to understand the meaning and context of 'trappings' in daily conversations.
+  1. We have discovered that the outward trappings such as private offices and private secretaries are extremely important;;.
+  2. He went through his belongings, gradually shedding the trappings of youth.
 
 ## 95: Trauma
 - **Dissection:** [trauma]
 - **Meaning:** Any physical damage to the body caused by violence or accident or fracture etc.
 - **Hindi:** सदमा
 - **Examples:**
-  1. Learning the word 'trauma' can help improve your communication and writing skills.
+  1. " I hope never again to go through the trauma of 1986.
   2. It is beneficial to understand the meaning and context of 'trauma' in daily conversations.
 
 ## 96: Travail
@@ -779,16 +779,16 @@
 - **Meaning:** A comedy characterized by broad satire and improbable situations
 - **Hindi:** भड़ौआ
 - **Examples:**
-  1. A battlefield trial is a travesty of justice.
-  2. It is beneficial to understand the meaning and context of 'travesty' in daily conversations.
+  1. Pumblechook's hands throughout the novel serve to travesty greed and hypocritical self-aggrandizement.
+  2. A battlefield trial is a travesty of justice.
 
 ## 99: Treacle
 - **Dissection:** [treacle]
 - **Meaning:** A pale cane syrup
 - **Hindi:** गुड़
 - **Examples:**
-  1. Listen, treacle, this is the last time I'll warn you!
-  2. It is beneficial to understand the meaning and context of 'treacle' in daily conversations.
+  1. ' They lived on treacle,' said the Dormouse, after thinking a minute or two.
+  2. ' Treacle,' said the Dormouse, without considering at all this time.
 
 ## 100: Treatise
 - **Dissection:** [treat-ise]
@@ -859,7 +859,7 @@
 - **Meaning:** An assembly (including one or more judges) to conduct judicial business
 - **Hindi:** ट्रिब्यूनल
 - **Examples:**
-  1. Learning the word 'tribunal' can help improve your communication and writing skills.
+  1. The tribunal upheld a countervailing duty of 84. 9 U. S. cents a bushel.
   2. It is beneficial to understand the meaning and context of 'tribunal' in daily conversations.
 
 ## 109: Trident
@@ -931,8 +931,8 @@
 - **Meaning:** An obvious truth
 - **Hindi:** सत्यवाद
 - **Examples:**
-  1. Learning the word 'truism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'truism' in daily conversations.
+  1. Internal national responsibility, now a truism, need not be documented.
+  2. A truism is that the time to prepare for the worst is when times are best.
 
 ## 118: Trumpery
 - **Dissection:** [trumpery]
@@ -963,8 +963,8 @@
 - **Meaning:** A state of commotion and noise and confusion
 - **Hindi:** कोलाहल
 - **Examples:**
-  1. The tumult of the elements.
-  2. It is beneficial to understand the meaning and context of 'tumult' in daily conversations.
+  1. Meantime, there was a terrible tumult.
+  2. The tumult of the elements.
 
 ## 122: Tundra
 - **Dissection:** [tun-dra]
@@ -987,8 +987,8 @@
 - **Meaning:** Unstable flow of a liquid or gas
 - **Hindi:** अशांति
 - **Examples:**
-  1. The industrial revolution was a period of great turbulence.
-  2. It is beneficial to understand the meaning and context of 'turbulence' in daily conversations.
+  1. If the dollar resumes its slide the EMS could be in for more turbulence, they predict.
+  2. The industrial revolution was a period of great turbulence.
 
 ## 125: Turgid
 - **Dissection:** [tur-gid]
@@ -1003,8 +1003,8 @@
 - **Meaning:** A violent disturbance
 - **Hindi:** उथल-पुथल
 - **Examples:**
-  1. The convulsions of the stock market.
-  2. It is beneficial to understand the meaning and context of 'turmoil' in daily conversations.
+  1. In all the turmoil, some good legislation was passed.
+  2. Everything was in an exciting turmoil -- full of anticipation and fun.
 
 ## 127: Turncoat
 - **Dissection:** [turn-coat]
@@ -1043,7 +1043,7 @@
 - **Meaning:** A tropical cyclone occurring in the western Pacific or Indian oceans
 - **Hindi:** आंधी
 - **Examples:**
-  1. Learning the word 'typhoon' can help improve your communication and writing skills.
+  1. And in this very Typhoon, did he not swear that he would have no lightning- rods?
   2. It is beneficial to understand the meaning and context of 'typhoon' in daily conversations.
 
 ## 132: Tyranny
@@ -1051,8 +1051,8 @@
 - **Meaning:** A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
 - **Hindi:** अत्याचार
 - **Examples:**
-  1. Learning the word 'tyranny' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tyranny' in daily conversations.
+  1. Thereupon followed a demonstration that tyranny knows no ideological confines.
+  2. He was obsessed by disease and poverty, by the melancholy of old age and the tyranny of lust.
 
 ## 133: Tyro
 - **Dissection:** [tyro]

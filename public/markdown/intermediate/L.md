@@ -75,8 +75,8 @@
 - **Meaning:** An artificial source of visible illumination
 - **Hindi:** चिराग
 - **Examples:**
-  1. Learning the word 'lamp' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'lamp' in daily conversations.
+  1. To create such a lamp, order a wired pedestal from any lamp shop.
+  2. Are you indiscriminantly offering unnecessary medical services -- flu shots, sun lamp treatments, etc.??
 
 ## 11: Landscape
 - **Dissection:** [land-scape]
@@ -91,8 +91,8 @@
 - **Meaning:** A narrow way or road
 - **Hindi:** लेन
 - **Examples:**
-  1. And it's Uncle Mo in front by two as they come to the top of the lane.
-  2. It is beneficial to understand the meaning and context of 'lane' in daily conversations.
+  1. La Russell's run in `` Skylark '', debuting next week at Drury Lane, already is a sellout.
+  2. The adjacent driver in Lane B has three choices open to him.
 
 ## 13: Lantern
 - **Dissection:** [lan-tern]
@@ -115,8 +115,8 @@
 - **Meaning:** An acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light
 - **Hindi:** लेज़र
 - **Examples:**
-  1. Learning the word 'laser' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'laser' in daily conversations.
+  1. And Sand plans to market a laser printer in the fourth fiscal quarter, Shattner said.
+  2. Mitek als said it has introduced a line of 15 page per minute desk top laser printers.
 
 ## 16: Latitude
 - **Dissection:** [lat-it-ude]
@@ -147,8 +147,8 @@
 - **Meaning:** Garments or white goods that can be cleaned by laundering
 - **Hindi:** धोने लायक कपड़े
 - **Examples:**
-  1. You've left your dirty laundry all over the house.
-  2. It is beneficial to understand the meaning and context of 'laundry' in daily conversations.
+  1. We told you about the laundry- door, at Uppercross.
+  2. All day, from morning until evening, she ironed clothes in a laundry.
 
 ## 20: Lavatory
 - **Dissection:** [lav-at-ory]
@@ -163,8 +163,8 @@
 - **Meaning:** A field of cultivated and mowed grass
 - **Hindi:** घास का मैदान
 - **Examples:**
-  1. Learning the word 'lawn' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'lawn' in daily conversations.
+  1. Yet a grassy approach can turn a pool into a floating lawn every time the grass is mowed.
+  2. The trees' shadows circled from street to sidewalk, from sidewalk to lawn.
 
 ## 22: Layer
 - **Dissection:** [lay-er]
@@ -179,8 +179,8 @@
 - **Meaning:** A plan or design of something that is laid out
 - **Hindi:** लेआउट
 - **Examples:**
-  1. Learning the word 'layout' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'layout' in daily conversations.
+  1. `` The Olivetti plant near Turin has modern layout, modern machinery.
+  2. Layout and equipment were modernized and improved to obtain increased production on an efficient basis.
 
 ## 24: Leak
 - **Dissection:** [leak]
@@ -227,8 +227,8 @@
 - **Meaning:** A story about mythical or supernatural beings or events
 - **Hindi:** दंतकथा
 - **Examples:**
-  1. According to the legend on the map, that building is a school.
-  2. It is beneficial to understand the meaning and context of 'legend' in daily conversations.
+  1. In that function, he helps to rebut another legend about the Comedie.
+  2. Such identification comes for each group in each crisis by rewriting history into legend and developing appropriate national heroes.
 
 ## 30: Legislate
 - **Dissection:** [le-gis-late]
@@ -251,15 +251,15 @@
 - **Meaning:** A transparent optical device used to converge or diverge transmitted light and to form images
 - **Hindi:** लेंस
 - **Examples:**
-  1. The writer is the lens through which history can be seen.
-  2. It is beneficial to understand the meaning and context of 'lens' in daily conversations.
+  1. Cascading single stages by coupling lens systems, ( B ).
+  2. The cylindrical focusing electrode permits adjustment of the positive lens part by varying the focusing potential.
 
 ## 33: Leopard
 - **Dissection:** [leo-pard]
 - **Meaning:** The pelt of a leopard
 - **Hindi:** तेंदुआ
 - **Examples:**
-  1. Learning the word 'leopard' can help improve your communication and writing skills.
+  1. 13: 23 Can the Ethiopian change his skin, or the leopard his spots?
   2. It is beneficial to understand the meaning and context of 'leopard' in daily conversations.
 
 ## 34: Lessen
@@ -371,8 +371,8 @@
 - **Meaning:** A fabric woven with fibers from the flax plant
 - **Hindi:** सनी
 - **Examples:**
-  1. Learning the word 'linen' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'linen' in daily conversations.
+  1. Scrapings from the bed linen identical with the lint and thread found in the nasal and oral cavities.
+  2. 38: 16 All the hangings of the court round about were of fine twined linen.
 
 ## 48: Linger
 - **Dissection:** [linger]
@@ -387,16 +387,16 @@
 - **Meaning:** Large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male
 - **Hindi:** शेर
 - **Examples:**
-  1. Tigers and lions share a common ancestor from a few million years ago.
-  2. It is beneficial to understand the meaning and context of 'lion' in daily conversations.
+  1. In 1800, Manthey went abroad and Oersted was appointed manager of the Lion Pharmacy.
+  2. It was John who found the lion tracks.
 
 ## 50: Liquor
 - **Dissection:** [li-quor]
 - **Meaning:** An alcoholic beverage that is distilled rather than fermented
 - **Hindi:** शराब
 - **Examples:**
-  1. Waste liquors.
-  2. It is beneficial to understand the meaning and context of 'liquor' in daily conversations.
+  1. I didn't smell a drop of liquor, and we didn't have a bit of trouble ''.
+  2. The company supplies janitors and workmen for McCormick Place and factories, liquor firms, and other businesses.
 
 ## 51: Liter
 - **Dissection:** [liter]
@@ -483,8 +483,8 @@
 - **Meaning:** A wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks
 - **Hindi:** लोकोमोटिव
 - **Examples:**
-  1. Learning the word 'locomotive' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'locomotive' in daily conversations.
+  1. To go with a locomotive!
+  2. To hear the hiss of steam, the merry shriek, the steam- whistle, the laughing locomotive!
 
 ## 62: Lodge
 - **Dissection:** [lodge]
@@ -531,8 +531,8 @@
 - **Meaning:** Terms referring to the Judeo-Christian God
 - **Hindi:** भगवान
 - **Examples:**
-  1. Learning the word 'lord' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'lord' in daily conversations.
+  1. The third belief, in six points, emphasizes the Diety of the Lord Jesus Christ, and:.
+  2. Britain's plans to press Russia for a definite cease-fire timetable was announced in London by Foreign Secretary Lord Home.
 
 ## 68: Lorry
 - **Dissection:** [lorry]
@@ -547,8 +547,8 @@
 - **Meaning:** Any of various cosmetic preparations that are applied to the skin
 - **Hindi:** लोशन
 - **Examples:**
-  1. A lotion for dry skin.
-  2. It is beneficial to understand the meaning and context of 'lotion' in daily conversations.
+  1. The place smelt of some kind of hair lotion these pimplike characters use.
+  2. Everything being the sweater, a lipstick case, and a squirt bottle of Kissin' Kare pink hand lotion.
 
 ## 70: Lottery
 - **Dissection:** [lot-tery]
@@ -587,8 +587,8 @@
 - **Meaning:** Cases used to carry belongings when traveling
 - **Hindi:** सामान
 - **Examples:**
-  1. Learning the word 'luggage' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'luggage' in daily conversations.
+  1. ( Check on the Payne luggage.
+  2. The hostlers were carrying in luggage.
 
 ## 75: Lumber
 - **Dissection:** [lum-ber]
@@ -619,14 +619,14 @@
 - **Meaning:** Either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood
 - **Hindi:** फेफड़ा
 - **Examples:**
-  1. He hasn't the lungs to play long rallies like he use to.
-  2. It is beneficial to understand the meaning and context of 'lung' in daily conversations.
+  1. From the resulting data the doctor can determine lung defects with hitherto unknown accuracy and detail.
+  2. The bronchus and pulmonary artery in this lung type maintain a close relationship throughout.
 
 ## 79: Luxury
 - **Dissection:** [lux-ury]
 - **Meaning:** Something that is an indulgence rather than a necessity
 - **Hindi:** विलासिता
 - **Examples:**
-  1. Learning the word 'luxury' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'luxury' in daily conversations.
+  1. But for many of us, it will prove an enjoyable luxury.
+  2. But can we any longer afford the luxury of such smug indigation??
 

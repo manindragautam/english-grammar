@@ -3,8 +3,8 @@
 - **Meaning:** A farm where dairy products are produced
 - **Hindi:** डेरी
 - **Examples:**
-  1. Learning the word 'dairy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'dairy' in daily conversations.
+  1. The dairy truck driver;;.
+  2. How to feed: beef and dairy calves.
 
 ## 2: Dam
 - **Dissection:** [dam]
@@ -99,16 +99,16 @@
 - **Meaning:** The quality of being fraudulent
 - **Hindi:** छल
 - **Examples:**
-  1. The whole conversation was merely a deceit.
-  2. It is beneficial to understand the meaning and context of 'deceit' in daily conversations.
+  1. Recently, WWRL won praise for its expose of particular cases of employment agency deceit.
+  2. `` Please let me explain '', the German said earnestly, his face still devoid of deceit.
 
 ## 14: Deceive
 - **Dissection:** [de-ceive]
 - **Meaning:** Be false to; be dishonest with
 - **Hindi:** धोखा देना
 - **Examples:**
-  1. The insurance company deceived me when they told me they were covering my house.
-  2. It is beneficial to understand the meaning and context of 'deceive' in daily conversations.
+  1. Harriet, Harriet, do not deceive yourself; do not be run away with by gratitude and compassion.
+  2. Did I not say, Do not deceive me?
 
 ## 15: Decent
 - **Dissection:** [de-cent]
@@ -243,8 +243,8 @@
 - **Meaning:** A person appointed or elected to represent others
 - **Hindi:** प्रतिनिधि
 - **Examples:**
-  1. Learning the word 'delegate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'delegate' in daily conversations.
+  1. Don't forget, I am an old member of the club, a former delegate.
+  2. If he's going to the St. Louis convention as a delegate we ought to know it.
 
 ## 32: Delete
 - **Dissection:** [de-lete]
@@ -315,8 +315,8 @@
 - **Meaning:** The political orientation of those who favor government by the people or by their elected representatives
 - **Hindi:** प्रजातंत्र
 - **Examples:**
-  1. Learning the word 'democracy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'democracy' in daily conversations.
+  1. Its refrain was: `` let us return to the individualistic democracy of our forefathers for our salvation ''.
+  2. Related to, but distinguishable from, nationalism was the growth of democracy in one form or another.
 
 ## 41: Demonstrate
 - **Dissection:** [demon-strate]
@@ -403,8 +403,8 @@
 - **Meaning:** Take away possessions from someone
 - **Hindi:** वंचित
 - **Examples:**
-  1. The Nazis stripped the Jews of all their assets.
-  2. It is beneficial to understand the meaning and context of 'deprive' in daily conversations.
+  1. Next best to destroying an army is to deprive it of its freedom of action.
+  2. The Nazis stripped the Jews of all their assets.
 
 ## 52: Deputy
 - **Dissection:** [deputy]
@@ -499,8 +499,8 @@
 - **Meaning:** A dish served as the last course of a meal
 - **Hindi:** मिठाई
 - **Examples:**
-  1. Learning the word 'dessert' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'dessert' in daily conversations.
+  1. It's a great favorite of the university students, and I joined them there for dessert.
+  2. Then, I remembered that the girls had had a banana for dessert every day for the last week.
 
 ## 64: Destination
 - **Dissection:** [des-tin-a-tion]
@@ -563,8 +563,8 @@
 - **Meaning:** A police officer who investigates crimes
 - **Hindi:** जासूसी
 - **Examples:**
-  1. Learning the word 'detective' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'detective' in daily conversations.
+  1. Secret Grand Jury indictments were returned against the pair last week, Detective Murray Logan reported.
+  2. The Phoenix arrest culminates more than a year's investigation by Detective William Taylor and other officers.
 
 ## 72: Deteriorate
 - **Dissection:** [de-teri-or-ate]
@@ -619,16 +619,16 @@
 - **Meaning:** Determine or distinguish the nature of a problem or an illness through a diagnostic analysis
 - **Hindi:** निदान
 - **Examples:**
-  1. Learning the word 'diagnose' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'diagnose' in daily conversations.
+  1. He can diagnose detachment of the retina where conventional methods indicate blindness due to glaucoma.
+  2. But before I try to diagnose it, I would offer other evidence.
 
 ## 79: Diagram
 - **Dissection:** [dia-gram]
 - **Meaning:** A drawing intended to explain how something works; a drawing showing the relation between the parts
 - **Hindi:** आरेख
 - **Examples:**
-  1. Electrical diagrams show device interconnections.
-  2. It is beneficial to understand the meaning and context of 'diagram' in daily conversations.
+  1. Indeed, mathematically speaking, it was both functionally and symbolically the most important number in the entire diagram.
+  2. Looking at the diagram, we see that Af connection lines come in to each member.
 
 ## 80: Dial
 - **Dissection:** [dial]
@@ -659,8 +659,8 @@
 - **Meaning:** A daily written record of (usually personal) experiences and observations
 - **Hindi:** डायरी
 - **Examples:**
-  1. They kept separate diaries. His was on paper and her diary was on her computer's hard drive.
-  2. It is beneficial to understand the meaning and context of 'diary' in daily conversations.
+  1. Some memorable plays have been drawn from books, notably Life With Father and Diary Of Anne Frank.
+  2. The ordinary detective discovers from a ledger or a diary that a crime has been committed.
 
 ## 84: Dictate
 - **Dissection:** [dic-tate]
@@ -715,8 +715,8 @@
 - **Meaning:** State of uncertainty or perplexity especially as requiring a choice between equally unfavorable options
 - **Hindi:** दुविधा
 - **Examples:**
-  1. Learning the word 'dilemma' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'dilemma' in daily conversations.
+  1. The first dilemma was the morality of nuclear warfare itself.
+  2. That dilemma is as much with us as ever.
 
 ## 91: Diligent
 - **Dissection:** [di-li-gent]
@@ -771,16 +771,16 @@
 - **Meaning:** An official engaged in international negotiations
 - **Hindi:** राजनयिक
 - **Examples:**
-  1. Learning the word 'diplomat' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'diplomat' in daily conversations.
+  1. One diplomat described the tenor of Secretary of State Dean Rusk's speeches as `` inconclusive ''.
+  2. Mr. Keo, once a diplomat in Paris and Washington, was Commissioner of Rural Affairs.
 
 ## 98: Directory
 - **Dissection:** [dir-ect-ory]
 - **Meaning:** An alphabetical list of names and addresses
 - **Hindi:** निर्देशिका
 - **Examples:**
-  1. Learning the word 'directory' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'directory' in daily conversations.
+  1. 1184 copies of the R. I. Directory Of Manufacturers were distributed: 643 in-state and 541 out-of-state.
+  2. At intervals an alumni directory is issued.
 
 ## 99: Disable
 - **Dissection:** [dis-able]
@@ -835,8 +835,8 @@
 - **Meaning:** Anything that is cast aside or discarded
 - **Hindi:** खारिज करना
 - **Examples:**
-  1. Put away your worries.
-  2. It is beneficial to understand the meaning and context of 'discard' in daily conversations.
+  1. `` Let him become honest, and they discard him.
+  2. By all the Gods that Romans bow before, I heere discard my sicknesse.
 
 ## 106: Discharge
 - **Dissection:** [dis-charge]
@@ -1027,8 +1027,8 @@
 - **Meaning:** A region marked off for administrative or other purposes
 - **Hindi:** ज़िला
 - **Examples:**
-  1. Learning the word 'district' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'district' in daily conversations.
+  1. The Soho district of London.
+  2. The Lake District in Cumbria.
 
 ## 130: Disturb
 - **Dissection:** [dis-turb]
@@ -1068,7 +1068,7 @@
 - **Hindi:** डाइवर्ट
 - **Examples:**
   1. The play amused the ladies.
-  2. It is beneficial to understand the meaning and context of 'divert' in daily conversations.
+  2. The workers diverted the stream away from the road.
 
 ## 135: Divine
 - **Dissection:** [di-vine]
@@ -1139,8 +1139,8 @@
 - **Meaning:** A concave shape whose distinguishing characteristic is that the concavity faces downward
 - **Hindi:** गुंबद
 - **Examples:**
-  1. A cake dome.
-  2. It is beneficial to understand the meaning and context of 'dome' in daily conversations.
+  1. A horizon even and seamless, binding the vast sun-bleached dome of sky to earth.
+  2. A few years later the dome fell in.
 
 ## 144: Domestic
 - **Dissection:** [do-mest-ic]
@@ -1179,8 +1179,8 @@
 - **Meaning:** The symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874
 - **Hindi:** गधा
 - **Examples:**
-  1. Learning the word 'donkey' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'donkey' in daily conversations.
+  1. They will -- when they give up the donkey and the elephant.
+  2. " I wish we had a donkey.
 
 ## 149: Doom
 - **Dissection:** [doom]
@@ -1243,8 +1243,8 @@
 - **Meaning:** A dramatic work intended for performance by actors on a stage
 - **Hindi:** नाटक
 - **Examples:**
-  1. He wrote several plays but only one was produced on Broadway.
-  2. It is beneficial to understand the meaning and context of 'drama' in daily conversations.
+  1. That objective set the high stakes and drama of the Vienna meeting.
+  2. For a few brief minutes they had all been part of one little drama.
 
 ## 157: Dramatic
 - **Dissection:** [dra-mat-ic]
@@ -1411,8 +1411,8 @@
 - **Meaning:** A usually soluble substance for staining or coloring e.g. fabrics or hair
 - **Hindi:** रंग
 - **Examples:**
-  1. Please dye these shoes.
-  2. It is beneficial to understand the meaning and context of 'dye' in daily conversations.
+  1. Liue a thousand yeeres, I shall not finde my selfe so apt to dye.
+  2. Your Brother too must dye: consent you Lepidus?
 
 ## 178: Dynamic
 - **Dissection:** [dy-nam-ic]

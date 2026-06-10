@@ -99,8 +99,8 @@
 - **Meaning:** Someone who controls resources and expenditures
 - **Hindi:** प्रबंधक
 - **Examples:**
-  1. A file manager; a task manager; Program Manager.
-  2. It is beneficial to understand the meaning and context of 'manager' in daily conversations.
+  1. Pirate Manager Danny Murtaugh said he hadn't decided between Mizell and Vern Law for Wednesday's game.
+  2. Terry Barnes has been named manager.
 
 ## 14: Many
 - **Dissection:** [many]
@@ -203,8 +203,8 @@
 - **Meaning:** The food served and eaten at one time
 - **Hindi:** खाना
 - **Examples:**
-  1. Breakfast is the morning meal, lunch is the noon meal, and dinner, or supper, is the evening meal.
-  2. It is beneficial to understand the meaning and context of 'meal' in daily conversations.
+  1. I put a little scoop of pulverized phosphate rock or steamed bone meal into each hole with the plant.
+  2. After the meal, he and his guests went out to inspect the rig;;.
 
 ## 27: Mean
 - **Dissection:** [mean]
@@ -555,16 +555,16 @@
 - **Meaning:** A form of address for a man
 - **Hindi:** श्री
 - **Examples:**
-  1. Learning the word 'mr' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mr' in daily conversations.
+  1. " With this move Mr. Reagan has committed a big mistake and has definitely increased his problems...
+  2. " Mr. Ichan still apparently has 11. 4 pct.
 
 ## 71: Mrs
 - **Dissection:** [mrs]
 - **Meaning:** A form of address for a married woman
 - **Hindi:** श्रीमती
 - **Examples:**
-  1. Learning the word 'mrs' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mrs' in daily conversations.
+  1. " Mrs. Bates, let me propose your venturing on one of these eggs.
+  2. Mrs. Goddard, what say you to _half_ a glass of wine?
 
 ## 72: Much
 - **Dissection:** [much]
@@ -595,8 +595,8 @@
 - **Meaning:** Used to express surprise, shock or amazement.
 - **Hindi:** मेरा
 - **Examples:**
-  1. My, what big teeth you have!
-  2. It is beneficial to understand the meaning and context of 'my' in daily conversations.
+  1. I'm willing to stake my political career on it ''.
+  2. `` The statements may be highly prejudicial to my client '', Bellows told the court.
 
 ## 76: Myself
 - **Dissection:** [my-self]

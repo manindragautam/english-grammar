@@ -139,8 +139,8 @@
 - **Meaning:** Draw a harrow over (land)
 - **Hindi:** शोकजनक
 - **Examples:**
-  1. The field received two harrowings.
-  2. It is beneficial to understand the meaning and context of 'harrowing' in daily conversations.
+  1. For larger plantings, you'll need some kind of power for plowing, harrowing, disking, and cultivating.
+  2. Harrowing, as well as well- timed applications of nitrogen, will be necessary, he added.
 
 ## 19: Haughty
 - **Dissection:** [haughty]
@@ -155,7 +155,7 @@
 - **Meaning:** Overbearing pride evidenced by a superior manner toward inferiors
 - **Hindi:** अभिमान
 - **Examples:**
-  1. Learning the word 'hauteur' can help improve your communication and writing skills.
+  1. " Oh, you can see my certificate if you like," she replied with some hauteur.
   2. It is beneficial to understand the meaning and context of 'hauteur' in daily conversations.
 
 ## 21: Haven
@@ -163,16 +163,16 @@
 - **Meaning:** A shelter serving as a place of safety or sanctuary
 - **Hindi:** हेवन
 - **Examples:**
-  1. Learning the word 'haven' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'haven' in daily conversations.
+  1. The Colonel fled to the friendly haven of the Dominican dictatorship as soon as Castro seized power.
+  2. The men's shops on Hanover's Main Street compare favorably with those in Princeton and New Haven.
 
 ## 22: Havoc
 - **Dissection:** [hav-oc]
 - **Meaning:** Violent and needless disturbance
 - **Hindi:** प्रलय
 - **Examples:**
-  1. Learning the word 'havoc' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'havoc' in daily conversations.
+  1. Mr. Bates shows us how this mutual education spreads its inevitable havoc.
+  2. It can put an end to marginal claims which play havoc with your insurance rates.
 
 ## 23: Hazardous
 - **Dissection:** [haz-ard-ous]
@@ -203,8 +203,8 @@
 - **Meaning:** Habitually disposed to disobedience and opposition
 - **Hindi:** हठी
 - **Examples:**
-  1. He was in that headstrong teenage phase when he felt like he knew everything.
-  2. It is beneficial to understand the meaning and context of 'headstrong' in daily conversations.
+  1. He was brilliant, he was headstrong.
+  2. Justice Headstrong' s Study.
 
 ## 27: Heckler
 - **Dissection:** [heck-ler]
@@ -323,8 +323,8 @@
 - **Meaning:** Sleep during winter
 - **Hindi:** हाइबरनेट
 - **Examples:**
-  1. Bears must eat a lot of food before they hibernate in their caves.
-  2. It is beneficial to understand the meaning and context of 'hibernate' in daily conversations.
+  1. Apart from the honeybee, practically all bees and bumblebees hibernate in a state of torpor.
+  2. Bears must eat a lot of food before they hibernate in their caves.
 
 ## 42: Hierarchy
 - **Dissection:** [hier-archy]
@@ -339,7 +339,7 @@
 - **Meaning:** Great merriment
 - **Hindi:** आनंद
 - **Examples:**
-  1. Learning the word 'hilarity' can help improve your communication and writing skills.
+  1. He was for some reason in a condition of curious hilarity.
   2. It is beneficial to understand the meaning and context of 'hilarity' in daily conversations.
 
 ## 44: Hindrance
@@ -395,16 +395,16 @@
 - **Meaning:** Respectful deference
 - **Hindi:** श्रद्धा
 - **Examples:**
-  1. Pay court to the emperor.
-  2. It is beneficial to understand the meaning and context of 'homage' in daily conversations.
+  1. Take the homage of these poor eyes, and shutter- hands.
+  2. Pay court to the emperor.
 
 ## 51: Homogeneous
 - **Dissection:** [ho-mo-gen-eous]
 - **Meaning:** All of the same or similar kind or nature
 - **Hindi:** सजातीय
 - **Examples:**
-  1. A close-knit homogeneous group.
-  2. It is beneficial to understand the meaning and context of 'homogeneous' in daily conversations.
+  1. Folklore is individually created art that a homogeneous group of people preserve, vary and recreate through oral transmission.
+  2. The folk are simply not homogeneous with respect to nation or political attitude.
 
 ## 52: Hone
 - **Dissection:** [hone]
@@ -427,8 +427,8 @@
 - **Meaning:** A vast multitude
 - **Hindi:** भीड़
 - **Examples:**
-  1. We were beset by a horde of street vendors who thought we were tourists and would buy their cheap souvenirs.
-  2. It is beneficial to understand the meaning and context of 'horde' in daily conversations.
+  1. The white people fall back bitterly before the black horde;;.
+  2. We were beset by a horde of street vendors who thought we were tourists and would buy their cheap souvenirs.
 
 ## 55: Hortatory
 - **Dissection:** [hort-at-ory]
@@ -467,7 +467,7 @@
 - **Meaning:** Overbearing pride or presumption
 - **Hindi:** अभिमान
 - **Examples:**
-  1. Learning the word 'hubris' can help improve your communication and writing skills.
+  1. His hubris, deficiency of taste, and sadism carried him straightaway to the top.
   2. It is beneficial to understand the meaning and context of 'hubris' in daily conversations.
 
 ## 60: Hue
@@ -547,7 +547,7 @@
 - **Meaning:** The practice of cultivating the land or raising stock
 - **Hindi:** कृषि
 - **Examples:**
-  1. Learning the word 'husbandry' can help improve your communication and writing skills.
+  1. Husbandry was bounded by snake-rail fences, and there were grazing cattle.
   2. It is beneficial to understand the meaning and context of 'husbandry' in daily conversations.
 
 ## 70: Hybrid
@@ -563,7 +563,7 @@
 - **Meaning:** A symptom of rabies in humans consisting of an aversion to swallowing liquids
 - **Hindi:** जलांतक
 - **Examples:**
-  1. Learning the word 'hydrophobia' can help improve your communication and writing skills.
+  1. Another cure for hydrophobia was to suck the wounds, then cauterize them with a hot knife or poker.
   2. It is beneficial to understand the meaning and context of 'hydrophobia' in daily conversations.
 
 ## 72: Hyperbole
@@ -595,8 +595,8 @@
 - **Meaning:** Professing feelings or virtues one does not have
 - **Hindi:** पाखंडी
 - **Examples:**
-  1. Hypocritical praise.
-  2. It is beneficial to understand the meaning and context of 'hypocritical' in daily conversations.
+  1. Pumblechook's hands throughout the novel serve to travesty greed and hypocritical self-aggrandizement.
+  2. 35: 16 With hypocritical mockers in feasts, they gnashed upon me with their teeth.
 
 ## 76: Hypothetical
 - **Dissection:** [hy-po-thet-ic-al]
@@ -611,6 +611,6 @@
 - **Meaning:** State of violent mental agitation
 - **Hindi:** हिस्टीरिया
 - **Examples:**
-  1. Learning the word 'hysteria' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hysteria' in daily conversations.
+  1. `` U.S. pressure on Britain to foster war hysteria over the status of West Berlin has reached its apogee.
+  2. The resulting, indescribable torment affects every Southern mind and is the basis of the Southern hysteria.
 

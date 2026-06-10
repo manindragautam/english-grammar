@@ -91,8 +91,8 @@
 - **Meaning:** A situation in which no progress can be made or no advancement is possible
 - **Hindi:** गतिरोध
 - **Examples:**
-  1. Reached an impasse on the negotiations.
-  2. It is beneficial to understand the meaning and context of 'impasse' in daily conversations.
+  1. Queried about the impasse, Allied Arts said: `` Better cancel the Kirov for the time being.
+  2. Reached an impasse on the negotiations.
 
 ## 13: Impassive
 - **Dissection:** [im-pass-ive]
@@ -131,8 +131,8 @@
 - **Meaning:** Something immaterial that interferes with or delays action or progress
 - **Hindi:** बाधा
 - **Examples:**
-  1. Working in a noisy factory left me with a slight hearing impediment.
-  2. It is beneficial to understand the meaning and context of 'impediment' in daily conversations.
+  1. Legislation giving state rail authorities a monopoly over grain shipments was one notable impediment, it said.
+  2. Working in a noisy factory left me with a slight hearing impediment.
 
 ## 18: Impending
 - **Dissection:** [im-pend-ing]
@@ -147,7 +147,7 @@
 - **Meaning:** Not penitent or remorseful
 - **Hindi:** आनेवाला
 - **Examples:**
-  1. Learning the word 'impenitent' can help improve your communication and writing skills.
+  1. He seemed quite used to impenitent Peleg and his ways.
   2. It is beneficial to understand the meaning and context of 'impenitent' in daily conversations.
 
 ## 20: Imperative
@@ -235,7 +235,7 @@
 - **Meaning:** Unrighteousness by virtue of lacking respect for a god
 - **Hindi:** नास्तिकता
 - **Examples:**
-  1. Learning the word 'impiety' can help improve your communication and writing skills.
+  1. Oh, oh,-- Impiety and blasphemy to hunt him more!".
   2. It is beneficial to understand the meaning and context of 'impiety' in daily conversations.
 
 ## 31: Impinge
@@ -355,7 +355,7 @@
 - **Meaning:** An improper demeanor
 - **Hindi:** अनौचित्य
 - **Examples:**
-  1. Learning the word 'impropriety' can help improve your communication and writing skills.
+  1. I should hold myself guilty of greater impropriety in accepting a horse from my brother, than from Willoughby.
   2. It is beneficial to understand the meaning and context of 'impropriety' in daily conversations.
 
 ## 46: Improvident
@@ -387,8 +387,8 @@
 - **Meaning:** An impudent statement
 - **Hindi:** धृष्टता
 - **Examples:**
-  1. Learning the word 'impudence' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'impudence' in daily conversations.
+  1. Thank you for the article by George Sokolsky on the public apathy to impudence.
+  2. " I say nothing of which I am ashamed," replied he, with lively impudence.
 
 ## 50: Impugn
 - **Dissection:** [im-pugn]
@@ -403,7 +403,7 @@
 - **Meaning:** Exemption from punishment or loss
 - **Hindi:** दण्ड मुक्ति
 - **Examples:**
-  1. Learning the word 'impunity' can help improve your communication and writing skills.
+  1. This left the Soviets plenty of leeway to start low-grade brushfire aggressions with considerable impunity.
   2. It is beneficial to understand the meaning and context of 'impunity' in daily conversations.
 
 ## 52: Impute
@@ -451,8 +451,8 @@
 - **Meaning:** Commence officially
 - **Hindi:** का उद्घाटन
 - **Examples:**
-  1. The fall of the Berlin Wall ushered in the post-Cold War period.
-  2. It is beneficial to understand the meaning and context of 'inaugurate' in daily conversations.
+  1. I am for those who walk abreast with the whole earth, Who inaugurate one to inaugurate all.
+  2. The fall of the Berlin Wall ushered in the post-Cold War period.
 
 ## 58: Incandescent
 - **Dissection:** [in-can-des-cent]
@@ -547,8 +547,8 @@
 - **Meaning:** The relative frequency of occurrence of something
 - **Hindi:** घटना
 - **Examples:**
-  1. He measured the angle of incidence of the reflected light.
-  2. It is beneficial to understand the meaning and context of 'incidence' in daily conversations.
+  1. To reduce incidence of liver abscesses, supply 75 milligrams of oxytetracycline activity per head daily.
+  2. Aids in reducing the incidence and severity of bloat in beef or dairy cattle on legume pasture.
 
 ## 70: Incidental
 - **Dissection:** [in-cid-ent-al]
@@ -667,7 +667,7 @@
 - **Meaning:** The relation between propositions that cannot both be true at the same time
 - **Hindi:** बेजोड़ता
 - **Examples:**
-  1. Learning the word 'inconsistency' can help improve your communication and writing skills.
+  1. Has there been any inconsistency on his side to create alarm?
   2. It is beneficial to understand the meaning and context of 'inconsistency' in daily conversations.
 
 ## 85: Incontinent
@@ -707,7 +707,7 @@
 - **Meaning:** Not disposed or willing to believe; unbelieving
 - **Hindi:** अविश्वसनीय
 - **Examples:**
-  1. Learning the word 'incredulous' can help improve your communication and writing skills.
+  1. Affected by the solemnity of the scene, there was a wondering gaze of incredulous curiosity in his countenance.
   2. It is beneficial to understand the meaning and context of 'incredulous' in daily conversations.
 
 ## 90: Increment
@@ -835,8 +835,8 @@
 - **Meaning:** A numerical scale used to compare variables with one another or with some reference number
 - **Hindi:** सूचकांकों
 - **Examples:**
-  1. The index of a book lists words or expressions and the pages of the book upon which they are to be found.
-  2. It is beneficial to understand the meaning and context of 'indices' in daily conversations.
+  1. We mentioned odd-lot indices a few paragraphs ago.
+  2. The ministry had previously put the January and December indices at 101. 6 and 104. 7 respectively.
 
 ## 106: Indict
 - **Dissection:** [in-dict]
@@ -867,16 +867,16 @@
 - **Meaning:** A feeling of righteous anger
 - **Hindi:** रोष
 - **Examples:**
-  1. Learning the word 'indignation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'indignation' in daily conversations.
+  1. Perhaps if they know the story there will be a massive cry of indignation ''.
+  2. The critics literally screamed their indignation.
 
 ## 110: Indignity
 - **Dissection:** [in-dig-nity]
 - **Meaning:** An affront to one's dignity or self-esteem
 - **Hindi:** रोष
 - **Examples:**
-  1. Learning the word 'indignity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'indignity' in daily conversations.
+  1. What does that indignity amount to, weighed, I mean, in the scales of the New Testament?
+  2. There are men from whom warm words are small indignity.
 
 ## 111: Indiscriminate
 - **Dissection:** [in-dis-crim-in-ate]
@@ -899,8 +899,8 @@
 - **Meaning:** (of a substance) incapable of being dissolved
 - **Hindi:** स्थायी
 - **Examples:**
-  1. It connected in one indissoluble bond.
-  2. It is beneficial to understand the meaning and context of 'indissoluble' in daily conversations.
+  1. Bestow them, ye who are now made parties to this indissoluble league.
+  2. It connected in one indissoluble bond.
 
 ## 114: Indoctrinate
 - **Dissection:** [in-doc-trin-ate]
@@ -923,7 +923,7 @@
 - **Meaning:** Impossible to subdue
 - **Hindi:** अदम्य
 - **Examples:**
-  1. Learning the word 'indomitable' can help improve your communication and writing skills.
+  1. And that the great monster is indomitable, you will yet have reason to know.
   2. It is beneficial to understand the meaning and context of 'indomitable' in daily conversations.
 
 ## 117: Indubitable
@@ -955,8 +955,8 @@
 - **Meaning:** Characterized by hard work and perseverance
 - **Hindi:** मेहनती
 - **Examples:**
-  1. I was very industrious in my effort to learn unicycle riding.
-  2. It is beneficial to understand the meaning and context of 'industrious' in daily conversations.
+  1. He was determined to spend an industrious summer.
+  2. He was very industrious, and the farm always prospered under his care.
 
 ## 121: Inebriated
 - **Dissection:** [in-ebri-ated]
@@ -1075,7 +1075,7 @@
 - **Meaning:** A person who does not acknowledge your god
 - **Hindi:** बेवफ़ा
 - **Examples:**
-  1. Learning the word 'infidel' can help improve your communication and writing skills.
+  1. Or what part hath he that believeth with an infidel?
   2. It is beneficial to understand the meaning and context of 'infidel' in daily conversations.
 
 ## 136: Infiltrate
@@ -1099,8 +1099,8 @@
 - **Meaning:** The state of being weak in health or body (especially from old age)
 - **Hindi:** दुर्बलता
 - **Examples:**
-  1. Learning the word 'infirmity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'infirmity' in daily conversations.
+  1. When is a man to be safe from such wit, if age and infirmity will not protect him?".
+  2. And is not that the commonest infirmity of declining life?".
 
 ## 139: Inflated
 - **Dissection:** [in-flated]
@@ -1115,8 +1115,8 @@
 - **Meaning:** The process of flowing in
 - **Hindi:** तांता
 - **Examples:**
-  1. I'll buy a new computer when I get an influx of cash.
-  2. It is beneficial to understand the meaning and context of 'influx' in daily conversations.
+  1. He said higher rates were fuelling an influx of short- term speculative capital from abroad.
+  2. I'll buy a new computer when I get an influx of cash.
 
 ## 141: Infraction
 - **Dissection:** [in-frac-tion]
@@ -1211,8 +1211,8 @@
 - **Meaning:** Defying imitation; matchless
 - **Hindi:** अनोखी
 - **Examples:**
-  1. An inimitable style.
-  2. It is beneficial to understand the meaning and context of 'inimitable' in daily conversations.
+  1. " I believe your own accent to be inimitable, though I shall practise it in my bath.
+  2. An inimitable style.
 
 ## 153: Iniquitous
 - **Dissection:** [ini-quit-ous]
@@ -1235,8 +1235,8 @@
 - **Meaning:** Harmful to living things
 - **Hindi:** हानिकारक
 - **Examples:**
-  1. Deleterious chemical additives.
-  2. It is beneficial to understand the meaning and context of 'injurious' in daily conversations.
+  1. -- Revising the definition of" infested" to give equal value to all insects injurious to grain.
+  2. Deleterious chemical additives.
 
 ## 156: Inkling
 - **Dissection:** [ink-ling]
@@ -1299,7 +1299,7 @@
 - **Meaning:** A questioner who is excessively harsh
 - **Hindi:** जिज्ञासा दिखानेवाला
 - **Examples:**
-  1. Learning the word 'inquisitor' can help improve your communication and writing skills.
+  1. Then all four gathering on the sofa to face the inquisitor.
   2. It is beneficial to understand the meaning and context of 'inquisitor' in daily conversations.
 
 ## 164: Insatiable
@@ -1363,8 +1363,8 @@
 - **Meaning:** The trait of being rude and impertinent; inclined to take liberties
 - **Hindi:** बदतमीजी
 - **Examples:**
-  1. Learning the word 'insolence' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'insolence' in daily conversations.
+  1. But the insolence of his Normans --" How are you getting on now, my dear?'.
+  2. It is all that was ever lost by insolence and overwhelmed in rebellion.
 
 ## 172: Insolvent
 - **Dissection:** [in-solv-ent]
@@ -1379,8 +1379,8 @@
 - **Meaning:** An inability to sleep; chronic sleeplessness
 - **Hindi:** अनिद्रा
 - **Examples:**
-  1. Learning the word 'insomnia' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'insomnia' in daily conversations.
+  1. It was small comfort for insomnia.
+  2. Insomnia would ground him from the Exploration Service, on physiological if not psychological grounds.
 
 ## 174: Instigate
 - **Dissection:** [in-stig-ate]
@@ -1395,7 +1395,7 @@
 - **Meaning:** Defiance of authority
 - **Hindi:** अवज्ञा
 - **Examples:**
-  1. Learning the word 'insubordination' can help improve your communication and writing skills.
+  1. `` I shouldn't like to have to write you up for insubordination as well as dereliction of duty ''.
   2. It is beneficial to understand the meaning and context of 'insubordination' in daily conversations.
 
 ## 176: Insubstantial
@@ -1547,8 +1547,8 @@
 - **Meaning:** The time between two reigns, governments, etc.
 - **Hindi:** दो राजाए के भीतर समय
 - **Examples:**
-  1. The Sasanian Interregnum of 628-632.
-  2. It is beneficial to understand the meaning and context of 'interregnum' in daily conversations.
+  1. An interregnum ensues in which not men but ideas compete for existence.
+  2. The Sasanian Interregnum of 628-632.
 
 ## 195: Interrogate
 - **Dissection:** [in-ter-rog-ate]
@@ -1571,8 +1571,8 @@
 - **Meaning:** A small structural space between tissues or parts of an organ
 - **Hindi:** अन्तराल
 - **Examples:**
-  1. The interstices of a network.
-  2. It is beneficial to understand the meaning and context of 'interstice' in daily conversations.
+  1. My Days I sing, and the Lands -- with interstice I knew of hapless War.
+  2. The interstices of a network.
 
 ## 198: Intractable
 - **Dissection:** [in-tract-able]
@@ -1587,8 +1587,8 @@
 - **Meaning:** The trait of being intransigent; stubbornly refusing to compromise
 - **Hindi:** कट्टरता
 - **Examples:**
-  1. The intransigence of both sides frustrated the negotiators.
-  2. It is beneficial to understand the meaning and context of 'intransigence' in daily conversations.
+  1. Or the city can be a graveyard monument to Western intransigence, if that is what the West wants.
+  2. Tesfay accused the West of intransigence in the negotiation of recent commodity agreements.
 
 ## 200: Intrepid
 - **Dissection:** [in-trep-id]
@@ -1603,7 +1603,7 @@
 - **Meaning:** The contemplation of your own thoughts and desires and conduct
 - **Hindi:** आत्मनिरीक्षण
 - **Examples:**
-  1. Learning the word 'introspection' can help improve your communication and writing skills.
+  1. Mr. Nixon is `` a broody, moody man, given to long stretches of introspection;;.
   2. It is beneficial to understand the meaning and context of 'introspection' in daily conversations.
 
 ## 202: Introvert
@@ -1627,8 +1627,8 @@
 - **Meaning:** Instinctive knowing (without the use of rational processes)
 - **Hindi:** अंतर्ज्ञान
 - **Examples:**
-  1. He had an intuition that something had gone wrong.
-  2. It is beneficial to understand the meaning and context of 'intuition' in daily conversations.
+  1. Feverishly, he tried to brush away this intuition.
+  2. Such an understanding, although it must seek to be sympathetic, is not a matter of intuition.
 
 ## 205: Inundate
 - **Dissection:** [in-und-ate]
@@ -1787,8 +1787,8 @@
 - **Meaning:** A strong emotion; a feeling that is oriented toward some real or supposed grievance
 - **Hindi:** क्रोध
 - **Examples:**
-  1. Learning the word 'ire' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ire' in daily conversations.
+  1. What doubt we to incense His utmost ire?
+  2. Or will God incense his ire For such a petty trespass?
 
 ## 225: Iridescent
 - **Dissection:** [iri-des-cent]
@@ -1835,8 +1835,8 @@
 - **Meaning:** Impossible to reconcile
 - **Hindi:** कट्टर विरोधी
 - **Examples:**
-  1. Irreconcilable differences.
-  2. It is beneficial to understand the meaning and context of 'irreconcilable' in daily conversations.
+  1. The conversation apparently convinced Mr. Kennedy that the positions of France and Tunisia were not irreconcilable.
+  2. These ways are absolutely irreconcilable because they offer two different recipes for man's redemption from chaos.
 
 ## 231: Irrefutable
 - **Dissection:** [ir-re-fut-able]
@@ -1891,8 +1891,8 @@
 - **Meaning:** Uncertain how to act or proceed
 - **Hindi:** डगमग
 - **Examples:**
-  1. The committee was timid and mediocre and irresolute.
-  2. It is beneficial to understand the meaning and context of 'irresolute' in daily conversations.
+  1. The effect was as depressing as a gravestone, the applause irresolute and short-lived.
+  2. The committee was timid and mediocre and irresolute.
 
 ## 238: Irretrievable
 - **Dissection:** [ir-re-triev-able]
@@ -1907,16 +1907,16 @@
 - **Meaning:** An irreverent mental attitude
 - **Hindi:** अपमान
 - **Examples:**
-  1. Learning the word 'irreverence' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'irreverence' in daily conversations.
+  1. One of its features attractive to the West is its irreverence for tradition and dogma and for sacred texts.
+  2. There was an air of revolt about the children -- even irreverence for their own principles.
 
 ## 240: Irrevocable
 - **Dissection:** [ir-re-voc-able]
 - **Meaning:** Incapable of being retracted or revoked; - Shakespeare
 - **Hindi:** स्थिर
 - **Examples:**
-  1. Firm and irrevocable is my doom.
-  2. It is beneficial to understand the meaning and context of 'irrevocable' in daily conversations.
+  1. Moreover, the law of the land is not irrevocable;;.
+  2. Syme, quite swept off his feet, made a feeble fight against this irrevocable phrase.
 
 ## 241: Itinerant
 - **Dissection:** [it-in-er-ant]
@@ -1931,6 +1931,6 @@
 - **Meaning:** An established line of travel or access
 - **Hindi:** यात्रा कार्यक्रम
 - **Examples:**
-  1. Learning the word 'itinerary' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'itinerary' in daily conversations.
+  1. I answered the routine question about my itinerary, rather coolly.
+  2. State is expected to arrange the touring Cicero's foreign itinerary;;.
 

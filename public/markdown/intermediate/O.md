@@ -11,8 +11,8 @@
 - **Meaning:** An implement used to propel or steer a boat
 - **Hindi:** चप्पू
 - **Examples:**
-  1. He is a good oar.
-  2. It is beneficial to understand the meaning and context of 'oar' in daily conversations.
+  1. Why weary, and palsy the arm at the oar, and the iron, and the lance?
+  2. He is a good oar.
 
 ## 3: Oasis
 - **Dissection:** [oas-is]
@@ -43,8 +43,8 @@
 - **Meaning:** Be obedient to
 - **Hindi:** आज्ञा का पालन करना
 - **Examples:**
-  1. Learning the word 'obey' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'obey' in daily conversations.
+  1. For she did not obey when as yet she was a virgin.
+  2. To obey the moral law is just ordinary common sense, applied to a neglected field.
 
 ## 7: Objective
 - **Dissection:** [ob-ject-ive]
@@ -83,8 +83,8 @@
 - **Meaning:** An irrational motive for performing trivial or repetitive actions, even against your will
 - **Hindi:** जुनून
 - **Examples:**
-  1. Her compulsion to wash her hands repeatedly.
-  2. It is beneficial to understand the meaning and context of 'obsession' in daily conversations.
+  1. In Great Expectations the hands become almost an obsession.
+  2. Her compulsion to wash her hands repeatedly.
 
 ## 12: Obstacle
 - **Dissection:** [obstacle]
@@ -107,8 +107,8 @@
 - **Meaning:** Easily perceived by the senses or grasped by the mind
 - **Hindi:** ज़ाहिर
 - **Examples:**
-  1. Obvious errors.
-  2. It is beneficial to understand the meaning and context of 'obvious' in daily conversations.
+  1. It was the season's first night game and an obvious refocusing of the lights are in order.
+  2. There are more obvious nymphomaniacs on any private-eye series.
 
 ## 15: Occasion
 - **Dissection:** [oc-ca-sion]
@@ -147,8 +147,8 @@
 - **Meaning:** Any property detected by the olfactory system
 - **Hindi:** गंध
 - **Examples:**
-  1. She loved the smell of roses.
-  2. It is beneficial to understand the meaning and context of 'odor' in daily conversations.
+  1. It is said that fear in human beings produces an odor that provokes animals to attack.
+  2. The odor here was more powerful than that which surrounded the town aborigines.
 
 ## 20: Offend
 - **Dissection:** [of-fend]
@@ -179,8 +179,8 @@
 - **Meaning:** The bulb of an onion plant
 - **Hindi:** प्याज
 - **Examples:**
-  1. Learning the word 'onion' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'onion' in daily conversations.
+  1. Add enough warmed cream, seasoned to taste with onion juice, to about half cover the chicken breasts.
+  2. Contribute also an onion, a peeled tomato and two pickled gherkins, and a mashed lime.
 
 ## 24: Opera
 - **Dissection:** [op-era]
@@ -283,16 +283,16 @@
 - **Meaning:** Garden consisting of a small cultivated wood without undergrowth
 - **Hindi:** ऑर्चर्ड
 - **Examples:**
-  1. Learning the word 'orchard' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'orchard' in daily conversations.
+  1. The water was there, so much of it that it spread all through the dead orchard.
+  2. My mother says the orchard was always famous in her younger days.
 
 ## 37: Orchestra
 - **Dissection:** [or-ches-tra]
 - **Meaning:** A musical organization consisting of a group of instrumentalists including string players
 - **Hindi:** ऑर्केस्ट्रा
 - **Examples:**
-  1. Learning the word 'orchestra' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'orchestra' in daily conversations.
+  1. Beginning July 4, there will be an orchestra playing nightly except Sunday and Monday for the summer season.
+  2. Performers include a company of 46 dancers and a symphony orchestra.
 
 ## 38: Ordinary
 - **Dissection:** [or-din-ary]
@@ -323,8 +323,8 @@
 - **Meaning:** A living thing that has (or can develop) the ability to act or function independently
 - **Hindi:** जीव
 - **Examples:**
-  1. The social organism.
-  2. It is beneficial to understand the meaning and context of 'organism' in daily conversations.
+  1. Any organism that falters or misperceives the signals or weakens is done.
+  2. The social organism.
 
 ## 42: Orient
 - **Dissection:** [ori-ent]
@@ -379,8 +379,8 @@
 - **Meaning:** A unit of apothecary weight equal to 480 grains or one twelfth of a pound
 - **Hindi:** औंस
 - **Examples:**
-  1. He didn't feel even an ounce of regret for his actions.
-  2. It is beneficial to understand the meaning and context of 'ounce' in daily conversations.
+  1. I tell you, it took every ounce of control I had to be able to speak.
+  2. IN 1986, company earnings were based an average market price for gold of 368 dlrs an ounce.
 
 ## 49: Outcome
 - **Dissection:** [out-come]
@@ -555,14 +555,14 @@
 - **Meaning:** Nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes
 - **Hindi:** उल्लू
 - **Examples:**
-  1. Learning the word 'owl' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'owl' in daily conversations.
+  1. Wasn't the owl her symbol ''??
+  2. " Oh, you' re as drunk as an owl!".
 
 ## 71: Oxygen
 - **Dissection:** [oxy-gen]
 - **Meaning:** A nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust
 - **Hindi:** ऑक्सीजन
 - **Examples:**
-  1. Learning the word 'oxygen' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'oxygen' in daily conversations.
+  1. Metabolic responses to reduced oxygen tension;;.
+  2. A wall-stabilized high-current arc source was constructed and used to study transition probabilities of atomic hydrogen and oxygen.
 

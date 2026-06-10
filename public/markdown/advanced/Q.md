@@ -11,8 +11,8 @@
 - **Meaning:** An animal especially a mammal having four limbs specialized for walking
 - **Hindi:** चौपाया
 - **Examples:**
-  1. Learning the word 'quadruped' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'quadruped' in daily conversations.
+  1. You say the cross is a quadruped with one limb longer than the rest.
+  2. I say man is a quadruped who only uses two of his legs.".
 
 ## 3: Quaff
 - **Dissection:** [quaff]
@@ -27,8 +27,8 @@
 - **Meaning:** A soft wet area of low-lying land that sinks underfoot
 - **Hindi:** दलदल
 - **Examples:**
-  1. Learning the word 'quagmire' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'quagmire' in daily conversations.
+  1. That quagmire regularly ‘swallows’ caught-up hikers' boots.
+  2. The paperwork got lost in a quagmire of bureaucracy.
 
 ## 5: Quail
 - **Dissection:** [quail]
@@ -123,8 +123,8 @@
 - **Meaning:** Habitually complaining
 - **Hindi:** विलापी
 - **Examples:**
-  1. A whiny child.
-  2. It is beneficial to understand the meaning and context of 'querulous' in daily conversations.
+  1. He looked lazy, spoiled, a little querulous.
+  2. A whiny child.
 
 ## 17: Query
 - **Dissection:** [query]
@@ -163,7 +163,7 @@
 - **Meaning:** The fifth and highest element after air and earth and fire and water; was believed to be the substance composing all heavenly bodies
 - **Hindi:** हीर
 - **Examples:**
-  1. Learning the word 'quintessence' can help improve your communication and writing skills.
+  1. Have you ever read _The Quintessence of Ibsenism_?
   2. It is beneficial to understand the meaning and context of 'quintessence' in daily conversations.
 
 ## 22: Quip

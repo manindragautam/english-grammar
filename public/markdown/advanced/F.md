@@ -11,8 +11,8 @@
 - **Meaning:** The face or front of a building
 - **Hindi:** मुखौटा
 - **Examples:**
-  1. Learning the word 'facade' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'facade' in daily conversations.
+  1. Before you enter the palazzo, note Francesco Borromini's facade.
+  2. Is there a different reality behind the facade??
 
 ## 3: Facet
 - **Dissection:** [fa-cet]
@@ -51,8 +51,8 @@
 - **Meaning:** A clique (often secret) that seeks power usually through intrigue
 - **Hindi:** गुट
 - **Examples:**
-  1. Learning the word 'faction' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'faction' in daily conversations.
+  1. " Other factions ignored MPT ( in the 1970s ), but the Tanaka faction was forward looking and...
+  2. Let' em enter: They are the Faction.
 
 ## 8: Factious
 - **Dissection:** [fac-tious]
@@ -115,8 +115,8 @@
 - **Meaning:** Excessive intolerance of opposing views
 - **Hindi:** अंधाधुंधता
 - **Examples:**
-  1. Learning the word 'fanaticism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fanaticism' in daily conversations.
+  1. The Warren Telegraph stated that many of Rev. Trafton's remarks were inappropriate and savored strongly of radicalism and fanaticism.
+  2. He spoke with casual civility, but in an utterly dead voice that contradicted the fanaticism of his face.
 
 ## 16: Fanciful
 - **Dissection:** [fanci-ful]
@@ -147,7 +147,7 @@
 - **Meaning:** A submissive mental attitude resulting from acceptance of the doctrine that everything that happens is predetermined and inevitable
 - **Hindi:** नियतिवाद
 - **Examples:**
-  1. Learning the word 'fatalism' can help improve your communication and writing skills.
+  1. Was there, perhaps, some such fatalism in friendship as all lovers talk about in love?
   2. It is beneficial to understand the meaning and context of 'fatalism' in daily conversations.
 
 ## 20: Fathom
@@ -155,15 +155,15 @@
 - **Meaning:** A linear unit of measurement (equal to 6 feet) for water depth
 - **Hindi:** थाह लेना
 - **Examples:**
-  1. I can't for the life of me fathom what this means.
-  2. It is beneficial to understand the meaning and context of 'fathom' in daily conversations.
+  1. What it was Kate could not fathom.
+  2. How foolish it was to try to fathom the truth in an area where only faith would suffice.
 
 ## 21: Fatuous
 - **Dissection:** [fatu-ous]
 - **Meaning:** Devoid of intelligence
 - **Hindi:** बुद्धिहीन
 - **Examples:**
-  1. Learning the word 'fatuous' can help improve your communication and writing skills.
+  1. Then he turned his own rather fatuous face to the company.
   2. It is beneficial to understand the meaning and context of 'fatuous' in daily conversations.
 
 ## 22: Fauna
@@ -187,16 +187,16 @@
 - **Meaning:** Disturb the composure of
 - **Hindi:** फेज
 - **Examples:**
-  1. Jumping out of an airplane does not faze him, yet he is afraid to ride a roller coaster.
-  2. It is beneficial to understand the meaning and context of 'faze' in daily conversations.
+  1. That is an evening of music-making that would faze many a younger man;;.
+  2. Jumping out of an airplane does not faze him, yet he is afraid to ride a roller coaster.
 
 ## 25: Feasible
 - **Dissection:** [feas-ible]
 - **Meaning:** Capable of being done with means at hand and circumstances as they are
 - **Hindi:** संभव
 - **Examples:**
-  1. His plan to rid Trafalgar Square of pigeons by bringing in peregrine falcons to eat them was dismissed as not feasible.
-  2. It is beneficial to understand the meaning and context of 'feasible' in daily conversations.
+  1. The Government will help in transferring companies and workers into new lines, where modernization doesn't seem feasible.
+  2. Would it be feasible to limit the menu in order to reduce feeding costs??
 
 ## 26: Fecund
 - **Dissection:** [fecund]
@@ -219,8 +219,8 @@
 - **Meaning:** Any distracting or deceptive maneuver (as a mock attack)
 - **Hindi:** भुलावा
 - **Examples:**
-  1. The midfielder feinted to shoot.
-  2. It is beneficial to understand the meaning and context of 'feint' in daily conversations.
+  1. He advanced slowly, directly, giving no hint of a feint to either side.
+  2. The midfielder feinted to shoot.
 
 ## 29: Felicitous
 - **Dissection:** [fe-li-cit-ous]
@@ -235,8 +235,8 @@
 - **Meaning:** Pleasing and appropriate manner or style (especially manner or style of expression)
 - **Hindi:** परम सुख
 - **Examples:**
-  1. The quotation was rendered with felicity.
-  2. It is beneficial to understand the meaning and context of 'felicity' in daily conversations.
+  1. They might well indicate conjugal felicity, but in musical terms that smack of Hollywood.
+  2. A whole evening of back- gammon with her father, was felicity to it.
 
 ## 31: Fell
 - **Dissection:** [fell]
@@ -355,8 +355,8 @@
 - **Meaning:** A sudden and violent collapse
 - **Hindi:** असफलता
 - **Examples:**
-  1. Learning the word 'fiasco' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fiasco' in daily conversations.
+  1. The 1961 feed grain program, which the secretary sponsored, has been declared a billion dollar fiasco.
+  2. This, more than any other factor, led to the fiasco of Allied intervention.
 
 ## 46: Fiat
 - **Dissection:** [fi-at]
@@ -387,16 +387,16 @@
 - **Meaning:** Accuracy with which an electronic system reproduces the sound or image of its input signal
 - **Hindi:** निष्ठा
 - **Examples:**
-  1. The fidelity of the civil servants.
-  2. It is beneficial to understand the meaning and context of 'fidelity' in daily conversations.
+  1. This absence of peaky highs and beefed-up bass not only produces greater fidelity, but it eliminates listener fatigue.
+  2. The test of form is fidelity to the experience, a gauge also accepted by the abstract expressionist painters.
 
 ## 50: Figment
 - **Dissection:** [fig-ment]
 - **Meaning:** A contrived or fantastic idea
 - **Hindi:** मनगढ़ंत
 - **Examples:**
-  1. A figment of the imagination.
-  2. It is beneficial to understand the meaning and context of 'figment' in daily conversations.
+  1. A figment of Carl Anderson's imagination.
+  2. A figment of the imagination.
 
 ## 51: Figurative
 - **Dissection:** [fig-ur-at-ive]
@@ -419,8 +419,8 @@
 - **Meaning:** Designating the generation or the sequence of generations following the parental generation
 - **Hindi:** बेटा-संबंधी
 - **Examples:**
-  1. Filial respect.
-  2. It is beneficial to understand the meaning and context of 'filial' in daily conversations.
+  1. So spake the Almighty, and to what he spake His Word, the Filial Godhead, gave effect.
+  2. Filial respect.
 
 ## 54: Filibuster
 - **Dissection:** [fili-buster]
@@ -467,7 +467,7 @@
 - **Meaning:** A long narrow depression in a surface
 - **Hindi:** दरार
 - **Examples:**
-  1. Learning the word 'fissure' can help improve your communication and writing skills.
+  1. The fissure is about a foot across.
   2. It is beneficial to understand the meaning and context of 'fissure' in daily conversations.
 
 ## 60: Fitful
@@ -675,16 +675,16 @@
 - **Meaning:** Good-natured tolerance of delay or incompetence
 - **Hindi:** सहनशीलता
 - **Examples:**
-  1. His forbearance to reply was alarming.
-  2. It is beneficial to understand the meaning and context of 'forbearance' in daily conversations.
+  1. They spoke, therefore, of Mrs. Churchill' s death with mutual forbearance.
+  2. Have you too the old ever- fresh forbearance and impartiality?
 
 ## 86: Ford
 - **Dissection:** [ford]
 - **Meaning:** United States film maker (1896-1973)
 - **Hindi:** पायाब
 - **Examples:**
-  1. Learning the word 'ford' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ford' in daily conversations.
+  1. Baseball commissioner Ford Frick has ruled that Ruth's record will remain official unless it is broken in 154 games.
+  2. The Ford and the pickup truck sped west toward Sanford's Run.
 
 ## 87: Foreboding
 - **Dissection:** [fore-bod-ing]
@@ -763,8 +763,8 @@
 - **Meaning:** Leave someone who needs or counts on you; leave in the lurch
 - **Hindi:** त्यागना
 - **Examples:**
-  1. The mother deserted her children.
-  2. It is beneficial to understand the meaning and context of 'forsake' in daily conversations.
+  1. 27: 10 When my father and my mother forsake me, then the LORD will take me up.
+  2. 38: 21 Forsake me not, O LORD: O my God, be not far from me.
 
 ## 97: Forswear
 - **Dissection:** [for-swear]
@@ -787,8 +787,8 @@
 - **Meaning:** Strength of mind that enables one to endure adversity with courage
 - **Hindi:** धैर्य
 - **Examples:**
-  1. Learning the word 'fortitude' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fortitude' in daily conversations.
+  1. Then more than ever before did they show their fortitude and patient cheerfulness.
+  2. Concern for her unhappiness, and respect for her fortitude under it, must strengthen every attachment.
 
 ## 100: Fortuitous
 - **Dissection:** [for-tu-it-ous]
@@ -875,7 +875,7 @@
 - **Meaning:** A mural done with watercolors on wet plaster
 - **Hindi:** फ्रेस्को
 - **Examples:**
-  1. Learning the word 'fresco' can help improve your communication and writing skills.
+  1. The painting `` a fresco '' stood up superbly;;.
   2. It is beneficial to understand the meaning and context of 'fresco' in daily conversations.
 
 ## 111: Fret
@@ -899,8 +899,8 @@
 - **Meaning:** An architectural ornament consisting of a horizontal sculptured band between the architrave and the cornice
 - **Hindi:** चित्र वल्लरी
 - **Examples:**
-  1. The classroom had an alphabet frieze that showed an animal for each letter.
-  2. It is beneficial to understand the meaning and context of 'frieze' in daily conversations.
+  1. When Costaggini had used up all the sketches thirty-six feet of empty frieze were left over.
+  2. ( throws a fancy mantle over his frieze coat ).
 
 ## 114: Frivolous
 - **Dissection:** [frivol-ous]
@@ -915,8 +915,8 @@
 - **Meaning:** Habitually disposed to disobedience and opposition
 - **Hindi:** टेढ़े
 - **Examples:**
-  1. Learning the word 'froward' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'froward' in daily conversations.
+  1. 101: 4 A froward heart shall depart from me: I will not know a wicked person.
+  2. 3: 32 For the froward is abomination to the LORD: but his secret is with the righteous.
 
 ## 116: Fructify
 - **Dissection:** [fructi-fy]
@@ -1019,7 +1019,7 @@
 - **Meaning:** An occurrence that involves the production of a union
 - **Hindi:** विलय
 - **Examples:**
-  1. Learning the word 'fusion' can help improve your communication and writing skills.
+  1. Without an instant's transition, the green light that meant full fusion power winked on the board.
   2. It is beneficial to understand the meaning and context of 'fusion' in daily conversations.
 
 ## 129: Futile

@@ -75,8 +75,8 @@
 - **Meaning:** A vocabulary word: your.
 - **Hindi:** आपका
 - **Examples:**
-  1. Learning the word 'your' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'your' in daily conversations.
+  1. `` Yes, your honor '', replied Bellows.
+  2. Practice helps you to get your timing down.
 
 ## 11: Yourself
 - **Dissection:** [your-self]

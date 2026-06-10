@@ -11,16 +11,16 @@
 - **Meaning:** A church associated with a monastery or convent
 - **Hindi:** अभय
 - **Examples:**
-  1. Learning the word 'abbey' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'abbey' in daily conversations.
+  1. That was the day that Pierre had told Warren about the Abbey of Solesmes.
+  2. Within two weeks Warren was ringing the bell at the abbey gate.
 
 ## 3: Abdomen
 - **Dissection:** [ab-do-men]
 - **Meaning:** The region of the body of a vertebrate between the thorax and the pelvis
 - **Hindi:** पेट
 - **Examples:**
-  1. He was all bent over complaining of pains in the abdomen.
-  2. It is beneficial to understand the meaning and context of 'abdomen' in daily conversations.
+  1. ) who first conceived the startling fancy of a picture window in the abdomen.
+  2. A painful stab hit him in the abdomen.
 
 ## 4: Abide
 - **Dissection:** [abide]
@@ -83,8 +83,8 @@
 - **Meaning:** A secondary school (usually private)
 - **Hindi:** अकादमी
 - **Examples:**
-  1. The military academy at West Point; a riding academy; the Academy of Music.; a music academy; a language academy.
-  2. It is beneficial to understand the meaning and context of 'academy' in daily conversations.
+  1. To West Point, N.Y., the famous military academy in a beautiful setting on the Hudson River.
+  2. If there's no suitable academy in your own neighborhood, there's always New England.
 
 ## 12: Accelerate
 - **Dissection:** [ac-cel-er-ate]
@@ -211,8 +211,8 @@
 - **Meaning:** The action of accomplishing something
 - **Hindi:** उपलब्धि
 - **Examples:**
-  1. Finishing the game does not give you a 100% score until you have unlocked all of the achievements.
-  2. It is beneficial to understand the meaning and context of 'achievement' in daily conversations.
+  1. Over 400 Portland firms contributed funds for the maintenance of Junior Achievement headquarters here.
+  2. For winning Larson will receive a $100 U.S. Savings Bond from the Junior Achievement national organization.
 
 ## 28: Acid
 - **Dissection:** [acid]
@@ -251,8 +251,8 @@
 - **Meaning:** A unit of area (4840 square yards) used in English-speaking countries
 - **Hindi:** एकड़
 - **Examples:**
-  1. I like my new house - there’s acres of space!
-  2. It is beneficial to understand the meaning and context of 'acre' in daily conversations.
+  1. One of the agreements calls for the New Eastwick Corp. to purchase a 1311 acre tract for $12,192,865.
+  2. The job of getting property easements and street easements and the acre for the tanks would become pretty discouraging.
 
 ## 33: Activate
 - **Dissection:** [ac-tiv-ate]
@@ -347,8 +347,8 @@
 - **Meaning:** Feel admiration for
 - **Hindi:** प्रशंसा करना
 - **Examples:**
-  1. He had always admired the work ethos and family values of his friend.
-  2. It is beneficial to understand the meaning and context of 'admire' in daily conversations.
+  1. I admire the English lady.
+  2. Leaving her house one late afternoon, Mrs. Pastern stopped to admire the October light.
 
 ## 45: Admission
 - **Dissection:** [ad-mis-sion]
@@ -363,7 +363,7 @@
 - **Meaning:** The time period between the beginning of puberty and adulthood
 - **Hindi:** किशोरावस्था
 - **Examples:**
-  1. Learning the word 'adolescence' can help improve your communication and writing skills.
+  1. During adolescence, the body and mind go through many complex changes, some of which are difficult to deal with.
   2. It is beneficial to understand the meaning and context of 'adolescence' in daily conversations.
 
 ## 47: Adolescent
@@ -499,16 +499,16 @@
 - **Meaning:** A large-scale farming enterprise
 - **Hindi:** कृषि
 - **Examples:**
-  1. Learning the word 'agriculture' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'agriculture' in daily conversations.
+  1. Now 38, Mr. Simpkins was graduated from the University of Maryland's College of Agriculture in 1947.
+  2. Would agriculture progress as rapidly as industry??
 
 ## 64: Aisle
 - **Dissection:** [aisle]
 - **Meaning:** A long narrow passage (as in a cave or woods)
 - **Hindi:** गलियारा
 - **Examples:**
-  1. Do you want to seat window or aisle?
-  2. It is beneficial to understand the meaning and context of 'aisle' in daily conversations.
+  1. Not this hand complies with my humor more genially than that boy.-- Middle aisle of a church!
+  2. Do you want to seat window or aisle?
 
 ## 65: Alarm
 - **Dissection:** [alarm]
@@ -523,8 +523,8 @@
 - **Meaning:** One or more recordings issued together; originally released on 12-inch phonograph records (usually with attractive record covers) and later on cassette audiotape and compact disc
 - **Hindi:** एल्बम
 - **Examples:**
-  1. Learning the word 'album' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'album' in daily conversations.
+  1. Their Vanguard album Madrigal Masterpieces ( BG 609;;.
+  2. You can catch up with him -- if you haven't already -- on RCA-Victor's album.
 
 ## 67: Alert
 - **Dissection:** [alert]
@@ -635,8 +635,8 @@
 - **Meaning:** An expression whose meaning cannot be determined from its context
 - **Hindi:** अस्पष्टता
 - **Examples:**
-  1. His speech was made with such great ambiguity that neither supporter nor opponent could be certain of his true position.
-  2. It is beneficial to understand the meaning and context of 'ambiguity' in daily conversations.
+  1. Stammering or repetition of I, you, he, she, et cetera may signal ambiguity or uncertainty.
+  2. One species of ambiguity tries to baffle by interweaving repetition.
 
 ## 81: Ambition
 - **Dissection:** [am-bi-tion]
@@ -659,8 +659,8 @@
 - **Meaning:** A vehicle that takes people to and from hospitals
 - **Hindi:** एम्बुलेंस
 - **Examples:**
-  1. Learning the word 'ambulance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ambulance' in daily conversations.
+  1. He was taken to University Hospital in a municipal ambulance.
+  2. He called Vincent L. Piraro, proprietor of the shop, who summoned police and an ambulance.
 
 ## 84: Amend
 - **Dissection:** [amend]
@@ -675,8 +675,8 @@
 - **Meaning:** In the middle of; in the center of; surrounded by.
 - **Hindi:** के बीच
 - **Examples:**
-  1. Learning the word 'amid' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'amid' in daily conversations.
+  1. Amid the crackle of small arms and automatic weapons, I heard the thumping of mortars.
+  2. Jefferson writing the Declaration of Independence amid the catastrophes of revolution;;.
 
 ## 86: Ample
 - **Dissection:** [ample]
@@ -731,16 +731,16 @@
 - **Meaning:** A gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus
 - **Hindi:** टखना
 - **Examples:**
-  1. Learning the word 'ankle' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ankle' in daily conversations.
+  1. Halfback Bud Priddy, slowed for almost a month by a slowly-mending sprained ankle, joined TCU's workout Monday.
+  2. He had turned his ankle slightly, and it pained him.
 
 ## 93: Anniversary
 - **Dissection:** [an-niversary]
 - **Meaning:** The date on which an event occurred in some previous year (or the celebration of it)
 - **Hindi:** सालगिरह
 - **Examples:**
-  1. Today is the fiftieth anniversary of the end of the war.
-  2. It is beneficial to understand the meaning and context of 'anniversary' in daily conversations.
+  1. This issue that you are reading marks my 15th anniversary.
+  2. Today is the fiftieth anniversary of the end of the war.
 
 ## 94: Announce
 - **Dissection:** [an-nounce]
@@ -795,8 +795,8 @@
 - **Meaning:** (psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic
 - **Hindi:** चिंता
 - **Examples:**
-  1. Learning the word 'anxiety' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'anxiety' in daily conversations.
+  1. Ignorance on this point has caused a great deal of needless anxiety, misunderstanding and suspicion.
+  2. Anxiety and deep insecurity are the characteristic responses evoked by the crisis in tradition.
 
 ## 101: Anxious
 - **Dissection:** [anxious]
@@ -851,16 +851,16 @@
 - **Meaning:** A device or control that is very useful for a particular job
 - **Hindi:** उपकरण
 - **Examples:**
-  1. Learning the word 'appliance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'appliance' in daily conversations.
+  1. This appliance will exert a gentle and continuous or intermittent pressure on the bone.
+  2. `` God doesn't have any appliance or cosmetics '', he said heatedly before he caught himself.
 
 ## 108: Applicant
 - **Dissection:** [ap-plic-ant]
 - **Meaning:** A person who requests or seeks something such as assistance or employment or admission
 - **Hindi:** आवेदक
 - **Examples:**
-  1. Our job advertisement attracted seven applicants.
-  2. It is beneficial to understand the meaning and context of 'applicant' in daily conversations.
+  1. Each applicant is required to own or have sufficient interest in the property to be explored.
+  2. Our job advertisement attracted seven applicants.
 
 ## 109: Appoint
 - **Dissection:** [ap-point]
@@ -915,16 +915,16 @@
 - **Meaning:** A garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing
 - **Hindi:** तहबंद
 - **Examples:**
-  1. Learning the word 'apron' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'apron' in daily conversations.
+  1. Winston watched her fumbling to untie her apron.
+  2. I saw that woman's apron behind the door.
 
 ## 116: Aptitude
 - **Dissection:** [aptitude]
 - **Meaning:** Inherent ability
 - **Hindi:** कौशल
 - **Examples:**
-  1. Learning the word 'aptitude' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'aptitude' in daily conversations.
+  1. Young Mercer showed a remarkable lack of aptitude for both instruments.
+  2. They may be related to mental immaturity or lack of aptitude for certain types of school work.
 
 ## 117: Arbitrary
 - **Dissection:** [ar-bit-rary]
@@ -995,8 +995,8 @@
 - **Meaning:** Protective covering made of metal and used in combat
 - **Hindi:** कवच
 - **Examples:**
-  1. Learning the word 'armor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'armor' in daily conversations.
+  1. ( One good thing about a suit of armor, his leg wouldn't show.
+  2. She was trying to make a hole in my armor, and I didn't want it.
 
 ## 126: Arouse
 - **Dissection:** [arouse]
@@ -1043,8 +1043,8 @@
 - **Meaning:** A mark to indicate a direction or relation
 - **Hindi:** तीर
 - **Examples:**
-  1. Arrow left until you reach the start of the text you want to delete.
-  2. It is beneficial to understand the meaning and context of 'arrow' in daily conversations.
+  1. Among stage performances was a starring role in `` Golden Arrow '' directed by Noel Coward.
+  2. His arrow crosses the line denoting the mean.
 
 ## 132: Artificial
 - **Dissection:** [ar-ti-fi-cial]
@@ -1091,8 +1091,8 @@
 - **Meaning:** Have an ambitious plan or a lofty goal
 - **Hindi:** महत्त्वाकांक्षा करना
 - **Examples:**
-  1. He aspires to become a successful doctor.
-  2. It is beneficial to understand the meaning and context of 'aspire' in daily conversations.
+  1. And if we do not aspire to too much, it is also within our capacity.
+  2. On what wings dare he aspire?
 
 ## 138: Assemble
 - **Dissection:** [as-semble]
@@ -1131,8 +1131,8 @@
 - **Meaning:** A useful or valuable quality
 - **Hindi:** संपत्ति
 - **Examples:**
-  1. These shares are a valuable asset.
-  2. It is beneficial to understand the meaning and context of 'asset' in daily conversations.
+  1. Those qualities make Esther Marr a popular asset at the Salvation Army's Social Center at 1200 Larimer St..
+  2. A year earlier Oldham' s net asset value was put at 531. 4 mln stg.
 
 ## 143: Assign
 - **Dissection:** [as-sign]
@@ -1179,16 +1179,16 @@
 - **Meaning:** Affect with wonder
 - **Hindi:** चकित
 - **Examples:**
-  1. Your ability to speak six languages amazes me!
-  2. Understanding the term 'astonish' helps refine your vocabulary.
+  1. I have something to communicate that will astonish you not a little.
+  2. Then Thel astonish' d view' d the Worm upon its dewy bed.
 
 ## 149: Asylum
 - **Dissection:** [asylum]
 - **Meaning:** A shelter from danger or hardship
 - **Hindi:** शरण
 - **Examples:**
-  1. Learning the word 'asylum' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'asylum' in daily conversations.
+  1. And still she kept giving money to the asylum.
+  2. And they took the happiest man in the world away to an asylum.
 
 ## 150: Athlete
 - **Dissection:** [ath-lete]
@@ -1251,8 +1251,8 @@
 - **Meaning:** A professional person authorized to practice law; conducts lawsuits or gives legal advice
 - **Hindi:** प्रतिनिधि
 - **Examples:**
-  1. Learning the word 'attorney' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'attorney' in daily conversations.
+  1. The petition listed the mayor's occupation as `` attorney '' and his age as 71.
+  2. Henry L. Bowden was listed on the petition as the mayor's attorney.
 
 ## 158: Attract
 - **Dissection:** [at-tract]
@@ -1275,16 +1275,16 @@
 - **Meaning:** A variety of bridge in which tricks made in excess of the contract are scored toward game; now generally superseded by contract bridge
 - **Hindi:** नीलामी
 - **Examples:**
-  1. Learning the word 'auction' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'auction' in daily conversations.
+  1. He had that day attended a country auction, and he had come back with a prize.
+  2. Then, since the auction was being held nearby, he had walked to it.
 
 ## 161: Audio
 - **Dissection:** [au-dio]
 - **Meaning:** The audible part of a transmitted signal
 - **Hindi:** ऑडियो
 - **Examples:**
-  1. They always raise the audio for commercials.
-  2. It is beneficial to understand the meaning and context of 'audio' in daily conversations.
+  1. The neural, audio, visual and sensory connections were made and sealed.
+  2. They are to be imposed on goods which use semiconductors, including television and audio equipment and computers.
 
 ## 162: Audit
 - **Dissection:** [audit]
@@ -1331,8 +1331,8 @@
 - **Meaning:** A motor vehicle with four wheels; usually propelled by an internal combustion engine
 - **Hindi:** ऑटोमोबाइल
 - **Examples:**
-  1. He needs a car to get to work.
-  2. It is beneficial to understand the meaning and context of 'automobile' in daily conversations.
+  1. Implementation of Georgia's automobile title law was also recommended by the outgoing jury.
+  2. This was composed last year as a salute to the automobile industry.
 
 ## 168: Auxiliary
 - **Dissection:** [aux-il-i-ary]

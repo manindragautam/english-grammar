@@ -43,8 +43,8 @@
 - **Meaning:** A narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled Iceland and their descendants but now any prose narrative that resembles such an account
 - **Hindi:** कथा
 - **Examples:**
-  1. Learning the word 'saga' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'saga' in daily conversations.
+  1. As he had longed to be, he became the echo of a saga.
+  2. Saga spokesman Roy Halvorsen told Reuters he expected Gabonese officials would reply to the application by Easter.
 
 ## 7: Sagacious
 - **Dissection:** [saga-cious]
@@ -123,8 +123,8 @@
 - **Meaning:** Excessively or hypocritically pious
 - **Hindi:** पाखंडी
 - **Examples:**
-  1. A sickening sanctimonious smile.
-  2. It is beneficial to understand the meaning and context of 'sanctimonious' in daily conversations.
+  1. Perhaps you think the editorial meetings are solemn affairs, a little sanctimonious??
+  2. A sickening sanctimonious smile.
 
 ## 17: Sanctuary
 - **Dissection:** [sanc-tu-ary]
@@ -243,8 +243,8 @@
 - **Meaning:** A careless leisurely gait
 - **Hindi:** सैर
 - **Examples:**
-  1. He walked with a kind of saunter as if he hadn't a care in the world.
-  2. It is beneficial to understand the meaning and context of 'saunter' in daily conversations.
+  1. O the gleesome saunter over fields and hillsides!
+  2. He walked with a kind of saunter as if he hadn't a care in the world.
 
 ## 32: Savant
 - **Dissection:** [sav-ant]
@@ -267,8 +267,8 @@
 - **Meaning:** A sheath for a sword or dagger or bayonet
 - **Hindi:** म्यान
 - **Examples:**
-  1. Suddenly he scabbarded his sabre.
-  2. It is beneficial to understand the meaning and context of 'scabbard' in daily conversations.
+  1. This design is hard to beat for timber hunting or for packing in a saddle scabbard.
+  2. A bayonet hung in a belt scabbard.
 
 ## 35: Scad
 - **Dissection:** [scad]
@@ -283,16 +283,16 @@
 - **Meaning:** A platform from which criminals are executed (hanged or beheaded)
 - **Hindi:** पाड़
 - **Examples:**
-  1. Scaffold the building before painting it.
-  2. It is beneficial to understand the meaning and context of 'scaffold' in daily conversations.
+  1. The unfortunate queen mounted the scaffold;;.
+  2. Princes and factions clashed in the open street and died on the open scaffold.
 
 ## 37: Scamp
 - **Dissection:** [scamp]
 - **Meaning:** One who is playfully mischievous
 - **Hindi:** ढिलाई से काम करना
 - **Examples:**
-  1. My nephew is a little scamp who likes to leave lighted firecrackers under the lawnchairs of his dozing elders.
-  2. It is beneficial to understand the meaning and context of 'scamp' in daily conversations.
+  1. " I wonder now if Billy Mink is the scamp who has spoiled my fun.".
+  2. My nephew is a little scamp who likes to leave lighted firecrackers under the lawnchairs of his dozing elders.
 
 ## 38: Scanty
 - **Dissection:** [scanty]
@@ -475,16 +475,16 @@
 - **Meaning:** An Austrian school of art and architecture parallel to the French art nouveau in the 1890s
 - **Hindi:** अपगमन
 - **Examples:**
-  1. That year, secession was enacted on account of unreasonable policies.
-  2. It is beneficial to understand the meaning and context of 'secession' in daily conversations.
+  1. Does it sound with trumpet- voice the proud victory of the Union in that secession war?
+  2. That year, secession was enacted on account of unreasonable policies.
 
 ## 61: Seclusion
 - **Dissection:** [se-clu-sion]
 - **Meaning:** The quality of being secluded from the presence or view of others
 - **Hindi:** तनहाई
 - **Examples:**
-  1. Warm seclusion.
-  2. It is beneficial to understand the meaning and context of 'seclusion' in daily conversations.
+  1. The Dartmouth student does not live in monastic seclusion, as he once did.
+  2. Many a time has she said so; and yet I am no advocate for entire seclusion.
 
 ## 62: Secrete
 - **Dissection:** [secrete]
@@ -563,7 +563,7 @@
 - **Meaning:** A French river that flows through the heart of Paris and then northward into the English Channel
 - **Hindi:** सीन
 - **Examples:**
-  1. Learning the word 'seine' can help improve your communication and writing skills.
+  1. What with some fisherman drawing his seine by the shore as I walk by and pause?
   2. It is beneficial to understand the meaning and context of 'seine' in daily conversations.
 
 ## 72: Seismic
@@ -571,16 +571,16 @@
 - **Meaning:** Subject to or caused by an earthquake or earth vibration
 - **Hindi:** भूकंप
 - **Examples:**
-  1. Learning the word 'seismic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'seismic' in daily conversations.
+  1. 1986 net both periods includes writedowns of 290, 000 dlrs of oil- related seismic data.
+  2. " This oil discovery will be followed- up as soon as possible by further seismic surveys and drilling.
 
 ## 73: Seminary
 - **Dissection:** [sem-in-ary]
 - **Meaning:** A private place of education for the young
 - **Hindi:** पाठशाला
 - **Examples:**
-  1. Learning the word 'seminary' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'seminary' in daily conversations.
+  1. Such were the qualities of the Acting-President of the Seminary after the death of Miss Giles.
+  2. Quiet and energetic, cheerful and calm, she too was a power in the development of the seminary.
 
 ## 74: Senility
 - **Dissection:** [senil-ity]
@@ -643,8 +643,8 @@
 - **Meaning:** A disposition free from stress or emotion
 - **Hindi:** शांति
 - **Examples:**
-  1. Learning the word 'serenity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'serenity' in daily conversations.
+  1. Harcourt replied: `` I do really hope you can achieve serenity in the course of time.
+  2. Throughout the work of the later ninth century a calm, severe serenity displays itself.
 
 ## 82: Serpentine
 - **Dissection:** [ser-pent-ine]
@@ -675,8 +675,8 @@
 - **Meaning:** State of subjection to an owner or master or forced labor imposed as punishment
 - **Hindi:** भृत्यभाव
 - **Examples:**
-  1. Penal servitude.
-  2. It is beneficial to understand the meaning and context of 'servitude' in daily conversations.
+  1. Below them the fallen lights were literally the fallen stars of servitude.
+  2. Penal servitude.
 
 ## 86: Sever
 - **Dissection:** [sever]
@@ -795,8 +795,8 @@
 - **Meaning:** Avoid and stay away from deliberately; stay clear of
 - **Hindi:** सीधे खड़े हो
 - **Examples:**
-  1. Acrophobes shun mountaineering.
-  2. It is beneficial to understand the meaning and context of 'shun' in daily conversations.
+  1. 2: 16 But shun profane and vain babblings: for they will increase unto more ungodliness.
+  2. Acrophobes shun mountaineering.
 
 ## 101: Shunt
 - **Dissection:** [shunt]
@@ -883,7 +883,7 @@
 - **Meaning:** A benefice to which no spiritual or pastoral duties are attached
 - **Hindi:** सिनेक्योर
 - **Examples:**
-  1. Learning the word 'sinecure' can help improve your communication and writing skills.
+  1. By some writers this office is called a sinecure.
   2. It is beneficial to understand the meaning and context of 'sinecure' in daily conversations.
 
 ## 112: Sinewy
@@ -923,8 +923,8 @@
 - **Meaning:** Any of various small boats propelled by oars or by sails or by a motor
 - **Hindi:** छोटी नाव
 - **Examples:**
-  1. A skiff of rain blew into the shed and the two men moved their chairs back.
-  2. It is beneficial to understand the meaning and context of 'skiff' in daily conversations.
+  1. He stood with his back to the skiff.
+  2. If that was the skiff, it was making unprecedented speed.
 
 ## 117: Skimp
 - **Dissection:** [skimp]
@@ -947,8 +947,8 @@
 - **Meaning:** A minor short-term fight
 - **Hindi:** झड़प
 - **Examples:**
-  1. Learning the word 'skirmish' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'skirmish' in daily conversations.
+  1. And they attempted a skirmish line of advance against a camouflaged enemy encampment.
+  2. A Federal infantryman wrote to his father shortly after his first skirmish in Virginia: `` dear Pa.
 
 ## 120: Skulk
 - **Dissection:** [skulk]
@@ -1067,8 +1067,8 @@
 - **Meaning:** An idle slothful person
 - **Hindi:** आलसी
 - **Examples:**
-  1. Learning the word 'sluggard' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sluggard' in daily conversations.
+  1. 6: 9 How long wilt thou sleep, O sluggard?
+  2. 26: 16 The sluggard is wiser in his own conceit than seven men that can render a reason.
 
 ## 135: Sluggish
 - **Dissection:** [slug-gish]
@@ -1107,8 +1107,8 @@
 - **Meaning:** A smile expressing smugness or scorn instead of pleasure
 - **Hindi:** नखरे की मुस्कराहट
 - **Examples:**
-  1. Learning the word 'smirk' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'smirk' in daily conversations.
+  1. Plunking themselves down on the front bench, they turned to smirk at those around them.
+  2. A sudden thought wiped the smirk from his face.
 
 ## 140: Smolder
 - **Dissection:** [smolder]
@@ -1139,8 +1139,8 @@
 - **Meaning:** The state of being sober and not intoxicated by alcohol
 - **Hindi:** संयम
 - **Examples:**
-  1. Learning the word 'sobriety' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sobriety' in daily conversations.
+  1. " I have noticed it," said Turnbull with equal sobriety.
+  2. " No," said the Professor with sobriety," not if we were three hundred against Sunday.".
 
 ## 144: Sodden
 - **Dissection:** [sod-den]
@@ -1155,8 +1155,8 @@
 - **Meaning:** A temporary stay (e.g., as a guest)
 - **Hindi:** डेरा डालना
 - **Examples:**
-  1. Learning the word 'sojourn' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sojourn' in daily conversations.
+  1. During a sojourn of slightly more than three months Chamberlain Littlepage could see action on both elements.
+  2. 19: 33 And if a stranger sojourn with thee in your land, ye shall not vex him.
 
 ## 146: Solace
 - **Dissection:** [solace]
@@ -1171,8 +1171,8 @@
 - **Meaning:** An alloy (usually of lead and tin) used when melted to join two metal surfaces
 - **Hindi:** मिलाप
 - **Examples:**
-  1. Solder these two pipes together.
-  2. It is beneficial to understand the meaning and context of 'solder' in daily conversations.
+  1. Solder this second `` B '' to `` A '' at right angles.
+  2. Solder it and the five locking bar spacers to the frame.
 
 ## 148: Solecism
 - **Dissection:** [sol-ecism]
@@ -1187,8 +1187,8 @@
 - **Meaning:** A trait of dignified seriousness
 - **Hindi:** गंभीरता
 - **Examples:**
-  1. The solemnity of a funeral.
-  2. It is beneficial to understand the meaning and context of 'solemnity' in daily conversations.
+  1. Turnbull' s solitary soul surged up against this sickening daily solemnity.
+  2. It was the Secretary, and his mouth went quite straight in the solemnity of triumph.
 
 ## 150: Solicit
 - **Dissection:** [so-li-cit]
@@ -1219,8 +1219,8 @@
 - **Meaning:** A state of social isolation
 - **Hindi:** अकेलापन
 - **Examples:**
-  1. Learning the word 'solitude' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'solitude' in daily conversations.
+  1. In the solitude of Camusfearna there had been no loneliness.
+  2. The sudden solitude had lost its momentary charm and become oppressive.
 
 ## 154: Soluble
 - **Dissection:** [sol-uble]
@@ -1283,7 +1283,7 @@
 - **Meaning:** Any of a group of Greek philosophers and teachers in the 5th century BC who speculated on a wide range of subjects
 - **Hindi:** मिथ्या हेतुवादी
 - **Examples:**
-  1. Learning the word 'sophist' can help improve your communication and writing skills.
+  1. Which is madder, the Spanish priest who permitted tyranny, or the Prussian sophist who admired it?
   2. It is beneficial to understand the meaning and context of 'sophist' in daily conversations.
 
 ## 162: Sophistry
@@ -1387,8 +1387,8 @@
 - **Meaning:** Someone who spends money prodigally
 - **Hindi:** उड़ाऊ
 - **Examples:**
-  1. Prodigal in their expenditures.
-  2. It is beneficial to understand the meaning and context of 'spendthrift' in daily conversations.
+  1. You talk as if a miser on Monday were always a spendthrift on Tuesday.
+  2. Prodigal in their expenditures.
 
 ## 175: Sphinx
 - **Dissection:** [sphinx]
@@ -1411,16 +1411,16 @@
 - **Meaning:** The quality of being spontaneous and coming from natural feelings without constraint
 - **Hindi:** स्वच्छंदता
 - **Examples:**
-  1. The spontaneity of his laughter.
-  2. It is beneficial to understand the meaning and context of 'spontaneity' in daily conversations.
+  1. The second reason for his popularity is his complete spontaneity with the guitar.
+  2. Nevertheless, the writer has never experienced such spontaneity of discussion after film showings.
 
 ## 178: Sporadic
 - **Dissection:** [sporad-ic]
 - **Meaning:** Recurring in scattered and irregular or unpredictable instances
 - **Hindi:** छिटपुट
 - **Examples:**
-  1. A city subjected to sporadic bombing raids.
-  2. It is beneficial to understand the meaning and context of 'sporadic' in daily conversations.
+  1. Student leaders began sporadic efforts to negotiate theater integration several months ago.
+  2. As their identity diffusion increased, they became more susceptible to sporadic diversions in love and sexual affairs.
 
 ## 179: Sportive
 - **Dissection:** [sport-ive]
@@ -1507,16 +1507,16 @@
 - **Meaning:** Characterized by dignity and propriety
 - **Hindi:** शांत
 - **Examples:**
-  1. Learning the word 'staid' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'staid' in daily conversations.
+  1. Miss Taylor, if you had not married, you would have staid at home with me.".
+  2. He staid an hour with them.
 
 ## 190: Stalemate
 - **Dissection:** [stale-mate]
 - **Meaning:** A situation in which no progress can be made or no advancement is possible
 - **Hindi:** गतिरोध
 - **Examples:**
-  1. Reached an impasse on the negotiations.
-  2. It is beneficial to understand the meaning and context of 'stalemate' in daily conversations.
+  1. The need to protect the public interest in situations of prolonged labor-management stalemate;;.
+  2. Reached an impasse on the negotiations.
 
 ## 191: Stalwart
 - **Dissection:** [stal-wart]
@@ -1571,8 +1571,8 @@
 - **Meaning:** Avoiding detection by moving carefully
 - **Hindi:** चुपके से
 - **Examples:**
-  1. He has been/lived stealth for 10 years.
-  2. It is beneficial to understand the meaning and context of 'stealth' in daily conversations.
+  1. It fits the pattern of secrecy and stealth you've been involved in ''.
+  2. He has been/lived stealth for 10 years.
 
 ## 198: Stellar
 - **Dissection:** [stel-lar]
@@ -1627,8 +1627,8 @@
 - **Meaning:** The apical end of the style where deposited pollen enters the pistil
 - **Hindi:** कलंक
 - **Examples:**
-  1. And the Lord set a mark upon Cain.
-  2. It is beneficial to understand the meaning and context of 'stigma' in daily conversations.
+  1. Now how did this odious stigma originate?
+  2. And the Lord set a mark upon Cain.
 
 ## 205: Stilted
 - **Dissection:** [stil-ted]
@@ -1963,7 +1963,7 @@
 - **Meaning:** A radical supporter of political or social revolution
 - **Hindi:** विनाशक
 - **Examples:**
-  1. Learning the word 'subversive' can help improve your communication and writing skills.
+  1. Does it put the label of un-American or subversive on everyone with whom it disagrees politically??
   2. It is beneficial to understand the meaning and context of 'subversive' in daily conversations.
 
 ## 247: Succinct
@@ -2331,8 +2331,8 @@
 - **Meaning:** (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane
 - **Hindi:** समरूपता
 - **Examples:**
-  1. Learning the word 'symmetry' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'symmetry' in daily conversations.
+  1. What will be the final symmetry of the good society??
+  2. Douglass found Af to be trigonal, Laue symmetry Af, with Af, Af.
 
 ## 293: Synchronous
 - **Dissection:** [syn-chron-ous]
@@ -2355,8 +2355,8 @@
 - **Meaning:** The process of producing a chemical compound (usually by the union of simpler chemical compounds)
 - **Hindi:** संश्लेषण
 - **Examples:**
-  1. Learning the word 'synthesis' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'synthesis' in daily conversations.
+  1. True, a Mason watercolor is unmistakably a synthesis of nature rather than a detailed inventory.
+  2. Impartiality to him meant an unwillingness to generalize and to search for a synthesis.
 
 ## 296: Synthetic
 - **Dissection:** [syn-thet-ic]

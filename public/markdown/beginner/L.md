@@ -3,8 +3,8 @@
 - **Meaning:** A body of (usually fresh) water surrounded by land
 - **Hindi:** झील
 - **Examples:**
-  1. For example, the name of a lake prepared by extending the aluminum salt prepared from FD&C Blue No. 1 upon the substratum would be FD&C Blue No. 1--Aluminum Lake.
-  2. It is beneficial to understand the meaning and context of 'lake' in daily conversations.
+  1. Mr. Wendell and his bride will live in his Lake Forest house.
+  2. The Beadles formerly lived in Lake Forest.
 
 ## 2: Land
 - **Dissection:** [land]
@@ -99,8 +99,8 @@
 - **Meaning:** A person who rules or guides or inspires others
 - **Hindi:** नेता
 - **Examples:**
-  1. Learning the word 'leader' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'leader' in daily conversations.
+  1. The conservation leader said other mistakes in spraying had caused serious damage in Ohio and Wyoming.
+  2. They came together in the huge, high-ceilinged Council Chamber to hear the late leader eulogized.
 
 ## 14: Leaf
 - **Dissection:** [leaf]
@@ -131,8 +131,8 @@
 - **Meaning:** An animal skin made smooth and flexible by removing the hair and then tanning
 - **Hindi:** चमड़ा
 - **Examples:**
-  1. He leathered the ball all the way down the street.
-  2. It is beneficial to understand the meaning and context of 'leather' in daily conversations.
+  1. With a foreign car you must wear a cap -- it has a leather band in the back.
+  2. At right is a casual style in a crushed unlined white leather.
 
 ## 18: Leave
 - **Dissection:** [leave]
@@ -227,8 +227,8 @@
 - **Meaning:** A room where books are kept
 - **Hindi:** पुस्तकालय
 - **Examples:**
-  1. They had brandy in the library.
-  2. It is beneficial to understand the meaning and context of 'library' in daily conversations.
+  1. Anyone interested in attending the meeting may have reservations with Mrs. John Whelan at the Hollywood Public Library.
+  2. Most library budgets are hopelessly inadequate.
 
 ## 30: Lie
 - **Dissection:** [lie]

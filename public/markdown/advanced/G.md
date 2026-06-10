@@ -19,8 +19,8 @@
 - **Meaning:** The rate of moving (especially walking or running)
 - **Hindi:** चाल
 - **Examples:**
-  1. Learning the word 'gait' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gait' in daily conversations.
+  1. Their gait is impossible to convey in words.
+  2. We go the gait that leaves no dust behind!".
 
 ## 4: Gale
 - **Dissection:** [gale]
@@ -59,8 +59,8 @@
 - **Meaning:** A complete extent or range:
 - **Hindi:** सरगम
 - **Examples:**
-  1. A face that expressed a gamut of emotions.
-  2. It is beneficial to understand the meaning and context of 'gamut' in daily conversations.
+  1. Styles run the gamut from slender and tapered with elongated toes to a newer squared toe shape.
+  2. A face that expressed a gamut of emotions.
 
 ## 9: Garble
 - **Dissection:** [garble]
@@ -107,8 +107,8 @@
 - **Meaning:** Full of trivial conversation
 - **Hindi:** बातूनी
 - **Examples:**
-  1. Kept from her housework by gabby neighbors.
-  2. It is beneficial to understand the meaning and context of 'garrulous' in daily conversations.
+  1. Actually Johnny is a glib, garrulous guy, with a rare sense of humor.
+  2. Garrulous to the very last.
 
 ## 15: Gastronomy
 - **Dissection:** [gast-ro-nomy]
@@ -163,8 +163,8 @@
 - **Meaning:** Successive generations of kin
 - **Hindi:** वंशावली
 - **Examples:**
-  1. Learning the word 'genealogy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'genealogy' in daily conversations.
+  1. These were their habitations, and their genealogy.
+  2. Now I do glory in my genealogy.
 
 ## 22: Generality
 - **Dissection:** [gen-er-al-ity]
@@ -187,8 +187,8 @@
 - **Meaning:** A coming into being
 - **Hindi:** उत्पत्ति
 - **Examples:**
-  1. Some point to the creation of Magna Carta as the genesis of English common law.
-  2. It is beneficial to understand the meaning and context of 'genesis' in daily conversations.
+  1. The First Book of Moses: Called Genesis.
+  2. Some point to the creation of Magna Carta as the genesis of English common law.
 
 ## 25: Geniality
 - **Dissection:** [gen-i-al-ity]
@@ -203,8 +203,8 @@
 - **Meaning:** A kind of literary or artistic work
 - **Hindi:** शैली
 - **Examples:**
-  1. The computer game Half-Life redefined the first-person shooter genre.
-  2. It is beneficial to understand the meaning and context of 'genre' in daily conversations.
+  1. But his facility in this genre was not great.
+  2. The computer game Half-Life redefined the first-person shooter genre.
 
 ## 27: Genteel
 - **Dissection:** [gen-teel]
@@ -219,15 +219,15 @@
 - **Meaning:** Elegance by virtue of fineness of manner and expression
 - **Hindi:** उमरा
 - **Examples:**
-  1. Learning the word 'gentility' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gentility' in daily conversations.
+  1. Why has this form of gentility gone out of American life??
+  2. A life of gentility and principle such as Cousin Elec had lived had to be known at first hand.
 
 ## 29: Gentry
 - **Dissection:** [gentry]
 - **Meaning:** The most powerful members of a society
 - **Hindi:** जेंट्री
 - **Examples:**
-  1. Learning the word 'gentry' can help improve your communication and writing skills.
+  1. From the outside it was an ordinary enough house of the gentry.
   2. It is beneficial to understand the meaning and context of 'gentry' in daily conversations.
 
 ## 30: Germane
@@ -379,7 +379,7 @@
 - **Meaning:** Malicious satisfaction
 - **Hindi:** घूरना
 - **Examples:**
-  1. Learning the word 'gloat' can help improve your communication and writing skills.
+  1. To gloat so over the wounds and deaths of the enemy.
   2. It is beneficial to understand the meaning and context of 'gloat' in daily conversations.
 
 ## 49: Glossary
@@ -387,7 +387,7 @@
 - **Meaning:** An alphabetical list of technical terms in some specialized field of knowledge; usually published as an appendix to a text on that field
 - **Hindi:** शब्दकोष
 - **Examples:**
-  1. Learning the word 'glossary' can help improve your communication and writing skills.
+  1. The first stage of translation after glossary lookup is structural analysis of the input text.
   2. It is beneficial to understand the meaning and context of 'glossary' in daily conversations.
 
 ## 50: Glut
@@ -403,8 +403,8 @@
 - **Meaning:** A person who is devoted to eating and drinking to excess
 - **Hindi:** खाऊ
 - **Examples:**
-  1. Such a glutton would eat until his belly hurts.
-  2. It is beneficial to understand the meaning and context of 'glutton' in daily conversations.
+  1. " Where, glutton, do you find money to pay for these dainties?".
+  2. Such a glutton would eat until his belly hurts.
 
 ## 52: Gnarled
 - **Dissection:** [gnarled]
@@ -595,8 +595,8 @@
 - **Meaning:** Show submission or fear
 - **Hindi:** उताने पड़ जाना
 - **Examples:**
-  1. Learning the word 'grovel' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'grovel' in daily conversations.
+  1. What had he thought of, to go to John, grovel and beg understanding??
+  2. Have we not grovel' d here long enough, eating and drinking like mere brutes?
 
 ## 76: Grudging
 - **Dissection:** [grudging]
@@ -611,7 +611,7 @@
 - **Meaning:** A thin porridge (usually oatmeal or cornmeal)
 - **Hindi:** मांड़
 - **Examples:**
-  1. Learning the word 'gruel' can help improve your communication and writing skills.
+  1. My dear Emma, suppose we all have a little gruel.".
   2. It is beneficial to understand the meaning and context of 'gruel' in daily conversations.
 
 ## 78: Grueling
@@ -635,7 +635,7 @@
 - **Meaning:** A burst of deep loud hearty laughter
 - **Hindi:** खिलखिलाकर हंसना
 - **Examples:**
-  1. Learning the word 'guffaw' can help improve your communication and writing skills.
+  1. The little man stared an instant and then said:" Yes," and Turnbull broke into a guffaw.
   2. It is beneficial to understand the meaning and context of 'guffaw' in daily conversations.
 
 ## 81: Guile
@@ -643,8 +643,8 @@
 - **Meaning:** Shrewdness as demonstrated by being skilled in deception
 - **Hindi:** छल
 - **Examples:**
-  1. Learning the word 'guile' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'guile' in daily conversations.
+  1. She did not attribute guile to any.
+  2. 34: 13 Keep thy tongue from evil, and thy lips from speaking guile.
 
 ## 82: Guileless
 - **Dissection:** [guile-less]
@@ -683,8 +683,8 @@
 - **Meaning:** Vigorous and enthusiastic enjoyment
 - **Hindi:** उत्साह
 - **Examples:**
-  1. He sang with more gusto than talent.
-  2. It is beneficial to understand the meaning and context of 'gusto' in daily conversations.
+  1. Shakespeare speaking with `` the indescribable gusto of the Elizabethan voice '' --;;.
+  2. Said the atheistic editor with a sort of gusto of disgust.
 
 ## 87: Gusty
 - **Dissection:** [gusty]

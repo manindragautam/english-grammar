@@ -11,8 +11,8 @@
 - **Meaning:** A bluish-white lustrous metallic element; brittle at ordinary temperatures but malleable when heated; used in a wide variety of alloys and in galvanizing iron; it occurs naturally as zinc sulphide in zinc blende
 - **Hindi:** जस्ता
 - **Examples:**
-  1. Learning the word 'zinc' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'zinc' in daily conversations.
+  1. Zinc cadmium sulfide in particles of 2 microns in size were disseminated.
+  2. RIO TINTO- ZINC CORP PLC 1986 PRETAX PROFIT 601. 7 mln stg vs 614. 4 mln.
 
 ## 3: Zip
 - **Dissection:** [zip]

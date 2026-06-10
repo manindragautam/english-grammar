@@ -67,8 +67,8 @@
 - **Meaning:** A room equipped for preparing meals
 - **Hindi:** रसोईघर
 - **Examples:**
-  1. Learning the word 'kitchen' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'kitchen' in daily conversations.
+  1. Her husband was lying on the kitchen floor, police said.
+  2. This happens on the grocer's shelf or in your kitchen.
 
 ## 10: Knee
 - **Dissection:** [knee]

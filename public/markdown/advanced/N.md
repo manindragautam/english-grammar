@@ -3,16 +3,16 @@
 - **Meaning:** An extreme state of adversity; the lowest point of anything
 - **Hindi:** पतन
 - **Examples:**
-  1. The nadir of the sun is the axis of the shadow projected by the Earth.
-  2. It is beneficial to understand the meaning and context of 'nadir' in daily conversations.
+  1. At the nadir of that circuit is death.
+  2. The nadir of the sun is the axis of the shadow projected by the Earth.
 
 ## 2: Naivete
 - **Dissection:** [na-iv-ete]
 - **Meaning:** Lack of sophistication or worldliness
 - **Hindi:** भोलेपन
 - **Examples:**
-  1. Learning the word 'naivete' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'naivete' in daily conversations.
+  1. While he is worldly, the musician often cultivates public attitudes of childlike astonishment and naivete.
+  2. The naivete of Miss Smith' s manners -- and altogether -- Oh, it is most admirable!
 
 ## 3: Narcissism
 - **Dissection:** [nar-ciss-ism]
@@ -99,8 +99,8 @@
 - **Meaning:** Failure to act with the prudence that a reasonable person would exercise under the same circumstances
 - **Hindi:** लापरवाही
 - **Examples:**
-  1. Learning the word 'negligence' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'negligence' in daily conversations.
+  1. Negligence in garbage and rubbish collections and alley cleaning is great.
+  2. I don't think his diligence mitigates your negligence, Matson ''.
 
 ## 14: Nemesis
 - **Dissection:** [nemes-is]
@@ -187,8 +187,8 @@
 - **Meaning:** Someone who rejects all theories of morality or religious belief
 - **Hindi:** नाइलीस्ट
 - **Examples:**
-  1. Learning the word 'nihilist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'nihilist' in daily conversations.
+  1. This, together with a derby hat and horn-rim eyeglasses, gave me the appearance of a Russian nihilist.
+  2. In some den of exiled dreamers I was introduced to the great German Nihilist philosopher, Professor de Worms.
 
 ## 25: Nimble
 - **Dissection:** [nimble]
@@ -211,7 +211,7 @@
 - **Meaning:** (Hinduism and Buddhism) the beatitude that transcends the cycle of reincarnation; characterized by the extinction of desire and suffering and individual consciousness
 - **Hindi:** निर्वाण
 - **Examples:**
-  1. Learning the word 'nirvana' can help improve your communication and writing skills.
+  1. Repeating it like a student telling himself that the jewel is in the lotus he sank into nirvana.
   2. It is beneficial to understand the meaning and context of 'nirvana' in daily conversations.
 
 ## 28: Nocturnal
@@ -251,8 +251,8 @@
 - **Meaning:** The trait of remaining calm and seeming not to care; a casual lack of concern
 - **Hindi:** विरक्ति
 - **Examples:**
-  1. Learning the word 'nonchalance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'nonchalance' in daily conversations.
+  1. To find a new unthought- of nonchalance with the best of Nature!
+  2. To mount the scaffold, to advance to the muzzles of guns with perfect nonchalance!
 
 ## 33: Noncommittal
 - **Dissection:** [non-com-mit-tal]
@@ -299,24 +299,24 @@
 - **Meaning:** The state of being known for some unfavorable act or quality
 - **Hindi:** बदनामी
 - **Examples:**
-  1. Learning the word 'notoriety' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'notoriety' in daily conversations.
+  1. Nor, as Manny said, had the notoriety done my career `` any good ''.
+  2. Everybody of any consequence or notoriety in Bath was well know by name to Mrs Smith.
 
 ## 39: Novelty
 - **Dissection:** [nov-elty]
 - **Meaning:** Originality by virtue of being refreshingly novel
 - **Hindi:** नवीनता
 - **Examples:**
-  1. Learning the word 'novelty' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'novelty' in daily conversations.
+  1. Need for novelty may be a symptom of cultural fatigue and instability.
+  2. The idea of a central tank with lines to each house is not in itself a novelty.
 
 ## 40: Novice
 - **Dissection:** [novice]
 - **Meaning:** Someone who has entered a religious order but has not taken final vows
 - **Hindi:** नौसिखिए
 - **Examples:**
-  1. I'm only a novice at coding, and my programs frequently have bugs that more experienced programmers would avoid.
-  2. It is beneficial to understand the meaning and context of 'novice' in daily conversations.
+  1. To a novice that is significant.
+  2. During last year's campaign, Kennedy asked Walton, an utter novice in organization politics, to assist him.
 
 ## 41: Noxious
 - **Dissection:** [nox-ious]

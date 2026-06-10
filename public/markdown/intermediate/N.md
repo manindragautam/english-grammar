@@ -51,8 +51,8 @@
 - **Meaning:** An organization of military vessels belonging to a country and available for sea warfare
 - **Hindi:** नौसेना
 - **Examples:**
-  1. Learning the word 'navy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'navy' in daily conversations.
+  1. Division four will be headed by the Navy, followed by 11 states;;.
+  2. Spectators in white crush textures dip toe and heel in smooth black, navy and taffy tan.
 
 ## 8: Necessity
 - **Dissection:** [ne-ces-sity]
@@ -91,8 +91,8 @@
 - **Meaning:** A son of your brother or sister
 - **Hindi:** भतीजा
 - **Examples:**
-  1. Learning the word 'nephew' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'nephew' in daily conversations.
+  1. Adler, Judge Sulzberger's nephew, came to study Assyriology.
+  2. -- and you fall for a pass by his own nephew!!
 
 ## 13: Nerve
 - **Dissection:** [nerve]
@@ -131,8 +131,8 @@
 - **Meaning:** A daughter of your brother or sister
 - **Hindi:** भतीजी
 - **Examples:**
-  1. My niece just celebrated her 15th birthday.
-  2. It is beneficial to understand the meaning and context of 'niece' in daily conversations.
+  1. Harvey B. Stevens of Kenilworth will give his niece in marriage.
+  2. He said he returned from the visit to his niece on the 11:20 streetcar.
 
 ## 18: Noble
 - **Dissection:** [noble]
@@ -251,8 +251,8 @@
 - **Meaning:** A child's room for a baby
 - **Hindi:** नर्सरी
 - **Examples:**
-  1. Commerce is the nursery of seamen.
-  2. It is beneficial to understand the meaning and context of 'nursery' in daily conversations.
+  1. Moll took his coffee into the nursery.
+  2. But you should understand, Jack, that Hesperus and Lucifer are not long out of the nursery.
 
 ## 33: Nylon
 - **Dissection:** [nylon]

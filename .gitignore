@@ -24,3 +24,6 @@ devenv.local.yaml
 
 # pre-commit
 .pre-commit-config.yaml
+
+# Log of words with placeholder examples
+placeholder_words.log

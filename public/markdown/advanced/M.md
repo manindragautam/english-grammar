@@ -35,8 +35,8 @@
 - **Meaning:** An unaccompanied partsong for 2 or 3 voices; follows a strict poetic form
 - **Hindi:** Madrigal का हिंदी अर्थ
 - **Examples:**
-  1. The group was madrigaling beautifully.
-  2. It is beneficial to understand the meaning and context of 'madrigal' in daily conversations.
+  1. Their Vanguard album Madrigal Masterpieces ( BG 609;;.
+  2. Stereo BGS 5031 ) is a good sample of the special, elegant art of English madrigal singing.
 
 ## 6: Maelstrom
 - **Dissection:** [mael-strom]
@@ -91,16 +91,16 @@
 - **Meaning:** Any unwholesome or desperate condition
 - **Hindi:** रोग
 - **Examples:**
-  1. What maladies afflict our nation?
-  2. It is beneficial to understand the meaning and context of 'malady' in daily conversations.
+  1. The malady was popularly known as the `` Spanish flu '' from the alleged locale of its origin.
+  2. There is that in thee, poor lad, which I feel too curing to my malady.
 
 ## 13: Malaise
 - **Dissection:** [mal-aise]
 - **Meaning:** Physical discomfort (as mild sickness or depression)
 - **Hindi:** अस्वस्थता
 - **Examples:**
-  1. Learning the word 'malaise' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'malaise' in daily conversations.
+  1. But Albania is merely a symptom of a real malaise between China and Russia.
+  2. This is, however, symptomatic of our national malaise.
 
 ## 14: Malapropism
 - **Dissection:** [mal-aprop-ism]
@@ -347,8 +347,8 @@
 - **Meaning:** A heavy long-handled hammer used to drive stakes or wedges
 - **Hindi:** आलोचना करना
 - **Examples:**
-  1. The bear mauled him in a terrible way.
-  2. It is beneficial to understand the meaning and context of 'maul' in daily conversations.
+  1. Mr. Starbuck, hand me yon top- maul.".
+  2. Stand over that helmsman with a top- maul!
 
 ## 45: Mausoleum
 - **Dissection:** [mauso-leum]
@@ -379,8 +379,8 @@
 - **Meaning:** A saying that is widely accepted on its own merits
 - **Hindi:** कहावत
 - **Examples:**
-  1. Learning the word 'maxim' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'maxim' in daily conversations.
+  1. His celebrated maxim has been quite adopted.
+  2. Never fear, man!-- a warm frind and a bitter enemy, that' s my maxim.
 
 ## 49: Meager
 - **Dissection:** [mea-ger]
@@ -427,8 +427,8 @@
 - **Meaning:** Continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature
 - **Hindi:** ध्यान
 - **Examples:**
-  1. The habit of meditation is the basis for all real knowledge.
-  2. It is beneficial to understand the meaning and context of 'meditation' in daily conversations.
+  1. She instinctively sheered away from personal discussions but she filed the comment away for further meditation.
+  2. He was sitting in an attitude of deep meditation, and seemed not to hear her.
 
 ## 55: Medley
 - **Dissection:** [med-ley]
@@ -467,8 +467,8 @@
 - **Meaning:** A thin pliable sheet of material
 - **Hindi:** झिल्ली
 - **Examples:**
-  1. Learning the word 'membrane' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'membrane' in daily conversations.
+  1. ( Hymen, in fact, is the Greek word for membrane.
+  2. Removal of the suspended solids by a membrane filter yielded an average effluent containing only 20 mg/l Aj.
 
 ## 60: Memento
 - **Dissection:** [memento]
@@ -483,7 +483,7 @@
 - **Meaning:** A collection of live animals for study or display
 - **Hindi:** जंगली पशुओं का पिंजड़ों में संग्रह
 - **Examples:**
-  1. Learning the word 'menagerie' can help improve your communication and writing skills.
+  1. He let his keepers lead him away to the royal menagerie without hurting them.
   2. It is beneficial to understand the meaning and context of 'menagerie' in daily conversations.
 
 ## 62: Mendacious
@@ -507,8 +507,8 @@
 - **Meaning:** A domestic servant
 - **Hindi:** सेवक
 - **Examples:**
-  1. A menial wretch.
-  2. It is beneficial to understand the meaning and context of 'menial' in daily conversations.
+  1. From his complete inattention to the tidings, you would think that moody Ahab had not heard his menial.
+  2. A menial wretch.
 
 ## 65: Mentor
 - **Dissection:** [ment-or]
@@ -555,8 +555,8 @@
 - **Meaning:** The combination of two or more commercial companies
 - **Hindi:** विलयन
 - **Examples:**
-  1. Club mergers reduced the number of teams by half.
-  2. It is beneficial to understand the meaning and context of 'merger' in daily conversations.
+  1. Central was rebuffed by the other two railroads in previous attempts to make it a three-way merger.
+  2. However, there is a more profound consideration to this proposed merger than profit and loss.
 
 ## 71: Mesmerize
 - **Dissection:** [mes-mer-ize]
@@ -571,16 +571,16 @@
 - **Meaning:** Of or relating to metallurgy
 - **Hindi:** धातुकर्म
 - **Examples:**
-  1. Metallurgical engineer.
-  2. It is beneficial to understand the meaning and context of 'metallurgical' in daily conversations.
+  1. The plan foresees the shutdown of some seven mining and metallurgical units on the grounds they are unprofitable.
+  2. Metallurgical engineer.
 
 ## 73: Metamorphosis
 - **Dissection:** [meta-morph-os-is]
 - **Meaning:** The marked and rapid transformation of a larva into an adult that occurs in some animals
 - **Hindi:** कायापलट
 - **Examples:**
-  1. The metamorphosis of the old house into something new and exciting.
-  2. It is beneficial to understand the meaning and context of 'metamorphosis' in daily conversations.
+  1. But the metamorphosis must come first.
+  2. But since 1945, Sam Spade has undergone a metamorphosis;;.
 
 ## 74: Metaphor
 - **Dissection:** [meta-phor]
@@ -675,7 +675,7 @@
 - **Meaning:** The environmental condition
 - **Hindi:** प्रतिवेश
 - **Examples:**
-  1. Learning the word 'milieu' can help improve your communication and writing skills.
+  1. You danced two tangos and a paso doble, which must have been fairly enervating in that milieu.
   2. It is beneficial to understand the meaning and context of 'milieu' in daily conversations.
 
 ## 86: Militant
@@ -755,8 +755,8 @@
 - **Meaning:** Great merriment
 - **Hindi:** प्रमोद
 - **Examples:**
-  1. Learning the word 'mirth' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mirth' in daily conversations.
+  1. She cackled with mirth, showing the stumps of betel-stained teeth.
+  2. " Not quite so miserable as to be insensible to mirth.
 
 ## 96: Misanthrope
 - **Dissection:** [mis-an-thrope]
@@ -787,8 +787,8 @@
 - **Meaning:** An unpredictable outcome that is unfortunate
 - **Hindi:** आफ़त
 - **Examples:**
-  1. If I didn't have bad luck I wouldn't have any luck at all.
-  2. It is beneficial to understand the meaning and context of 'mischance' in daily conversations.
+  1. Anne could do no more; but her heart prophesied some mischance to damp the perfection of her felicity.
+  2. And neuer come mischance betweene vs twaine.
 
 ## 100: Misconstrue
 - **Dissection:** [mis-con-strue]
@@ -827,8 +827,8 @@
 - **Meaning:** Uneasiness about the fitness of an action
 - **Hindi:** गलतफहमी
 - **Examples:**
-  1. Learning the word 'misgivings' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'misgivings' in daily conversations.
+  1. Meanwhile, the Supreme Court, like Congress, showed misgivings concerning this aspect of government by injunction.
+  2. Kate greeted him gravely, uneasy with misgivings at his visit.
 
 ## 105: Mishap
 - **Dissection:** [mis-hap]
@@ -851,7 +851,7 @@
 - **Meaning:** A misanthrope who dislikes women in particular
 - **Hindi:** स्री जाति से द्वेष करनेवाला
 - **Examples:**
-  1. Learning the word 'misogynist' can help improve your communication and writing skills.
+  1. He is a recluse, an incredible egotist, a confirmed misogynist.
   2. It is beneficial to understand the meaning and context of 'misogynist' in daily conversations.
 
 ## 108: Missive
@@ -867,8 +867,8 @@
 - **Meaning:** A slight but appreciable amount
 - **Hindi:** घुन
 - **Examples:**
-  1. This dish could use a touch of garlic.
-  2. It is beneficial to understand the meaning and context of 'mite' in daily conversations.
+  1. Duffy Dares ( Meadow Gene-Princess Mite ) 2:36;;.
+  2. What to the rapacious landlord is the widow' s last mite but a Fast- Fish?
 
 ## 110: Mitigate
 - **Dissection:** [mit-ig-ate]
@@ -971,7 +971,7 @@
 - **Meaning:** A male religious living in a cloister and devoting himself to contemplation and prayer and work
 - **Hindi:** मठवासी
 - **Examples:**
-  1. Learning the word 'monastic' can help improve your communication and writing skills.
+  1. The Dartmouth student does not live in monastic seclusion, as he once did.
   2. It is beneficial to understand the meaning and context of 'monastic' in daily conversations.
 
 ## 123: Monetary
@@ -1027,8 +1027,8 @@
 - **Meaning:** A legally authorized postponement before some obligation must be discharged
 - **Hindi:** रोक
 - **Examples:**
-  1. Canada may put a moratorium on cloning for research.
-  2. It is beneficial to understand the meaning and context of 'moratorium' in daily conversations.
+  1. Turning to the international debt problem, Herrhausen said Brazil' s unilateral debt moratorium had surprised banks.
+  2. In particular, they discussed Brazil' s debt moratorium.
 
 ## 130: Morbid
 - **Dissection:** [mor-bid]
@@ -1083,8 +1083,8 @@
 - **Meaning:** Art consisting of a design made of small pieces of colored stone or glass
 - **Hindi:** मौज़ेक
 - **Examples:**
-  1. Mosaic Law.
-  2. It is beneficial to understand the meaning and context of 'mosaic' in daily conversations.
+  1. How's about mosaic tile, ceramics or similar arts and crafts??
+  2. Putting the pieces of this mosaic together, Rector had the vague outlines of a biography.
 
 ## 137: Mote
 - **Dissection:** [mote]
@@ -1115,8 +1115,8 @@
 - **Meaning:** Mark with spots or blotches of different color or shades of color as if stained
 - **Hindi:** विचित्र
 - **Examples:**
-  1. The mottled skin of the snake was a camouflage that helped it blend in with the shadows.
-  2. It is beneficial to understand the meaning and context of 'mottled' in daily conversations.
+  1. Major Putnam had sprung up, his purple face mottled.
+  2. The mottled skin of the snake was a camouflage that helped it blend in with the shadows.
 
 ## 141: Muddle
 - **Dissection:** [muddle]
@@ -1139,8 +1139,8 @@
 - **Meaning:** Occurring in or having many forms or shapes or appearances; - John Dewey
 - **Hindi:** अनेक आकार का
 - **Examples:**
-  1. The multiform universe of nature and man.
-  2. It is beneficial to understand the meaning and context of 'multiform' in daily conversations.
+  1. More multiform far -- more lasting thou than they.
+  2. The multiform universe of nature and man.
 
 ## 144: Multilingual
 - **Dissection:** [mul-ti-lin-gual]
@@ -1155,8 +1155,8 @@
 - **Meaning:** The property of being multiple
 - **Hindi:** बहुलता
 - **Examples:**
-  1. Learning the word 'multiplicity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'multiplicity' in daily conversations.
+  1. The number of ordinary values of the function f{t} at T will be called its multiplicity at T.
+  2. Thus the multiplicity of Af for a given T must be an even number.
 
 ## 146: Mundane
 - **Dissection:** [mundane]

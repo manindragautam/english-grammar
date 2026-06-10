@@ -52,7 +52,7 @@
 - **Hindi:** शांत
 - **Examples:**
   1. There was a lull in the storm.
-  2. Understanding the term 'quiet' helps refine your vocabulary.
+  2. He needed silence in order to sleep.
 
 ## 8: Quite
 - **Dissection:** [quite]

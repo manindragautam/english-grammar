@@ -3,16 +3,16 @@
 - **Meaning:** An expensive vessel propelled by sail or power and used for cruising or racing
 - **Hindi:** नौका
 - **Examples:**
-  1. Would you like to go sailing on my uncle’s yacht?
-  2. It is beneficial to understand the meaning and context of 'yacht' in daily conversations.
+  1. The Corinthian Yacht Club in Tiburon launches its winter races Nov. 5.
+  2. I say, what did you do with my yacht?".
 
 ## 2: Yarn
 - **Dissection:** [yarn]
 - **Meaning:** The act of giving an account describing incidents or a course of events
 - **Hindi:** धागा
 - **Examples:**
-  1. His narration was hesitant.
-  2. It is beneficial to understand the meaning and context of 'yarn' in daily conversations.
+  1. To change from one color yarn to another:.
+  2. Thread matching yarn in tapestry needle.
 
 ## 3: Yawn
 - **Dissection:** [yawn]

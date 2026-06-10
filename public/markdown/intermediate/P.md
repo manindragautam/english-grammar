@@ -51,7 +51,7 @@
 - **Meaning:** A small book usually having a paper cover
 - **Hindi:** पुस्तिका
 - **Examples:**
-  1. Learning the word 'pamphlet' can help improve your communication and writing skills.
+  1. The final section of this pamphlet is of special interest in a consideration of Steele's relations with Swift.
   2. It is beneficial to understand the meaning and context of 'pamphlet' in daily conversations.
 
 ## 8: Panel
@@ -171,8 +171,8 @@
 - **Meaning:** A legislative assembly in certain countries
 - **Hindi:** संसद
 - **Examples:**
-  1. Following the general election, Jane Doe took her oath of office as a member of the nation's fifth parliament.
-  2. It is beneficial to understand the meaning and context of 'parliament' in daily conversations.
+  1. Urged the reconvention of the Congolese Parliament and the reorganization of the army.
+  2. `` With no strong men and no parliament to dispute his will, he was the government ''.
 
 ## 23: Partial
 - **Dissection:** [par-tial]
@@ -195,8 +195,8 @@
 - **Meaning:** (nontechnical usage) a tiny piece of anything
 - **Hindi:** कण
 - **Examples:**
-  1. Learning the word 'particle' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'particle' in daily conversations.
+  1. The paramagnetic dipole effects provide some information on the particle shapes.
+  2. The x-ray data are consistent with particle sizes of 1000 A or greater.
 
 ## 26: Passage
 - **Dissection:** [pas-sage]
@@ -211,8 +211,8 @@
 - **Meaning:** A traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it
 - **Hindi:** यात्री
 - **Examples:**
-  1. Somebody in a team who does not do their fair share of the work.
-  2. It is beneficial to understand the meaning and context of 'passenger' in daily conversations.
+  1. And with passenger weight shifted forward, Hotei levels off for speed under power of a Merc 800.
+  2. The state presently owns 389 passenger vehicles in comparison to approximately 200 in 1940.
 
 ## 28: Passion
 - **Dissection:** [pas-sion]
@@ -307,8 +307,8 @@
 - **Meaning:** Good-natured tolerance of delay or incompetence
 - **Hindi:** धैर्य
 - **Examples:**
-  1. Learning the word 'patience' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'patience' in daily conversations.
+  1. Martin called for patience on the part of Americans.
+  2. God's mercy and patience will last forever.
 
 ## 40: Patrol
 - **Dissection:** [patrol]
@@ -323,8 +323,8 @@
 - **Meaning:** A regular customer
 - **Hindi:** संरक्षक
 - **Examples:**
-  1. This car park is for patrons only.
-  2. It is beneficial to understand the meaning and context of 'patron' in daily conversations.
+  1. Yet paradoxically my liberal friends continue to view Jefferson as one of their patron saints.
+  2. This car park is for patrons only.
 
 ## 42: Pause
 - **Dissection:** [pause]
@@ -339,8 +339,8 @@
 - **Meaning:** A setting with precious stones so closely set that no metal shows
 - **Hindi:** प्रशस्त
 - **Examples:**
-  1. Pave the roads in the village.
-  2. It is beneficial to understand the meaning and context of 'pave' in daily conversations.
+  1. He urged continued negotiations among coffee producers to pave the way for a coffee export quota agreement by September.
+  2. Pave the roads in the village.
 
 ## 44: Paw
 - **Dissection:** [paw]
@@ -363,8 +363,8 @@
 - **Meaning:** A country person
 - **Hindi:** किसान
 - **Examples:**
-  1. Learning the word 'peasant' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'peasant' in daily conversations.
+  1. The peasant grunted an apology, and got down from his seat.
+  2. Foremost among the men on the beach Syme saw the peasant who had driven their cart.
 
 ## 47: Peculiar
 - **Dissection:** [pe-cu-li-ar]
@@ -427,8 +427,8 @@
 - **Meaning:** A large mass of land projecting into a body of water
 - **Hindi:** प्रायद्वीप
 - **Examples:**
-  1. Learning the word 'peninsula' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'peninsula' in daily conversations.
+  1. They cantered down the peninsula, not slackening until the coach reached Woodside where the Santa Cruz uplands begin.
+  2. On November 4, 1952, an earthquake occurred under the sea off the Kamchatka Peninsula.
 
 ## 55: Penny
 - **Dissection:** [penny]
@@ -459,8 +459,8 @@
 - **Meaning:** A proportion in relation to a whole (which is usually the amount per hundred)
 - **Hindi:** प्रतिशत
 - **Examples:**
-  1. Only a small percent attain the top ranks.
-  2. It is beneficial to understand the meaning and context of 'percent' in daily conversations.
+  1. Goodis said that single rooms account for 95 percent of the accomodations in some hotels.
+  2. Expect their own production volume, and presumably sales, to jump 30 percent in 1961.
 
 ## 59: Percentage
 - **Dissection:** [per-cent-age]
@@ -547,8 +547,8 @@
 - **Meaning:** Group of people willing to obey orders
 - **Hindi:** कार्मिक
 - **Examples:**
-  1. A public force is necessary to give security to the rights of citizens.
-  2. It is beneficial to understand the meaning and context of 'personnel' in daily conversations.
+  1. After 18 years in the personnel office, she has taken a disability pension on advice of her doctors.
+  2. In the first place there is the obvious problem of recruiting high caliber personnel.
 
 ## 70: Perspective
 - **Dissection:** [per-spect-ive]
@@ -556,7 +556,7 @@
 - **Hindi:** परिप्रेक्ष्य
 - **Examples:**
   1. Consider what follows from the positivist view.
-  2. It is beneficial to understand the meaning and context of 'perspective' in daily conversations.
+  2. A perspective drawing.
 
 ## 71: Persuade
 - **Dissection:** [per-suade]
@@ -587,16 +587,16 @@
 - **Meaning:** A formal message requesting something that is submitted to an authority
 - **Hindi:** याचिका
 - **Examples:**
-  1. The villagers petitioned the council to demolish the dangerous building.
-  2. It is beneficial to understand the meaning and context of 'petition' in daily conversations.
+  1. His petition charged mental cruelty.
+  2. The petition listed the mayor's occupation as `` attorney '' and his age as 71.
 
 ## 75: Petrol
 - **Dissection:** [pet-rol]
 - **Meaning:** A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines
 - **Hindi:** पेट्रोल
 - **Examples:**
-  1. Learning the word 'petrol' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'petrol' in daily conversations.
+  1. ESSO RAISES SINGAPORE PETROL PUMP PRICES Esso Singapore Pte Ltd said it raised pump prices of petrol from today.
+  2. In February petrol prices increased but winter clothing prices stayed low and vegetable prices fell.
 
 ## 76: Phase
 - **Dissection:** [phase]
@@ -619,8 +619,8 @@
 - **Meaning:** A specialist in philosophy
 - **Hindi:** दार्शनिक
 - **Examples:**
-  1. Learning the word 'philosopher' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'philosopher' in daily conversations.
+  1. I am not a philosopher.
+  2. Only the philosopher knows the truth.
 
 ## 79: Philosophy
 - **Dissection:** [philo-sophy]
@@ -651,8 +651,8 @@
 - **Meaning:** A licensed medical practitioner
 - **Hindi:** चिकित्सक
 - **Examples:**
-  1. I felt so bad I went to see my doctor.
-  2. It is beneficial to understand the meaning and context of 'physician' in daily conversations.
+  1. Mr. Pezza was taken to a nearby Johnston physician, Dr. Allan A. DiSimone, who treated him.
+  2. First of all, the admitting physician in the VA hospital gets the patient as a new patient.
 
 ## 83: Physicist
 - **Dissection:** [phys-i-cist]
@@ -683,8 +683,8 @@
 - **Meaning:** Wild and domesticated birds having a heavy body and short legs
 - **Hindi:** कबूतर
 - **Examples:**
-  1. It's his/her pigeon.
-  2. It is beneficial to understand the meaning and context of 'pigeon' in daily conversations.
+  1. Handley lived further on, at Pigeon Cove.
+  2. Said the Pigeon in a tone of the deepest contempt.
 
 ## 87: Pile
 - **Dissection:** [pile]
@@ -699,8 +699,8 @@
 - **Meaning:** Someone who journeys in foreign lands
 - **Hindi:** यात्री
 - **Examples:**
-  1. Learning the word 'pilgrim' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'pilgrim' in daily conversations.
+  1. Recently I visited the very remarkable Pilgrim School for retarded children.
+  2. Everything must wait upon this mission, this sentimental duty of a pilgrim whose nature avoided graveyards.
 
 ## 89: Pill
 - **Dissection:** [pill]
@@ -723,8 +723,8 @@
 - **Meaning:** A cushion to support the head of a sleeping person
 - **Hindi:** तकिया
 - **Examples:**
-  1. Pillow your head.
-  2. It is beneficial to understand the meaning and context of 'pillow' in daily conversations.
+  1. He preferred sleeping in bed with his head on a pillow.
+  2. Eileen declared she couldn't lift her head from the pillow.
 
 ## 92: Pilot
 - **Dissection:** [pi-lot]
@@ -771,8 +771,8 @@
 - **Meaning:** A firearm that is held and fired with one hand
 - **Hindi:** पिस्तौल
 - **Examples:**
-  1. Learning the word 'pistol' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'pistol' in daily conversations.
+  1. Ordinary Carey Williams, armed with a pistol, stood by at the polls to insure order.
+  2. The elder Bearden had one pistol in his hand, the other in a hip pocket.
 
 ## 98: Pity
 - **Dissection:** [pity]
@@ -803,16 +803,16 @@
 - **Meaning:** (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction
 - **Hindi:** ग्रह
 - **Examples:**
-  1. Learning the word 'planet' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'planet' in daily conversations.
+  1. `` But did the expedition find any records of the Forerunner having been on this planet??
+  2. `` How can a planet with so many neighbors be so lonely ''??
 
 ## 102: Plasma
 - **Dissection:** [plasma]
 - **Meaning:** The colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are suspended
 - **Hindi:** प्लाज्मा
 - **Examples:**
-  1. Particles in space exist in the form of a plasma.
-  2. It is beneficial to understand the meaning and context of 'plasma' in daily conversations.
+  1. In plasma generators the superimposed forced convection may modify the picture somewhat.
+  2. The gas flow through a plasma generator will modify these conditions;;.
 
 ## 103: Plaster
 - **Dissection:** [plaster]
@@ -883,7 +883,7 @@
 - **Meaning:** Respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants
 - **Hindi:** न्यूमोनिया
 - **Examples:**
-  1. Learning the word 'pneumonia' can help improve your communication and writing skills.
+  1. In these damp circumstances, he was an odds-on bet to develop pneumonia.
   2. It is beneficial to understand the meaning and context of 'pneumonia' in daily conversations.
 
 ## 112: Poetry
@@ -891,8 +891,8 @@
 - **Meaning:** Literature in metrical form
 - **Hindi:** कविता
 - **Examples:**
-  1. That 'Swan Lake' choreography is poetry in motion, fitting the musical poetry of Tchaikovski's divine score well beyond the literary inspiration.
-  2. It is beneficial to understand the meaning and context of 'poetry' in daily conversations.
+  1. In tradition and in poetry, the marriage bed is a place of unity and harmony.
+  2. Poetry for a Persian is nothing less than truth and beauty.
 
 ## 113: Polar
 - **Dissection:** [po-lar]
@@ -955,32 +955,32 @@
 - **Meaning:** The head of the Roman Catholic Church
 - **Hindi:** पोप
 - **Examples:**
-  1. Learning the word 'pope' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'pope' in daily conversations.
+  1. Equally significant, Pope John has said that Catholics themselves bear some responsibility for Christian disunity.
+  2. Nor can one forget Pope John's unprecedented meeting with the Archbishop of Canterbury.
 
 ## 121: Porch
 - **Dissection:** [porch]
 - **Meaning:** A structure attached to the exterior of a building often forming a covered entrance
 - **Hindi:** बरामदा
 - **Examples:**
-  1. Learning the word 'porch' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'porch' in daily conversations.
+  1. In the midst of it all, Mr. Podger came out on the Pod porch, alone.
+  2. Our elders stayed in the dark house or sat fanning on the front porch.
 
 ## 122: Pore
 - **Dissection:** [pore]
 - **Meaning:** Any tiny hole admitting passage of a liquid (fluid or gas)
 - **Hindi:** ध्यान में लीन होना
 - **Examples:**
-  1. Please focus on your studies and not on your hobbies.
-  2. It is beneficial to understand the meaning and context of 'pore' in daily conversations.
+  1. This small pore size was required to ensure uniformity of the flow leaving the anode.
+  2. Please focus on your studies and not on your hobbies.
 
 ## 123: Pork
 - **Dissection:** [pork]
 - **Meaning:** Meat from a domestic hog or pig
 - **Hindi:** सुअर का माँस
 - **Examples:**
-  1. The cafeteria serves pork on Tuesdays.
-  2. It is beneficial to understand the meaning and context of 'pork' in daily conversations.
+  1. Early in 1822 he was at Fort Garry offering to bring in pork, flour, liquor and tobacco.
+  2. To date, the one meat showing favorable results at sterilization doses is pork.
 
 ## 124: Port
 - **Dissection:** [port]
@@ -1067,8 +1067,8 @@
 - **Meaning:** Hold back to a later time
 - **Hindi:** स्थगित करना
 - **Examples:**
-  1. Let's postpone the exam.
-  2. It is beneficial to understand the meaning and context of 'postpone' in daily conversations.
+  1. It said that further appreciation could then lead manufacturers to postpone their investment plans and thus weaken domestic growth.
+  2. GENCORP ASKS SHAREHOLDERS TO POSTPONE ACTION IN TENDER OFFER.
 
 ## 135: Posture
 - **Dissection:** [pos-ture]
@@ -1099,16 +1099,16 @@
 - **Meaning:** A domesticated gallinaceous bird thought to be descended from the red jungle fowl
 - **Hindi:** मुर्गीपालन
 - **Examples:**
-  1. Learning the word 'poultry' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'poultry' in daily conversations.
+  1. The school raises enough poultry, pigs, and beef cattle for most of their needs.
+  2. Most of the grain is fed to swine and dairy cows and lesser amounts to beef cattle and poultry.
 
 ## 139: Poverty
 - **Dissection:** [poverty]
 - **Meaning:** The state of having little or no money and few or no material possessions
 - **Hindi:** गरीबी
 - **Examples:**
-  1. Poverty of soil.
-  2. It is beneficial to understand the meaning and context of 'poverty' in daily conversations.
+  1. The first was the commune program, which will ensure agricultural poverty for years.
+  2. He was obsessed by disease and poverty, by the melancholy of old age and the tyranny of lust.
 
 ## 140: Practical
 - **Dissection:** [prac-tic-al]
@@ -1227,8 +1227,8 @@
 - **Meaning:** A partiality that prevents objective consideration of an issue or situation
 - **Hindi:** पूर्वाग्रह
 - **Examples:**
-  1. I am free of all prejudices. I hate everyone equally.
-  2. It is beneficial to understand the meaning and context of 'prejudice' in daily conversations.
+  1. He had no great prejudice against shills;;.
+  2. Will not the old prejudice be too strong?".
 
 ## 155: Preliminary
 - **Dissection:** [pre-lim-in-ary]
@@ -1403,8 +1403,8 @@
 - **Meaning:** The head of a religious order; in an abbey the prior is next below the abbot
 - **Hindi:** पूर्व
 - **Examples:**
-  1. Learning the word 'prior' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'prior' in daily conversations.
+  1. I had no prior knowledge you were coming.
+  2. His prior residence was smaller than his current one.
 
 ## 177: Priority
 - **Dissection:** [pri-or-ity]
@@ -1555,16 +1555,16 @@
 - **Meaning:** Make steady progress; be at the high point in one's career or reach a high point in historical significance or importance
 - **Hindi:** प्रोस्पर
 - **Examples:**
-  1. The new student is thriving.
-  2. It is beneficial to understand the meaning and context of 'prosper' in daily conversations.
+  1. " We hope we can survive and prosper through diversification," he said.
+  2. But it shall not prosper.
 
 ## 196: Protein
 - **Dissection:** [pro-tein]
 - **Meaning:** Any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes
 - **Hindi:** प्रोटीन
 - **Examples:**
-  1. A diet high in protein.
-  2. It is beneficial to understand the meaning and context of 'protein' in daily conversations.
+  1. `` It contains large amounts of protein, vitamins and minerals.
+  2. Drug is added to either a protein or mineral supplement for a period of 7 or 14 days.
 
 ## 197: Protest
 - **Dissection:** [protest]
@@ -1619,8 +1619,8 @@
 - **Meaning:** The science of mental life
 - **Hindi:** मनोविज्ञान
 - **Examples:**
-  1. Learning the word 'psychology' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'psychology' in daily conversations.
+  1. East Meadow has philosophy, psychology, and religion;;.
+  2. Is the future of psychology akin to the rich future of physics at the time of Newton??
 
 ## 204: Publish
 - **Dissection:** [pub-lish]
@@ -1707,6 +1707,6 @@
 - **Meaning:** A polyhedron having a polygonal base and triangular sides with a common vertex
 - **Hindi:** पिरामिड
 - **Examples:**
-  1. Build your pyramid with all cards face down, except the cards in the bottom row.
-  2. It is beneficial to understand the meaning and context of 'pyramid' in daily conversations.
+  1. Ahab seemed a pyramid, and I, like a blazing fool, kept kicking at it.
+  2. Don' t you see that pyramid?'.
 

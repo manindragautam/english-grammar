@@ -211,8 +211,8 @@
 - **Meaning:** Round yellow to orange fruit of any of several citrus trees
 - **Hindi:** नारंगी
 - **Examples:**
-  1. Learning the word 'orange' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'orange' in daily conversations.
+  1. To bring warmth to the dining area, golden orange tones are used in the fabrics.
+  2. Orange and lemon are considered important as are such pastels as blue and lilac.
 
 ## 28: Order
 - **Dissection:** [or-der]
@@ -251,8 +251,8 @@
 - **Meaning:** A vocabulary word: our.
 - **Hindi:** हमारा
 - **Examples:**
-  1. Learning the word 'our' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'our' in daily conversations.
+  1. `` It has become our responsibility and I hope that the Citizens Group will spearhead the movement ''.
+  2. And he caused the fumble that set up our touchdown.
 
 ## 33: Out
 - **Dissection:** [out]
@@ -275,8 +275,8 @@
 - **Meaning:** Kitchen appliance used for baking or roasting
 - **Hindi:** ओवन
 - **Examples:**
-  1. Learning the word 'oven' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'oven' in daily conversations.
+  1. Or she might place cornstarch in the oven for a short time and then apply this under her breasts.
+  2. Young Mrs. Arthur had opened the oven and there was a drifting odor of hot biscuits.
 
 ## 36: Over
 - **Dissection:** [over]

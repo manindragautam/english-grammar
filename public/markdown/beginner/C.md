@@ -19,8 +19,8 @@
 - **Meaning:** Equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)
 - **Hindi:** कैमरा
 - **Examples:**
-  1. Learning the word 'camera' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'camera' in daily conversations.
+  1. Fairchild Camera and Kawecki Chemical gained 2-1/2 each.
+  2. For this reason, U.S. Camera has prepared this special U.S.A. vacation feature.
 
 ## 4: Camp
 - **Dissection:** [camp]
@@ -59,16 +59,16 @@
 - **Meaning:** Any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream
 - **Hindi:** कैंसर
 - **Examples:**
-  1. Learning the word 'cancer' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cancer' in daily conversations.
+  1. She is state chairman for the New Mexico Tuberculosis and Cancer Associations.
+  2. And extra weight increases the risk of cancer, diabetes, artery disease and heart attack.
 
 ## 9: Candidate
 - **Dissection:** [can-did-ate]
 - **Meaning:** A politician who is running for public office
 - **Hindi:** उम्मीदवार
 - **Examples:**
-  1. Learning the word 'candidate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'candidate' in daily conversations.
+  1. Despite the warning, there was a unanimous vote to enter a candidate, according to Republicans who attended.
+  2. The least inspiring candidate since Alfred M. Landon ''.
 
 ## 10: Capital
 - **Dissection:** [cap-it-al]
@@ -179,8 +179,8 @@
 - **Meaning:** A period of 100 years
 - **Hindi:** शतक
 - **Examples:**
-  1. That was his tenth professional century.
-  2. It is beneficial to understand the meaning and context of 'century' in daily conversations.
+  1. The second half of her program was devoted to Russian composers of this century.
+  2. It all takes place in the eighteenth century.
 
 ## 24: Certain
 - **Dissection:** [cer-tain]
@@ -291,8 +291,8 @@
 - **Meaning:** The flesh of a chicken used for food
 - **Hindi:** मुर्गा
 - **Examples:**
-  1. Why do you refuse to fight? Huh, I guess you're just too chicken.
-  2. It is beneficial to understand the meaning and context of 'chicken' in daily conversations.
+  1. Use one 6-ounce chicken breast for each guest.
+  2. Add enough warmed cream, seasoned to taste with onion juice, to about half cover the chicken breasts.
 
 ## 38: Child
 - **Dissection:** [child]
@@ -339,8 +339,8 @@
 - **Meaning:** A native or naturalized member of a state or other political community
 - **Hindi:** नागरिक
 - **Examples:**
-  1. Diogenes reckoned himself a citizen of the world.
-  2. It is beneficial to understand the meaning and context of 'citizen' in daily conversations.
+  1. He should be, as Dag Hammarskjold certainly was, a citizen of the world.
+  2. With this no loyal citizen can quarrel.
 
 ## 44: City
 - **Dissection:** [city]
@@ -388,7 +388,7 @@
 - **Hindi:** स्पष्ट
 - **Examples:**
   1. Investigation showed that he was in the clear.
-  2. Understanding the term 'clear' helps refine your vocabulary.
+  2. Finally broke out of the forest into the open.
 
 ## 50: Clearly
 - **Dissection:** [clearly]
@@ -587,8 +587,8 @@
 - **Meaning:** A machine for performing calculations automatically
 - **Hindi:** कंप्यूटर
 - **Examples:**
-  1. Learning the word 'computer' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'computer' in daily conversations.
+  1. New computer and automation techniques were applied to these spectra with considerable success.
+  2. We accomplish this by compiling a list of text forms as text is read by the computer.
 
 ## 75: Concern
 - **Dissection:** [con-cern]
@@ -611,16 +611,16 @@
 - **Meaning:** A prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)
 - **Hindi:** सम्मेलन
 - **Examples:**
-  1. Learning the word 'conference' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'conference' in daily conversations.
+  1. They count on the aid of the neutral countries attending the Geneva conference to achieve this.
+  2. A 14-power conference on Laos should then meet on May 5, he said.
 
 ## 78: Congress
 - **Dissection:** [con-gress]
 - **Meaning:** The legislature of the United States government
 - **Hindi:** कांग्रेस
 - **Examples:**
-  1. The National Congress of American Indians.
-  2. It is beneficial to understand the meaning and context of 'congress' in daily conversations.
+  1. It was defeated in Congress last year.
+  2. He also asked Congress to approve establishment of a national child health institute.
 
 ## 79: Consider
 - **Dissection:** [con-sider]
@@ -723,8 +723,8 @@
 - **Meaning:** Soft silky fibers from cotton plants in their raw state
 - **Hindi:** कपास
 - **Examples:**
-  1. Cotton to something.
-  2. It is beneficial to understand the meaning and context of 'cotton' in daily conversations.
+  1. The Texans won the game through ball control, with Quarterback Cotton Davidson throwing only 17 passes.
+  2. The exhibition of cotton ginning machinery at the State Fair grounds is valued at more than a million dollars.
 
 ## 92: Could
 - **Dissection:** [could]
@@ -779,8 +779,8 @@
 - **Meaning:** The child of your aunt or uncle
 - **Hindi:** चचेरा
 - **Examples:**
-  1. I think my cousin is a good man.
-  2. It is beneficial to understand the meaning and context of 'cousin' in daily conversations.
+  1. Cousin Simmons grabbed one of them by the shoulder and flung him away.
+  2. `` My cousin works at the Labor Bureau.
 
 ## 99: Cover
 - **Dissection:** [cov-er]

@@ -19,8 +19,8 @@
 - **Meaning:** Bending the head or body or knee as a sign of reverence or submission or shame or greeting
 - **Hindi:** श्रद्धा
 - **Examples:**
-  1. Learning the word 'obeisance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'obeisance' in daily conversations.
+  1. And they bowed down their heads, and made obeisance.
+  2. 1: 16 And Bathsheba bowed, and did obeisance unto the king.
 
 ## 4: Obelisk
 - **Dissection:** [ob-elisk]
@@ -235,8 +235,8 @@
 - **Meaning:** State of disgrace resulting from detestable behavior
 - **Hindi:** घिनौनाता
 - **Examples:**
-  1. His conduct brought him into odium, or, brought odium upon him.
-  2. It is beneficial to understand the meaning and context of 'odium' in daily conversations.
+  1. To look strife, torture, prison, popular odium, face to face!
+  2. His conduct brought him into odium, or, brought odium upon him.
 
 ## 31: Odoriferous
 - **Dissection:** [odor-i-fer-ous]
@@ -259,8 +259,8 @@
 - **Meaning:** A long wandering and eventful journey
 - **Hindi:** ओडिसी
 - **Examples:**
-  1. Learning the word 'odyssey' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'odyssey' in daily conversations.
+  1. That such a tradition lies behind The Iliad and The Odyssey, at least, is hard to deny.
+  2. No individual word in The Iliad or The Odyssey can be credited to any one man;;.
 
 ## 34: Offensive
 - **Dissection:** [of-fens-ive]
@@ -323,8 +323,8 @@
 - **Meaning:** Having unlimited power
 - **Hindi:** सर्वशक्तिमान
 - **Examples:**
-  1. Learning the word 'omnipotent' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'omnipotent' in daily conversations.
+  1. In the Arts especially he was omnipotent.
+  2. I know that of me, which thou knowest not of thyself, oh, thou omnipotent.
 
 ## 42: Omnipresent
 - **Dissection:** [om-ni-present]
@@ -443,8 +443,8 @@
 - **Meaning:** A person disposed to take a favorable view of things
 - **Hindi:** आशावादी
 - **Examples:**
-  1. Learning the word 'optimist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'optimist' in daily conversations.
+  1. Who can discuss whether Emerson was a better optimist than Schopenhauer was pessimist?
+  2. He lay back in his chair with a broad smile, the picture of an optimist in his element.
 
 ## 57: Optimum
 - **Dissection:** [op-tim-um]
@@ -459,8 +459,8 @@
 - **Meaning:** Possible but not necessary; left to personal choice
 - **Hindi:** वैकल्पिक
 - **Examples:**
-  1. On that beach clothing is entirely optional.
-  2. It is beneficial to understand the meaning and context of 'optional' in daily conversations.
+  1. The Kirkpatrick version holds liqueur as optional.
+  2. On that beach clothing is entirely optional.
 
 ## 59: Opulence
 - **Dissection:** [op-u-lence]
@@ -491,8 +491,8 @@
 - **Meaning:** A person who delivers a speech or oration
 - **Hindi:** वक्ता
 - **Examples:**
-  1. Learning the word 'orator' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'orator' in daily conversations.
+  1. But the famous orator felt more than vague recognition for the scene.
+  2. Their incessant shrieking and crackling was like a mob shouting against an orator.
 
 ## 63: Ordain
 - **Dissection:** [or-dain]
@@ -515,8 +515,8 @@
 - **Meaning:** An authoritative rule
 - **Hindi:** अध्यादेश
 - **Examples:**
-  1. The rabbi's family was present for his ordination.
-  2. It is beneficial to understand the meaning and context of 'ordinance' in daily conversations.
+  1. The ordinance would increase the fee for rooming houses, hotels and multi-family dwellings to $5 a room.
+  2. The ordinance would increase fees from $1 for males and $2 for females to a flat $5 a dog.
 
 ## 66: Ordure
 - **Dissection:** [ordure]
@@ -587,8 +587,8 @@
 - **Meaning:** Intended to attract notice and impress others
 - **Hindi:** दिखावटी
 - **Examples:**
-  1. An ostentatious sable coat.
-  2. It is beneficial to understand the meaning and context of 'ostentatious' in daily conversations.
+  1. ( Bursal counts money, in an ostentatious manner, into Finsbury' s hand.).
+  2. What to the ostentatious smuggling verbalists are the thoughts of thinkers but Loose- Fish?
 
 ## 75: Ostracize
 - **Dissection:** [os-tra-cize]

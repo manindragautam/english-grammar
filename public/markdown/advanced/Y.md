@@ -27,6 +27,6 @@
 - **Meaning:** A person who is not very intelligent or interested in culture
 - **Hindi:** गांवारू
 - **Examples:**
-  1. Learning the word 'yokel' can help improve your communication and writing skills.
+  1. And he pointed to the half- tipsy yokel who was ploughing down the road.
   2. It is beneficial to understand the meaning and context of 'yokel' in daily conversations.
 

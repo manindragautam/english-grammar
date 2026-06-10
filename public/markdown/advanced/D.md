@@ -43,8 +43,8 @@
 - **Meaning:** Cause to lose courage
 - **Hindi:** वश में करना
 - **Examples:**
-  1. Dashed by the refusal.
-  2. It is beneficial to understand the meaning and context of 'daunt' in daily conversations.
+  1. Claire was bitterly disappointed but determined not to let the rebuff daunt her purpose.
+  2. Dashed by the refusal.
 
 ## 7: Dawdle
 - **Dissection:** [dawdle]
@@ -59,16 +59,16 @@
 - **Meaning:** An acute insufficiency
 - **Hindi:** अकाल
 - **Examples:**
-  1. Learning the word 'dearth' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'dearth' in daily conversations.
+  1. The amazing thing is that this too is caused by the dearth of teachers.
+  2. 14: 1 The word of the LORD that came to Jeremiah concerning the dearth.
 
 ## 9: Debacle
 - **Dissection:** [de-bacle]
 - **Meaning:** A sudden and violent collapse
 - **Hindi:** पराजय
 - **Examples:**
-  1. Learning the word 'debacle' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'debacle' in daily conversations.
+  1. To minimize the chances of repeating the Balafrej debacle the Ibrahim government was formed.
+  2. Letch had returned from his debacle unrepentant and more badly behaved than before.
 
 ## 10: Debase
 - **Dissection:** [de-base]
@@ -83,7 +83,7 @@
 - **Meaning:** A wild gathering involving excessive drinking and promiscuity
 - **Hindi:** ऐयाशी
 - **Examples:**
-  1. Learning the word 'debauchery' can help improve your communication and writing skills.
+  1. I was turning over the idea of a good debauchery when I dozed off.
   2. It is beneficial to understand the meaning and context of 'debauchery' in daily conversations.
 
 ## 12: Debilitate
@@ -107,7 +107,7 @@
 - **Meaning:** The remains of something that has been destroyed or broken up
 - **Hindi:** मलबा
 - **Examples:**
-  1. Learning the word 'debris' can help improve your communication and writing skills.
+  1. The debris of his other careers was piled everywhere;;.
   2. It is beneficial to understand the meaning and context of 'debris' in daily conversations.
 
 ## 15: Debunk
@@ -123,8 +123,8 @@
 - **Meaning:** The state of being degenerate in mental or moral qualities
 - **Hindi:** पतन
 - **Examples:**
-  1. Learning the word 'decadence' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'decadence' in daily conversations.
+  1. There is more decadence on `` 77 Sunset Strip ''.
+  2. `` A' dust-settling' period of decadence and decline ''.
 
 ## 17: Decimate
 - **Dissection:** [decim-ate]
@@ -315,15 +315,15 @@
 - **Meaning:** State of violent mental agitation
 - **Hindi:** प्रलाप
 - **Examples:**
-  1. Learning the word 'delirium' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'delirium' in daily conversations.
+  1. The report of his undeniable delirium at sea was likewise popularly ascribed to a kindred cause.
+  2. A deep, settled, fanatic delirium was in his eyes.
 
 ## 41: Delude
 - **Dissection:** [de-lude]
 - **Meaning:** Be false to; be dishonest with
 - **Hindi:** भुलाना
 - **Examples:**
-  1. Learning the word 'delude' can help improve your communication and writing skills.
+  1. And therein, I feel, many Northerners delude themselves about the South.
   2. It is beneficial to understand the meaning and context of 'delude' in daily conversations.
 
 ## 42: Deluge
@@ -355,8 +355,8 @@
 - **Meaning:** (behavioral attributes) the way a person behaves toward other people
 - **Hindi:** आचरण
 - **Examples:**
-  1. A confident demeanor is crucial for persuading others.
-  2. It is beneficial to understand the meaning and context of 'demeanor' in daily conversations.
+  1. This could be told chiefly from a sort of head-tossing and prancing, a horselike balkiness of demeanor.
+  2. A confident demeanor is crucial for persuading others.
 
 ## 46: Demented
 - **Dissection:** [de-men-ted]
@@ -395,8 +395,8 @@
 - **Meaning:** Affectedly modest or shy especially in a playful or provocative way
 - **Hindi:** संकोची
 - **Examples:**
-  1. She is a demure young lady.
-  2. It is beneficial to understand the meaning and context of 'demure' in daily conversations.
+  1. All evening Eileen had been as demure as a little girl getting ready for her first communion.
+  2. He saw a short word prepared for Emma, and given to her with a look sly and demure.
 
 ## 51: Denigrate
 - **Dissection:** [den-ig-rate]
@@ -435,7 +435,7 @@
 - **Meaning:** The outcome of a complex sequence of events
 - **Hindi:** उपसंहार
 - **Examples:**
-  1. Learning the word 'denouement' can help improve your communication and writing skills.
+  1. The spectacle progressed towards a denouement which was obviously still remote;;.
   2. It is beneficial to understand the meaning and context of 'denouement' in daily conversations.
 
 ## 56: Depict
@@ -611,8 +611,8 @@
 - **Meaning:** A surface-active chemical widely used in industry and laundering
 - **Hindi:** डिटर्जेंट
 - **Examples:**
-  1. Apply the cleansing cream to your skin.
-  2. It is beneficial to understand the meaning and context of 'detergent' in daily conversations.
+  1. Clean it meticulously in boiling water and detergent, rinse thoroughly.
+  2. The market today for detergent builders is quite diverse.
 
 ## 78: Dexterous
 - **Dissection:** [dex-ter-ous]
@@ -635,8 +635,8 @@
 - **Meaning:** An ornamental jeweled headdress signifying sovereignty
 - **Hindi:** मुकुट
 - **Examples:**
-  1. Learning the word 'diadem' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'diadem' in daily conversations.
+  1. But if this whale be a king, he is a very sulky looking fellow to grace a diadem.
+  2. That from a shelfe, the precious Diadem stole, And put it in his Pocket.
 
 ## 81: Dialectic
 - **Dissection:** [dia-lectic]
@@ -731,15 +731,15 @@
 - **Meaning:** An amateur who engages in an activity without serious intentions and who pretends to have knowledge
 - **Hindi:** अनुरागी
 - **Examples:**
-  1. His dilettantish efforts at painting.
-  2. It is beneficial to understand the meaning and context of 'dilettante' in daily conversations.
+  1. There was in him none of that antiquarian frivolity that we convey by the word" dilettante ".
+  2. His dilettantish efforts at painting.
 
 ## 93: Dirge
 - **Dissection:** [dirge]
 - **Meaning:** A song or hymn of mourning composed or performed as a memorial to a dead person
 - **Hindi:** शोकगीत
 - **Examples:**
-  1. Learning the word 'dirge' can help improve your communication and writing skills.
+  1. The dark forms moved like mourners on some nocturnal pilgrimage, their dirge unsung for want of vocal chords.
   2. It is beneficial to understand the meaning and context of 'dirge' in daily conversations.
 
 ## 94: Disabuse
@@ -763,8 +763,8 @@
 - **Meaning:** A mental state characterized by a lack of clear and orderly thought and behavior
 - **Hindi:** उधेड़-बुन
 - **Examples:**
-  1. A confusion of impressions.
-  2. It is beneficial to understand the meaning and context of 'disarray' in daily conversations.
+  1. It is a rich confusion of social self- congratulation and bodily disarray.
+  2. A confusion of impressions.
 
 ## 97: Disavow
 - **Dissection:** [dis-avow]
@@ -819,7 +819,7 @@
 - **Meaning:** Lack of agreement or harmony
 - **Hindi:** कलह
 - **Examples:**
-  1. Learning the word 'discord' can help improve your communication and writing skills.
+  1. Oh come away, My soule is full of discord and dismay.
   2. It is beneficial to understand the meaning and context of 'discord' in daily conversations.
 
 ## 104: Discourse
@@ -923,7 +923,7 @@
 - **Meaning:** Unaffected by self-interest
 - **Hindi:** उदासीन
 - **Examples:**
-  1. Learning the word 'disinterested' can help improve your communication and writing skills.
+  1. This procedure of theirs, to be sure, was very disinterested and benevolent of them.
   2. It is beneficial to understand the meaning and context of 'disinterested' in daily conversations.
 
 ## 117: Disjointed
@@ -979,8 +979,8 @@
 - **Meaning:** Inequality or difference in some respect
 - **Hindi:** असमानता
 - **Examples:**
-  1. Learning the word 'disparity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'disparity' in daily conversations.
+  1. The intimations of a related spirit and ordering of human values are stronger than any sense of disparity.
+  2. " The disparity between output and sales is showing up in inventories.".
 
 ## 124: Dispassionate
 - **Dissection:** [dis-pas-sion-ate]
@@ -1187,8 +1187,8 @@
 - **Meaning:** Characterized by assertion of unproved or unprovable principles
 - **Hindi:** कट्टर
 - **Examples:**
-  1. Dogmatic writings.
-  2. It is beneficial to understand the meaning and context of 'dogmatic' in daily conversations.
+  1. All of Adams' work reflects this dogmatic characteristic.
+  2. Or a Protestant, or one of those amusing dogmatic atheists, or a strict orthodox Communist.
 
 ## 150: Doldrums
 - **Dissection:** [doldrums]
@@ -1227,8 +1227,8 @@
 - **Meaning:** Rule or exercise power over (somebody) in a cruel and autocratic manner
 - **Hindi:** घमंडी
 - **Examples:**
-  1. Her husband and mother-in-law tyrannize her.
-  2. It is beneficial to understand the meaning and context of 'domineering' in daily conversations.
+  1. For all her domineering ways, I can't conceive of her having had a deadly enemy ''.
+  2. Her husband and mother-in-law tyrannize her.
 
 ## 155: Don
 - **Dissection:** [don]
@@ -1291,8 +1291,8 @@
 - **Meaning:** Sediment that has settled at the bottom of a liquid
 - **Hindi:** ड्रेग्स
 - **Examples:**
-  1. The dregs of society.
-  2. It is beneficial to understand the meaning and context of 'dregs' in daily conversations.
+  1. The hedge reeked of coffee dregs thrown against it.
+  2. He was so long thinking that my mother had time to inspect her sherry for dregs.
 
 ## 163: Drivel
 - **Dissection:** [driv-el]
@@ -1307,8 +1307,8 @@
 - **Meaning:** Comical in an odd or whimsical manner
 - **Hindi:** हंसी उड़ाना
 - **Examples:**
-  1. A droll little man with a quiet tongue-in-cheek kind of humor.
-  2. It is beneficial to understand the meaning and context of 'droll' in daily conversations.
+  1. " Mr. Palmer is so droll!".
+  2. " There now; you see how droll he is.
 
 ## 165: Drone
 - **Dissection:** [drone]
@@ -1323,15 +1323,15 @@
 - **Meaning:** Worthless or dangerous material that should be removed
 - **Hindi:** कीट
 - **Examples:**
-  1. There were impurities in the water.
-  2. It is beneficial to understand the meaning and context of 'dross' in daily conversations.
+  1. If the mettle which Ellen exhibits has a bit of theatrical dross in it, never mind;;.
+  2. 26: 23 Burning lips and a wicked heart are like a potsherd covered with silver dross.
 
 ## 167: Drudgery
 - **Dissection:** [drudgery]
 - **Meaning:** Hard monotonous routine work
 - **Hindi:** कठिन परिश्रम
 - **Examples:**
-  1. Learning the word 'drudgery' can help improve your communication and writing skills.
+  1. Also, he was weary of plantation drudgery and monotony.
   2. It is beneficial to understand the meaning and context of 'drudgery' in daily conversations.
 
 ## 168: Dubious
@@ -1379,6 +1379,6 @@
 - **Meaning:** Become smaller or lose substance
 - **Hindi:** सूखना
 - **Examples:**
-  1. Her savings dwindled down.
-  2. It is beneficial to understand the meaning and context of 'dwindle' in daily conversations.
+  1. However, this practice is likely to dwindle given the reduced scale of production, they said.
+  2. Her savings dwindled down.
 

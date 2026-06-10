@@ -91,8 +91,8 @@
 - **Meaning:** Someone who takes part in an activity
 - **Hindi:** प्रतिभागी
 - **Examples:**
-  1. All participants must adhere to the rules of the competition.
-  2. It is beneficial to understand the meaning and context of 'participant' in daily conversations.
+  1. Everyone is to be a participant.
+  2. I was chairman, the only not youthful participant.
 
 ## 13: Particular
 - **Dissection:** [par-tic-u-lar]
@@ -531,8 +531,8 @@
 - **Meaning:** An edible tuber native to South America; a staple food of Ireland
 - **Hindi:** आलू
 - **Examples:**
-  1. Learning the word 'potato' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'potato' in daily conversations.
+  1. The sweet and funny little dance about potato planting called `` Bul'ba '';;.
+  2. Another said it should be rubbed with a cut potato three times daily.
 
 ## 68: Pound
 - **Dissection:** [pound]
@@ -635,8 +635,8 @@
 - **Meaning:** A clergyman in Christian churches who has the authority to perform or administer various religious rites; one of the Holy Orders
 - **Hindi:** पुजारी
 - **Examples:**
-  1. The Israelite priests were descended from Moses' brother Aaron.
-  2. It is beneficial to understand the meaning and context of 'priest' in daily conversations.
+  1. The Catholic priest, though somewhat superficially drawn, easily came out the best.
+  2. Dr. Hilprecht was uncertain as to the language used by the ancient priest in his dream.
 
 ## 81: Print
 - **Dissection:** [print]
@@ -731,8 +731,8 @@
 - **Meaning:** Someone who is a member of the faculty at a college or university
 - **Hindi:** प्रोफ़ेसर
 - **Examples:**
-  1. Learning the word 'professor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'professor' in daily conversations.
+  1. `` Only a discontinuity can end it '', Professor Morrison writes.
+  2. The participants were Professor H. Bondi, professor of mathematics at King's College, London;;.
 
 ## 93: Program
 - **Dissection:** [pro-gram]
@@ -843,8 +843,8 @@
 - **Meaning:** A learner who is enrolled in an educational institution
 - **Hindi:** छात्र
 - **Examples:**
-  1. Learning the word 'pupil' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'pupil' in daily conversations.
+  1. It is not easy to become Segovia's pupil.
+  2. There has long existed a brotherly affection between us, thus I accepted him as my pupil.
 
 ## 107: Purpose
 - **Dissection:** [pur-pose]

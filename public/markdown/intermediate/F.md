@@ -3,8 +3,8 @@
 - **Meaning:** A deliberately false or improbable account
 - **Hindi:** कल्पित कहानी
 - **Examples:**
-  1. Learning the word 'fable' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fable' in daily conversations.
+  1. Goethe used the fable to more elaborate ends.
+  2. Cried the man," and I tell you God is a lie and a fable and a mask.
 
 ## 2: Fabric
 - **Dissection:** [fab-ric]
@@ -43,8 +43,8 @@
 - **Meaning:** A clique (often secret) that seeks power usually through intrigue
 - **Hindi:** गुट
 - **Examples:**
-  1. Learning the word 'faction' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'faction' in daily conversations.
+  1. " Other factions ignored MPT ( in the 1970s ), but the Tanaka faction was forward looking and...
+  2. Let' em enter: They are the Faction.
 
 ## 7: Fade
 - **Dissection:** [fade]
@@ -67,8 +67,8 @@
 - **Meaning:** A small being, human in form, playful and having magical powers
 - **Hindi:** परी
 - **Examples:**
-  1. Learning the word 'fairy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fairy' in daily conversations.
+  1. They were all hidden away in her little pink fingers, a fairy in every finger!
+  2. " Gladly," said the great fairy;" choose what I shall give him.
 
 ## 10: Faith
 - **Dissection:** [faith]
@@ -99,8 +99,8 @@
 - **Meaning:** The state or quality of being widely honored and acclaimed
 - **Hindi:** यश
 - **Examples:**
-  1. Learning the word 'fame' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fame' in daily conversations.
+  1. The London label offers an operatic recital by Ettore Bastianini, a baritone whose fame is international.
+  2. He shunned publicity for himself and sought to avoid fame.
 
 ## 14: Familiar
 - **Dissection:** [fa-mil-i-ar]
@@ -115,8 +115,8 @@
 - **Meaning:** An acute insufficiency
 - **Hindi:** अकाल
 - **Examples:**
-  1. Learning the word 'famine' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'famine' in daily conversations.
+  1. 43: 1 And the famine was sore in the land.
+  2. And there was a sore famine in Samaria.
 
 ## 16: Fancy
 - **Dissection:** [fancy]
@@ -291,16 +291,16 @@
 - **Meaning:** Any substance such as manure or a mixture of nitrates used to make soil more fertile
 - **Hindi:** उर्वरक
 - **Examples:**
-  1. Learning the word 'fertilizer' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fertilizer' in daily conversations.
+  1. But the farmers outsmarted Washington by shortening the distance between the rows and pouring on the fertilizer.
+  2. The report said to compensate for the below normal precipitation irrigation has increased as has the use of fertilizer.
 
 ## 38: Festival
 - **Dissection:** [fest-iv-al]
 - **Meaning:** A day or period of time set aside for feasting and celebration
 - **Hindi:** त्योहार
 - **Examples:**
-  1. A drama festival.
-  2. It is beneficial to understand the meaning and context of 'festival' in daily conversations.
+  1. Student Prince Lounge on Atlantic Blvd. plotting a month-long `` festival '' throughout October, with special features.
+  2. The work was presented as the final event in the Town Hall Festival of Music.
 
 ## 39: Fetch
 - **Dissection:** [fetch]
@@ -371,8 +371,8 @@
 - **Meaning:** Bounded or limited in magnitude or spatial or temporal extent
 - **Hindi:** सीमित
 - **Examples:**
-  1. The "goes" in "he goes" is a finite form of a verb.
-  2. It is beneficial to understand the meaning and context of 'finite' in daily conversations.
+  1. The graph, as a set, may have a finite number of components.
+  2. All were fellows of finite charm.
 
 ## 48: Fireworks
 - **Dissection:** [fire-works]
@@ -387,8 +387,8 @@
 - **Meaning:** Involving financial matters
 - **Hindi:** राजकोषीय
 - **Examples:**
-  1. Fiscal responsibility.
-  2. It is beneficial to understand the meaning and context of 'fiscal' in daily conversations.
+  1. It could become an acute problem in the coming fiscal year.
+  2. The former President blithely ignored recent history in speaking of `` dollarette '' dollars under Kennedy Administration fiscal policies.
 
 ## 50: Fist
 - **Dissection:** [fist]
@@ -643,16 +643,16 @@
 - **Meaning:** The part of the face above the eyes
 - **Hindi:** माथा
 - **Examples:**
-  1. Learning the word 'forehead' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'forehead' in daily conversations.
+  1. This time Rachel kissed him lightly on the forehead.
+  2. Poet shook his head, sliding his face mask up on his forehead.
 
 ## 82: Foresee
 - **Dissection:** [fore-see]
 - **Meaning:** Realize beforehand
 - **Hindi:** पूर्वानुमान
 - **Examples:**
-  1. I cannot envision him as President.
-  2. It is beneficial to understand the meaning and context of 'foresee' in daily conversations.
+  1. He evidently couldn't foresee that it might be his downfall in the end.
+  2. Some other economists foresee a gain as large as five pct.
 
 ## 83: Forge
 - **Dissection:** [forge]
@@ -707,8 +707,8 @@
 - **Meaning:** A fortified military post where troops are stationed
 - **Hindi:** किला
 - **Examples:**
-  1. Learning the word 'fort' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fort' in daily conversations.
+  1. `` Dallas and Fort Worth can vote bonds.
+  2. By October the little colony about Fort Douglas ( present-day Winnipeg ) numbered 100.
 
 ## 90: Forth
 - **Dissection:** [forth]
@@ -739,8 +739,8 @@
 - **Meaning:** A public meeting or assembly for open discussion
 - **Hindi:** मंच
 - **Examples:**
-  1. Trish was an admin on three forums, and had no trouble at all when it came to moderating them.
-  2. It is beneficial to understand the meaning and context of 'forum' in daily conversations.
+  1. It would present a forum for them in almost every community.
+  2. The Chamber has not arranged a pre-legislative forum.
 
 ## 94: Fossil
 - **Dissection:** [fossil]
@@ -779,8 +779,8 @@
 - **Meaning:** A component of a mixture that has been separated by a fractional process
 - **Hindi:** अंश
 - **Examples:**
-  1. Can you divide 49 by seven?
-  2. It is beneficial to understand the meaning and context of 'fraction' in daily conversations.
+  1. `` Two, wage costs are a fraction of the U.S. costs.
+  2. Further, the gland is able to re-use a larger fraction of the thyroid hormone de-iodinated peripherally.
 
 ## 99: Fracture
 - **Dissection:** [frac-ture]
@@ -827,8 +827,8 @@
 - **Meaning:** The basic monetary unit in many countries; equal to 100 centimes
 - **Hindi:** फ्रैंक
 - **Examples:**
-  1. Learning the word 'franc' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'franc' in daily conversations.
+  1. Each 50, 000 franc note carries 15 warrants.
+  2. He said the Japanese are paying much closer attention now to the French franc and West German mark.
 
 ## 105: Franchise
 - **Dissection:** [fran-chise]
@@ -851,8 +851,8 @@
 - **Meaning:** Intentional deception resulting in injury to another person
 - **Hindi:** धोखा
 - **Examples:**
-  1. Learning the word 'fraud' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fraud' in daily conversations.
+  1. U.S. Dist. Judge Charles L. Powell denied all motions made by defense attorneys Monday in Portland's insurance fraud trial.
+  2. He might have been in collusion with Johnston on the fraud;;.
 
 ## 108: Freight
 - **Dissection:** [freight]
@@ -883,8 +883,8 @@
 - **Meaning:** A state of conflict between persons
 - **Hindi:** टकराव
 - **Examples:**
-  1. Learning the word 'friction' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'friction' in daily conversations.
+  1. **yt is the friction angle;;.
+  2. The resultant friction force, Af is thus directly proportional to Af and consequently also to film thickness.
 
 ## 112: Fright
 - **Dissection:** [fright]
@@ -915,8 +915,8 @@
 - **Meaning:** Any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species
 - **Hindi:** मेंढक
 - **Examples:**
-  1. Learning the word 'frog' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'frog' in daily conversations.
+  1. GRANDFATHER FROG' S COMMON- SENSE.
+  2. That is the way with Grandfather Frog.
 
 ## 116: Frontier
 - **Dissection:** [fron-ti-er]
@@ -1019,8 +1019,8 @@
 - **Meaning:** An enclosed chamber in which heat is produced to heat buildings, destroy refuse, smelt or refine ores, etc.
 - **Hindi:** भट्ठी
 - **Examples:**
-  1. Learning the word 'furnace' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'furnace' in daily conversations.
+  1. Finish installing and connecting up your furnace and your water heater before you wall them in.
+  2. There is no better way to waste time than trying to install a furnace in a finished Af closet.
 
 ## 129: Furnish
 - **Dissection:** [fur-nish]

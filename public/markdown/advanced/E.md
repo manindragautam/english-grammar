@@ -35,7 +35,7 @@
 - **Meaning:** Someone who selects according to the eclectic method
 - **Hindi:** उदार
 - **Examples:**
-  1. Learning the word 'eclectic' can help improve your communication and writing skills.
+  1. If he is a traditionalist, he is an eclectic traditionalist.
   2. It is beneficial to understand the meaning and context of 'eclectic' in daily conversations.
 
 ## 6: Edict
@@ -43,8 +43,8 @@
 - **Meaning:** A formal or authoritative proclamation
 - **Hindi:** अध्यादेश
 - **Examples:**
-  1. A friend in New Mexico said that the order caused no trouble out there.
-  2. It is beneficial to understand the meaning and context of 'edict' in daily conversations.
+  1. Or can introduce Law and edict on us, who without law Err not?
+  2. A friend in New Mexico said that the order caused no trouble out there.
 
 ## 7: Edifice
 - **Dissection:** [edi-fice]
@@ -59,8 +59,8 @@
 - **Meaning:** Make understand
 - **Hindi:** उपदेश देना
 - **Examples:**
-  1. Can you enlighten me--I don't understand this proposal.
-  2. It is beneficial to understand the meaning and context of 'edify' in daily conversations.
+  1. 5: 11 Wherefore comfort yourselves together, and edify one another, even as also ye do.
+  2. Can you enlighten me--I don't understand this proposal.
 
 ## 9: Eerie
 - **Dissection:** [eer-ie]
@@ -99,8 +99,8 @@
 - **Meaning:** Capacity or power to produce a desired effect
 - **Hindi:** प्रभावकारिता
 - **Examples:**
-  1. Concern about the safety and efficacy of the vaccine.
-  2. It is beneficial to understand the meaning and context of 'efficacy' in daily conversations.
+  1. The principal defender of this view of primary experience as `` causal efficacy '' is Alfred North Whitehead.
+  2. A chief characteristic of experience in the mode of causal efficacy is one of derivation from the past.
 
 ## 14: Effigy
 - **Dissection:** [ef-figy]
@@ -131,8 +131,8 @@
 - **Meaning:** An unrestrained expression of emotion
 - **Hindi:** बहाव
 - **Examples:**
-  1. Learning the word 'effusion' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'effusion' in daily conversations.
+  1. It was but an effusion of lively spirits.
+  2. " Come, come; this is all an effusion of immediate want of spirits, Edward.
 
 ## 18: Egocentric
 - **Dissection:** [ego-centric]
@@ -179,7 +179,7 @@
 - **Meaning:** An abrupt emphatic exclamation expressing emotion
 - **Hindi:** फटना
 - **Examples:**
-  1. Learning the word 'ejaculation' can help improve your communication and writing skills.
+  1. -- but checking her desire, confined herself to this silent ejaculation.
   2. It is beneficial to understand the meaning and context of 'ejaculation' in daily conversations.
 
 ## 24: Elation
@@ -187,8 +187,8 @@
 - **Meaning:** An exhilarating psychological state of pride and optimism; an absence of depression
 - **Hindi:** उत्साह
 - **Examples:**
-  1. Learning the word 'elation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'elation' in daily conversations.
+  1. Jack felt a wave of complete elation, but in a second it had vanished without a trace.
+  2. His elation grew as Barco's seven disclosures brought to light one reward after another.
 
 ## 25: Elegy
 - **Dissection:** [elegy]
@@ -219,7 +219,7 @@
 - **Meaning:** Omission or suppression of parts of words or sentences
 - **Hindi:** अंडाकार
 - **Examples:**
-  1. Learning the word 'ellipsis' can help improve your communication and writing skills.
+  1. For some reason, this ellipsis in the conversation spread until it swallowed up every other topic.
   2. It is beneficial to understand the meaning and context of 'ellipsis' in daily conversations.
 
 ## 29: Elliptical
@@ -515,8 +515,8 @@
 - **Meaning:** The group following and attending to some important person
 - **Hindi:** प्रतिवेश
 - **Examples:**
-  1. Learning the word 'entourage' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'entourage' in daily conversations.
+  1. A man in whose entourage none was ever safe;;.
+  2. Twice he left everything to his entourage, and fled to make the Santa Cruz tour under Vernon's guidance.
 
 ## 66: Entranced
 - **Dissection:** [en-tranced]
@@ -531,8 +531,8 @@
 - **Meaning:** Ask for or request earnestly
 - **Hindi:** विनती करना
 - **Examples:**
-  1. The prophet bid all people to become good persons.
-  2. It is beneficial to understand the meaning and context of 'entreat' in daily conversations.
+  1. " Let me entreat you," cried Mr. Elton;" it would indeed be a delight!
+  2. Let me entreat you, Miss Woodhouse, to exercise so charming a talent in favour of your friend.
 
 ## 68: Enunciate
 - **Dissection:** [enun-ci-ate]
@@ -579,15 +579,15 @@
 - **Meaning:** A short speech (often in verse) addressed directly to the audience by an actor at the end of a play
 - **Hindi:** उपसंहार
 - **Examples:**
-  1. The epilogue told what eventually happened to the main characters.
-  2. It is beneficial to understand the meaning and context of 'epilogue' in daily conversations.
+  1. It is beyond the province of this epilogue to cover policy questions of such depth and range.
+  2. The epilogue told what eventually happened to the main characters.
 
 ## 74: Epitaph
 - **Dissection:** [epi-taph]
 - **Meaning:** An inscription on a tombstone or monument in memory of the person buried there
 - **Hindi:** समाधि-लेख
 - **Examples:**
-  1. Learning the word 'epitaph' can help improve your communication and writing skills.
+  1. After your death, you were better haue a bad Epitaph, then their ill report while you liued.
   2. It is beneficial to understand the meaning and context of 'epitaph' in daily conversations.
 
 ## 75: Epithet
@@ -611,8 +611,8 @@
 - **Meaning:** Steadiness of mind under stress
 - **Hindi:** समभाव
 - **Examples:**
-  1. He accepted their problems with composure and she with equanimity.
-  2. It is beneficial to understand the meaning and context of 'equanimity' in daily conversations.
+  1. Success depended upon maintaining her equanimity;;.
+  2. He accepted their problems with composure and she with equanimity.
 
 ## 78: Equestrian
 - **Dissection:** [eques-tri-an]
@@ -627,24 +627,24 @@
 - **Meaning:** A stable situation in which forces cancel one another
 - **Hindi:** संतुलन
 - **Examples:**
-  1. Learning the word 'equilibrium' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'equilibrium' in daily conversations.
+  1. The thermocouples in the aluminum disk shown in figure 2 indicated an equilibrium temperature of the surface of Af.
+  2. Fekete told Reuters in an interview Hungary must achieve at least equilibrium on its hard currency trade.
 
 ## 80: Equine
 - **Dissection:** [equine]
 - **Meaning:** Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck
 - **Hindi:** घोड़े का
 - **Examples:**
-  1. Learning the word 'equine' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'equine' in daily conversations.
+  1. This colt is another fine-looking equine.
+  2. Equine is a New Mexico quarter horse breeding and racing company.
 
 ## 81: Equinox
 - **Dissection:** [equi-nox]
 - **Meaning:** Either of two times of the year when the sun crosses the plane of the earth's equator and day and night are of equal length
 - **Hindi:** विषुव
 - **Examples:**
-  1. Learning the word 'equinox' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'equinox' in daily conversations.
+  1. Aye, he enters the sign of storms, the equinox!
+  2. And but six months before he wheeled out of a former equinox at Aries!
 
 ## 82: Equipoise
 - **Dissection:** [equi-poise]
@@ -667,8 +667,8 @@
 - **Meaning:** The difference between the market value of a property and the claims held against it
 - **Hindi:** हिस्सेदारी
 - **Examples:**
-  1. The judge recognized the fairness of my claim.
-  2. It is beneficial to understand the meaning and context of 'equity' in daily conversations.
+  1. Chief among the defects they singled out were the complicated and wearisome procedures in equity.
+  2. However, it proposes issuing new equity in a subsidiary that would operate Dome assets.
 
 ## 85: Equivocal
 - **Dissection:** [equi-voc-al]
@@ -715,7 +715,7 @@
 - **Meaning:** A wild and exciting undertaking (not necessarily lawful)
 - **Hindi:** हरकत
 - **Examples:**
-  1. Learning the word 'escapade' can help improve your communication and writing skills.
+  1. It was just possible that this escapade signified something other than even a slight suspicion of him.
   2. It is beneficial to understand the meaning and context of 'escapade' in daily conversations.
 
 ## 91: Eschew
@@ -787,7 +787,7 @@
 - **Meaning:** A formal expression of praise for someone who has died recently
 - **Hindi:** स्तवन
 - **Examples:**
-  1. Learning the word 'eulogy' can help improve your communication and writing skills.
+  1. And who pronounced our glowing eulogy in Parliament?
   2. It is beneficial to understand the meaning and context of 'eulogy' in daily conversations.
 
 ## 100: Euphemism
@@ -827,8 +827,8 @@
 - **Meaning:** Tending to vanish like vapor
 - **Hindi:** क्षणभंगुर
 - **Examples:**
-  1. Evanescent beauty.
-  2. It is beneficial to understand the meaning and context of 'evanescent' in daily conversations.
+  1. In times of strong emotion mankind disdain all base considerations; but such times are evanescent.
+  2. Evanescent beauty.
 
 ## 105: Evasive
 - **Dissection:** [evas-ive]
@@ -875,8 +875,8 @@
 - **Meaning:** Exasperate or irritate
 - **Hindi:** चिढ़ाना
 - **Examples:**
-  1. This drug aggravates the pain.
-  2. It is beneficial to understand the meaning and context of 'exasperate' in daily conversations.
+  1. And this report Hath so exasperate their King, that hee Prepares for some attempt of Warre.
+  2. This drug aggravates the pain.
 
 ## 111: Excise
 - **Dissection:** [ex-cise]
@@ -995,8 +995,8 @@
 - **Meaning:** A journey by a large group to escape from a hostile environment
 - **Hindi:** पलायन
 - **Examples:**
-  1. There was an exodus when the show ended.
-  2. It is beneficial to understand the meaning and context of 'exodus' in daily conversations.
+  1. Now for their exodus from Gulf Springs.
+  2. The Second Book of Moses: Called Exodus.
 
 ## 126: Exonerate
 - **Dissection:** [ex-on-er-ate]
@@ -1019,8 +1019,8 @@
 - **Meaning:** Expel through adjuration or prayers
 - **Hindi:** जादू देना
 - **Examples:**
-  1. Exorcise evil spirits.
-  2. It is beneficial to understand the meaning and context of 'exorcise' in daily conversations.
+  1. Perhaps it would be better to speak to him, since silence could not exorcise his form.
+  2. Exorcise evil spirits.
 
 ## 129: Expansive
 - **Dissection:** [ex-pans-ive]
@@ -1195,7 +1195,7 @@
 - **Meaning:** Draw from specific cases for more general cases
 - **Hindi:** एक्सट्रपलेशन करना
 - **Examples:**
-  1. Learning the word 'extrapolate' can help improve your communication and writing skills.
+  1. " But it' s jumping to conclusions to extrapolate this report into the future.".
   2. It is beneficial to understand the meaning and context of 'extrapolate' in daily conversations.
 
 ## 151: Extricate
@@ -1235,7 +1235,7 @@
 - **Meaning:** Joyful enthusiasm
 - **Hindi:** अधिकता
 - **Examples:**
-  1. Learning the word 'exuberance' can help improve your communication and writing skills.
+  1. The exuberance on this occasion set a standard for subsequent Dartmouth gatherings.
   2. It is beneficial to understand the meaning and context of 'exuberance' in daily conversations.
 
 ## 156: Exude
@@ -1251,6 +1251,6 @@
 - **Meaning:** Feel extreme happiness or elation
 - **Hindi:** मग्न होना।
 - **Examples:**
-  1. Who cannot exult in Spring?
-  2. It is beneficial to understand the meaning and context of 'exult' in daily conversations.
+  1. To dance, clap hands, exult, shout, skip, leap, roll on, float on!
+  2. O I mourn and yet exult, I am rapt with love for all, Pioneers!
 

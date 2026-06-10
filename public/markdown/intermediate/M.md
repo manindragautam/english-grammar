@@ -35,8 +35,8 @@
 - **Meaning:** A female domestic
 - **Hindi:** नौकरानी
 - **Examples:**
-  1. Learning the word 'maid' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'maid' in daily conversations.
+  1. Custom Maid ( Knight Dream-Way Dream ) 2:34.2;;.
+  2. `` A maid told us that she still bragged about getting $50 a date.
 
 ## 6: Maintenance
 - **Dissection:** [main-ten-ance]
@@ -51,8 +51,8 @@
 - **Meaning:** Impressiveness in scale or proportion
 - **Hindi:** महिमा
 - **Examples:**
-  1. The majesty of the Great Pyramids.
-  2. It is beneficial to understand the meaning and context of 'majesty' in daily conversations.
+  1. 37: 22 Fair weather cometh out of the north: with God is terrible majesty.
+  2. 40: 10 Deck thyself now with majesty and excellency; and array thyself with glory and beauty.
 
 ## 8: Mall
 - **Dissection:** [mall]
@@ -123,8 +123,8 @@
 - **Meaning:** The form of a literary work submitted for publication
 - **Hindi:** हस्तलिपि
 - **Examples:**
-  1. Learning the word 'manuscript' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'manuscript' in daily conversations.
+  1. Each dot on magnification resumed its original condition as a drawing, a printed page, or a manuscript.
+  2. The manuscript, presumably after being smuggled out of the country, was published in Switzerland in 1943.
 
 ## 17: Marble
 - **Dissection:** [marble]
@@ -195,8 +195,8 @@
 - **Meaning:** The savage and excessive killing of many people
 - **Hindi:** हत्याकांड
 - **Examples:**
-  1. The Hutus massacred the Tutsis in Rwanda.
-  2. It is beneficial to understand the meaning and context of 'massacre' in daily conversations.
+  1. I am the massacre of St. Bartholomew.
+  2. Massacre is wicked even with a provocation, as in the Bartholomew.
 
 ## 26: Massive
 - **Dissection:** [massive]
@@ -211,8 +211,8 @@
 - **Meaning:** A vertical spar for supporting sails
 - **Hindi:** मस्त
 - **Examples:**
-  1. Learning the word 'mast' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mast' in daily conversations.
+  1. A glance revealed that the main topgallant mast had been carried away.
+  2. `` Small violently jerked the weather-royal brace with full intention to carry away the mast.
 
 ## 28: Master
 - **Dissection:** [mas-ter]
@@ -227,8 +227,8 @@
 - **Meaning:** The most outstanding work of a creative artist or craftsman
 - **Hindi:** कृति
 - **Examples:**
-  1. Masterpieces are not completed, they are abandoned.
-  2. It is beneficial to understand the meaning and context of 'masterpiece' in daily conversations.
+  1. This happened to be vice versa, but even so, the answer was a masterpiece.
+  2. Masterpieces are not completed, they are abandoned.
 
 ## 30: Mat
 - **Dissection:** [mat]
@@ -251,8 +251,8 @@
 - **Meaning:** A science (or group of related sciences) dealing with the logic of quantity and shape and arrangement
 - **Hindi:** अंक शास्त्र
 - **Examples:**
-  1. My mathematics is always improving.
-  2. It is beneficial to understand the meaning and context of 'mathematics' in daily conversations.
+  1. The participants were Professor H. Bondi, professor of mathematics at King's College, London;;.
+  2. Dr. W. B. Bonnor, reader in mathematics at Queen Elizabeth College, London;;.
 
 ## 33: Maximum
 - **Dissection:** [max-im-um]
@@ -267,16 +267,16 @@
 - **Meaning:** The head of a city government
 - **Hindi:** मेयर
 - **Examples:**
-  1. Learning the word 'mayor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mayor' in daily conversations.
+  1. Attorneys for the mayor said that an amicable property settlement has been agreed upon.
+  2. Hartsfield has been mayor of Atlanta, with exception of one brief interlude, since 1937.
 
 ## 35: Meadow
 - **Dissection:** [mead-ow]
 - **Meaning:** A field where grass or alfalfa are grown to be made into hay
 - **Hindi:** घास का मैदान
 - **Examples:**
-  1. The salt meadows near Newark Bay.
-  2. It is beneficial to understand the meaning and context of 'meadow' in daily conversations.
+  1. East Meadow has philosophy, psychology, and religion;;.
+  2. The lovely ( and of course vigorous ) `` Polyanka '' or `` The Meadow '';;.
 
 ## 36: Meanwhile
 - **Dissection:** [mean-while]
@@ -307,8 +307,8 @@
 - **Meaning:** An award for winning a championship or commemorating some other event
 - **Hindi:** पदक
 - **Examples:**
-  1. He medalled twice at the Olympics.
-  2. It is beneficial to understand the meaning and context of 'medal' in daily conversations.
+  1. The Joseph Pennell Memorial Medal;;.
+  2. Sergeant Mike Donaldson, Congressional Medal of Honor soldier, was one of them.
 
 ## 40: Melt
 - **Dissection:** [melt]
@@ -331,8 +331,8 @@
 - **Meaning:** A written proposal or reminder
 - **Hindi:** ज्ञापन
 - **Examples:**
-  1. I made sure to memo him about the client's complaints.
-  2. It is beneficial to understand the meaning and context of 'memo' in daily conversations.
+  1. Another memo for sightseers: bring your camera along to museums.
+  2. I made sure to memo him about the client's complaints.
 
 ## 43: Memorial
 - **Dissection:** [me-mori-al]
@@ -363,16 +363,16 @@
 - **Meaning:** A businessperson engaged in retail trade
 - **Hindi:** व्यापारी
 - **Examples:**
-  1. A merchanting service.
-  2. It is beneficial to understand the meaning and context of 'merchant' in daily conversations.
+  1. What of his treatment of the Jew in The Merchant Of Venice??
+  2. Studying The Merchant Of Venice in high school and college has given many young people their notions about Jews.
 
 ## 47: Mercury
 - **Dissection:** [mer-cury]
 - **Meaning:** A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures
 - **Hindi:** बुध
 - **Examples:**
-  1. The mercury was falling rapidly.
-  2. It is beneficial to understand the meaning and context of 'mercury' in daily conversations.
+  1. The captain's gig of H.M.S. Mercury was being rowed to H.M.S. Neptune.
+  2. Odgers said Mercury was seeking to make inroads into some of British Telecom' s most profitable areas.
 
 ## 48: Mercy
 - **Dissection:** [mercy]
@@ -427,16 +427,16 @@
 - **Meaning:** Magnifier of the image of small objects
 - **Hindi:** माइक्रोस्कोप
 - **Examples:**
-  1. The invention of the microscope led to the discovery of the cell.
-  2. It is beneficial to understand the meaning and context of 'microscope' in daily conversations.
+  1. The specimen is magnified by the microscope.
+  2. The invention of the microscope led to the discovery of the cell.
 
 ## 55: Microwave
 - **Dissection:** [mi-crowave]
 - **Meaning:** A short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data
 - **Hindi:** माइक्रोवेव
 - **Examples:**
-  1. You can microwave the leftovers.
-  2. It is beneficial to understand the meaning and context of 'microwave' in daily conversations.
+  1. To secure precise measurements of these frequencies, a research program in free radical microwave spectroscopy has been started.
+  2. Triangle Microwave makes microwave components.
 
 ## 56: Mighty
 - **Dissection:** [mighty]
@@ -507,8 +507,8 @@
 - **Meaning:** Any amazing or wonderful occurrence
 - **Hindi:** चमत्कार
 - **Examples:**
-  1. An example of a miracle associated with Muhammad is the splitting of the moon.
-  2. It is beneficial to understand the meaning and context of 'miracle' in daily conversations.
+  1. Not a chance of opening here Nov. 28 -- barring that miracle.
+  2. One could see this chemical determinant as in itself a miracle.
 
 ## 65: Miserable
 - **Dissection:** [miser-able]
@@ -627,16 +627,16 @@
 - **Meaning:** (physics and chemistry) the simplest structural unit of an element or compound
 - **Hindi:** अणु
 - **Examples:**
-  1. Hydrogen chloride is a diatomic molecule, consisting of a hydrogen atom and a chlorine atom.
-  2. It is beneficial to understand the meaning and context of 'molecule' in daily conversations.
+  1. The degree of saturation depends on the number of hydrogen atoms on the fat molecule.
+  2. Preliminary evidence tentatively indicates that the molecule ( metabolite 1 ) ) is cleaved at a secondary amide bond.
 
 ## 80: Monument
 - **Dissection:** [monu-ment]
 - **Meaning:** A structure erected to commemorate persons or events
 - **Hindi:** स्मारक
 - **Examples:**
-  1. There is a monument on the town green to the soldiers who died in World War I.
-  2. It is beneficial to understand the meaning and context of 'monument' in daily conversations.
+  1. It has been billed as a towering monument to immorality.
+  2. As an added suggestion to balance the budget, the Government could sell advertising space on the Washington Monument.
 
 ## 81: Mood
 - **Dissection:** [mood]
@@ -659,15 +659,15 @@
 - **Meaning:** A state of individual psychological well-being based upon a sense of confidence and usefulness and purpose
 - **Hindi:** हौसला
 - **Examples:**
-  1. Morale is an important quality in soldiers. With good morale they'll charge into a hail of bullets; without it they won't even cross a street.
-  2. It is beneficial to understand the meaning and context of 'morale' in daily conversations.
+  1. What does he think a remark like this `` lousy '' one does to our prestige and morale??
+  2. West Berlin morale is low and, in age distribution, the situation is unfavorable.
 
 ## 84: Mosquito
 - **Dissection:** [mos-quito]
 - **Meaning:** Two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals
 - **Hindi:** मच्छर
 - **Examples:**
-  1. Learning the word 'mosquito' can help improve your communication and writing skills.
+  1. For mosquito bites a paste of half a glass of salt and half a glass of soda was made.
   2. It is beneficial to understand the meaning and context of 'mosquito' in daily conversations.
 
 ## 85: Motive
@@ -707,8 +707,8 @@
 - **Meaning:** Feel sadness
 - **Hindi:** विलाप
 - **Examples:**
-  1. She is mourning her dead child.
-  2. It is beneficial to understand the meaning and context of 'mourn' in daily conversations.
+  1. 14: 22 But his flesh upon him shall have pain, and his soul within him shall mourn.
+  2. 8: 8 Shall not the land tremble for this, and every one mourn that dwelleth therein?
 
 ## 90: Mud
 - **Dissection:** [mud]
@@ -747,8 +747,8 @@
 - **Meaning:** A depository for collecting and displaying objects having scientific or historical or artistic value
 - **Hindi:** संग्रहालय
 - **Examples:**
-  1. Learning the word 'museum' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'museum' in daily conversations.
+  1. But he insisted that it be housed in a special museum.
+  2. It will be at the museum until March 30.
 
 ## 95: Mushroom
 - **Dissection:** [mush-room]
@@ -763,8 +763,8 @@
 - **Meaning:** An unshaved growth of hair on the upper lip
 - **Hindi:** मूंछें
 - **Examples:**
-  1. He looked younger after he shaved off his mustache.
-  2. It is beneficial to understand the meaning and context of 'mustache' in daily conversations.
+  1. Mr. McCay had on a sort of Emperor Maximilian beard and mustache.
+  2. Brown eyes, eyebrow mustache.
 
 ## 97: Mustard
 - **Dissection:** [mus-tard]

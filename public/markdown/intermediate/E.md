@@ -27,8 +27,8 @@
 - **Meaning:** Shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity
 - **Hindi:** भूकंप
 - **Examples:**
-  1. Selling the company caused an earthquake among the employees.
-  2. It is beneficial to understand the meaning and context of 'earthquake' in daily conversations.
+  1. A tsunami may be started by a sea bottom slide, an earthquake or a volcanic eruption.
+  2. One of the most damaging tsunami on record followed the famous Lisbon earthquake of November 1, 1755;;.
 
 ## 5: Ease
 - **Dissection:** [ease]
@@ -99,8 +99,8 @@
 - **Meaning:** An inflated feeling of pride in your superiority to others
 - **Hindi:** अहंकार
 - **Examples:**
-  1. Learning the word 'ego' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ego' in daily conversations.
+  1. After all, a guy's gotta have a little ego!!
+  2. Thus, the client receives enough ego support to engage in constructive efforts on his own behalf.
 
 ## 14: Elaborate
 - **Dissection:** [elab-or-ate]
@@ -155,8 +155,8 @@
 - **Meaning:** An elementary particle with negative charge
 - **Hindi:** इलेक्ट्रॉन
 - **Examples:**
-  1. Learning the word 'electron' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'electron' in daily conversations.
+  1. Af is paramagnetic, and electron paramagnetic dipole as well as nuclear dipole effects lead to line broadening.
+  2. Hence, the electron paramagnetic effects ( slope ) can be separated from the nuclear effects ( intercept ).
 
 ## 21: Elegant
 - **Dissection:** [el-eg-ant]
@@ -187,8 +187,8 @@
 - **Meaning:** Lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building
 - **Hindi:** लिफ़्ट
 - **Examples:**
-  1. Learning the word 'elevator' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'elevator' in daily conversations.
+  1. Feed is put in with an elevator.
+  2. All the dogs would dash to get on the elevator with the President and go to the dining room.
 
 ## 25: Elicit
 - **Dissection:** [eli-cit]
@@ -243,8 +243,8 @@
 - **Meaning:** A diplomatic building where ambassadors live or work
 - **Hindi:** दूतावास
 - **Examples:**
-  1. The American embassy to France is located in Paris.
-  2. It is beneficial to understand the meaning and context of 'embassy' in daily conversations.
+  1. Mortars had demolished the defense ministry and set fire to the American Embassy next door.
+  2. Today it is occupied by the French Embassy.
 
 ## 32: Embed
 - **Dissection:** [em-bed]
@@ -315,16 +315,16 @@
 - **Meaning:** Any strong feeling
 - **Hindi:** भावना
 - **Examples:**
-  1. Learning the word 'emotion' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'emotion' in daily conversations.
+  1. Pohl received the verdict without visible emotion.
+  2. Alwin Nikolais objects to art as an outpouring of personal emotion.
 
 ## 41: Emperor
 - **Dissection:** [em-per-or]
 - **Meaning:** The male ruler of an empire
 - **Hindi:** सम्राट
 - **Examples:**
-  1. Learning the word 'emperor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'emperor' in daily conversations.
+  1. Later, we shall see what happened when an emperor took this idea too literally.
+  2. Thus, the emperor could draw on sources not available to those with less puissant ancestors.
 
 ## 42: Emphasis
 - **Dissection:** [em-phas-is]
@@ -371,16 +371,16 @@
 - **Meaning:** A worker who is hired to perform a job
 - **Hindi:** कर्मचारी
 - **Examples:**
-  1. One way to encourage your employees to work harder is by giving them incentives.
-  2. It is beneficial to understand the meaning and context of 'employee' in daily conversations.
+  1. Have you set specific objectives for your employee publication??
+  2. Has your attitude toward employee benefits encouraged an excess of free `` government '' work in your plant??
 
 ## 48: Employer
 - **Dissection:** [em-ploy-er]
 - **Meaning:** A person or firm that employs workers
 - **Hindi:** नियोक्ता
 - **Examples:**
-  1. Learning the word 'employer' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'employer' in daily conversations.
+  1. ) If your employer reimburses you for expenses incurred, you deduct such expenses if they otherwise qualify.
+  2. Planning of vocational education programs and courses is oriented to local employer needs for trained workers.
 
 ## 49: Enable
 - **Dissection:** [en-able]
@@ -563,8 +563,8 @@
 - **Meaning:** A feeling of excitement
 - **Hindi:** उत्साह
 - **Examples:**
-  1. Enthusiasm for his program is growing.
-  2. It is beneficial to understand the meaning and context of 'enthusiasm' in daily conversations.
+  1. Steinberg spoke with warmth and enthusiasm about Italy: `` Rome is my second home.
+  2. It is as empty as the word `` Hurrah '' would be when there was no enthusiasm behind it.
 
 ## 72: Enthusiastic
 - **Dissection:** [en-thu-si-ast-ic]
@@ -587,8 +587,8 @@
 - **Meaning:** That which is perceived or known or inferred to have its own distinct existence (living or nonliving)
 - **Hindi:** इकाई
 - **Examples:**
-  1. The group successfully maintains its tribal entity.
-  2. It is beneficial to understand the meaning and context of 'entity' in daily conversations.
+  1. Seemingly, order is perceived as a kind of subsistent entity now covered by adventitious accretions.
+  2. For the purposes of setting the product price, the industry behaves as a single entity.
 
 ## 75: Entrance
 - **Dissection:** [en-trance]
@@ -619,8 +619,8 @@
 - **Meaning:** A feeling of grudging admiration and desire to have something that is possessed by another
 - **Hindi:** ईर्ष्या
 - **Examples:**
-  1. Learning the word 'envy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'envy' in daily conversations.
+  1. Indeed, my scholastic qualifications were such that he, a college graduate himself, must envy me them.
+  2. And those of Early Spring, haunted and now full of hurt and envy.
 
 ## 79: Epidemic
 - **Dissection:** [epi-dem-ic]
@@ -643,7 +643,7 @@
 - **Meaning:** A period marked by distinctive character or reckoned from a fixed point or event
 - **Hindi:** युग
 - **Examples:**
-  1. Learning the word 'epoch' can help improve your communication and writing skills.
+  1. That was one epoch: the apple-tree epoch.
   2. It is beneficial to understand the meaning and context of 'epoch' in daily conversations.
 
 ## 82: Equality
@@ -651,8 +651,8 @@
 - **Meaning:** The quality of being the same in quantity or measure or value or status
 - **Hindi:** समानता
 - **Examples:**
-  1. On a par with the best.
-  2. It is beneficial to understand the meaning and context of 'equality' in daily conversations.
+  1. Dr. Conant may underestimate the psychological importance of even token equality.
+  2. Then came this decision, which sped the process of gaining equality ( or perhaps hindered it;;.
 
 ## 83: Equation
 - **Dissection:** [equa-tion]
@@ -660,7 +660,7 @@
 - **Hindi:** समीकरण
 - **Examples:**
   1. On a par with the best.
-  2. It is beneficial to understand the meaning and context of 'equation' in daily conversations.
+  2. We need to bring the balance of power into equation.
 
 ## 84: Equip
 - **Dissection:** [equip]
@@ -675,16 +675,16 @@
 - **Meaning:** An instrumentality needed for an undertaking or to perform a service
 - **Hindi:** उपकरण
 - **Examples:**
-  1. Learning the word 'equipment' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'equipment' in daily conversations.
+  1. Equipment should be in operation `` almost immediately after the first snowfall '', Mr. Schaefer said.
+  2. The United States offered to supply a complete set of propelling equipment like that used in the Skipjack.
 
 ## 86: Equity
 - **Dissection:** [equity]
 - **Meaning:** The difference between the market value of a property and the claims held against it
 - **Hindi:** हिस्सेदारी
 - **Examples:**
-  1. The judge recognized the fairness of my claim.
-  2. It is beneficial to understand the meaning and context of 'equity' in daily conversations.
+  1. Chief among the defects they singled out were the complicated and wearisome procedures in equity.
+  2. However, it proposes issuing new equity in a subsidiary that would operate Dome assets.
 
 ## 87: Equivalent
 - **Dissection:** [equi-val-ent]
@@ -699,8 +699,8 @@
 - **Meaning:** A period marked by distinctive character or reckoned from a fixed point or event
 - **Hindi:** युग
 - **Examples:**
-  1. Learning the word 'era' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'era' in daily conversations.
+  1. If competition beats you to it, this exciting new product era can have real headaches in store.
+  2. The long and ever-increasing column of sportsmen is now moving into a new era.
 
 ## 89: Erect
 - **Dissection:** [erect]
@@ -827,8 +827,8 @@
 - **Meaning:** After an unspecified period of time or an especially long delay
 - **Hindi:** अंततः
 - **Examples:**
-  1. Eventually, all prime numbers are odd.
-  2. It is beneficial to understand the meaning and context of 'eventually' in daily conversations.
+  1. This theory eventually proved inexact.
+  2. Eventually, says Keys, one of two things happens.
 
 ## 105: Evident
 - **Dissection:** [evid-ent]
@@ -1019,8 +1019,8 @@
 - **Meaning:** Belief about (or mental picture of) the future
 - **Hindi:** अपेक्षा
 - **Examples:**
-  1. Learning the word 'expectation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'expectation' in daily conversations.
+  1. The approval did not arise from an expectation of far-reaching agreements at Vienna.
+  2. Obviously, much more than customer expectation is determining the realtor's role.
 
 ## 129: Expedition
 - **Dissection:** [ex-ped-i-tion]
@@ -1051,8 +1051,8 @@
 - **Meaning:** Skillfulness by virtue of possessing special knowledge
 - **Hindi:** विशेषज्ञता
 - **Examples:**
-  1. The scientist has expertise in the field of nuclear fusion.
-  2. It is beneficial to understand the meaning and context of 'expertise' in daily conversations.
+  1. Security Pacific will provide expertise in consumer and commercial lending, as well as data processing support.
+  2. " Those ( U. S. brokers ) companies have the expertise.
 
 ## 133: Explicit
 - **Dissection:** [ex-pli-cit]
@@ -1211,6 +1211,6 @@
 - **Meaning:** The arch of hair above each eye
 - **Hindi:** भौं
 - **Examples:**
-  1. Learning the word 'eyebrow' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'eyebrow' in daily conversations.
+  1. Robinson was treated at a physician's office for a cut over his left eyebrow and a possible sprained knee.
+  2. Brown eyes, eyebrow mustache.
 

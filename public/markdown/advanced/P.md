@@ -27,8 +27,8 @@
 - **Meaning:** A written agreement between two states or sovereigns
 - **Hindi:** संधि
 - **Examples:**
-  1. Learning the word 'pact' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'pact' in daily conversations.
+  1. Ministers believed the Paris pact was bolstered by Japan' s promise of a 35 billion dlr supplementary budget.
+  2. But in fact the dollar has been relatively stable since the pact.
 
 ## 5: Paean
 - **Dissection:** [pae-an]
@@ -67,8 +67,8 @@
 - **Meaning:** The range of colour characteristic of a particular artist or painting or school of art
 - **Hindi:** पैलेट
 - **Examples:**
-  1. Learning the word 'palette' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'palette' in daily conversations.
+  1. The dark pigments of the early work were superseded by a brighter palette.
+  2. But even on these, the palette often takes over while the shotgun cools off!!
 
 ## 10: Pall
 - **Dissection:** [pall]
@@ -147,7 +147,7 @@
 - **Meaning:** A state of extreme confusion and disorder
 - **Hindi:** विप्लव
 - **Examples:**
-  1. Learning the word 'pandemonium' can help improve your communication and writing skills.
+  1. " Whatever all this pandemonium means, I suppose the police station will help us.
   2. It is beneficial to understand the meaning and context of 'pandemonium' in daily conversations.
 
 ## 20: Pander
@@ -219,15 +219,15 @@
 - **Meaning:** An ideal instance; a perfect embodiment of a concept
 - **Hindi:** प्रतिद्वंद्वी
 - **Examples:**
-  1. In the novel, Constanza is a paragon of virtue who would never compromise her reputation.
-  2. It is beneficial to understand the meaning and context of 'paragon' in daily conversations.
+  1. Paragon said it bought the shares for investment purposes.
+  2. In the novel, Constanza is a paragon of virtue who would never compromise her reputation.
 
 ## 29: Parallelism
 - **Dissection:** [par-al-lel-ism]
 - **Meaning:** Similarity by virtue of corresponding
 - **Hindi:** समानता
 - **Examples:**
-  1. Learning the word 'parallelism' can help improve your communication and writing skills.
+  1. That parallelism affects his picture of man's disobedience too;;.
   2. It is beneficial to understand the meaning and context of 'parallelism' in daily conversations.
 
 ## 30: Parameter
@@ -267,7 +267,7 @@
 - **Meaning:** Rewording for the purpose of clarification
 - **Hindi:** संक्षिप्त व्याख्या
 - **Examples:**
-  1. Learning the word 'paraphrase' can help improve your communication and writing skills.
+  1. Do you want to hear the paraphrase ''??
   2. It is beneficial to understand the meaning and context of 'paraphrase' in daily conversations.
 
 ## 35: Parasite
@@ -275,8 +275,8 @@
 - **Meaning:** An animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without benefiting or killing the host
 - **Hindi:** परजीवी
 - **Examples:**
-  1. Lice, fleas, ticks and mites are widely spread parasites.
-  2. It is beneficial to understand the meaning and context of 'parasite' in daily conversations.
+  1. The female parasite spends much time in her efforts to find a nest of her host.
+  2. Lice, fleas, ticks and mites are widely spread parasites.
 
 ## 36: Parched
 - **Dissection:** [parched]
@@ -291,7 +291,7 @@
 - **Meaning:** A person who is rejected (from society or home)
 - **Hindi:** ख़ारिज
 - **Examples:**
-  1. Learning the word 'pariah' can help improve your communication and writing skills.
+  1. He was the House pariah.
   2. It is beneficial to understand the meaning and context of 'pariah' in daily conversations.
 
 ## 38: Parity
@@ -307,7 +307,7 @@
 - **Meaning:** A manner of speaking that is natural to native speakers of a language
 - **Hindi:** बोल-चाल
 - **Examples:**
-  1. Learning the word 'parlance' can help improve your communication and writing skills.
+  1. In common parlance they would be described as misses -- misinterpreters, misunderstanders, misdirectors and kindred misdeeds.
   2. It is beneficial to understand the meaning and context of 'parlance' in daily conversations.
 
 ## 40: Parley
@@ -315,8 +315,8 @@
 - **Meaning:** A negotiation between enemies
 - **Hindi:** बातचीत
 - **Examples:**
-  1. Learning the word 'parley' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'parley' in daily conversations.
+  1. They stand, and would haue parley.
+  2. That such a hideous Trumpet calls to parley The sleepers of the House?
 
 ## 41: Parochial
 - **Dissection:** [pa-ro-chi-al]
@@ -347,7 +347,7 @@
 - **Meaning:** A floor made of parquetry
 - **Hindi:** लकड़ी की छत
 - **Examples:**
-  1. Learning the word 'parquet' can help improve your communication and writing skills.
+  1. Dr. Louis Lalaurie examined the inert form of the slave on the parquet dance floor and pronounced him dead.
   2. It is beneficial to understand the meaning and context of 'parquet' in daily conversations.
 
 ## 45: Parry
@@ -363,7 +363,7 @@
 - **Meaning:** Extreme care in spending money; reluctance to spend money unnecessarily
 - **Hindi:** बचत
 - **Examples:**
-  1. Learning the word 'parsimony' can help improve your communication and writing skills.
+  1. He despised parsimony, and particularly of words.
   2. It is beneficial to understand the meaning and context of 'parsimony' in daily conversations.
 
 ## 47: Partiality
@@ -443,8 +443,8 @@
 - **Meaning:** Title for the heads of the Eastern Orthodox Churches (in Istanbul and Alexandria and Moscow and Jerusalem)
 - **Hindi:** कुलपति
 - **Examples:**
-  1. Learning the word 'patriarch' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'patriarch' in daily conversations.
+  1. One patriarch is supposed to have relegated sacred scriptures for use in an outhouse.
+  2. To whom the patriarch of mankind replied.
 
 ## 57: Patrician
 - **Dissection:** [pa-tri-cian]
@@ -467,7 +467,7 @@
 - **Meaning:** An insufficient quantity or number
 - **Hindi:** कमी
 - **Examples:**
-  1. Learning the word 'paucity' can help improve your communication and writing skills.
+  1. Only the amethystine python and the anaconda must be excluded for lack or paucity of data.
   2. It is beneficial to understand the meaning and context of 'paucity' in daily conversations.
 
 ## 60: Pauper
@@ -563,8 +563,8 @@
 - **Meaning:** Remorse for your past conduct
 - **Hindi:** तपस्या
 - **Examples:**
-  1. Learning the word 'penance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'penance' in daily conversations.
+  1. Grigorss goes off to do penance on a rock for seventeen years.
+  2. Catholics who were truly Christians longed for the simple penance of days gone by.
 
 ## 72: Penchant
 - **Dissection:** [pen-chant]
@@ -603,7 +603,7 @@
 - **Meaning:** (Roman Catholic Church) a person who repents for wrongdoing (a Roman Catholic may be admitted to penance under the direction of a confessor)
 - **Hindi:** अनुतापी
 - **Examples:**
-  1. Learning the word 'penitent' can help improve your communication and writing skills.
+  1. But he died penitent -- he just died of being penitent.
   2. It is beneficial to understand the meaning and context of 'penitent' in daily conversations.
 
 ## 77: Pensive
@@ -747,16 +747,16 @@
 - **Meaning:** The outside boundary or surface of something
 - **Hindi:** उपनगर
 - **Examples:**
-  1. The suburbs are a city's periphery.
-  2. It is beneficial to understand the meaning and context of 'periphery' in daily conversations.
+  1. While the factories were always the center of the labor market, they were often on the city's periphery.
+  2. The metals were found in rocks on the periphery of a sulphide deposit.
 
 ## 95: Perjury
 - **Dissection:** [per-jury]
 - **Meaning:** Criminal offense of making false statements under oath
 - **Hindi:** झूठा साक्ष्य
 - **Examples:**
-  1. We declare under penalty of perjury that the foregoing is true and correct.
-  2. It is beneficial to understand the meaning and context of 'perjury' in daily conversations.
+  1. The perjury charge against Mr. Parker carries a maximum penalty of $2,000 fine and five years imprisonment on conviction.
+  2. " I didn' t commit murder," continued the Catastrophist mildly," but only perjury.
 
 ## 96: Permeable
 - **Dissection:** [per-meable]
@@ -915,8 +915,8 @@
 - **Meaning:** The feeling that things will turn out badly
 - **Hindi:** निराशावाद
 - **Examples:**
-  1. Learning the word 'pessimism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'pessimism' in daily conversations.
+  1. They find deep pessimism in them.
+  2. One cause of Schopenhauer's pessimism was the fact that he failed to learn the guitar.
 
 ## 116: Pestilence
 - **Dissection:** [pes-ti-lence]
@@ -987,8 +987,8 @@
 - **Meaning:** A person who is uninterested in intellectual pursuits
 - **Hindi:** अशिक्षित
 - **Examples:**
-  1. Learning the word 'philistine' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'philistine' in daily conversations.
+  1. Am not I a Philistine, and ye servants to Saul?
+  2. 17: 16 And the Philistine drew near morning and evening, and presented himself forty days.
 
 ## 125: Philology
 - **Dissection:** [philo-logy]
@@ -1019,8 +1019,8 @@
 - **Meaning:** The state capital and largest city located in south central Arizona; situated in a former desert that has become a prosperous agricultural area thanks to irrigation
 - **Hindi:** अचंभा
 - **Examples:**
-  1. Astronomers believe planets might form in this dead star's disk, like the mythical Phoenix rising up out of the ashes.
-  2. It is beneficial to understand the meaning and context of 'phoenix' in daily conversations.
+  1. The Phoenix arrest culminates more than a year's investigation by Detective William Taylor and other officers.
+  2. Mrs. Huntley was held on $20,000 bond in Phoenix.
 
 ## 129: Phylum
 - **Dissection:** [phylum]
@@ -1035,8 +1035,8 @@
 - **Meaning:** The human face (`kisser' and `smiler' and `mug' are informal terms for `face' and `phiz' is British)
 - **Hindi:** मुख का आकृति
 - **Examples:**
-  1. The physiognomy of a plant; of a meteor.
-  2. It is beneficial to understand the meaning and context of 'physiognomy' in daily conversations.
+  1. Physiognomy, like every other human science, is but a passing fable.
+  2. The physiognomy of a plant; of a meteor.
 
 ## 131: Physiological
 - **Dissection:** [physiolo-gic-al]
@@ -1059,8 +1059,8 @@
 - **Meaning:** One thing at a time
 - **Hindi:** क्रम से
 - **Examples:**
-  1. The research structure has developed piecemeal.
-  2. It is beneficial to understand the meaning and context of 'piecemeal' in daily conversations.
+  1. And the leading issue, that of piecemeal aggression, remains the same.
+  2. Now the problem is presented piecemeal and sometimes contradictorily.
 
 ## 134: Pied
 - **Dissection:** [pied]
@@ -1075,8 +1075,8 @@
 - **Meaning:** Righteousness by virtue of being pious
 - **Hindi:** शील
 - **Examples:**
-  1. Colleen's piety led her to make sacrifices that most people would not have made.
-  2. It is beneficial to understand the meaning and context of 'piety' in daily conversations.
+  1. It is something more than the arithmetical sum of individual totals of piety and detachment.
+  2. Nor can piety itself, at such a shameful sight, completely stifle her upbraidings against the permitting stars.
 
 ## 136: Pigment
 - **Dissection:** [pig-ment]
@@ -1115,8 +1115,8 @@
 - **Meaning:** Having or showing or expressing reverence for a deity
 - **Hindi:** धर्मनिष्ठ
 - **Examples:**
-  1. Pious readings.
-  2. It is beneficial to understand the meaning and context of 'pious' in daily conversations.
+  1. There were no pious hypocrisies then about being for collective bargaining, but against labor monopoly.
+  2. But his heavenward glances and his pious speeches are not merely perfunctory;;.
 
 ## 141: Piquant
 - **Dissection:** [pi-quant]
@@ -1139,8 +1139,8 @@
 - **Meaning:** An unforeseen or unexpected or surprising difficulty
 - **Hindi:** ख़तरा
 - **Examples:**
-  1. It's usually a simple task, but you should know the pitfalls before you attempt it yourself.
-  2. It is beneficial to understand the meaning and context of 'pitfall' in daily conversations.
+  1. They do not escape the pitfall into which Charles Dickens pictured Mrs. Jellyby as falling.
+  2. Poore Bird, Thou' dst neuer Feare the Net, nor Lime, The Pitfall, nor the Gin.
 
 ## 144: Pithy
 - **Dissection:** [pithy]
@@ -1211,8 +1211,8 @@
 - **Meaning:** Expressing sorrow
 - **Hindi:** दर्दनाक
 - **Examples:**
-  1. A typically plaintive song from Radiohead.
-  2. It is beneficial to understand the meaning and context of 'plaintive' in daily conversations.
+  1. There is a quick change from the plaintive song to a conversational tone.
+  2. Asked Isabella in the plaintive tone which just suited her father.
 
 ## 153: Plait
 - **Dissection:** [plait]
@@ -1227,7 +1227,7 @@
 - **Meaning:** The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking
 - **Hindi:** प्लास्टिसिटी
 - **Examples:**
-  1. Learning the word 'plasticity' can help improve your communication and writing skills.
+  1. In order to be saved, plasticity had had to be isolated;;.
   2. It is beneficial to understand the meaning and context of 'plasticity' in daily conversations.
 
 ## 155: Platitude
@@ -1323,7 +1323,7 @@
 - **Meaning:** The light horny waterproof structure forming the external covering of birds
 - **Hindi:** पक्षति
 - **Examples:**
-  1. Learning the word 'plumage' can help improve your communication and writing skills.
+  1. Long I gazed at that prodigy of plumage.
   2. It is beneficial to understand the meaning and context of 'plumage' in daily conversations.
 
 ## 167: Plumb
@@ -1395,7 +1395,7 @@
 - **Meaning:** An abject coward
 - **Hindi:** पोल्ट्रून
 - **Examples:**
-  1. Learning the word 'poltroon' can help improve your communication and writing skills.
+  1. He hated Pip for a poltroon.
   2. It is beneficial to understand the meaning and context of 'poltroon' in daily conversations.
 
 ## 176: Polygamy
@@ -1443,8 +1443,8 @@
 - **Meaning:** Any tiny hole admitting passage of a liquid (fluid or gas)
 - **Hindi:** ध्यान में लीन होना
 - **Examples:**
-  1. Please focus on your studies and not on your hobbies.
-  2. It is beneficial to understand the meaning and context of 'pore' in daily conversations.
+  1. This small pore size was required to ensure uniformity of the flow leaving the anode.
+  2. Please focus on your studies and not on your hobbies.
 
 ## 182: Porous
 - **Dissection:** [por-ous]
@@ -1491,8 +1491,8 @@
 - **Meaning:** All of the offspring of a given progenitor
 - **Hindi:** भावी पीढ़ी
 - **Examples:**
-  1. We must secure the benefits of freedom for ourselves and our posterity.
-  2. It is beneficial to understand the meaning and context of 'posterity' in daily conversations.
+  1. Accordingly, they took special pains to preserve their papers as essential sources for posterity.
+  2. 49: 13 This their way is their folly: yet their posterity approve their sayings.
 
 ## 188: Posthumous
 - **Dissection:** [posthum-ous]
@@ -1531,7 +1531,7 @@
 - **Meaning:** A ruler who is unconstrained by law
 - **Hindi:** महाराजा
 - **Examples:**
-  1. Learning the word 'potentate' can help improve your communication and writing skills.
+  1. The consternation it created was something beyond even that natural in a Court at the fall of a potentate.
   2. It is beneficial to understand the meaning and context of 'potentate' in daily conversations.
 
 ## 193: Potential
@@ -1547,8 +1547,8 @@
 - **Meaning:** A medicinal or magical or poisonous beverage
 - **Hindi:** पोशन
 - **Examples:**
-  1. He hoped to win the princess's heart by mixing the love potion the witch gave him into her drink.
-  2. It is beneficial to understand the meaning and context of 'potion' in daily conversations.
+  1. Heere thou incestuous, murdrous, Damned Dane, Drinke off this Potion: Is thy Vnion heere?
+  2. He hoped to win the princess's heart by mixing the love potion the witch gave him into her drink.
 
 ## 195: Potpourri
 - **Dissection:** [pot-pourri]
@@ -1563,8 +1563,8 @@
 - **Meaning:** A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc.
 - **Hindi:** प्रलेप
 - **Examples:**
-  1. Learning the word 'poultice' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'poultice' in daily conversations.
+  1. Yellow clay was used as a poultice for insect bites and also for swellings;;.
+  2. A German informant gave me a sure cure made by combining rye flour and molasses into a poultice.
 
 ## 197: Practicable
 - **Dissection:** [prac-tic-able]
@@ -1603,7 +1603,7 @@
 - **Meaning:** A preliminary introduction to a statute or constitution (usually explaining its purpose)
 - **Hindi:** प्रस्तावना
 - **Examples:**
-  1. Learning the word 'preamble' can help improve your communication and writing skills.
+  1. It began with a preamble, of course.
   2. It is beneficial to understand the meaning and context of 'preamble' in daily conversations.
 
 ## 202: Precarious
@@ -1619,8 +1619,8 @@
 - **Meaning:** An example that is used to justify similar occurrences at a later time
 - **Hindi:** मिसाल
 - **Examples:**
-  1. Common law originated in the unwritten laws of England and was later applied in the United States.
-  2. It is beneficial to understand the meaning and context of 'precedent' in daily conversations.
+  1. `` This team set a precedent that could be valuable in the future '', Benington pointed out.
+  2. He shouted, and rushed off to the Speaker's Room to object: `` A dangerous precedent ''!!
 
 ## 204: Precept
 - **Dissection:** [pre-cept]
@@ -1635,16 +1635,16 @@
 - **Meaning:** A district of a city or town marked out for administrative purposes
 - **Hindi:** सीमा
 - **Examples:**
-  1. Learning the word 'precinct' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'precinct' in daily conversations.
+  1. Men from the Third Detective District, Eighteenth Precinct, had the longest, the most tedious, job.
+  2. ( Detective Pearson, Eighteenth Precinct, thought for a time he might be on to something.
 
 ## 206: Precipice
 - **Dissection:** [pre-cip-ice]
 - **Meaning:** A very steep cliff
 - **Hindi:** करारा
 - **Examples:**
-  1. To stand on a precipice.
-  2. It is beneficial to understand the meaning and context of 'precipice' in daily conversations.
+  1. To port was a point 200 feet high rising behind to a precipice of 2,000 feet.
+  2. The Highlander made a gesture of assent and came also almost to the edge of the precipice.
 
 ## 207: Precipitant
 - **Dissection:** [pre-cip-it-ant]
@@ -1691,7 +1691,7 @@
 - **Meaning:** A substance from which another substance is formed (especially by a metabolic reaction)
 - **Hindi:** अग्रगामी
 - **Examples:**
-  1. Learning the word 'precursor' can help improve your communication and writing skills.
+  1. That type of attitude has been a precursor to airline deals in the past," said Pettee.
   2. It is beneficial to understand the meaning and context of 'precursor' in daily conversations.
 
 ## 213: Predator
@@ -1707,7 +1707,7 @@
 - **Meaning:** One who precedes you in time (as in holding a position or office)
 - **Hindi:** पूर्ववर्ती
 - **Examples:**
-  1. Learning the word 'predecessor' can help improve your communication and writing skills.
+  1. The new regime in Turkey is intentionally less Muslim than its predecessor.
   2. It is beneficial to understand the meaning and context of 'predecessor' in daily conversations.
 
 ## 215: Predetermine
@@ -1907,8 +1907,8 @@
 - **Meaning:** Most frequent or common
 - **Hindi:** प्रचलित
 - **Examples:**
-  1. Prevailing winds.
-  2. It is beneficial to understand the meaning and context of 'prevalent' in daily conversations.
+  1. Also, among the latter a large percentage soon acquire the prevalent Southern attitude on most social problems.
+  2. But colds were never so prevalent as they have been this autumn.
 
 ## 240: Prevaricate
 - **Dissection:** [pre-var-ic-ate]
@@ -2067,7 +2067,7 @@
 - **Meaning:** A prediction about how something (as the weather) will develop
 - **Hindi:** रोग का निदान
 - **Examples:**
-  1. Learning the word 'prognosis' can help improve your communication and writing skills.
+  1. Shell people were schooled to examine every aspect of a problem or situation before making a prognosis.
   2. It is beneficial to understand the meaning and context of 'prognosis' in daily conversations.
 
 ## 260: Projectile
@@ -2235,8 +2235,8 @@
 - **Meaning:** Correct or appropriate behavior
 - **Hindi:** औचित्य
 - **Examples:**
-  1. Learning the word 'propriety' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'propriety' in daily conversations.
+  1. Propriety was synonymous with ritual observance, the mark of a true gentleman.
+  2. They withdraw to the underground of the slums where they can defy the precepts of legalized propriety.
 
 ## 281: Propulsive
 - **Dissection:** [propuls-ive]
@@ -2283,8 +2283,8 @@
 - **Meaning:** An economic state of growth with rising profits and full employment
 - **Hindi:** समृद्धि
 - **Examples:**
-  1. Learning the word 'prosperity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'prosperity' in daily conversations.
+  1. Prosperity for the whole nation is certainly preferred to a tax cut.
+  2. It could provide security without cost of armaments and increase German prosperity and lessen taxation.
 
 ## 287: Prostrate
 - **Dissection:** [pros-trate]
@@ -2411,16 +2411,16 @@
 - **Meaning:** The property of being close together
 - **Hindi:** निकटता
 - **Examples:**
-  1. The proximity of the heat source allowed it to be detected by the sensor.
-  2. It is beneficial to understand the meaning and context of 'proximity' in daily conversations.
+  1. Player immediately proved he was not in the least awed by the dramatic proximity of Palmer.
+  2. The proximity of the heat source allowed it to be detected by the sensor.
 
 ## 303: Proxy
 - **Dissection:** [proxy]
 - **Meaning:** A person authorized to act for another
 - **Hindi:** प्रतिनिधि
 - **Examples:**
-  1. A proxy indicator.
-  2. It is beneficial to understand the meaning and context of 'proxy' in daily conversations.
+  1. For this was to be a `` proxy sitting ''.
+  2. In this case the proxy sitter will know only the name of the communicator, nothing else.
 
 ## 304: Prude
 - **Dissection:** [prude]
@@ -2483,16 +2483,16 @@
 - **Meaning:** A physician who specializes in psychiatry
 - **Hindi:** मनोचिकित्सक
 - **Examples:**
-  1. Learning the word 'psychiatrist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'psychiatrist' in daily conversations.
+  1. But I do and my psychiatrist does, too.
+  2. As an Air Force psychiatrist put it: `` You can't have dry runs on this one ''.
 
 ## 312: Psychopathic
 - **Dissection:** [psy-cho-path-ic]
 - **Meaning:** Suffering from an undiagnosed mental disorder
 - **Hindi:** मनोरोगी
 - **Examples:**
-  1. A psychopathic killer is on the loose.
-  2. It is beneficial to understand the meaning and context of 'psychopathic' in daily conversations.
+  1. Out of the entire cast I alone received good notices for my portrayal of a psychopathic killer.
+  2. Tommy had been assigned to the psychopathic ward.
 
 ## 313: Psychosis
 - **Dissection:** [psy-chos-is]
@@ -2531,8 +2531,8 @@
 - **Meaning:** Powerful
 - **Hindi:** पुइसैंट
 - **Examples:**
-  1. Learning the word 'puissant' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'puissant' in daily conversations.
+  1. Thus, the emperor could draw on sources not available to those with less puissant ancestors.
+  2. How comes all this, if there be not something puissant in whaling?
 
 ## 318: Pulchritude
 - **Dissection:** [pulch-ritude]
@@ -2547,8 +2547,8 @@
 - **Meaning:** Relating to or affecting the lungs
 - **Hindi:** फेफड़े
 - **Examples:**
-  1. Pulmonary disease.
-  2. It is beneficial to understand the meaning and context of 'pulmonary' in daily conversations.
+  1. The bronchus and pulmonary artery in this lung type maintain a close relationship throughout.
+  2. This was accounted for primarily by the presence of a bronchial artery closely following the pulmonary artery.
 
 ## 320: Pulsate
 - **Dissection:** [pulsate]
@@ -2619,8 +2619,8 @@
 - **Meaning:** A temporary condition of torment or suffering
 - **Hindi:** यातना
 - **Examples:**
-  1. A purgatory of drug abuse.
-  2. It is beneficial to understand the meaning and context of 'purgatory' in daily conversations.
+  1. Modern roosters have lost the art of crowing restless spirits back to Purgatory.
+  2. A purgatory of drug abuse.
 
 ## 329: Purge
 - **Dissection:** [purge]

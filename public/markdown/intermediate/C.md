@@ -3,8 +3,8 @@
 - **Meaning:** A compartment at the front of a motor vehicle or locomotive where driver sits
 - **Hindi:** कैब
 - **Examples:**
-  1. A cab ride.
-  2. It is beneficial to understand the meaning and context of 'cab' in daily conversations.
+  1. The driver told police he followed as the Negro man got out of the cab with his money.
+  2. He could be lavishly generous with friends, cab drivers and bellboys, but with dealers he was tough.
 
 ## 2: Cabin
 - **Dissection:** [cab-in]
@@ -19,8 +19,8 @@
 - **Meaning:** A piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display
 - **Hindi:** अलमारी
 - **Examples:**
-  1. Learning the word 'cabinet' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cabinet' in daily conversations.
+  1. The United States hopes that any future Lao Cabinet would not become Communist dominated.
+  2. The gap between the bookshelf and the record cabinet grows smaller with each new recording catalogue.
 
 ## 4: Cable
 - **Dissection:** [cable]
@@ -35,16 +35,16 @@
 - **Meaning:** A small restaurant where drinks and snacks are sold
 - **Hindi:** कैफ़े
 - **Examples:**
-  1. 1982, Joni Mitchell, Chinese Café / Unchained Melody (song).
-  2. It is beneficial to understand the meaning and context of 'cafe' in daily conversations.
+  1. Cafe Society opens formally this afternoon under its new ownership.
+  2. Use the terraces of the Capitol for a sidewalk cafe??
 
 ## 6: Cafeteria
 - **Dissection:** [cafet-er-ia]
 - **Meaning:** A restaurant where you serve yourself and pay a cashier
 - **Hindi:** काफ़ीहाउस
 - **Examples:**
-  1. Learning the word 'cafeteria' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cafeteria' in daily conversations.
+  1. Mr. Kililngsworth was a foreman with S and W Cafeteria.
+  2. Once four Tibetan monks, in their saffron robes, filed through the cafeteria line.
 
 ## 7: Calculate
 - **Dissection:** [cal-cu-late]
@@ -67,8 +67,8 @@
 - **Meaning:** Young of domestic cattle
 - **Hindi:** बछड़ा
 - **Examples:**
-  1. The Calf of Man.
-  2. It is beneficial to understand the meaning and context of 'calf' in daily conversations.
+  1. She had raised a calf, grown it beef-fat.
+  2. They were sitting on their heels, rider-fashion, over by the still empty calf wagon.
 
 ## 10: Campus
 - **Dissection:** [cam-pus]
@@ -99,16 +99,16 @@
 - **Meaning:** Stick of wax with a wick in the middle
 - **Hindi:** मोमबत्ती
 - **Examples:**
-  1. Learning the word 'candle' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'candle' in daily conversations.
+  1. Brief Candle ( Harlan-Marcia ) has gone in 2:37;;.
+  2. Hamilton was bent over his desk, drafting a legal paper by the light of a candle.
 
 ## 14: Candy
 - **Dissection:** [candy]
 - **Meaning:** A rich sweet made of flavored sugar and often combined with fruit or nuts
 - **Hindi:** कैंडी
 - **Examples:**
-  1. Fruits preserved in sugar candy after a time.
-  2. It is beneficial to understand the meaning and context of 'candy' in daily conversations.
+  1. Give generously when you buy candy today for the Brain Research Foundation.
+  2. It was not candy wrapping.
 
 ## 15: Canvas
 - **Dissection:** [can-vas]
@@ -123,8 +123,8 @@
 - **Meaning:** A ravine formed by a river in an area with little rainfall
 - **Hindi:** घाटी
 - **Examples:**
-  1. Learning the word 'canyon' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'canyon' in daily conversations.
+  1. In the Utah area are Zion National Park and Bryce Canyon National Park.
+  2. `` I'll shore be needing ye both on the pull out o' the canyon ''.
 
 ## 17: Cap
 - **Dissection:** [cap]
@@ -171,8 +171,8 @@
 - **Meaning:** A small container
 - **Hindi:** कैप्सूल
 - **Examples:**
-  1. Capsulize the news.
-  2. It is beneficial to understand the meaning and context of 'capsule' in daily conversations.
+  1. A capsule view of proposed plans includes:.
+  2. This original capsule contained a battery and a transistor oscillator and was about 1 cm. in diameter.
 
 ## 23: Captain
 - **Dissection:** [cap-tain]
@@ -211,16 +211,16 @@
 - **Meaning:** Goods carried by a large vehicle
 - **Hindi:** माल
 - **Examples:**
-  1. Learning the word 'cargo' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cargo' in daily conversations.
+  1. So the vile cargo went into the hole of the John Harvey.
+  2. They could be sent to U.S. ports for rulings whether cargo should be confiscated.
 
 ## 28: Carpenter
 - **Dissection:** [car-penter]
 - **Meaning:** A woodworker who makes or repairs wooden objects
 - **Hindi:** बढ़ई
 - **Examples:**
-  1. Learning the word 'carpenter' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'carpenter' in daily conversations.
+  1. Philip Staffe, the ship's carpenter, was a good worker, but perversely independent.
+  2. Up spoke carpenter Staffe, who said he wouldn't give ten pounds to be home.
 
 ## 29: Carriage
 - **Dissection:** [car-riage]
@@ -283,8 +283,8 @@
 - **Meaning:** A large and stately mansion
 - **Hindi:** किला
 - **Examples:**
-  1. Learning the word 'castle' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'castle' in daily conversations.
+  1. Nevertheless David took the castle of Zion, which is the city of David.
+  2. 11: 7 And David dwelt in the castle; therefore they called it the city of David.
 
 ## 37: Casual
 - **Dissection:** [cas-u-al]
@@ -299,8 +299,8 @@
 - **Meaning:** Someone injured or killed or captured or missing in a military engagement
 - **Hindi:** दुर्घटना
 - **Examples:**
-  1. Learning the word 'casualty' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'casualty' in daily conversations.
+  1. Travelers Indemnity Co. and the Continental Casualty Co..
+  2. Petrosurance specializes in property and casualty insurance for the oil industry.
 
 ## 39: Catalog
 - **Dissection:** [cata-log]
@@ -363,8 +363,8 @@
 - **Meaning:** A sizeable hole (usually in the ground)
 - **Hindi:** गुहा
 - **Examples:**
-  1. They dug a pit to bury the body.
-  2. It is beneficial to understand the meaning and context of 'cavity' in daily conversations.
+  1. When mold has more than one design cavity, make individual paper patterns.
+  2. Place the cut clay piece loosely over the carved cavity design side of wooden mold.
 
 ## 47: Cease
 - **Dissection:** [cease]
@@ -403,8 +403,8 @@
 - **Meaning:** The lowermost portion of a structure partly or wholly below ground level; often used for storage
 - **Hindi:** तहख़ाना
 - **Examples:**
-  1. Learning the word 'cellar' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cellar' in daily conversations.
+  1. A billion peas would fill a small house from cellar to attic;;.
+  2. Most come from the root cellar or from the freezer.
 
 ## 52: Cement
 - **Dissection:** [ce-ment]
@@ -419,16 +419,16 @@
 - **Meaning:** A tract of land used for burials
 - **Hindi:** कब्रिस्तान
 - **Examples:**
-  1. Learning the word 'cemetery' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cemetery' in daily conversations.
+  1. If Nikita buys a small plot in some modest rural cemetery, everyone will understand.
+  2. The burial was out in Riverside Cemetery.
 
 ## 54: Census
 - **Dissection:** [census]
 - **Meaning:** A periodic count of the population
 - **Hindi:** जनगणना
 - **Examples:**
-  1. They censused the deer in the forest.
-  2. It is beneficial to understand the meaning and context of 'census' in daily conversations.
+  1. The 1960 census underscored the explosive character of the population growth.
+  2. It provides a frame for the sampling census.
 
 ## 55: Ceremony
 - **Dissection:** [ce-re-mony]
@@ -451,7 +451,7 @@
 - **Meaning:** A soft whitish calcite
 - **Hindi:** चाक
 - **Examples:**
-  1. Learning the word 'chalk' can help improve your communication and writing skills.
+  1. Draw each outline in a different-color chalk, one on top of the other.
   2. It is beneficial to understand the meaning and context of 'chalk' in daily conversations.
 
 ## 58: Chamber
@@ -491,8 +491,8 @@
 - **Meaning:** A state of extreme confusion and disorder
 - **Hindi:** अव्यवस्था
 - **Examples:**
-  1. After the earthquake, the local hospital was in chaos.
-  2. It is beneficial to understand the meaning and context of 'chaos' in daily conversations.
+  1. However, the chaos on my desk prevented my being in the U.N. gallery.
+  2. How, I asked, could chaos be admitted to chaos??
 
 ## 63: Chap
 - **Dissection:** [chap]
@@ -523,16 +523,16 @@
 - **Meaning:** A carbonaceous material obtained by heating wood or other organic matter in the absence of air
 - **Hindi:** लकड़ी का कोयला
 - **Examples:**
-  1. Learning the word 'charcoal' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'charcoal' in daily conversations.
+  1. She was like charcoal, he thought -- dark, opaque, explosive.
+  2. Her thick hair was the color and texture of charcoal.
 
 ## 67: Charity
 - **Dissection:** [char-ity]
 - **Meaning:** A foundation created to promote the public good (not for assistance to any particular individuals)
 - **Hindi:** दान
 - **Examples:**
-  1. Learning the word 'charity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'charity' in daily conversations.
+  1. Charity as she knew it was complex and reciprocal, and almost every roof she saw signified charity.
+  2. It was thought wiser to keep them segregated from the patients in the regular charity ward.
 
 ## 68: Charm
 - **Dissection:** [charm]
@@ -595,8 +595,8 @@
 - **Meaning:** A professional cook
 - **Hindi:** बावर्ची
 - **Examples:**
-  1. Kiss the chef. (slogan on aprons used by home barbecue enthusiasts).
-  2. It is beneficial to understand the meaning and context of 'chef' in daily conversations.
+  1. The omelet named for Ernest Arbogast, the Palace's chef, was even more in demand.
+  2. The simplest grill ( pan type ) or inexpensive hibachi can make you a chef.
 
 ## 76: Chemical
 - **Dissection:** [chem-ic-al]
@@ -611,7 +611,7 @@
 - **Meaning:** A scientist who specializes in chemistry
 - **Hindi:** रसायनज्ञ
 - **Examples:**
-  1. Learning the word 'chemist' can help improve your communication and writing skills.
+  1. The bid is Woolworth' s second attempt in recent months to acquire a retail chemist chain.
   2. It is beneficial to understand the meaning and context of 'chemist' in daily conversations.
 
 ## 78: Chemistry
@@ -627,24 +627,24 @@
 - **Meaning:** Be fond of; be attached to
 - **Hindi:** अच्छा लगना
 - **Examples:**
-  1. I cherish your friendship.
-  2. It is beneficial to understand the meaning and context of 'cherish' in daily conversations.
+  1. Then cherish pity, lest you drive an angel from your door.
+  2. This is the reason why most dyspeptic religionists cherish such melancholy notions about their hereafters.
 
 ## 80: Cherry
 - **Dissection:** [cherry]
 - **Meaning:** Wood of any of various cherry trees especially the black cherry
 - **Hindi:** चेरी
 - **Examples:**
-  1. Learning the word 'cherry' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cherry' in daily conversations.
+  1. Sixty-seven living units are being added to the 165-unit Harbor View Apartments in the Cherry Hill section.
+  2. Prince Cherry grieved for his father, and often lay awake at night, thinking of him.
 
 ## 81: Chess
 - **Dissection:** [chess]
 - **Meaning:** Weedy annual native to Europe but widely distributed as a weed especially in wheat
 - **Hindi:** शतरंज
 - **Examples:**
-  1. Learning the word 'chess' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'chess' in daily conversations.
+  1. She played chess with him by postcard.
+  2. `` Just say he likes swimming, tennis, chess and music ''.
 
 ## 82: Chew
 - **Dissection:** [chew]
@@ -675,16 +675,16 @@
 - **Meaning:** A vertical flue that provides a path through which smoke from a fire is carried away through the wall or roof of a building
 - **Hindi:** चिमनी
 - **Examples:**
-  1. Learning the word 'chimney' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'chimney' in daily conversations.
+  1. They are very small, and in the form of haystacks, without either chimney or windows.
+  2. The chimney of the hut across from him was surmounted by a beef barrel with ends knocked out.
 
 ## 86: Chin
 - **Dissection:** [chin]
 - **Meaning:** The protruding part of the lower jaw
 - **Hindi:** ठोड़ी
 - **Examples:**
-  1. Learning the word 'chin' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'chin' in daily conversations.
+  1. Those children who can chin themselves should be told to do one chin-up each time they pass under it.
+  2. He places the hands on either side of the head, keeping the chin down on the chest.
 
 ## 87: Chip
 - **Dissection:** [chip]
@@ -731,8 +731,8 @@
 - **Meaning:** A religious person who believes Jesus is the Christ and who is a member of a Christian denomination
 - **Hindi:** ईसाई
 - **Examples:**
-  1. Christian rites.
-  2. It is beneficial to understand the meaning and context of 'christian' in daily conversations.
+  1. At that time the second half of the Christian Youth Crusade against Communism will be staged.
+  2. Equally significant, Pope John has said that Catholics themselves bear some responsibility for Christian disunity.
 
 ## 93: Chronic
 - **Dissection:** [chron-ic]
@@ -755,16 +755,16 @@
 - **Meaning:** A roll of tobacco for smoking
 - **Hindi:** सिगार
 - **Examples:**
-  1. Learning the word 'cigar' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cigar' in daily conversations.
+  1. A man, lighting a match for his cigar, paused until the flame burned his fingers.
+  2. `` Or maybe you just don't feel like a cigar ''??
 
 ## 96: Cigarette
 - **Dissection:** [ci-gar-ette]
 - **Meaning:** Finely ground tobacco wrapped in paper; for smoking
 - **Hindi:** सिगरेट
 - **Examples:**
-  1. Could someone cigarette me?
-  2. It is beneficial to understand the meaning and context of 'cigarette' in daily conversations.
+  1. Most of the fingers on his left hand were burned off when he fell asleep with a cigarette.
+  2. A cigarette would taste particularly good.
 
 ## 97: Cinema
 - **Dissection:** [cinema]
@@ -915,8 +915,8 @@
 - **Meaning:** (grammar) an expression including a subject and predicate but not constituting a complete sentence
 - **Hindi:** धारा
 - **Examples:**
-  1. Learning the word 'clause' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'clause' in daily conversations.
+  1. Does your policy have a lay-up clause??
+  2. Accordingly, under clause ( 1 ) of the Secretary's Regulation, we suspended referrals to the employer.
 
 ## 116: Claw
 - **Dissection:** [claw]
@@ -939,8 +939,8 @@
 - **Meaning:** An employee who performs clerical work (e.g., keeps records or accounts)
 - **Hindi:** लिपिक
 - **Examples:**
-  1. The law school graduate clerked for the supreme court judge for the summer.
-  2. It is beneficial to understand the meaning and context of 'clerk' in daily conversations.
+  1. There at the river's edge waited one Henry Greene, whom Hudson listed as a `` clerk ''.
+  2. `` You must have some security '', said a young clerk.
 
 ## 119: Click
 - **Dissection:** [click]
@@ -955,8 +955,8 @@
 - **Meaning:** A person who seeks the advice of a lawyer
 - **Hindi:** ग्राहक
 - **Examples:**
-  1. Learning the word 'client' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'client' in daily conversations.
+  1. `` The statements may be highly prejudicial to my client '', Bellows told the court.
+  2. As a free-lance investigator, the fictional detective is responsible to no one but himself and his client.
 
 ## 121: Cliff
 - **Dissection:** [cliff]
@@ -995,7 +995,7 @@
 - **Meaning:** A medical establishment run by a group of medical specialists
 - **Hindi:** क्लिनिक
 - **Examples:**
-  1. Learning the word 'clinic' can help improve your communication and writing skills.
+  1. Hospital outpatient clinic diagnostic service for all costs in excess of $20 a patient.
   2. It is beneficial to understand the meaning and context of 'clinic' in daily conversations.
 
 ## 126: Clip
@@ -1019,8 +1019,8 @@
 - **Meaning:** A small room (or recess) or cabinet used for storage space
 - **Hindi:** अलमारी
 - **Examples:**
-  1. The ambassador has been closeted with the prime minister all afternoon. We're all worried what will be announced when they exit.
-  2. It is beneficial to understand the meaning and context of 'closet' in daily conversations.
+  1. There is no better way to waste time than trying to install a furnace in a finished Af closet.
+  2. Consequently, one's wine closet or cellar should be away from machines or electrically driven furnaces.
 
 ## 129: Clue
 - **Dissection:** [clue]
@@ -1171,8 +1171,8 @@
 - **Meaning:** Light and humorous drama with a happy ending
 - **Hindi:** हास्य
 - **Examples:**
-  1. Why would you be watching comedy when there are kids starving right now?
-  2. It is beneficial to understand the meaning and context of 'comedy' in daily conversations.
+  1. In the comedy division, the Kings simply augment talent and imagination with a few props.
+  2. `` Where The Boys Are '' also has a juvenile bounce that makes for a refreshing venture in comedy.
 
 ## 148: Comic
 - **Dissection:** [com-ic]
@@ -1211,8 +1211,8 @@
 - **Meaning:** Transactions (sales and purchases) having the objective of supplying commodities (goods and services)
 - **Hindi:** व्यापार
 - **Examples:**
-  1. Learning the word 'commerce' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'commerce' in daily conversations.
+  1. ) The court first ruled that the strike constituted only an indirect interference with commerce.
+  2. Commerce Secretary Hodges seems to have been cast in the role of pacemaker for official Washington's economic forecasters.
 
 ## 153: Commission
 - **Dissection:** [com-mis-sion]
@@ -1243,8 +1243,8 @@
 - **Meaning:** A special group delegated to consider some matter;  - Milton Berle
 - **Hindi:** समिति
 - **Examples:**
-  1. A committee is a group that keeps minutes and loses hours.
-  2. It is beneficial to understand the meaning and context of 'committee' in daily conversations.
+  1. Under committee rules, it went automatically to a subcommittee for one week.
+  2. Other recommendations made by the committee are:.
 
 ## 157: Commodity
 - **Dissection:** [com-mod-ity]
@@ -1339,8 +1339,8 @@
 - **Meaning:** Compete for something; engage in a contest; measure oneself against others
 - **Hindi:** पूरा
 - **Examples:**
-  1. Learning the word 'compete' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'compete' in daily conversations.
+  1. The anti-trust laws inform a business that it must compete, but along completely undefined lines;;.
+  2. As things stand now, the local and the ecumenical tend to compete with each other.
 
 ## 169: Competent
 - **Dissection:** [com-pet-ent]
@@ -1523,8 +1523,8 @@
 - **Meaning:** An abstract or general idea inferred or derived from specific instances
 - **Hindi:** अवधारणा
 - **Examples:**
-  1. Learning the word 'concept' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'concept' in daily conversations.
+  1. The entire concept of cerebral imagery as the physical basis of a mental image can find no logical support.
+  2. The concept of good nutrition really began with the garden.
 
 ## 192: Concert
 - **Dissection:** [con-cert]
@@ -1547,8 +1547,8 @@
 - **Meaning:** Expressing much in few words
 - **Hindi:** संक्षिप्त
 - **Examples:**
-  1. A concise explanation.
-  2. It is beneficial to understand the meaning and context of 'concise' in daily conversations.
+  1. I WILL be more collected -- more concise.
+  2. A concise explanation.
 
 ## 195: Conclude
 - **Dissection:** [con-clude]
@@ -1651,8 +1651,8 @@
 - **Meaning:** Be similar, be in line with
 - **Hindi:** अनुरूप
 - **Examples:**
-  1. We must adjust to the bad economic situation.
-  2. It is beneficial to understand the meaning and context of 'conform' in daily conversations.
+  1. We do well to conform this way with all that God requires.
+  2. But subconsciously you've wanted him to conform to your mold.
 
 ## 208: Confound
 - **Dissection:** [con-found]
@@ -1691,8 +1691,8 @@
 - **Meaning:** The temporal property of two things happening at the same time
 - **Hindi:** संयोजक
 - **Examples:**
-  1. The interval determining the coincidence gate is adjustable.
-  2. It is beneficial to understand the meaning and context of 'conjunction' in daily conversations.
+  1. The data is now interpreted in conjunction with a price chart, usually of a popular stock average.
+  2. The plan is being developed in conjunction with the ECGD and the Bank of England.
 
 ## 213: Connect
 - **Dissection:** [con-nect]
@@ -1803,8 +1803,8 @@
 - **Meaning:** A small table fixed to a wall or designed to stand against a wall
 - **Hindi:** सांत्वना देना
 - **Examples:**
-  1. The bust of Napoleon stood on a console.
-  2. It is beneficial to understand the meaning and context of 'console' in daily conversations.
+  1. Then perhaps he may kill me to console his feelings.
+  2. The bust of Napoleon stood on a console.
 
 ## 227: Consolidate
 - **Dissection:** [con-sol-id-ate]
@@ -1827,8 +1827,8 @@
 - **Meaning:** A secret agreement between two or more people to perform an unlawful act
 - **Hindi:** षड़यंत्र
 - **Examples:**
-  1. Learning the word 'conspiracy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'conspiracy' in daily conversations.
+  1. Engaging in such a conspiracy was an act of mercy by the giants.
+  2. A secret conspiracy of manufacturers is hardly such a vehicle.
 
 ## 230: Constant
 - **Dissection:** [con-stant]
@@ -1955,8 +1955,8 @@
 - **Meaning:** Occurring without interruption; chiefly restricted to what recurs regularly or frequently in a prolonged and closely spaced series
 - **Hindi:** निरंतर
 - **Examples:**
-  1. The continual banging of the shutters.
-  2. It is beneficial to understand the meaning and context of 'continual' in daily conversations.
+  1. But at length she was secured by the exertions of Elinor, who greatly disapproved such continual seclusion.
+  2. 27: 15 A continual dropping in a very rainy day and a contentious woman are alike.
 
 ## 246: Contract
 - **Dissection:** [con-tract]
@@ -2011,8 +2011,8 @@
 - **Meaning:** A contentious speech act; a dispute where there is strong disagreement
 - **Hindi:** विवाद
 - **Examples:**
-  1. They were involved in a violent argument.
-  2. It is beneficial to understand the meaning and context of 'controversy' in daily conversations.
+  1. It was marked by controversy, anonymous midnight phone calls and veiled threats of violence.
+  2. Its origin lies in the Selden patent controversy and its aftermath.
 
 ## 253: Convenience
 - **Dissection:** [con-veni-ence]
@@ -2091,8 +2091,8 @@
 - **Meaning:** A ductile malleable reddish-brown corrosion-resistant diamagnetic metallic element; occurs in various minerals but is the only metal that occurs abundantly in large masses; used as an electrical and thermal conductor
 - **Hindi:** ताँबा
 - **Examples:**
-  1. Learning the word 'copper' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'copper' in daily conversations.
+  1. Get copper or earthenware mugs that keep beer chilled or soup hot.
+  2. The cathode consisted of a 1/4'' '' diameter thoriated tungsten rod attached to a water cooled copper tube.
 
 ## 263: Copyright
 - **Dissection:** [copy-right]
@@ -2171,8 +2171,8 @@
 - **Meaning:** An enclosed passageway; rooms usually open onto it
 - **Hindi:** गलियारे
 - **Examples:**
-  1. Learning the word 'corridor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'corridor' in daily conversations.
+  1. Throughout history, Poland has been the corridor through which the enemy has passed into Russia.
+  2. Twice in the last thirty years our enemies, the Germans, have passed through this corridor.
 
 ## 273: Corrupt
 - **Dissection:** [cor-rupt]
@@ -2211,8 +2211,8 @@
 - **Meaning:** A small house with a single story
 - **Hindi:** झोपड़ी
 - **Examples:**
-  1. Most cottages in the area were larger and more elaborate than my home.
-  2. It is beneficial to understand the meaning and context of 'cottage' in daily conversations.
+  1. The little cottage was bursting with people of all ages.
+  2. You can build this vacation cottage yourself.
 
 ## 278: Couch
 - **Dissection:** [couch]
@@ -2259,8 +2259,8 @@
 - **Meaning:** A person or thing having the same function or characteristics as another
 - **Hindi:** समकक्ष
 - **Examples:**
-  1. Those brass knobs and their hollow counterparts interlock perfectly.
-  2. It is beneficial to understand the meaning and context of 'counterpart' in daily conversations.
+  1. The mythological private eye differs from his counterpart in real life in two essential ways.
+  2. In addition, proposals for fixed installations should be carefully weighed against a counterpart mobile system.
 
 ## 284: County
 - **Dissection:** [county]
@@ -2275,8 +2275,8 @@
 - **Meaning:** A person who shows fear or timidity
 - **Hindi:** कायर
 - **Examples:**
-  1. Learning the word 'coward' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'coward' in daily conversations.
+  1. Among stage performances was a starring role in `` Golden Arrow '' directed by Noel Coward.
+  2. He had come because he could not live out his life feeling that he had been a coward.
 
 ## 286: Crack
 - **Dissection:** [crack]
@@ -2299,8 +2299,8 @@
 - **Meaning:** United States writer (1871-1900)
 - **Hindi:** क्रेन
 - **Examples:**
-  1. The women craned their necks to see the President drive by.
-  2. It is beneficial to understand the meaning and context of 'crane' in daily conversations.
+  1. Dr. George W. Crane, a medical columnist, thinks it would.
+  2. Chicago Heater will be intergrated with Crane' s Cochrane Environment Systems division, the company said.
 
 ## 289: Crawl
 - **Dissection:** [crawl]
@@ -2331,8 +2331,8 @@
 - **Meaning:** Leaping insect; male makes chirping noises by rubbing the forewings together
 - **Hindi:** क्रिकेट
 - **Examples:**
-  1. That player's foul wasn't cricket!
-  2. It is beneficial to understand the meaning and context of 'cricket' in daily conversations.
+  1. Cricket took eight ships and went south across the Straits and along the north coast of Mindanao to Cagayan.
+  2. The rest were playing at cricket.
 
 ## 293: Criminal
 - **Dissection:** [crim-in-al]
@@ -2371,8 +2371,8 @@
 - **Meaning:** A person who is professionally engaged in the analysis and interpretation of works of art
 - **Hindi:** समीक्षक
 - **Examples:**
-  1. Bob liked most of my presentation, but offered three minor critiques.
-  2. It is beneficial to understand the meaning and context of 'critic' in daily conversations.
+  1. One influential French critic remarked: `` Pity for Arnolphe comes with age ''.
+  2. Nor need the critic be captious.
 
 ## 298: Criticize
 - **Dissection:** [cri-ti-cize]
@@ -2443,8 +2443,8 @@
 - **Meaning:** A solid formed by the solidification of a chemical and having a highly regular atomic structure
 - **Hindi:** क्रिस्टल
 - **Examples:**
-  1. "Do I make myself clear?" / "Crystal.".
-  2. It is beneficial to understand the meaning and context of 'crystal' in daily conversations.
+  1. Douglass has studied the crystal structure of Af by x-ray diffraction.
+  2. Part 2 of Volume 1, and Parts 2 and 3 of Volume 2, contain the crystal descriptions.
 
 ## 307: Cube
 - **Dissection:** [cube]
@@ -2459,7 +2459,7 @@
 - **Meaning:** A melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit
 - **Hindi:** खीरा
 - **Examples:**
-  1. Learning the word 'cucumber' can help improve your communication and writing skills.
+  1. ' What a number of cucumber- frames there must be!'.
   2. It is beneficial to understand the meaning and context of 'cucumber' in daily conversations.
 
 ## 309: Cue
@@ -2467,7 +2467,7 @@
 - **Meaning:** An actor's line that immediately precedes and serves as a reminder for some action or speech
 - **Hindi:** संकेत
 - **Examples:**
-  1. Learning the word 'cue' can help improve your communication and writing skills.
+  1. What would he doe, Had he the Motiue and the Cue for passion That I haue?
   2. It is beneficial to understand the meaning and context of 'cue' in daily conversations.
 
 ## 310: Cultivate
@@ -2491,8 +2491,8 @@
 - **Meaning:** A small room (or recess) or cabinet used for storage space
 - **Hindi:** अलमारी
 - **Examples:**
-  1. Put the cups back into the cupboard.
-  2. It is beneficial to understand the meaning and context of 'cupboard' in daily conversations.
+  1. So she fishes around in the cupboard and hauls out a chocolate cake.
+  2. It says the paper is in the cupboard on the right of the Secretary' s desk.
 
 ## 313: Cure
 - **Dissection:** [cure]
@@ -2507,8 +2507,8 @@
 - **Meaning:** A state in which you want to learn more about something
 - **Hindi:** जिज्ञासा
 - **Examples:**
-  1. He put the strangely shaped rock in his curiosity cabinet.
-  2. It is beneficial to understand the meaning and context of 'curiosity' in daily conversations.
+  1. My wish to meet Samuel Beckett had been prompted by simple curiosity and interest in his work.
+  2. Avowed atheists or freethinkers are so rare as to be a curiosity.
 
 ## 315: Curious
 - **Dissection:** [curi-ous]
@@ -2539,8 +2539,8 @@
 - **Meaning:** An integrated course of academic studies
 - **Hindi:** पाठ्यक्रम
 - **Examples:**
-  1. He was admitted to a new program at the university.
-  2. It is beneficial to understand the meaning and context of 'curriculum' in daily conversations.
+  1. We set up the Lloyd's Neck school, worked out its curriculum, and taught there.
+  2. Few will quarrel with the aim of the schools or with the wording of their curriculum.
 
 ## 319: Curse
 - **Dissection:** [curse]
@@ -2571,14 +2571,14 @@
 - **Meaning:** A solid bounded by a cylindrical surface and two parallel planes (the bases)
 - **Hindi:** सिलेंडर
 - **Examples:**
-  1. When the two-dimensional curve is a circle, the cylinder is called a circular cylinder. When the axis is perpendicular to the plane of the curve, the cylinder is called a right cylinder. In non-mathematical usage, both right and circular are usually implied.
-  2. It is beneficial to understand the meaning and context of 'cylinder' in daily conversations.
+  1. These engines have a cylinder diameter of 3-7/8 inches and a stroke length of 3 inches.
+  2. Cylinder volume can be determined mathematically but combustion chamber volume must be measured with a liquid.
 
 ## 323: Cynical
 - **Dissection:** [cyn-ic-al]
 - **Meaning:** Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others
 - **Hindi:** निंदक
 - **Examples:**
-  1. Learning the word 'cynical' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cynical' in daily conversations.
+  1. I take this to mean that the intelligent -- and therefore necessarily cynical??
+  2. Youth may be, and often is, skeptical, cynical or despairing;;.
 
