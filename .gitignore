@@ -27,3 +27,5 @@ devenv.local.yaml
 
 # Log of words with placeholder examples
 placeholder_words.log
+fixed_single_placeholders.log
+

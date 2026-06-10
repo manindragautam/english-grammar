@@ -35,8 +35,8 @@
 - **Meaning:** A manner of speaking that is natural to native speakers of a language
 - **Hindi:** मुहावरा
 - **Examples:**
-  1. The immigrants spoke an odd dialect of English.
-  2. He has a strong German accent.
+  1. The teacher explained that 'raining cats and dogs' is a common English idiom.
+  2. It can be difficult to translate an idiom directly from one language to another.
 
 ## 6: Idiot
 - **Dissection:** [idi-ot]
@@ -131,8 +131,8 @@
 - **Meaning:** A person who comes to a country where they were not born in order to settle there
 - **Hindi:** आप्रवासी
 - **Examples:**
-  1. Learning the word 'immigrant' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'immigrant' in daily conversations.
+  1. The young immigrant worked hard to build a successful restaurant in the new country.
+  2. The city has a diverse population, including many immigrants from around the world.
 
 ## 18: Immune
 - **Dissection:** [im-mune]
@@ -771,8 +771,8 @@
 - **Meaning:** Belonging to a thing by its very nature; - John Dewey
 - **Hindi:** आंतरिक
 - **Examples:**
-  1. Form was treated as something intrinsic, as the very essence of the thing.
-  2. Intrinsic muscles.
+  1. The old letter had little financial value, but it carried great intrinsic value to her.
+  2. A clean environment is intrinsic to the health and well-being of the community.
 
 ## 98: Invade
 - **Dissection:** [in-vade]

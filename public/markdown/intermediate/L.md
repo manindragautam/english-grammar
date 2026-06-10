@@ -156,7 +156,7 @@
 - **Hindi:** शौचालय
 - **Examples:**
   1. He ran some water in the basin and splashed it on his face.
-  2. It is beneficial to understand the meaning and context of 'lavatory' in daily conversations.
+  2. A much larger room, adjacent to the lavatory, served as a passageway to and from the skimpy toilet.
 
 ## 21: Lawn
 - **Dissection:** [lawn]
@@ -260,7 +260,7 @@
 - **Hindi:** तेंदुआ
 - **Examples:**
   1. 13: 23 Can the Ethiopian change his skin, or the leopard his spots?
-  2. It is beneficial to understand the meaning and context of 'leopard' in daily conversations.
+  2. The leopard (Panthera pardus) is one of the five extant cat species in the genus Panthera.
 
 ## 34: Lessen
 - **Dissection:** [lessen]
@@ -347,8 +347,8 @@
 - **Meaning:** A sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals
 - **Hindi:** चूना पत्थर
 - **Examples:**
-  1. Learning the word 'limestone' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'limestone' in daily conversations.
+  1. The ancient pyramid was constructed using massive blocks of durable white limestone.
+  2. Water flowing through the soft limestone layer eventually created a beautiful cave.
 
 ## 45: Limp
 - **Dissection:** [limp]
@@ -404,7 +404,7 @@
 - **Hindi:** लीटर
 - **Examples:**
   1. You should be able to fill four cups with one litre of water.
-  2. It is beneficial to understand the meaning and context of 'liter' in daily conversations.
+  2. The litre (Commonwealth spelling) or liter (American spelling) (SI symbols L and l, other symbol used: ℓ) is a metric unit of volume.
 
 ## 52: Literal
 - **Dissection:** [lit-er-al]
@@ -507,8 +507,8 @@
 - **Meaning:** A company emblem or device
 - **Hindi:** प्रतीक चिन्ह
 - **Examples:**
-  1. Learning the word 'logo' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'logo' in daily conversations.
+  1. The designer created a simple, modern logo for the new coffee shop.
+  2. You can easily recognize the brand by its famous blue and silver logo.
 
 ## 65: Lonely
 - **Dissection:** [lonely]
@@ -539,8 +539,8 @@
 - **Meaning:** A large low horse-drawn wagon without sides
 - **Hindi:** लॉरी
 - **Examples:**
-  1. Learning the word 'lorry' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'lorry' in daily conversations.
+  1. A large lorry carrying construction materials was parked outside the building site.
+  2. The delivery driver loaded the boxes onto the back of the heavy lorry.
 
 ## 69: Lotion
 - **Dissection:** [lo-tion]
@@ -555,8 +555,8 @@
 - **Meaning:** Something that is regarded as a chance event
 - **Hindi:** लॉटरी
 - **Examples:**
-  1. The election was just a lottery to them.
-  2. It is beneficial to understand the meaning and context of 'lottery' in daily conversations.
+  1. She bought a ticket every week, hoping she would eventually win the state lottery.
+  2. The proceeds from the local lottery were used to fund public school repairs.
 
 ## 71: Lounge
 - **Dissection:** [lounge]

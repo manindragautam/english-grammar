@@ -59,8 +59,8 @@
 - **Meaning:** Revoke formally
 - **Hindi:** अभिनिषेध करना
 - **Examples:**
-  1. Learning the word 'abrogate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'abrogate' in daily conversations.
+  1. The supreme court ruled to abrogate the law, declaring it unconstitutional.
+  2. The new treaty will abrogate all previous agreements between the two nations.
 
 ## 9: Abscond
 - **Dissection:** [ab-scond]
@@ -147,8 +147,8 @@
 - **Meaning:** A tapering point
 - **Hindi:** कुशाग्रता
 - **Examples:**
-  1. Learning the word 'acumen' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'acumen' in daily conversations.
+  1. Her financial acumen allowed her to turn the small startup into a highly profitable enterprise.
+  2. His business acumen helped him identify promising investment opportunities before others did.
 
 ## 20: Adamant
 - **Dissection:** [adam-ant]
@@ -283,8 +283,8 @@
 - **Meaning:** The quality of unselfish concern for the welfare of others
 - **Hindi:** दूसरों का उपकार करने का सिद्धान्त
 - **Examples:**
-  1. Learning the word 'altruism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'altruism' in daily conversations.
+  1. The billionaire was praised for his altruism after donating half of his wealth to charity.
+  2. True altruism requires helping others without expecting any personal gain in return.
 
 ## 37: Amalgamate
 - **Dissection:** [am-al-gam-ate]
@@ -339,8 +339,8 @@
 - **Meaning:** Liquidate gradually
 - **Hindi:** ऋण चुकाना
 - **Examples:**
-  1. Learning the word 'amortize' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'amortize' in daily conversations.
+  1. The company decided to amortize the cost of the new machinery over a ten-year period.
+  2. We can amortize the loan by making fixed monthly payments over thirty years.
 
 ## 44: Anachronism
 - **Dissection:** [ana-chron-ism]
@@ -451,8 +451,8 @@
 - **Meaning:** A collection of selected literary passages
 - **Hindi:** संकलन
 - **Examples:**
-  1. Learning the word 'anthology' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'anthology' in daily conversations.
+  1. The publisher released a new anthology of contemporary poetry featuring various new authors.
+  2. This anthology contains some of the most famous short stories from the nineteenth century.
 
 ## 58: Antipathy
 - **Dissection:** [an-ti-pathy]
@@ -491,8 +491,8 @@
 - **Meaning:** A short pithy instructive saying
 - **Hindi:** कहावत
 - **Examples:**
-  1. Learning the word 'aphorism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'aphorism' in daily conversations.
+  1. The old teacher frequently quoted the aphorism that actions speak louder than words.
+  2. He lived his life by the simple aphorism that honesty is the best policy.
 
 ## 63: Aplomb
 - **Dissection:** [aplomb]
@@ -564,7 +564,7 @@
 - **Hindi:** पदवी
 - **Examples:**
   1. How can she find any appellation for them, deep enough in familiar vulgarity?
-  2. It is beneficial to understand the meaning and context of 'appellation' in daily conversations.
+  2. It is called slobgollion; an appellation original with the whalemen, and even so is the nature of the substance.
 
 ## 72: Apposite
 - **Dissection:** [ap-pos-ite]
@@ -828,7 +828,7 @@
 - **Hindi:** स्तम्मक
 - **Examples:**
   1. Astringent cosmetic lotions.
-  2. It is beneficial to understand the meaning and context of 'astringent' in daily conversations.
+  2. **** Vegetal and astringent- all over the place.
 
 ## 105: Astute
 - **Dissection:** [as-tute]
@@ -851,16 +851,16 @@
 - **Meaning:** (mathematics) a lack of symmetry
 - **Hindi:** विषमता
 - **Examples:**
-  1. Learning the word 'asymmetry' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'asymmetry' in daily conversations.
+  1. The architect noted the deliberate asymmetry in the building's design, which gave it a modern look.
+  2. An asymmetry in the muscles can sometimes cause posture problems if left untreated.
 
 ## 108: Atavistic
 - **Dissection:** [atav-ist-ic]
 - **Meaning:** Characteristic of an atavist
 - **Hindi:** संज्ञाहीन
 - **Examples:**
-  1. Learning the word 'atavistic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'atavistic' in daily conversations.
+  1. The thunderous roar of the waterfall triggered an atavistic fear of nature within him.
+  2. Some biologists believe that certain behaviors are atavistic remnants of our ancient ancestors.
 
 ## 109: Atone
 - **Dissection:** [atone]
@@ -947,8 +947,8 @@
 - **Meaning:** A cruel and oppressive dictator
 - **Hindi:** अनियन्त्रित शासक
 - **Examples:**
-  1. Learning the word 'autocrat' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'autocrat' in daily conversations.
+  1. The autocrat ruled the nation with absolute authority, allowing no political opposition.
+  2. The employees complained that their manager behaved like an autocrat who ignored all feedback.
 
 ## 120: Autonomous
 - **Dissection:** [autonom-ous]
@@ -987,8 +987,8 @@
 - **Meaning:** A building where birds are kept
 - **Hindi:** पक्षीशाल
 - **Examples:**
-  1. Learning the word 'aviary' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'aviary' in daily conversations.
+  1. The botanical garden features a massive aviary where visitors can walk among exotic birds.
+  2. She built a small aviary in her backyard to house her collection of rare finches.
 
 ## 125: Avow
 - **Dissection:** [avow]
@@ -1003,8 +1003,8 @@
 - **Meaning:** Resembling a uncle in kindness or indulgence
 - **Hindi:** एवनकुलर
 - **Examples:**
-  1. Learning the word 'avuncular' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'avuncular' in daily conversations.
+  1. The old professor offered some avuncular advice to the nervous student before the exam.
+  2. He had an avuncular charm that made children feel safe and comfortable in his presence.
 
 ## 127: Axiom
 - **Dissection:** [ax-iom]

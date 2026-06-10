@@ -3,8 +3,8 @@
 - **Meaning:** A socially awkward or tactless act
 - **Hindi:** चूक
 - **Examples:**
-  1. Learning the word 'gaffe' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gaffe' in daily conversations.
+  1. The politician made a serious social gaffe during the state dinner.
+  2. He regretted his embarrassing gaffe of forgetting the host's name.
 
 ## 2: Gainsay
 - **Dissection:** [gain-say]
@@ -12,7 +12,7 @@
 - **Hindi:** विरोध करना
 - **Examples:**
   1. She challenged his claims.
-  2. It is beneficial to understand the meaning and context of 'gainsay' in daily conversations.
+  2. Too facile then, thou didst not much gainsay; Nay, didst permit, approve, and fair dismiss.
 
 ## 3: Gait
 - **Dissection:** [gait]
@@ -43,8 +43,8 @@
 - **Meaning:** A large square-rigged sailing ship with three or more masts; used by the Spanish for commerce and war from the 15th to 18th centuries
 - **Hindi:** गैलियन
 - **Examples:**
-  1. Learning the word 'galleon' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'galleon' in daily conversations.
+  1. The Spanish galleon carried a valuable cargo of gold coins and silver.
+  2. The museum features a detailed model of a seventeenth-century wooden galleon.
 
 ## 7: Gambit
 - **Dissection:** [gam-bit]
@@ -155,16 +155,16 @@
 - **Meaning:** An awkward stupid person
 - **Hindi:** मूर्ख
 - **Examples:**
-  1. Learning the word 'gawk' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gawk' in daily conversations.
+  1. A crowd of curious onlookers gathered to gawk at the scene of the accident.
+  2. Do not stand and gawk at the celebrity; give him some personal space.
 
 ## 21: Genealogy
 - **Dissection:** [gene-a-logy]
 - **Meaning:** Successive generations of kin
 - **Hindi:** वंशावली
 - **Examples:**
-  1. These were their habitations, and their genealogy.
-  2. Now I do glory in my genealogy.
+  1. She spent months researching her family's genealogy, tracing her ancestors back to Italy.
+  2. He drew a detailed family tree to illustrate his complex genealogy.
 
 ## 22: Generality
 - **Dissection:** [gen-er-al-ity]
@@ -195,8 +195,8 @@
 - **Meaning:** A disposition to be friendly and approachable (easy to talk to)
 - **Hindi:** नेकी
 - **Examples:**
-  1. Learning the word 'geniality' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'geniality' in daily conversations.
+  1. The host's warmth and geniality made all the guests feel welcome.
+  2. He was liked by everyone in the office due to his constant geniality.
 
 ## 26: Genre
 - **Dissection:** [genre]
@@ -251,8 +251,8 @@
 - **Meaning:** The branch of medical science that deals with diseases and problems specific to old people
 - **Hindi:** वृद्धावस्था
 - **Examples:**
-  1. Learning the word 'gerontology' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gerontology' in daily conversations.
+  1. She studied gerontology to learn how to care for elderly patients.
+  2. The medical center opened a new department dedicated to gerontology research.
 
 ## 33: Gerrymander
 - **Dissection:** [ger-ry-mander]
@@ -275,8 +275,8 @@
 - **Meaning:** A deliberate and vigorous gesture or motion
 - **Hindi:** हाव-भाव
 - **Examples:**
-  1. Learning the word 'gesticulation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gesticulation' in daily conversations.
+  1. The speaker's dramatic gesticulations kept the audience focused on him.
+  2. We could understand her meaning despite the noise, thanks to her gesticulations.
 
 ## 36: Ghastly
 - **Dissection:** [ghastly]
@@ -291,8 +291,8 @@
 - **Meaning:** Unintelligible talking
 - **Hindi:** अस्पष्ट उच्चारण
 - **Examples:**
-  1. Learning the word 'gibberish' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gibberish' in daily conversations.
+  1. The baby babbled a stream of happy gibberish that made the mother laugh.
+  2. The instructions were poorly translated, sounding like complete gibberish.
 
 ## 38: Gibe
 - **Dissection:** [gibe]
@@ -403,8 +403,8 @@
 - **Meaning:** A person who is devoted to eating and drinking to excess
 - **Hindi:** खाऊ
 - **Examples:**
-  1. " Where, glutton, do you find money to pay for these dainties?".
-  2. Such a glutton would eat until his belly hurts.
+  1. He ate two entire pizzas by himself, earning a reputation as a greedy glutton.
+  2. She joked that her dog was a glutton who would eat any food left within reach.
 
 ## 52: Gnarled
 - **Dissection:** [gnarled]
@@ -459,8 +459,8 @@
 - **Meaning:** A person who is devoted to eating and drinking to excess
 - **Hindi:** चटोरा
 - **Examples:**
-  1. Learning the word 'gourmand' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gourmand' in daily conversations.
+  1. As a true gourmand, he took great pleasure in cooking and eating delicious, heavy meals.
+  2. The local food festival attracted thousands of gourmands from across the state.
 
 ## 59: Grandiloquent
 - **Dissection:** [grandi-loquent]
@@ -475,8 +475,8 @@
 - **Meaning:** Impressive because of unnecessary largeness or grandeur; used to show disapproval
 - **Hindi:** दिखावटी
 - **Examples:**
-  1. Learning the word 'grandiose' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'grandiose' in daily conversations.
+  1. He proposed a grandiose plan to build a gold monument in the town center.
+  2. She criticized the manager's grandiose schemes as impractical and expensive.
 
 ## 61: Granulate
 - **Dissection:** [gran-u-late]
@@ -515,8 +515,8 @@
 - **Meaning:** Make happy or satisfied
 - **Hindi:** घूस देना
 - **Examples:**
-  1. Learning the word 'gratify' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gratify' in daily conversations.
+  1. The company worked to gratify the demands of its most important clients.
+  2. Winning the competition did gratify her ambition and hard study.
 
 ## 66: Gratis
 - **Dissection:** [gratis]
@@ -555,8 +555,8 @@
 - **Meaning:** A contorted facial expression
 - **Hindi:** मुंह बनाना
 - **Examples:**
-  1. She made a grimace at the prospect.
-  2. He grimaced when he saw the amount of homework he had to do.
+  1. She made a painful grimace as the nurse applied the antiseptic to her scrape.
+  2. He tried to hide his disappointment, but a brief grimace crossed his face.
 
 ## 71: Grisly
 - **Dissection:** [grisly]
@@ -571,16 +571,16 @@
 - **Meaning:** Art characterized by an incongruous mixture of parts of humans and animals interwoven with plants
 - **Hindi:** विचित्र
 - **Examples:**
-  1. Tales of grotesque serpents eight fathoms long that churned the seas.
-  2. Twisted into monstrous shapes.
+  1. The gothic cathedral is decorated with various grotesque stone gargoyles.
+  2. The horror movie featured a grotesque monster that terrified the viewers.
 
 ## 73: Grotto
 - **Dissection:** [grotto]
 - **Meaning:** A small cave (usually with attractive features)
 - **Hindi:** कुटी
 - **Examples:**
-  1. Learning the word 'grotto' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'grotto' in daily conversations.
+  1. The tourists took a boat ride to explore the famous blue grotto along the coast.
+  2. She built a small stone grotto in her garden to house a statue.
 
 ## 74: Grouse
 - **Dissection:** [grouse]
@@ -651,8 +651,8 @@
 - **Meaning:** Free of deceit
 - **Hindi:** निष्कपट
 - **Examples:**
-  1. Learning the word 'guileless' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'guileless' in daily conversations.
+  1. The child gave a warm, guileless smile that won everyone's heart.
+  2. She was a simple, guileless person who believed everyone was honest.
 
 ## 83: Guise
 - **Dissection:** [guise]
@@ -667,16 +667,16 @@
 - **Meaning:** Naive and easily deceived or tricked
 - **Hindi:** भोला
 - **Examples:**
-  1. At that early age she had been gullible and in love.
-  2. Gullible tourists taken in by the shell game.
+  1. The gullible tourist fell for the classic scam and bought a fake gold watch.
+  2. Do not be so gullible; you should verify the facts before believing everything you read.
 
 ## 85: Gustatory
 - **Dissection:** [gust-at-ory]
 - **Meaning:** Of or relating to gustation
 - **Hindi:** स्वाद
 - **Examples:**
-  1. Learning the word 'gustatory' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'gustatory' in daily conversations.
+  1. The chef prepared a meal designed to satisfy the guests' gustatory desires.
+  2. The cooking class offered a wonderful range of new gustatory experiences.
 
 ## 86: Gusto
 - **Dissection:** [gusto]

@@ -268,7 +268,7 @@
 - **Hindi:** साइकिल
 - **Examples:**
   1. With leather cups fitted in his handlebars, he steered his bicycle.
-  2. It is beneficial to understand the meaning and context of 'bicycle' in daily conversations.
+  2. Man on bicycle: New York is about freedom!
 
 ## 35: Big
 - **Dissection:** [big]

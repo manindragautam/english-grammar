@@ -651,8 +651,8 @@
 - **Meaning:** The piece of land on which something is located (or is to be located)
 - **Hindi:** साइट
 - **Examples:**
-  1. A good site for the school.
-  2. The sites are determined by highly specific sequences of nucleotides.
+  1. The construction crew cleared the site to prepare for the new office building.
+  2. They visited the historical site where the ancient battle had taken place.
 
 ## 83: Situation
 - **Dissection:** [situ-ation]
@@ -828,7 +828,7 @@
 - **Hindi:** मौज़ा
 - **Examples:**
   1. Instead of wanting to sock the poor bastard I found myself having a fellowfeeling for him.
-  2. It is beneficial to understand the meaning and context of 'sock' in daily conversations.
+  2. Straight vertical edges, such as those at the back seam of a sock, can be woven together invisibly.
 
 ## 105: Soft
 - **Dissection:** [soft]
@@ -1100,7 +1100,7 @@
 - **Hindi:** सीढ़ी
 - **Examples:**
   1. He paused on the bottom step.
-  2. It is beneficial to understand the meaning and context of 'stair' in daily conversations.
+  2. Install your disappearing stair ( or stairs ) to the attic and finish your overhead ducts before you drywall the ceiling.
 
 ## 139: Stamp
 - **Dissection:** [stamp]

@@ -19,8 +19,8 @@
 - **Meaning:** A member of an ancient Jewish sect in Judea in the first century who fought to the death against the Romans and who killed or persecuted Jews who collaborated with the Romans
 - **Hindi:** कट्टरपंथी
 - **Examples:**
-  1. Learning the word 'zealot' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'zealot' in daily conversations.
+  1. The religious zealot refused to tolerate any beliefs other than his own.
+  2. She was an environmental zealot who spent all her time campaigning for reforms.
 
 ## 4: Zenith
 - **Dissection:** [zenith]

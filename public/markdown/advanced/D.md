@@ -84,7 +84,7 @@
 - **Hindi:** ऐयाशी
 - **Examples:**
   1. I was turning over the idea of a good debauchery when I dozed off.
-  2. It is beneficial to understand the meaning and context of 'debauchery' in daily conversations.
+  2. You know what that means: debauchery... and danger!
 
 ## 12: Debilitate
 - **Dissection:** [de-bil-it-ate]
@@ -108,7 +108,7 @@
 - **Hindi:** मलबा
 - **Examples:**
   1. The debris of his other careers was piled everywhere;;.
-  2. It is beneficial to understand the meaning and context of 'debris' in daily conversations.
+  2. Experts said it could take months to refloat the ship and free the 80 bodies estimated to be trapped amid debris.
 
 ## 15: Debunk
 - **Dissection:** [de-bunk]
@@ -155,8 +155,8 @@
 - **Meaning:** Propriety in manners and conduct
 - **Hindi:** शिष्टाचार
 - **Examples:**
-  1. Learning the word 'decorum' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'decorum' in daily conversations.
+  1. The students were expected to maintain strict decorum during the graduation ceremony.
+  2. Her calm behavior and sense of decorum impressed the members of the board.
 
 ## 21: Decoy
 - **Dissection:** [de-coy]
@@ -187,8 +187,8 @@
 - **Meaning:** A false accusation of an offense or a malicious misrepresentation of someone's words or actions
 - **Hindi:** मानहानि
 - **Examples:**
-  1. Learning the word 'defamation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'defamation' in daily conversations.
+  1. The actor filed a lawsuit for defamation after the magazine printed false stories about him.
+  2. He was accused of defamation for spreading harmful lies about his competitor's business.
 
 ## 25: Defame
 - **Dissection:** [de-fame]
@@ -251,8 +251,8 @@
 - **Meaning:** Bear the expenses of
 - **Hindi:** चुकाना
 - **Examples:**
-  1. Learning the word 'defray' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'defray' in daily conversations.
+  1. The company offered a generous stipend to help defray the cost of commuting.
+  2. A local charity raised funds to help defray the medical expenses of the injured boy.
 
 ## 33: Deft
 - **Dissection:** [deft]
@@ -324,7 +324,7 @@
 - **Hindi:** भुलाना
 - **Examples:**
   1. And therein, I feel, many Northerners delude themselves about the South.
-  2. It is beneficial to understand the meaning and context of 'delude' in daily conversations.
+  2. Yet we must not delude ourselves that safety necessarily increases as expenditures for military research or forces in being go up.
 
 ## 42: Deluge
 - **Dissection:** [de-luge]
@@ -339,8 +339,8 @@
 - **Meaning:** A political leader who seeks support by appealing to popular passions and prejudices
 - **Hindi:** दुर्जनों का नेता
 - **Examples:**
-  1. Learning the word 'demagogue' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'demagogue' in daily conversations.
+  1. The populist demagogue gained support by appealing to the public's fears and prejudices.
+  2. Historians warned that the charismatic leader was a dangerous demagogue.
 
 ## 44: Demean
 - **Dissection:** [de-mean]
@@ -371,16 +371,16 @@
 - **Meaning:** A statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.)
 - **Hindi:** जनसांख्यिकी
 - **Examples:**
-  1. Learning the word 'demographics' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'demographics' in daily conversations.
+  1. The marketing team analyzed the demographics of the area to target their new ads.
+  2. Changes in the city's demographics led to a greater demand for public transit.
 
 ## 48: Demolition
 - **Dissection:** [de-moli-tion]
 - **Meaning:** An event (or the result of an event) that completely destroys something
 - **Hindi:** विध्वंस
 - **Examples:**
-  1. Learning the word 'demolition' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'demolition' in daily conversations.
+  1. The city ordered the demolition of the unsafe building to prevent it from collapsing.
+  2. The demolition crew used explosives to safely bring down the old stadium.
 
 ## 49: Demur
 - **Dissection:** [de-mur]
@@ -451,8 +451,8 @@
 - **Meaning:** A chemical (usually a sulfide) used to remove hair or wool or bristles from hides
 - **Hindi:** लोमनाशक
 - **Examples:**
-  1. Learning the word 'depilatory' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'depilatory' in daily conversations.
+  1. She bought a gentle depilatory cream to remove unwanted hair from her arms.
+  2. The chemist formulated a new depilatory product that did not irritate sensitive skin.
 
 ## 58: Deplore
 - **Dissection:** [de-plore]
@@ -587,8 +587,8 @@
 - **Meaning:** A cruel and oppressive dictator
 - **Hindi:** तानाशाह
 - **Examples:**
-  1. Learning the word 'despot' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'despot' in daily conversations.
+  1. The cruel despot ruled the nation with an iron fist, suppressing all civil liberties.
+  2. The employees feared their boss, describing him as a petty despot who demanded absolute obedience.
 
 ## 75: Destitute
 - **Dissection:** [des-ti-tute]
@@ -659,8 +659,8 @@
 - **Meaning:** Thunderous verbal attack
 - **Hindi:** अभियोगात्मक भाषण
 - **Examples:**
-  1. The senator was prone to diatribes which could go on for more than an hour.
-  2. It is beneficial to understand the meaning and context of 'diatribe' in daily conversations.
+  1. The angry customer launched into a loud diatribe against the store manager.
+  2. She wrote a long diatribe criticizing the government's economic policies.
 
 ## 84: Dichotomy
 - **Dissection:** [di-cho-tomy]
@@ -668,15 +668,15 @@
 - **Hindi:** विरोधाभास
 - **Examples:**
   1. The dichotomy between eastern and western culture.
-  2. It is beneficial to understand the meaning and context of 'dichotomy' in daily conversations.
+  2. RAGETTI: Dichotomy of good and evil.
 
 ## 85: Dictum
 - **Dissection:** [dictum]
 - **Meaning:** An authoritative declaration
 - **Hindi:** उक्ति
 - **Examples:**
-  1. Learning the word 'dictum' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'dictum' in daily conversations.
+  1. The judge quoted the legal dictum that ignorance of the law is no excuse.
+  2. We should remember the old dictum that patience is a virtue.
 
 ## 86: Didactic
 - **Dissection:** [di-dact-ic]
@@ -731,8 +731,8 @@
 - **Meaning:** An amateur who engages in an activity without serious intentions and who pretends to have knowledge
 - **Hindi:** अनुरागी
 - **Examples:**
-  1. There was in him none of that antiquarian frivolity that we convey by the word" dilettante ".
-  2. His dilettantish efforts at painting.
+  1. He was a mere dilettante who painted occasionally but never studied art seriously.
+  2. She dismissed his opinions on architecture, calling him an uneducated dilettante.
 
 ## 93: Dirge
 - **Dissection:** [dirge]
@@ -747,8 +747,8 @@
 - **Meaning:** Free somebody (from an erroneous belief)
 - **Hindi:** माया हटाना
 - **Examples:**
-  1. Learning the word 'disabuse' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'disabuse' in daily conversations.
+  1. I want to disabuse you of the idea that this project will be easy.
+  2. The teacher worked to disabuse the students of their common misconceptions.
 
 ## 95: Disaffect
 - **Dissection:** [dis-af-fect]
@@ -820,7 +820,7 @@
 - **Hindi:** कलह
 - **Examples:**
   1. Oh come away, My soule is full of discord and dismay.
-  2. It is beneficial to understand the meaning and context of 'discord' in daily conversations.
+  2. Silence, ye troubled Waves, and thou Deep, peace, Said then the Omnifick Word; your discord end!
 
 ## 104: Discourse
 - **Dissection:** [dis-course]
@@ -891,8 +891,8 @@
 - **Meaning:** Deprive of voting rights
 - **Hindi:** नागरिकता से वंचित करना
 - **Examples:**
-  1. Learning the word 'disenfranchise' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'disenfranchise' in daily conversations.
+  1. The new law was criticized because it would disenfranchise many poor voters.
+  2. It is wrong to establish rules that disenfranchise any segment of the population.
 
 ## 113: Disengage
 - **Dissection:** [dis-en-gage]
@@ -924,7 +924,7 @@
 - **Hindi:** उदासीन
 - **Examples:**
   1. This procedure of theirs, to be sure, was very disinterested and benevolent of them.
-  2. It is beneficial to understand the meaning and context of 'disinterested' in daily conversations.
+  2. These Seven Founders constituted an intellectual and social elite, the most respectable and disinterested leadership any revolution ever confessed.
 
 ## 117: Disjointed
 - **Dissection:** [dis-join-ted]
@@ -1051,16 +1051,16 @@
 - **Meaning:** A treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree
 - **Hindi:** निबंध
 - **Examples:**
-  1. Learning the word 'dissertation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'dissertation' in daily conversations.
+  1. He spent three years writing his doctoral dissertation on historical economics.
+  2. She successfully defended her dissertation before the university committee.
 
 ## 133: Dissimulate
 - **Dissection:** [dis-sim-u-late]
 - **Meaning:** Hide (feelings) from other people
 - **Hindi:** छल-कपट करना
 - **Examples:**
-  1. Learning the word 'dissimulate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'dissimulate' in daily conversations.
+  1. She tried to dissimulate her disappointment, greeting him with a smile.
+  2. A good spy knows how to dissimulate their true feelings and motives.
 
 ## 134: Dissipate
 - **Dissection:** [dis-sip-ate]
@@ -1115,8 +1115,8 @@
 - **Meaning:** A belief in two deities, which may be in conflict with each other.
 - **Hindi:** द्वैतवाद
 - **Examples:**
-  1. Learning the word 'ditheism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ditheism' in daily conversations.
+  1. The professor gave a lecture on ditheism, the belief in two equal gods.
+  2. Some ancient religions practiced ditheism, representing forces of good and evil.
 
 ## 141: Diurnal
 - **Dissection:** [di-urn-al]
@@ -1171,8 +1171,8 @@
 - **Meaning:** A stubborn person of arbitrary or arrogant opinions
 - **Hindi:** पांडित्याभिमानी
 - **Examples:**
-  1. Learning the word 'doctrinaire' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'doctrinaire' in daily conversations.
+  1. We should avoid a doctrinaire approach and find a practical solution.
+  2. He is a doctrinaire reformer who refuses to compromise on his principles.
 
 ## 148: Dogged
 - **Dissection:** [dogged]
@@ -1187,8 +1187,8 @@
 - **Meaning:** Characterized by assertion of unproved or unprovable principles
 - **Hindi:** कट्टर
 - **Examples:**
-  1. All of Adams' work reflects this dogmatic characteristic.
-  2. Or a Protestant, or one of those amusing dogmatic atheists, or a strict orthodox Communist.
+  1. I dislike his dogmatic approach to discussions, as he refuses to listen to other views.
+  2. The researcher avoided making dogmatic claims, choosing to let the data speak for itself.
 
 ## 150: Doldrums
 - **Dissection:** [doldrums]
@@ -1300,7 +1300,7 @@
 - **Hindi:** बेहूदा बात
 - **Examples:**
   1. The baby drooled.
-  2. It is beneficial to understand the meaning and context of 'drivel' in daily conversations.
+  2. Drivel may refer to: Drivel, nonsense speech Drivel, an American term for saliva Driveling, the act of drooling.
 
 ## 164: Droll
 - **Dissection:** [droll]
@@ -1332,7 +1332,7 @@
 - **Hindi:** कठिन परिश्रम
 - **Examples:**
   1. Also, he was weary of plantation drudgery and monotony.
-  2. It is beneficial to understand the meaning and context of 'drudgery' in daily conversations.
+  2. Increasing freedom from poverty and drudgery has given a fuller meaning to American life.
 
 ## 168: Dubious
 - **Dissection:** [du-bi-ous]
@@ -1363,8 +1363,8 @@
 - **Meaning:** A fraudulent or duplicitous representation
 - **Hindi:** कपट
 - **Examples:**
-  1. Learning the word 'duplicity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'duplicity' in daily conversations.
+  1. The spy was eventually caught and punished for his duplicity and betrayal.
+  2. She was hurt by the duplicity of her friend, who spoke kindly to her but spread rumors behind her back.
 
 ## 172: Duress
 - **Dissection:** [duress]

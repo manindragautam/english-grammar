@@ -188,7 +188,7 @@
 - **Hindi:** आदी बनाना
 - **Examples:**
   1. She became habituated to the background music.
-  2. It is beneficial to understand the meaning and context of 'accustom' in daily conversations.
+  2. The etudes also accustom a pupil to various tempos and the various positions on the guitar.
 
 ## 25: Ache
 - **Dissection:** [ache]
@@ -364,7 +364,7 @@
 - **Hindi:** किशोरावस्था
 - **Examples:**
   1. During adolescence, the body and mind go through many complex changes, some of which are difficult to deal with.
-  2. It is beneficial to understand the meaning and context of 'adolescence' in daily conversations.
+  2. Adolescence is usually associated with the teenage years, but its physical, psychological or cultural expressions may begin earlier or end later.
 
 ## 47: Adolescent
 - **Dissection:** [ad-oles-cent]

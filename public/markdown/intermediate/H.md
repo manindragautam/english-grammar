@@ -339,8 +339,8 @@
 - **Meaning:** All of the same or similar kind or nature
 - **Hindi:** सजातीय
 - **Examples:**
-  1. Folklore is individually created art that a homogeneous group of people preserve, vary and recreate through oral transmission.
-  2. The folk are simply not homogeneous with respect to nation or political attitude.
+  1. The population of the small village was highly homogeneous, sharing the same culture.
+  2. Mix the ingredients thoroughly until the batter becomes a homogeneous paste.
 
 ## 44: Honey
 - **Dissection:** [honey]

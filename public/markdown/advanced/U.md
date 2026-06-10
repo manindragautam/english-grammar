@@ -116,7 +116,7 @@
 - **Hindi:** कम क्षमता का व्यक्ती या समूह
 - **Examples:**
   1. Seen by the public, the musician is the underdog par excellence.
-  2. It is beneficial to understand the meaning and context of 'underdog' in daily conversations.
+  2. He is usually something of an underdog, he must battle the organized police force as well as recognized criminals.
 
 ## 16: Undergird
 - **Dissection:** [un-der-gird]
@@ -195,8 +195,8 @@
 - **Meaning:** Admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion
 - **Hindi:** स्पष्ट
 - **Examples:**
-  1. Unequivocal evidence.
-  2. Took an unequivocal position.
+  1. The committee gave its unequivocal approval to the proposed expansion project.
+  2. His answer was an unequivocal 'yes', leaving no room for any doubt.
 
 ## 26: Unerring
 - **Dissection:** [un-err-ing]
@@ -227,8 +227,8 @@
 - **Meaning:** To release from fetters; to unchain; to let loose; to free.
 - **Hindi:** निरंकुश
 - **Examples:**
-  1. Learning the word 'unfetter' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'unfetter' in daily conversations.
+  1. The new policy will unfetter local businesses from unnecessary regulations.
+  2. She decided to quit her job to unfetter her creative potential.
 
 ## 30: Unflappable
 - **Dissection:** [un-flap-pable]
@@ -291,8 +291,8 @@
 - **Meaning:** A vocabulary word: unintimidating.
 - **Hindi:** भयमुक्त करने वाला
 - **Examples:**
-  1. Learning the word 'unintimidating' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'unintimidating' in daily conversations.
+  1. The small, friendly dog had an entirely unintimidating appearance.
+  2. The examiner was warm and unintimidating, which helped the students relax.
 
 ## 38: Unison
 - **Dissection:** [uni-son]
@@ -315,8 +315,8 @@
 - **Meaning:** Not diminished or moderated in intensity or severity; sometimes used as an intensifier
 - **Hindi:** निरंतर
 - **Examples:**
-  1. Unmitigated suffering.
-  2. An unmitigated horror.
+  1. The comedy play was a complete and unmitigated disaster from start to finish.
+  2. Winning the championship brought a sense of unmitigated joy to the team.
 
 ## 41: Unobtrusive
 - **Dissection:** [un-ob-trus-ive]
@@ -347,8 +347,8 @@
 - **Meaning:** Creating an unfavorable or neutral first impression
 - **Hindi:** निरापद
 - **Examples:**
-  1. Learning the word 'unprepossessing' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'unprepossessing' in daily conversations.
+  1. The hotel lobby looked rather unprepossessing, but the rooms were luxurious.
+  2. He was an unprepossessing man who possessed a brilliant scientific mind.
 
 ## 45: Unravel
 - **Dissection:** [un-ravel]
@@ -364,7 +364,7 @@
 - **Hindi:** अनिष्ट
 - **Examples:**
   1. Unrequited (unanswered) love.
-  2. It is beneficial to understand the meaning and context of 'unrequited' in daily conversations.
+  2. He also spoke of `` the wealth piled by the bondsman's two hundred and fifty years in unrequited toil ''.
 
 ## 47: Unruly
 - **Dissection:** [un-ruly]
@@ -435,8 +435,8 @@
 - **Meaning:** Difficult to use or handle or manage because of size or weight or shape
 - **Hindi:** बोझल
 - **Examples:**
-  1. We set about towing the unwieldy structure into the shelter.
-  2. Almost dropped the unwieldy parcel.
+  1. The large wooden dresser was unwieldy and difficult to move down the stairs.
+  2. The organization grew too large, becoming an unwieldy and slow bureaucracy.
 
 ## 56: Unwitting
 - **Dissection:** [un-wit-ting]
@@ -451,8 +451,8 @@
 - **Meaning:** Express criticism towards
 - **Hindi:** फटकारना
 - **Examples:**
-  1. No lurking horrors were to upbraid him for his easy credulity.
-  2. The president reproached the general for his irresponsible behavior.
+  1. The teacher had to upbraid the students for behaving rudely during the field trip.
+  2. The manager did upbraid the worker for missing three consecutive deadlines.
 
 ## 58: Uproarious
 - **Dissection:** [up-roari-ous]
@@ -483,16 +483,16 @@
 - **Meaning:** Poor and often mischievous city child
 - **Hindi:** नटखट लड़का
 - **Examples:**
-  1. Learning the word 'urchin' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'urchin' in daily conversations.
+  1. The poor street urchin begged for a coin near the market entrance.
+  2. A group of mischievous urchins threw snowballs at the passing carriage.
 
 ## 62: Usurp
 - **Dissection:** [usurp]
 - **Meaning:** Seize and take control without authority and possibly with force; take as one's right or possession
 - **Hindi:** हड़पना
 - **Examples:**
-  1. He assumed to himself the right to fill all positions in the town.
-  2. He usurped my rights.
+  1. The corrupt general plotted to usurp the throne and declare himself king.
+  2. Do not let minor details usurp the time needed for the main project tasks.
 
 ## 63: Usury
 - **Dissection:** [usury]
@@ -500,13 +500,13 @@
 - **Hindi:** सूदखोरी
 - **Examples:**
   1. 15: 5 He that putteth not out his money to usury, nor taketh reward against the innocent.
-  2. It is beneficial to understand the meaning and context of 'usury' in daily conversations.
+  2. 25: 37 Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.
 
 ## 64: Utopia
 - **Dissection:** [uto-pia]
 - **Meaning:** A book written by Sir Thomas More (1516) describing the perfect society on an imaginary island
 - **Hindi:** आदर्शलोक
 - **Examples:**
-  1. Under their rule, earth becomes a technological utopia.
-  2. Utopia is still widely read because in a sense More stood on the margin of modernity.
+  1. The author described a peaceful utopia where there was no war or poverty.
+  2. He realized that creating a perfect social utopia was a difficult challenge.
 

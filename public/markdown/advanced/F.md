@@ -59,8 +59,8 @@
 - **Meaning:** Dissenting (especially dissenting with the majority opinion)
 - **Hindi:** अराजक
 - **Examples:**
-  1. Learning the word 'factious' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'factious' in daily conversations.
+  1. The factious disputes within the political party led to its split.
+  2. The committee struggled to make decisions due to factious members.
 
 ## 9: Factitious
 - **Dissection:** [fac-ti-tious]
@@ -75,8 +75,8 @@
 - **Meaning:** A servant employed to do a variety of jobs
 - **Hindi:** सब प्रकार का काम करनेवाला नौकर
 - **Examples:**
-  1. Learning the word 'factotum' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'factotum' in daily conversations.
+  1. He served as a trusted factotum, handling everything from managing schedules to running errands.
+  2. The small office hired a versatile factotum to keep the daily operations running smoothly.
 
 ## 11: Fallacious
 - **Dissection:** [fal-la-cious]
@@ -219,8 +219,8 @@
 - **Meaning:** Any distracting or deceptive maneuver (as a mock attack)
 - **Hindi:** भुलावा
 - **Examples:**
-  1. He advanced slowly, directly, giving no hint of a feint to either side.
-  2. The midfielder feinted to shoot.
+  1. The boxer made a quick feint to the left before landing a punch on the right.
+  2. The army made a deceptive feint toward the capital to draw the enemy forces away.
 
 ## 29: Felicitous
 - **Dissection:** [fe-li-cit-ous]
@@ -251,8 +251,8 @@
 - **Meaning:** Someone who has committed a crime or has been legally convicted of a crime
 - **Hindi:** अपराधी
 - **Examples:**
-  1. Learning the word 'felon' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'felon' in daily conversations.
+  1. The convicted felon was sentenced to five years in a federal prison.
+  2. It can be difficult for a felon to find a job after serving their sentence.
 
 ## 33: Feral
 - **Dissection:** [fer-al]
@@ -323,8 +323,8 @@
 - **Meaning:** An elaborate party (often outdoors)
 - **Hindi:** उत्सव
 - **Examples:**
-  1. A drama festival.
-  2. They were feting the patriarch of the family.
+  1. The community organized a grand fete to celebrate the town's centennial anniversary.
+  2. They decided to fete the championship team with a parade through the main street.
 
 ## 42: Fetid
 - **Dissection:** [fet-id]
@@ -347,8 +347,8 @@
 - **Meaning:** A shackle for the ankles or feet
 - **Hindi:** बेड़ी
 - **Examples:**
-  1. Learning the word 'fetter' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fetter' in daily conversations.
+  1. The prisoner was bound in heavy iron fetters to prevent escape.
+  2. We must not let old traditions fetter our ability to innovate.
 
 ## 45: Fiasco
 - **Dissection:** [fiasco]
@@ -427,8 +427,8 @@
 - **Meaning:** A legislator who gives long speeches in an effort to delay or obstruct legislation that he (or she) opposes
 - **Hindi:** जलडाकू
 - **Examples:**
-  1. Learning the word 'filibuster' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'filibuster' in daily conversations.
+  1. The senator launched a long filibuster to delay the vote on the bill.
+  2. They used procedural filibuster tactics to block the proposed changes.
 
 ## 55: Finale
 - **Dissection:** [fi-nale]
@@ -443,8 +443,8 @@
 - **Meaning:** Subtly skillful handling of a situation
 - **Hindi:** चालाकी
 - **Examples:**
-  1. Learning the word 'finesse' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'finesse' in daily conversations.
+  1. She handled the difficult diplomatic negotiation with great finesse.
+  2. The pianist performed the complex sonata with technical finesse.
 
 ## 57: Finicky
 - **Dissection:** [finicky]
@@ -467,8 +467,8 @@
 - **Meaning:** A long narrow depression in a surface
 - **Hindi:** दरार
 - **Examples:**
-  1. The fissure is about a foot across.
-  2. It is beneficial to understand the meaning and context of 'fissure' in daily conversations.
+  1. The earthquake left a deep fissure running through the center of the road.
+  2. Water slowly seeped into a tiny fissure in the rock, widening it over time.
 
 ## 60: Fitful
 - **Dissection:** [fit-ful]
@@ -547,8 +547,8 @@
 - **Meaning:** Showing inappropriate levity
 - **Hindi:** क्षुद्र
 - **Examples:**
-  1. Learning the word 'flippant' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'flippant' in daily conversations.
+  1. His flippant attitude during the serious meeting annoyed the manager.
+  2. Do not give a flippant reply when asked a direct, important question.
 
 ## 70: Flora
 - **Dissection:** [flora]
@@ -659,8 +659,8 @@
 - **Meaning:** A man who is much concerned with his dress and appearance
 - **Hindi:** बांका
 - **Examples:**
-  1. Learning the word 'fop' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fop' in daily conversations.
+  1. The wealthy fop spent all his time and money on luxury clothes.
+  2. He was criticized as a silly fop who cared only about his appearance.
 
 ## 84: Foray
 - **Dissection:** [for-ay]
@@ -691,8 +691,8 @@
 - **Meaning:** A feeling of evil to come
 - **Hindi:** भविष्य-ज्ञान
 - **Examples:**
-  1. A steadily escalating sense of foreboding.
-  2. The lawyer had a presentiment that the judge would dismiss the case.
+  1. She woke up with a strong sense of foreboding, feeling that something bad was about to happen.
+  2. The dark storm clouds on the horizon filled the sailors with foreboding.
 
 ## 88: Forensic
 - **Dissection:** [forensic]
@@ -708,7 +708,7 @@
 - **Hindi:** पहिले से सूचित करना
 - **Examples:**
   1. These signs bode bad news.
-  2. It is beneficial to understand the meaning and context of 'foreshadow' in daily conversations.
+  2. He said the 10 billion dlrs increase in total reserves in the past seven months may foreshadow full U. K.
 
 ## 90: Forestall
 - **Dissection:** [fore-stall]
@@ -803,8 +803,8 @@
 - **Meaning:** Noisy quarrel
 - **Hindi:** कोलाहल
 - **Examples:**
-  1. Learning the word 'fracas' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fracas' in daily conversations.
+  1. The police arrived quickly to break up the fracas outside the tavern.
+  2. A brief fracas erupted between the fans of the two competing teams.
 
 ## 102: Fractious
 - **Dissection:** [frac-tious]
@@ -931,8 +931,8 @@
 - **Meaning:** Prudence in avoiding waste
 - **Hindi:** स्वल्प व्ययिता
 - **Examples:**
-  1. Learning the word 'frugality' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'frugality' in daily conversations.
+  1. Her habits of frugality allowed her to save enough money to buy a house.
+  2. He lived a life of simple frugality, avoiding all luxury goods.
 
 ## 118: Fruition
 - **Dissection:** [fruition]
@@ -1020,7 +1020,7 @@
 - **Hindi:** विलय
 - **Examples:**
   1. Without an instant's transition, the green light that meant full fusion power winked on the board.
-  2. It is beneficial to understand the meaning and context of 'fusion' in daily conversations.
+  2. He had to have fusion power to catch up with the skiff, and he had to have it fast.
 
 ## 129: Futile
 - **Dissection:** [fu-tile]

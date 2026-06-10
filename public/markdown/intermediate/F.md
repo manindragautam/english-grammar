@@ -563,8 +563,8 @@
 - **Meaning:** A high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown
 - **Hindi:** बांसुरी
 - **Examples:**
-  1. Learning the word 'flute' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'flute' in daily conversations.
+  1. She played a beautiful, classical melody on her silver flute during the recital.
+  2. He decided to take music lessons to learn how to play the concert flute.
 
 ## 72: Flutter
 - **Dissection:** [flut-ter]
@@ -747,8 +747,8 @@
 - **Meaning:** Someone whose style is out of fashion
 - **Hindi:** जीवाश्म
 - **Examples:**
-  1. Learning the word 'fossil' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'fossil' in daily conversations.
+  1. The hikers discovered the ancient fossil of a shell embedded in the limestone cliff.
+  2. Scientists examined the dinosaur fossil to determine how the species evolved.
 
 ## 95: Foster
 - **Dissection:** [foster]

@@ -27,8 +27,8 @@
 - **Meaning:** A United States liquid unit equal to 32 fluid ounces; four quarts equal one gallon
 - **Hindi:** चौथाई गेलन
 - **Examples:**
-  1. Learning the word 'quart' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'quart' in daily conversations.
+  1. The recipe requires you to add one quart of fresh milk to the mixture.
+  2. She bought a quart of chocolate ice cream from the local supermarket.
 
 ## 5: Quit
 - **Dissection:** [quit]

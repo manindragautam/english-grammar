@@ -3,8 +3,8 @@
 - **Meaning:** An extreme state of adversity; the lowest point of anything
 - **Hindi:** पतन
 - **Examples:**
-  1. At the nadir of that circuit is death.
-  2. The nadir of the sun is the axis of the shadow projected by the Earth.
+  1. Losing his job and his apartment marked the absolute nadir of his professional life.
+  2. The relations between the two neighboring countries reached their nadir during the crisis.
 
 ## 2: Naivete
 - **Dissection:** [na-iv-ete]
@@ -20,15 +20,15 @@
 - **Hindi:** अहंकार
 - **Examples:**
   1. Self-love that shut out everyone else.
-  2. It is beneficial to understand the meaning and context of 'narcissism' in daily conversations.
+  2. Narcissism is a self-centered personality style characterized as having an excessive preoccupation with oneself and one's own needs, often at the expense of others.
 
 ## 4: Nascent
 - **Dissection:** [nas-cent]
 - **Meaning:** Being born or beginning
 - **Hindi:** नवजात
 - **Examples:**
-  1. The nascent chicks.
-  2. A nascent insurgency.
+  1. The scientists discovered a nascent star forming inside the distant nebula.
+  2. The government established a fund to support the nascent technology industry.
 
 ## 5: Natty
 - **Dissection:** [natty]
@@ -75,8 +75,8 @@
 - **Meaning:** The belief in magical spells that harness occult forces or evil spirits to produce unnatural effects in the world
 - **Hindi:** काला जादू
 - **Examples:**
-  1. Learning the word 'necromancy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'necromancy' in daily conversations.
+  1. In ancient legends, the sorcerer used necromancy to summon the dead.
+  2. The old book contained forbidden spells related to necromancy.
 
 ## 11: Nefarious
 - **Dissection:** [ne-far-i-ous]
@@ -115,24 +115,24 @@
 - **Meaning:** A newly invented word or phrase
 - **Hindi:** निओलगिज़्म
 - **Examples:**
-  1. Learning the word 'neologism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'neologism' in daily conversations.
+  1. The dictionary added several neologisms that emerged from social media usage.
+  2. He loved creating neologisms, though his friends rarely understood his new words.
 
 ## 16: Neophyte
 - **Dissection:** [neo-phyte]
 - **Meaning:** A plant that is found in an area where it had not been recorded previously
 - **Hindi:** निओफ़ाइट
 - **Examples:**
-  1. Learning the word 'neophyte' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'neophyte' in daily conversations.
+  1. The chess club welcomed the neophyte and offered to teach him the basic rules.
+  2. As a neophyte in the kitchen, she started by learning how to boil water.
 
 ## 17: Nepotism
 - **Dissection:** [nepot-ism]
 - **Meaning:** Favoritism shown to relatives or close friends by those in power (as by giving them jobs)
 - **Hindi:** भाई-भतीजावाद
 - **Examples:**
-  1. Nepotism can get you very far in the world if you've got the right connections.
-  2. It is beneficial to understand the meaning and context of 'nepotism' in daily conversations.
+  1. The president was accused of nepotism after appointing his brother to a high office.
+  2. The company established strict rules to prevent nepotism during the hiring process.
 
 ## 18: Nettle
 - **Dissection:** [nettle]
@@ -147,16 +147,16 @@
 - **Meaning:** The means of connection between things linked in series
 - **Hindi:** बंधन
 - **Examples:**
-  1. Learning the word 'nexus' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'nexus' in daily conversations.
+  1. The international airport serves as a major transit nexus for travelers.
+  2. The report examined the close nexus between poverty and lack of education.
 
 ## 20: Nib
 - **Dissection:** [nib]
 - **Meaning:** The writing point of a pen
 - **Hindi:** नोक
 - **Examples:**
-  1. Learning the word 'nib' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'nib' in daily conversations.
+  1. He replaced the worn steel nib of his fountain pen with a new gold one.
+  2. She dipped the nib of her pen into the ink bottle before writing.
 
 ## 21: Nicety
 - **Dissection:** [nicety]
@@ -211,8 +211,8 @@
 - **Meaning:** (Hinduism and Buddhism) the beatitude that transcends the cycle of reincarnation; characterized by the extinction of desire and suffering and individual consciousness
 - **Hindi:** निर्वाण
 - **Examples:**
-  1. Repeating it like a student telling himself that the jewel is in the lotus he sank into nirvana.
-  2. It is beneficial to understand the meaning and context of 'nirvana' in daily conversations.
+  1. The peaceful beach resort proved to be a quiet nirvana for the stressed travelers.
+  2. In Buddhist teachings, achieving nirvana represents the end of all suffering.
 
 ## 28: Nocturnal
 - **Dissection:** [noc-turn-al]
@@ -275,8 +275,8 @@
 - **Meaning:** The state of not existing
 - **Hindi:** तुच्छता
 - **Examples:**
-  1. Learning the word 'nonentity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'nonentity' in daily conversations.
+  1. The once-famous actor became a nonentity, forgotten by the public.
+  2. He felt like a nonentity in the large company, doing minor tasks.
 
 ## 36: Nonplus
 - **Dissection:** [non-plus]
@@ -291,8 +291,8 @@
 - **Meaning:** Hypothetical remedy for all ills or diseases; once sought by the alchemists
 - **Hindi:** नोस्ट्रम
 - **Examples:**
-  1. Learning the word 'nostrum' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'nostrum' in daily conversations.
+  1. The charlatan sold a useless herbal nostrum claiming it could cure any cold.
+  2. Economists warned that the proposed tax cut was a simple political nostrum.
 
 ## 38: Notoriety
 - **Dissection:** [no-tori-ety]
@@ -339,8 +339,8 @@
 - **Meaning:** Of girls or women who are eligible to marry
 - **Hindi:** दांपत्य
 - **Examples:**
-  1. Learning the word 'nubile' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'nubile' in daily conversations.
+  1. The novel tells the story of a wealthy merchant who marries a nubile bride.
+  2. The painting depicted a group of nubile maidens bathing in the river.
 
 ## 44: Nugatory
 - **Dissection:** [nugat-ory]
@@ -363,8 +363,8 @@
 - **Meaning:** A collector and student of money (and coins in particular)
 - **Hindi:** मुद्राशास्त्री
 - **Examples:**
-  1. Learning the word 'numismatist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'numismatist' in daily conversations.
+  1. As an expert numismatist, he collected and studied ancient gold coins.
+  2. The coin museum hired a numismatist to classify their collection.
 
 ## 47: Nuptial
 - **Dissection:** [nup-tial]

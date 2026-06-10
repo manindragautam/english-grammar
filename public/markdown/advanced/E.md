@@ -11,8 +11,8 @@
 - **Meaning:** Joyously unrestrained
 - **Hindi:** उबलनेवाला
 - **Examples:**
-  1. Learning the word 'ebullient' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ebullient' in daily conversations.
+  1. The ebullient crowd cheered enthusiastically when the team scored the winning goal.
+  2. Her ebullient personality always lifted the spirits of everyone in the office.
 
 ## 3: Eccentric
 - **Dissection:** [ec-cent-ric]
@@ -27,16 +27,16 @@
 - **Meaning:** A clergyman or other person in religious orders
 - **Hindi:** पादरी
 - **Examples:**
-  1. Ecclesiastic history.
-  2. It is beneficial to understand the meaning and context of 'ecclesiastic' in daily conversations.
+  1. The historical museum features various ecclesiastic robes and religious relics.
+  2. He spent decades studying the development of ecclesiastic laws during the Middle Ages.
 
 ## 5: Eclectic
 - **Dissection:** [ec-lect-ic]
 - **Meaning:** Someone who selects according to the eclectic method
 - **Hindi:** उदार
 - **Examples:**
-  1. If he is a traditionalist, he is an eclectic traditionalist.
-  2. It is beneficial to understand the meaning and context of 'eclectic' in daily conversations.
+  1. Her apartment was decorated with an eclectic mix of modern and vintage furniture.
+  2. The radio station plays an eclectic selection of music, ranging from jazz to heavy metal.
 
 ## 6: Edict
 - **Dissection:** [edict]
@@ -107,8 +107,8 @@
 - **Meaning:** A representation of a person (especially in the form of sculpture)
 - **Hindi:** पुतला
 - **Examples:**
-  1. The coin bears an effigy of Lincoln.
-  2. The emperor's tomb had his image carved in stone.
+  1. The protesters burned the dictator in effigy outside the gates of the embassy.
+  2. An ancient stone effigy of the king was discovered inside the burial chamber.
 
 ## 15: Effrontery
 - **Dissection:** [ef-frontery]
@@ -139,16 +139,16 @@
 - **Meaning:** A self-centered person with little regard for others
 - **Hindi:** अहंकारपूर्ण
 - **Examples:**
-  1. Learning the word 'egocentric' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'egocentric' in daily conversations.
+  1. He was too egocentric to care about how his actions affected other people.
+  2. The novel tells the story of an egocentric artist who refuses to accept criticism.
 
 ## 19: Egoism
 - **Dissection:** [ego-ism]
 - **Meaning:** (ethics) the theory that the pursuit of your own welfare in the basis of morality
 - **Hindi:** अहंभाव
 - **Examples:**
-  1. Learning the word 'egoism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'egoism' in daily conversations.
+  1. Philosophers argue that ethical egoism encourages individuals to pursue their self-interest.
+  2. His constant bragging was a clear reflection of his extreme egoism.
 
 ## 20: Egotistical
 - **Dissection:** [egot-ist-ic-al]
@@ -171,8 +171,8 @@
 - **Meaning:** (astronomy) the reappearance of a celestial body after an eclipse
 - **Hindi:** निकास
 - **Examples:**
-  1. Not a day's difference between the emergence of the andrenas and the opening of the willow catkins.
-  2. Water issued from the hole in the wall.
+  1. The theater is equipped with multiple emergency doors to ensure a quick egress.
+  2. Heavy snow blocked the main egress from the mountain resort, trapping the guests.
 
 ## 23: Ejaculation
 - **Dissection:** [ejac-u-la-tion]
@@ -195,8 +195,8 @@
 - **Meaning:** A mournful poem; a lament for the dead
 - **Hindi:** शोकगीत
 - **Examples:**
-  1. Learning the word 'elegy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'elegy' in daily conversations.
+  1. The poet wrote a touching elegy in memory of his late grandmother.
+  2. The pianist performed a beautiful, somber elegy at the memorial service.
 
 ## 26: Elicit
 - **Dissection:** [eli-cit]
@@ -211,8 +211,8 @@
 - **Meaning:** A sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by mouth in order to mask an unpleasant taste
 - **Hindi:** अमृत
 - **Examples:**
-  1. Learning the word 'elixir' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'elixir' in daily conversations.
+  1. In ancient legends, alchemists searched for an elixir that would grant eternal life.
+  2. She drank a warm cup of herbal tea, claiming it was the perfect elixir for a cold.
 
 ## 28: Ellipsis
 - **Dissection:** [el-lip-sis]
@@ -251,8 +251,8 @@
 - **Meaning:** Cause to grow thin or weak
 - **Hindi:** क्षीण
 - **Examples:**
-  1. The treatment emaciated him.
-  2. She emaciated during the chemotherapy.
+  1. The rescued animals were emaciated and needed immediate medical attention.
+  2. The prisoner looked pale and emaciated after weeks of surviving on bread and water.
 
 ## 33: Emanate
 - **Dissection:** [em-an-ate]
@@ -283,8 +283,8 @@
 - **Meaning:** Add details to
 - **Hindi:** संवारना
 - **Examples:**
-  1. Flowers adorned the tables everywhere.
-  2. Decorate the room for the party.
+  1. He decided to embellish the story with exciting details to make it more interesting.
+  2. She used colorful ribbons and flowers to embellish the gift package.
 
 ## 37: Embezzle
 - **Dissection:** [em-bezzle]
@@ -292,7 +292,7 @@
 - **Hindi:** पचाना
 - **Examples:**
   1. The accountant embezzled thousands of dollars while working for the wealthy family.
-  2. It is beneficial to understand the meaning and context of 'embezzle' in daily conversations.
+  2. To win her favors, her husband first took an additional job, then desperately began to embezzle from his employer.
 
 ## 38: Embroil
 - **Dissection:** [em-broil]
@@ -323,8 +323,8 @@
 - **Meaning:** A medicine that induces nausea and vomiting
 - **Hindi:** उबकाई की
 - **Examples:**
-  1. Learning the word 'emetic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'emetic' in daily conversations.
+  1. The doctor administered an emetic to help the patient expel the swallowed poison.
+  2. Mustard water was historically used as a simple, natural emetic in emergencies.
 
 ## 42: Eminent
 - **Dissection:** [em-in-ent]
@@ -339,16 +339,16 @@
 - **Meaning:** Someone sent on a mission to represent the interests of someone else
 - **Hindi:** दूत
 - **Examples:**
-  1. Learning the word 'emissary' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'emissary' in daily conversations.
+  1. The president sent a diplomatic emissary to negotiate a peaceful solution to the conflict.
+  2. The king received an emissary from the neighboring country who brought a peace treaty.
 
 ## 44: Emollient
 - **Dissection:** [emol-li-ent]
 - **Meaning:** Toiletry consisting of any of various substances in the form of a thick liquid that have a soothing and moisturizing effect when applied to the skin
 - **Hindi:** शमनकारी
 - **Examples:**
-  1. Learning the word 'emollient' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'emollient' in daily conversations.
+  1. She applied an emollient lotion to soothe her dry, sunburned skin.
+  2. The dermatologist recommended a fragrance-free emollient cream for sensitive skin.
 
 ## 45: Emulate
 - **Dissection:** [emu-late]
@@ -379,8 +379,8 @@
 - **Meaning:** A formal expression of praise
 - **Hindi:** एनकोमियम
 - **Examples:**
-  1. Learning the word 'encomium' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'encomium' in daily conversations.
+  1. The speaker delivered a warm encomium praising the retiring professor's long career.
+  2. The local newspaper published a written encomium celebrating the hero's bravery.
 
 ## 49: Encompass
 - **Dissection:** [en-com-pass]
@@ -403,8 +403,8 @@
 - **Meaning:** Give qualities or abilities to
 - **Hindi:** प्रदान करना
 - **Examples:**
-  1. Learning the word 'endue' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'endue' in daily conversations.
+  1. The legendary sword was believed to endue its wielder with supernatural strength.
+  2. The community hoped to endue the new generations with a strong sense of civic duty.
 
 ## 52: Enervate
 - **Dissection:** [en-er-vate]
@@ -452,15 +452,15 @@
 - **Hindi:** शत्रुता
 - **Examples:**
   1. He could no longer contain his hostility.
-  2. It is beneficial to understand the meaning and context of 'enmity' in daily conversations.
+  2. 4: 4 Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God?
 
 ## 58: Ennui
 - **Dissection:** [en-nui]
 - **Meaning:** The feeling of being bored by something tedious
 - **Hindi:** विरक्ति
 - **Examples:**
-  1. Learning the word 'ennui' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ennui' in daily conversations.
+  1. The long, rainy afternoon filled the children with a sense of restless ennui.
+  2. He resigned from his comfortable office job to escape the daily ennui of routine work.
 
 ## 59: Enormity
 - **Dissection:** [enorm-ity]
@@ -499,8 +499,8 @@
 - **Meaning:** Hold spellbound
 - **Hindi:** ग़ुलाम बनाना
 - **Examples:**
-  1. Learning the word 'enthrall' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'enthrall' in daily conversations.
+  1. The magician's spectacular tricks managed to enthrall the entire audience.
+  2. The beautiful landscape of the canyon never fails to enthrall visitors.
 
 ## 64: Entomology
 - **Dissection:** [en-to-mo-logy]
@@ -563,16 +563,16 @@
 - **Meaning:** A person devoted to refined sensuous enjoyment (especially good food and drink)
 - **Hindi:** रसिया
 - **Examples:**
-  1. Learning the word 'epicure' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'epicure' in daily conversations.
+  1. The renowned food critic was a true epicure who could identify any ingredient in a dish.
+  2. He spent his weekend exploring local markets, looking for ingredients to satisfy his epicure tastes.
 
 ## 72: Epigram
 - **Dissection:** [epi-gram]
 - **Meaning:** A witty saying
 - **Hindi:** चुटकुला
 - **Examples:**
-  1. Learning the word 'epigram' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'epigram' in daily conversations.
+  1. The writer was famous for his witty epigrams about modern society.
+  2. She ended her speech with a memorable epigram that made everyone smile.
 
 ## 73: Epilogue
 - **Dissection:** [epi-logue]
@@ -588,15 +588,15 @@
 - **Hindi:** समाधि-लेख
 - **Examples:**
   1. After your death, you were better haue a bad Epitaph, then their ill report while you liued.
-  2. It is beneficial to understand the meaning and context of 'epitaph' in daily conversations.
+  2. The Newport Playhouse presents `` Epitaph For George Dillon '' by John Osborne and Anthony Creighton, directed by Wallace Gray.
 
 ## 75: Epithet
 - **Dissection:** [epi-thet]
 - **Meaning:** A defamatory or abusive word or phrase
 - **Hindi:** विशेषण
 - **Examples:**
-  1. He was epitheted "the king of fools".
-  2. It is beneficial to understand the meaning and context of 'epithet' in daily conversations.
+  1. The boxer earned the famous epithet of 'The Greatest' due to his undefeated record.
+  2. He was suspended for using a derogatory epithet against his classmate.
 
 ## 76: Equable
 - **Dissection:** [equable]
@@ -620,7 +620,7 @@
 - **Hindi:** घुड़सवार
 - **Examples:**
   1. After his death an equestrian statue was created.
-  2. It is beneficial to understand the meaning and context of 'equestrian' in daily conversations.
+  2. Competitions are held at all levels from amateur to the Olympic Games and World Equestrian Games.
 
 ## 79: Equilibrium
 - **Dissection:** [equi-lib-ri-um]
@@ -651,8 +651,8 @@
 - **Meaning:** Equality of distribution
 - **Hindi:** पासंग
 - **Examples:**
-  1. Learning the word 'equipoise' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'equipoise' in daily conversations.
+  1. The gymnast maintained perfect equipoise while performing on the balance beam.
+  2. A careful equipoise between work and rest is essential for long-term health.
 
 ## 83: Equitable
 - **Dissection:** [equit-able]
@@ -683,8 +683,8 @@
 - **Meaning:** Be deliberately ambiguous or unclear in order to mislead or withhold information
 - **Hindi:** गोलमोल बात कहना
 - **Examples:**
-  1. Learning the word 'equivocate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'equivocate' in daily conversations.
+  1. The politician began to equivocate when asked about his plans to raise taxes.
+  2. Do not equivocate; give me a straight answer so we can resolve this issue.
 
 ## 87: Erratic
 - **Dissection:** [er-rat-ic]
@@ -716,23 +716,23 @@
 - **Hindi:** हरकत
 - **Examples:**
   1. It was just possible that this escapade signified something other than even a slight suspicion of him.
-  2. It is beneficial to understand the meaning and context of 'escapade' in daily conversations.
+  2. The musician ran away from school when he was fifteen, but this escapade did not save him from the Gymnasium.
 
 ## 91: Eschew
 - **Dissection:** [es-chew]
 - **Meaning:** Avoid and stay away from deliberately; stay clear of
 - **Hindi:** त्याग करना
 - **Examples:**
-  1. Learning the word 'eschew' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'eschew' in daily conversations.
+  1. The doctor advised the patient to eschew sugary drinks and eat more vegetables.
+  2. She decided to eschew social media for a month to focus on her studies.
 
 ## 92: Esoteric
 - **Dissection:** [eso-ter-ic]
 - **Meaning:** Confined to and understandable by only an enlightened inner circle
 - **Hindi:** गुप्त
 - **Examples:**
-  1. A compilation of esoteric philosophical theories.
-  2. The writing in this manual is very esoteric; I’d need a degree in engineering just to understand it!
+  1. The professor's lecture covered esoteric theories that only a few specialists understood.
+  2. He spent years researching the esoteric symbols found in ancient manuscripts.
 
 ## 93: Espouse
 - **Dissection:** [es-pouse]
@@ -795,8 +795,8 @@
 - **Meaning:** An inoffensive or indirect expression that is substituted for one that is considered offensive or too harsh
 - **Hindi:** व्यंजना
 - **Examples:**
-  1. Learning the word 'euphemism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'euphemism' in daily conversations.
+  1. People often use 'passed away' as a gentle euphemism for the word 'died'.
+  2. The military spokesperson used a euphemism to describe the accidental damage.
 
 ## 101: Euphony
 - **Dissection:** [eu-phony]
@@ -844,7 +844,7 @@
 - **Hindi:** जताना
 - **Examples:**
   1. She showed her disappointment.
-  2. It is beneficial to understand the meaning and context of 'evince' in daily conversations.
+  2. " I am afraid," replied Elinor," that the pleasantness of an employment does not always evince its propriety.".
 
 ## 107: Exacerbate
 - **Dissection:** [ex-acer-bate]
@@ -923,8 +923,8 @@
 - **Meaning:** An explanation or critical interpretation (especially of the Bible)
 - **Hindi:** टीका
 - **Examples:**
-  1. Learning the word 'exegesis' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'exegesis' in daily conversations.
+  1. The scholar published a brilliant exegesis of the ancient biblical text.
+  2. His exegesis helped clarify the meaning of the difficult philosophical poem.
 
 ## 117: Exemplary
 - **Dissection:** [ex-em-plary]
@@ -1036,15 +1036,15 @@
 - **Hindi:** लंबी-चौड़ी बातें बढ़ाना
 - **Examples:**
   1. She elaborated on the main ideas in her dissertation.
-  2. It is beneficial to understand the meaning and context of 'expatiate' in daily conversations.
+  2. From his mighty bulk the whale affords a most congenial theme whereon to enlarge, amplify, and generally expatiate.
 
 ## 131: Expatriate
 - **Dissection:** [ex-pat-ri-ate]
 - **Meaning:** A person who is voluntarily absent from home or country
 - **Hindi:** प्रवासी
 - **Examples:**
-  1. American expatriates.
-  2. The poet was exiled because he signed a letter protesting the government's actions.
+  1. The British expatriate has been living and working in Tokyo for ten years.
+  2. Many writers chose to expatriate themselves to Paris during the early twentieth century.
 
 ## 132: Expedient
 - **Dissection:** [ex-pedi-ent]
@@ -1107,8 +1107,8 @@
 - **Meaning:** Reason with (somebody) for the purpose of dissuasion
 - **Hindi:** समझाना
 - **Examples:**
-  1. Learning the word 'expostulate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'expostulate' in daily conversations.
+  1. She decided to expostulate with her brother about his risky behavior.
+  2. The teacher tried to expostulate with the student, but he refused to listen.
 
 ## 140: Expunge
 - **Dissection:** [ex-punge]
@@ -1155,8 +1155,8 @@
 - **Meaning:** Destroy completely, as if down to the roots
 - **Hindi:** उखाड़ना
 - **Examples:**
-  1. The vestiges of political democracy were soon uprooted.
-  2. Root out corruption.
+  1. The government launched a campaign to completely extirpate corruption from public offices.
+  2. Gardeners worked diligently to extirpate the invasive weeds from the nature reserve.
 
 ## 146: Extol
 - **Dissection:** [ex-tol]
@@ -1219,8 +1219,8 @@
 - **Meaning:** (psychology) a person concerned more with practical realities than with inner thoughts and feelings
 - **Hindi:** बहिर्मुखी
 - **Examples:**
-  1. Learning the word 'extrovert' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'extrovert' in daily conversations.
+  1. As a natural extrovert, she loves meeting new people and attending parties.
+  2. He behaves like an extrovert at work, though he enjoys quiet time at home.
 
 ## 154: Extrude
 - **Dissection:** [ex-trude]

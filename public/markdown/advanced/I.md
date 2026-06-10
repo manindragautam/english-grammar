@@ -3,16 +3,16 @@
 - **Meaning:** A destroyer of images used in religious worship
 - **Hindi:** मूर्ति
 - **Examples:**
-  1. Learning the word 'iconoclast' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'iconoclast' in daily conversations.
+  1. The famous designer was a true iconoclast who challenged all traditional fashion rules.
+  2. As an academic iconoclast, he published a paper disputing the established theory.
 
 ## 2: Idiosyncrasy
 - **Dissection:** [idio-syn-crasy]
 - **Meaning:** A behavioral attribute that is distinctive and peculiar to an individual
 - **Hindi:** लत
 - **Examples:**
-  1. He mastered the idiosyncrasies of English spelling and speech.
-  2. It is beneficial to understand the meaning and context of 'idiosyncrasy' in daily conversations.
+  1. One odd idiosyncrasy of my car is that the radio only works when the headlights are on.
+  2. She accepted his little idiosyncrasies, finding them charming rather than annoying.
 
 ## 3: Ignominy
 - **Dissection:** [ig-no-miny]
@@ -99,8 +99,8 @@
 - **Meaning:** Having or revealing little emotion or sensibility; not easily aroused or excited; ; - Nordhoff & Hall; -Virginia Woolf
 - **Hindi:** आवेगहीन
 - **Examples:**
-  1. Her impassive remoteness.
-  2. He remained impassive, showing neither interest in nor concern for our plight.
+  1. The detective maintained an impassive expression while interrogating the suspect.
+  2. Despite hearing the shocking news, his face remained completely impassive.
 
 ## 14: Impeach
 - **Dissection:** [im-peach]
@@ -260,7 +260,7 @@
 - **Hindi:** संगदिल
 - **Examples:**
   1. An implacable enemy.
-  2. It is beneficial to understand the meaning and context of 'implacable' in daily conversations.
+  2. With all his heart he had loved the Navy and now he must act in accordance with the Navy's implacable laws.
 
 ## 34: Implausible
 - **Dissection:** [im-plaus-ible]
@@ -308,7 +308,7 @@
 - **Hindi:** प्रार्थना करना
 - **Examples:**
   1. I beg you to stop!
-  2. It is beneficial to understand the meaning and context of 'implore' in daily conversations.
+  2. And again, I ask you -- I implore you to raise the minimum wage.
 
 ## 40: Importune
 - **Dissection:** [im-por-tune]
@@ -347,8 +347,8 @@
 - **Meaning:** An extemporaneous speech or remark
 - **Hindi:** बिना पहले सोचे हुए
 - **Examples:**
-  1. A witty impromptu must not sound premeditated.
-  2. His ad-lib comments showed poor judgment.
+  1. We organized an impromptu picnic in the park when the weather suddenly cleared up.
+  2. The speaker delivered a wonderful, impromptu address without any preparation.
 
 ## 45: Impropriety
 - **Dissection:** [im-pro-pri-ety]
@@ -395,8 +395,8 @@
 - **Meaning:** Attack as false or wrong
 - **Hindi:** बहस करना
 - **Examples:**
-  1. Learning the word 'impugn' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'impugn' in daily conversations.
+  1. No one attempted to impugn the honesty of the respected judge.
+  2. The defense lawyer tried to impugn the credibility of the key witness.
 
 ## 51: Impunity
 - **Dissection:** [im-pun-ity]
@@ -427,8 +427,8 @@
 - **Meaning:** Devoid of intelligence
 - **Hindi:** बेहूदा
 - **Examples:**
-  1. This supremely gifted kid told me that in the early elementary grades, the songs sung in music class were so inane that he wanted to skip grades already! Eventually he did, so better late than never.
-  2. It is beneficial to understand the meaning and context of 'inane' in daily conversations.
+  1. I grew tired of listening to their inane gossip about people they barely knew.
+  2. He made a series of inane comments during the meeting, wasting everyone's time.
 
 ## 55: Inanimate
 - **Dissection:** [in-an-im-ate]
@@ -467,8 +467,8 @@
 - **Meaning:** A ritual recitation of words or sounds believed to have a magical effect
 - **Hindi:** जादू
 - **Examples:**
-  1. Learning the word 'incantation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'incantation' in daily conversations.
+  1. The wizard muttered a strange incantation to activate the magic portal.
+  2. She listened to the rhythmic incantations of the ancient ritual.
 
 ## 60: Incapacitate
 - **Dissection:** [in-ca-pa-cit-ate]
@@ -483,8 +483,8 @@
 - **Meaning:** Lock up or confine, in or as in a jail
 - **Hindi:** क़ैद कर देना
 - **Examples:**
-  1. The suspects were imprisoned without trial.
-  2. The murderer was incarcerated for the rest of his life.
+  1. The judge decided to incarcerate the thief for two years in a local prison.
+  2. The police worked diligently to catch the criminal and incarcerate him.
 
 ## 62: Incarnate
 - **Dissection:** [in-carn-ate]
@@ -627,8 +627,8 @@
 - **Meaning:** With your identity concealed
 - **Hindi:** गुप्त
 - **Examples:**
-  1. In Holland he lived incognito as a carpenter in the shipyards of the East India company.
-  2. It is beneficial to understand the meaning and context of 'incognito' in daily conversations.
+  1. The famous movie star traveled incognito, wearing a large hat and dark sunglasses.
+  2. He checked into the luxury hotel incognito to avoid attracting reporters.
 
 ## 80: Incommunicado
 - **Dissection:** [in-com-mu-nic-ado]
@@ -683,8 +683,8 @@
 - **Meaning:** Impossible to deny or disprove
 - **Hindi:** मुंहतोड़
 - **Examples:**
-  1. Incontrovertible proof of the defendant's innocence.
-  2. Proof positive.
+  1. The prosecutor presented incontrovertible video evidence showing the suspect at the scene.
+  2. It is an incontrovertible fact that the earth rotates on its axis.
 
 ## 87: Incorporeal
 - **Dissection:** [in-cor-por-eal]
@@ -707,8 +707,8 @@
 - **Meaning:** Not disposed or willing to believe; unbelieving
 - **Hindi:** अविश्वसनीय
 - **Examples:**
-  1. Affected by the solemnity of the scene, there was a wondering gaze of incredulous curiosity in his countenance.
-  2. It is beneficial to understand the meaning and context of 'incredulous' in daily conversations.
+  1. She gave him an incredulous look when he claimed he had won the lottery.
+  2. He was completely incredulous when he heard that the project had been cancelled.
 
 ## 90: Increment
 - **Dissection:** [in-cre-ment]
@@ -739,8 +739,8 @@
 - **Meaning:** A male demon believed to lie on sleeping persons and to have sexual intercourse with sleeping women
 - **Hindi:** ईन्कुबुस
 - **Examples:**
-  1. Learning the word 'incubus' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'incubus' in daily conversations.
+  1. The fear of losing his job became a constant incubus that kept him awake at night.
+  2. In ancient folklore, an incubus was a malevolent spirit that troubled sleepers.
 
 ## 94: Inculcate
 - **Dissection:** [in-cul-cate]
@@ -748,7 +748,7 @@
 - **Hindi:** मन में बैठाना
 - **Examples:**
   1. Inculcate values into the young generation.
-  2. It is beneficial to understand the meaning and context of 'inculcate' in daily conversations.
+  2. Let us extricate our country from the dangers which surround it and learn wisdom from the lessons they inculcate.
 
 ## 95: Incumbent
 - **Dissection:** [in-cum-bent]
@@ -859,8 +859,8 @@
 - **Meaning:** Poor enough to need help from others
 - **Hindi:** दरिद्र
 - **Examples:**
-  1. Learning the word 'indigent' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'indigent' in daily conversations.
+  1. The non-profit clinic offers free medical services to indigent residents of the city.
+  2. The government established a fund to help indigent families pay their winter heating bills.
 
 ## 109: Indignation
 - **Dissection:** [in-dig-na-tion]
@@ -963,8 +963,8 @@
 - **Meaning:** Fill with sublime emotion
 - **Hindi:** नशे में धुत
 - **Examples:**
-  1. The children were thrilled at the prospect of going to the movies.
-  2. He was inebriated by his phenomenal success.
+  1. The police officer stopped the car because the driver appeared to be inebriated.
+  2. He regretted the silly things he said while inebriated at the office holiday party.
 
 ## 122: Ineffable
 - **Dissection:** [in-ef-fable]
@@ -1003,8 +1003,8 @@
 - **Meaning:** Injustice by virtue of not conforming with rules or standards
 - **Hindi:** अन्याय
 - **Examples:**
-  1. Learning the word 'inequity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'inequity' in daily conversations.
+  1. Reformers worked to address the economic inequity in the tax system.
+  2. The new law was designed to reduce gender-based inequity in the workplace.
 
 ## 127: Inerrancy
 - **Dissection:** [in-err-ancy]
@@ -1076,7 +1076,7 @@
 - **Hindi:** बेवफ़ा
 - **Examples:**
   1. Or what part hath he that believeth with an infidel?
-  2. It is beneficial to understand the meaning and context of 'infidel' in daily conversations.
+  2. Thou hast seen enough to split the planets and make an infidel of Abraham, and not one syllable is thine!".
 
 ## 136: Infiltrate
 - **Dissection:** [in-filt-rate]
@@ -1123,8 +1123,8 @@
 - **Meaning:** A crime less serious than a felony
 - **Hindi:** अतिक्रमण
 - **Examples:**
-  1. Learning the word 'infraction' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'infraction' in daily conversations.
+  1. The referee penalized the player for a minor infraction of the tournament rules.
+  2. Driving without a seatbelt is a traffic infraction that carries a heavy fine.
 
 ## 142: Infringe
 - **Dissection:** [in-fringe]
@@ -1147,8 +1147,8 @@
 - **Meaning:** An actress who specializes in playing the role of an artless innocent young girl
 - **Hindi:** सरलता
 - **Examples:**
-  1. Learning the word 'ingenue' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ingenue' in daily conversations.
+  1. The young actress played the role of an innocent ingenue in the film.
+  2. Her simple, naive behavior made her seem like a typical ingenue.
 
 ## 145: Ingenuous
 - **Dissection:** [in-genu-ous]
@@ -1172,15 +1172,15 @@
 - **Hindi:** कृतघ्न
 - **Examples:**
   1. 1843, But Mr Pecksniff, dismissing all ephemeral considerations of social pleasure and enjoyment, concentrated his meditations on the one great virtuous purpose before him, of casting out that ingrate and deceiver, whose presence yet troubled his domestic hearth, and was a sacrilege upon the altars of his household gods. — Charles Dickens, Martin Chuzzlewit.
-  2. It is beneficial to understand the meaning and context of 'ingrate' in daily conversations.
+  2. That' s' queer,' you ingrate!
 
 ## 148: Ingratiate
 - **Dissection:** [in-gra-ti-ate]
 - **Meaning:** Gain favor with somebody by deliberate efforts
 - **Hindi:** अनुग्रहभाजन
 - **Examples:**
-  1. Learning the word 'ingratiate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ingratiate' in daily conversations.
+  1. The new employee tried to ingratiate himself with the boss by offering to work late.
+  2. She brought homemade cookies to the office to ingratiate herself with her coworkers.
 
 ## 149: Inherent
 - **Dissection:** [in-her-ent]
@@ -1203,8 +1203,8 @@
 - **Meaning:** Not friendly
 - **Hindi:** विरोधी
 - **Examples:**
-  1. An unfriendly act of aggression.
-  2. An inimical critic.
+  1. Excessive stress and lack of sleep are highly inimical to good health.
+  2. The two competing companies maintained an inimical relationship for decades.
 
 ## 152: Inimitable
 - **Dissection:** [in-im-it-able]
@@ -1244,7 +1244,7 @@
 - **Hindi:** आभास
 - **Examples:**
   1. He had no inkling what was about to happen.
-  2. It is beneficial to understand the meaning and context of 'inkling' in daily conversations.
+  2. `` I don't know, Mr. Brenner '', he said haltingly, beginning to get an inkling of Brenner's plans.
 
 ## 157: Innate
 - **Dissection:** [in-nate]
@@ -1276,7 +1276,7 @@
 - **Hindi:** इन्युएन्दो
 - **Examples:**
   1. She made a devious innuendo about her husband, who was embarrassed.
-  2. It is beneficial to understand the meaning and context of 'innuendo' in daily conversations.
+  2. Don' t be so innuendo- challenged; nobody will invite you anywhere!
 
 ## 161: Inopportune
 - **Dissection:** [in-op-por-tune]
@@ -1300,7 +1300,7 @@
 - **Hindi:** जिज्ञासा दिखानेवाला
 - **Examples:**
   1. Then all four gathering on the sofa to face the inquisitor.
-  2. It is beneficial to understand the meaning and context of 'inquisitor' in daily conversations.
+  2. Grand Inquisitor (Latin: Inquisitor Generalis, literally Inquisitor General or General Inquisitor) was the highest-ranked official of the Inquisition.
 
 ## 164: Insatiable
 - **Dissection:** [in-sa-ti-able]
@@ -1396,7 +1396,7 @@
 - **Hindi:** अवज्ञा
 - **Examples:**
   1. `` I shouldn't like to have to write you up for insubordination as well as dereliction of duty ''.
-  2. It is beneficial to understand the meaning and context of 'insubordination' in daily conversations.
+  2. Insubordination is the act of willfully disobeying a lawful order of one's superior.
 
 ## 176: Insubstantial
 - **Dissection:** [in-sub-stan-tial]
@@ -1427,8 +1427,8 @@
 - **Meaning:** A person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions)
 - **Hindi:** विद्रोही
 - **Examples:**
-  1. Learning the word 'insurgent' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'insurgent' in daily conversations.
+  1. The government forces clashed with insurgent fighters near the northern border.
+  2. The military worked to secure the area and prevent any insurgent attacks.
 
 ## 180: Insurmountable
 - **Dissection:** [in-sur-mount-able]
@@ -1443,8 +1443,8 @@
 - **Meaning:** Organized opposition to authority; a conflict in which one faction tries to wrest control from another
 - **Hindi:** विद्रोह
 - **Examples:**
-  1. Learning the word 'insurrection' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'insurrection' in daily conversations.
+  1. The government quickly suppressed the armed insurrection in the capital.
+  2. The historical museum features an exhibit on the local peasant insurrection.
 
 ## 182: Intangible
 - **Dissection:** [in-tan-gible]
@@ -1483,16 +1483,16 @@
 - **Meaning:** An educated and intellectual elite
 - **Hindi:** बुद्धिजीवीवर्ग
 - **Examples:**
-  1. Learning the word 'intelligentsia' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'intelligentsia' in daily conversations.
+  1. The city's intelligentsia gathered at the cafe to discuss philosophy.
+  2. Many members of the local intelligentsia opposed the dictator's regime.
 
 ## 187: Interdict
 - **Dissection:** [in-ter-dict]
 - **Meaning:** An ecclesiastical censure by the Roman Catholic Church withdrawing certain sacraments and Christian burial from a person or all persons in a particular district
 - **Hindi:** पाबंदी
 - **Examples:**
-  1. I forbid you to call me late at night.
-  2. Mother vetoed the trip to the chocolate store.
+  1. The international coalition voted to interdict the transport of illegal weapons.
+  2. The court issued a formal interdict to stop the company from clearing the forest.
 
 ## 188: Interim
 - **Dissection:** [in-ter-im]
@@ -1531,8 +1531,8 @@
 - **Meaning:** (of conflict) within a group or organization
 - **Hindi:** आपसी
 - **Examples:**
-  1. An internecine feud among proxy holders.
-  2. Internecine war.
+  1. The political party was weakened by years of bitter, internecine conflicts.
+  2. The region suffered from internecine warfare between rival local clans.
 
 ## 193: Interpolate
 - **Dissection:** [in-ter-pol-ate]
@@ -1667,8 +1667,8 @@
 - **Meaning:** Complain bitterly
 - **Hindi:** आक्रमण करना
 - **Examples:**
-  1. He declaimed against the wasteful ways of modern society.
-  2. It is beneficial to understand the meaning and context of 'inveigh' in daily conversations.
+  1. The activists gathered outside city hall to inveigh against the proposed budget cuts.
+  2. He used his newspaper column to inveigh against the corruption of local politicians.
 
 ## 210: Inveigle
 - **Dissection:** [in-veigle]
@@ -1771,8 +1771,8 @@
 - **Meaning:** Quickly aroused to anger
 - **Hindi:** चिड़चिड़ा
 - **Examples:**
-  1. A hotheaded commander.
-  2. A choleric outburst.
+  1. The irascible old man frequently shouted at neighbors who walked near his garden.
+  2. Our boss has an irascible temper, so it is best to avoid him when he is stressed.
 
 ## 223: Irate
 - **Dissection:** [ir-ate]

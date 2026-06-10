@@ -763,8 +763,8 @@
 - **Meaning:** A document certifying the successful completion of a course of study
 - **Hindi:** डिप्लोमा
 - **Examples:**
-  1. Learning the word 'diploma' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'diploma' in daily conversations.
+  1. He proudly displayed his high school diploma on the wall of his office.
+  2. After years of hard study, she finally received her medical diploma.
 
 ## 97: Diplomat
 - **Dissection:** [dip-lo-mat]

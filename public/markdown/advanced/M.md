@@ -11,16 +11,16 @@
 - **Meaning:** A follower of Machiavelli's principles
 - **Hindi:** धूर्त
 - **Examples:**
-  1. Machiavellian thinking.
-  2. It is beneficial to understand the meaning and context of 'machiavellian' in daily conversations.
+  1. The politician used Machiavellian schemes to defeat his rivals and secure power.
+  2. He was criticized for his Machiavellian approach to business negotiations.
 
 ## 3: Machinations
 - **Dissection:** [mach-in-a-tions]
 - **Meaning:** A crafty and involved plot to achieve your (usually sinister) ends
 - **Hindi:** साजिश
 - **Examples:**
-  1. Learning the word 'machinations' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'machinations' in daily conversations.
+  1. The king was aware of the dark machinations of his political rivals.
+  2. Her success was the result of hard work, not underhanded machinations.
 
 ## 4: Maculated
 - **Dissection:** [mac-u-lated]
@@ -43,8 +43,8 @@
 - **Meaning:** A powerful circular current of water (usually the result of conflicting tides)
 - **Hindi:** भंवर
 - **Examples:**
-  1. Learning the word 'maelstrom' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'maelstrom' in daily conversations.
+  1. The small boat was nearly sucked into the violent maelstrom near the cliffs.
+  2. She found herself caught in a maelstrom of conflicting emotions.
 
 ## 7: Magnanimous
 - **Dissection:** [mag-nan-im-ous]
@@ -115,24 +115,24 @@
 - **Meaning:** A person who is discontented or disgusted
 - **Hindi:** बाग़ी
 - **Examples:**
-  1. Learning the word 'malcontent' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'malcontent' in daily conversations.
+  1. The malcontent employee spent his time complaining to coworkers about the manager.
+  2. The dictator blamed a small group of malcontents for starting the local protest.
 
 ## 16: Malediction
 - **Dissection:** [mal-edic-tion]
 - **Meaning:** The act of calling down a curse that invokes evil (and usually serves as an insult)
 - **Hindi:** फटकार
 - **Examples:**
-  1. He suffered the imprecations of the mob.
-  2. It is beneficial to understand the meaning and context of 'malediction' in daily conversations.
+  1. The old wizard muttered a dark malediction against the knights who entered his tower.
+  2. She felt as if a heavy malediction hung over the old, abandoned house.
 
 ## 17: Malefactor
 - **Dissection:** [mal-efact-or]
 - **Meaning:** Someone who has committed a crime or has been legally convicted of a crime
 - **Hindi:** कुकर्मी
 - **Examples:**
-  1. Learning the word 'malefactor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'malefactor' in daily conversations.
+  1. The police worked quickly to identify the malefactor responsible for the robbery.
+  2. The judge sentenced the notorious malefactor to ten years in prison.
 
 ## 18: Malevolent
 - **Dissection:** [malevol-ent]
@@ -147,8 +147,8 @@
 - **Meaning:** Wrongful conduct by a public official
 - **Hindi:** दुराचार
 - **Examples:**
-  1. Learning the word 'malfeasance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'malfeasance' in daily conversations.
+  1. The CEO was investigated for financial malfeasance and tax evasion.
+  2. The governor vowed to punish any public official guilty of malfeasance.
 
 ## 20: Malicious
 - **Dissection:** [ma-li-cious]
@@ -179,8 +179,8 @@
 - **Meaning:** Someone shirking their duty by feigning illness or incapacity
 - **Hindi:** अपवादक
 - **Examples:**
-  1. Learning the word 'malingerer' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'malingerer' in daily conversations.
+  1. The manager fired the malingerer who frequently pretended to be sick.
+  2. He was accused of being a malingerer to avoid doing his chores.
 
 ## 24: Malleable
 - **Dissection:** [mal-le-able]
@@ -275,8 +275,8 @@
 - **Meaning:** Free from slavery or servitude
 - **Hindi:** मनुमित
 - **Examples:**
-  1. Learning the word 'manumit' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'manumit' in daily conversations.
+  1. The owner decided to manumit his servants in his last will and testament.
+  2. The new law will manumit all political prisoners in the country.
 
 ## 36: Martial
 - **Dissection:** [mar-tial]
@@ -291,8 +291,8 @@
 - **Meaning:** Someone who demands exact conformity to rules and forms
 - **Hindi:** मार्टिनेट
 - **Examples:**
-  1. Learning the word 'martinet' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'martinet' in daily conversations.
+  1. Our new drill sergeant is a strict martinet who demands absolute obedience.
+  2. She was a school principal who behaved like a martinet, enforcing minor rules.
 
 ## 38: Martyr
 - **Dissection:** [mar-tyr]
@@ -307,8 +307,8 @@
 - **Meaning:** Someone who obtains pleasure from receiving punishment
 - **Hindi:** मासोचिस्ट
 - **Examples:**
-  1. Learning the word 'masochist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'masochist' in daily conversations.
+  1. Only a true masochist would enjoy running a marathon in freezing rain.
+  2. His friends joked that he was a masochist for choosing such a difficult major.
 
 ## 40: Maternal
 - **Dissection:** [ma-ter-nal]
@@ -323,24 +323,24 @@
 - **Meaning:** A female head of a family or tribe
 - **Hindi:** कुलमाता
 - **Examples:**
-  1. Learning the word 'matriarch' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'matriarch' in daily conversations.
+  1. The family gathered to celebrate the ninetieth birthday of their matriarch.
+  2. She was the respected matriarch who ran the family business for decades.
 
 ## 42: Matriculate
 - **Dissection:** [ma-tric-u-late]
 - **Meaning:** Someone who has been admitted to a college or university
 - **Hindi:** मैट्रिक
 - **Examples:**
-  1. Learning the word 'matriculate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'matriculate' in daily conversations.
+  1. The university welcomed the new students who came to matriculate this fall.
+  2. He plans to matriculate at a local college to study engineering.
 
 ## 43: Maudlin
 - **Dissection:** [maudlin]
 - **Meaning:** Effusively or insincerely emotional
 - **Hindi:** भावुक
 - **Examples:**
-  1. A bathetic novel.
-  2. Maudlin expressions of sympathy.
+  1. The conversation became maudlin as they drank wine and remembered their old pet.
+  2. The movie was criticized for its maudlin ending, which felt cheap and manipulative.
 
 ## 44: Maul
 - **Dissection:** [maul]
@@ -355,8 +355,8 @@
 - **Meaning:** A large burial chamber, usually above ground
 - **Hindi:** समाधि
 - **Examples:**
-  1. Learning the word 'mausoleum' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mausoleum' in daily conversations.
+  1. The wealthy merchant built a grand marble mausoleum for his family.
+  2. The historical park features the ancient mausoleum of the founding king.
 
 ## 46: Maverick
 - **Dissection:** [mav-er-ick]
@@ -491,8 +491,8 @@
 - **Meaning:** Given to lying
 - **Hindi:** मिथ्या
 - **Examples:**
-  1. A mendacious child.
-  2. A mendacious statement.
+  1. The tabloid newspaper was sued for publishing a mendacious article about the mayor.
+  2. We should ignore his mendacious claims, as he has a history of lying to get attention.
 
 ## 63: Mendicant
 - **Dissection:** [men-dic-ant]
@@ -539,8 +539,8 @@
 - **Meaning:** Liable to sudden unpredictable change
 - **Hindi:** अस्थिर
 - **Examples:**
-  1. Erratic behavior.
-  2. Fickle weather.
+  1. Her mercurial temper made it difficult for her coworkers to anticipate her reactions.
+  2. The weather in spring can be highly mercurial, shifting from sun to rain in minutes.
 
 ## 69: Meretricious
 - **Dissection:** [mere-tri-cious]
@@ -588,7 +588,7 @@
 - **Hindi:** रूपक
 - **Examples:**
   1. Desktop metaphor; wastebasket metaphor.
-  2. It is beneficial to understand the meaning and context of 'metaphor' in daily conversations.
+  2. Suit: I am the best metaphor person ever.
 
 ## 75: Metaphysical
 - **Dissection:** [meta-phys-ic-al]
@@ -651,8 +651,8 @@
 - **Meaning:** A miniature model of something
 - **Hindi:** मनुष्य का सूक्ष्म दर्शन
 - **Examples:**
-  1. Learning the word 'microcosm' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'microcosm' in daily conversations.
+  1. The diverse classroom served as a perfect microcosm of the city's population.
+  2. The small island community is a microcosm of the challenges faced by the nation.
 
 ## 83: Migrant
 - **Dissection:** [mi-grant]
@@ -676,7 +676,7 @@
 - **Hindi:** प्रतिवेश
 - **Examples:**
   1. You danced two tangos and a paso doble, which must have been fairly enervating in that milieu.
-  2. It is beneficial to understand the meaning and context of 'milieu' in daily conversations.
+  2. Monsteroux-Milieu (French pronunciation: [mɔ̃stəʁu miljø]) is a commune in the Isère department in southeastern France.
 
 ## 86: Militant
 - **Dissection:** [mil-it-ant]
@@ -691,8 +691,8 @@
 - **Meaning:** A span of 1000 years
 - **Hindi:** सहस्राब्दी
 - **Examples:**
-  1. Learning the word 'millennium' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'millennium' in daily conversations.
+  1. The ancient ruins had stood on the mountain for more than a millennium.
+  2. The turn of the millennium was celebrated with spectacular fireworks around the world.
 
 ## 88: Mimicry
 - **Dissection:** [mim-icry]
@@ -700,7 +700,7 @@
 - **Hindi:** अनुकरण
 - **Examples:**
   1. They say that mimicry is the sincerest form of flattery, but I still think I'm being mocked when he acts just like me.
-  2. It is beneficial to understand the meaning and context of 'mimicry' in daily conversations.
+  2. An alternative term, Peckhamian mimicry, has been suggested (after George and Elizabeth Peckham), but it is seldom used.
 
 ## 89: Minatory
 - **Dissection:** [min-at-ory]
@@ -739,8 +739,8 @@
 - **Meaning:** An optical illusion in which atmospheric refraction by a layer of hot air distorts or inverts reflections of distant objects
 - **Hindi:** मृगतृष्णा
 - **Examples:**
-  1. Learning the word 'mirage' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mirage' in daily conversations.
+  1. The travelers realized the lake on the horizon was just a desert mirage.
+  2. His hope of quick wealth proved to be nothing but a passing mirage.
 
 ## 94: Mire
 - **Dissection:** [mire]
@@ -763,8 +763,8 @@
 - **Meaning:** Someone who dislikes people in general
 - **Hindi:** मानवद्वेषी
 - **Examples:**
-  1. Learning the word 'misanthrope' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'misanthrope' in daily conversations.
+  1. The old misanthrope lived alone in the forest and refused to speak to anyone.
+  2. His cynical views on society earned him a reputation as a bitter misanthrope.
 
 ## 97: Misapprehension
 - **Dissection:** [mis-ap-pre-hen-sion]
@@ -804,15 +804,15 @@
 - **Hindi:** बदमाश
 - **Examples:**
   1. The teacher sent the miscreants to see the school principal.
-  2. It is beneficial to understand the meaning and context of 'miscreant' in daily conversations.
+  2. The two men engage in philosophical discussions while they work out how to find some clothes for the miscreant.
 
 ## 102: Misdemeanor
 - **Dissection:** [mis-de-mean-or]
 - **Meaning:** A crime less serious than a felony
 - **Hindi:** दुष्कर्म
 - **Examples:**
-  1. Learning the word 'misdemeanor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'misdemeanor' in daily conversations.
+  1. The teenager was fined for a minor misdemeanor instead of a serious crime.
+  2. Shoplifting a small item is classified as a misdemeanor under local law.
 
 ## 103: Miserly
 - **Dissection:** [miserly]
@@ -843,8 +843,8 @@
 - **Meaning:** An incorrect or unsuitable name
 - **Hindi:** मिथ्या नाम
 - **Examples:**
-  1. Calling it a driveway is a bit of a misnomer, since you don't drive on it, you park on it.
-  2. Chinese checkers is a misnomer since the game has nothing to do with China.
+  1. Calling the peaceful dog 'Killer' is a complete misnomer.
+  2. The term 'dry cleaning' is a misnomer, as liquid solvents are actually used.
 
 ## 107: Misogynist
 - **Dissection:** [miso-gyn-ist]
@@ -852,7 +852,7 @@
 - **Hindi:** स्री जाति से द्वेष करनेवाला
 - **Examples:**
   1. He is a recluse, an incredible egotist, a confirmed misogynist.
-  2. It is beneficial to understand the meaning and context of 'misogynist' in daily conversations.
+  2. He has been dubbed the "king of toxic masculinity", has called himself a misogynist, and is politically described as both right-wing and far-right.
 
 ## 108: Missive
 - **Dissection:** [missive]
@@ -963,8 +963,8 @@
 - **Meaning:** An autocracy governed by a monarch who usually inherits the authority
 - **Hindi:** साम्राज्य
 - **Examples:**
-  1. Learning the word 'monarchy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'monarchy' in daily conversations.
+  1. The nation transitioned from a absolute monarchy to a democracy.
+  2. The citizens celebrated the coronation of the new head of the monarchy.
 
 ## 122: Monastic
 - **Dissection:** [mon-ast-ic]
@@ -987,16 +987,16 @@
 - **Meaning:** Imposing in size or bulk or solidity
 - **Hindi:** अखंड
 - **Examples:**
-  1. Massive oak doors.
-  2. Moore's massive sculptures.
+  1. The historical site features several massive, monolithic stone pillars.
+  2. Critics argued that the government was a monolithic bureaucracy that ignored citizens.
 
 ## 125: Monotheism
 - **Dissection:** [mono-the-ism]
 - **Meaning:** Belief in a single God
 - **Hindi:** अद्वैतवाद
 - **Examples:**
-  1. Learning the word 'monotheism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'monotheism' in daily conversations.
+  1. Judaism, Christianity, and Islam are famous examples of monotheism.
+  2. The professor gave a lecture on the historical origins of monotheism.
 
 ## 126: Monotony
 - **Dissection:** [mono-tony]
@@ -1019,8 +1019,8 @@
 - **Meaning:** A sullen gloomy feeling
 - **Hindi:** मनोदशा
 - **Examples:**
-  1. Learning the word 'moodiness' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'moodiness' in daily conversations.
+  1. Her sudden moodiness made it difficult for her friends to plan activities.
+  2. The doctor suggested that his moodiness was caused by lack of sleep.
 
 ## 129: Moratorium
 - **Dissection:** [morator-i-um]
@@ -1043,16 +1043,16 @@
 - **Meaning:** (sociology) the conventions that embody the fundamental values of a group
 - **Hindi:** आचार-विचार
 - **Examples:**
-  1. Learning the word 'mores' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mores' in daily conversations.
+  1. The book explores the social mores and traditions of Victorian England.
+  2. It is important to respect the local mores when visiting a new country.
 
 ## 132: Moribund
 - **Dissection:** [moribund]
 - **Meaning:** Not growing or changing; without force or vitality
 - **Hindi:** मरणासन्न
 - **Examples:**
-  1. A moribund patient.
-  2. It is beneficial to understand the meaning and context of 'moribund' in daily conversations.
+  1. The old factory had been in a moribund state for years before finally closing down.
+  2. The doctor explained that the patient's damaged organs were in a moribund condition.
 
 ## 133: Morose
 - **Dissection:** [mor-ose]
@@ -1067,8 +1067,8 @@
 - **Meaning:** One whose business is the management of funerals
 - **Hindi:** ताबूत बनानेवाला
 - **Examples:**
-  1. Learning the word 'mortician' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mortician' in daily conversations.
+  1. The mortician prepared the body for the funeral service.
+  2. He worked as a licensed mortician at the family-owned funeral home.
 
 ## 135: Mortify
 - **Dissection:** [mor-ti-fy]
@@ -1203,8 +1203,8 @@
 - **Meaning:** Resembling the smell of musk
 - **Hindi:** कस्तूरी
 - **Examples:**
-  1. Learning the word 'musky' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'musky' in daily conversations.
+  1. The room was filled with the musky scent of old books and wood.
+  2. She preferred a perfume with a warm, musky fragrance.
 
 ## 152: Muster
 - **Dissection:** [muster]
@@ -1219,8 +1219,8 @@
 - **Meaning:** The quality of being capable of mutation
 - **Hindi:** अस्थिरता
 - **Examples:**
-  1. Learning the word 'mutability' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mutability' in daily conversations.
+  1. The philosopher wrote about the mutability of human fortune and luck.
+  2. The constant mutability of the weather makes planning outdoor events hard.
 
 ## 154: Muted
 - **Dissection:** [muted]

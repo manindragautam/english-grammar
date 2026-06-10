@@ -91,8 +91,8 @@
 - **Meaning:** Wharf usually built parallel to the shoreline
 - **Hindi:** घाट
 - **Examples:**
-  1. Learning the word 'quay' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'quay' in daily conversations.
+  1. The fishing boats were tied to the wooden quay along the harbor.
+  2. We took a pleasant evening walk along the stone quay.
 
 ## 13: Queasy
 - **Dissection:** [queasy]
@@ -155,8 +155,8 @@
 - **Meaning:** A state of peace and quiet
 - **Hindi:** वैराग्य
 - **Examples:**
-  1. Learning the word 'quietude' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'quietude' in daily conversations.
+  1. She enjoyed the peaceful quietude of the forest during her morning walk.
+  2. The library offered a welcome quietude away from the noisy streets.
 
 ## 21: Quintessence
 - **Dissection:** [quint-essence]
@@ -172,7 +172,7 @@
 - **Hindi:** ताना
 - **Examples:**
   1. The students were gagging during dinner.
-  2. It is beneficial to understand the meaning and context of 'quip' in daily conversations.
+  2. Bimbo tourist # 2: Quip.
 
 ## 23: Quirk
 - **Dissection:** [quirk]

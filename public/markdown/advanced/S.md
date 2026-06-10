@@ -3,16 +3,16 @@
 - **Meaning:** Someone who commits sabotage or deliberately causes wrecks
 - **Hindi:** नुक़सान पहुंचानेवाला
 - **Examples:**
-  1. Learning the word 'saboteur' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'saboteur' in daily conversations.
+  1. The security guards caught the saboteur who attempted to damage the factory.
+  2. The railway line was damaged by a group of enemy saboteurs.
 
 ## 2: Saccharine
 - **Dissection:** [sac-char-ine]
 - **Meaning:** Overly sweet
 - **Hindi:** चीनी का
 - **Examples:**
-  1. Learning the word 'saccharine' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'saccharine' in daily conversations.
+  1. I dislike her saccharine smile, which feels completely fake and dishonest.
+  2. The movie was criticized for its saccharine dialogue and cheesy plot.
 
 ## 3: Sacrilegious
 - **Dissection:** [sac-ri-le-gious]
@@ -27,16 +27,16 @@
 - **Meaning:** Must be kept sacred
 - **Hindi:** पवित्र
 - **Examples:**
-  1. Learning the word 'sacrosanct' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sacrosanct' in daily conversations.
+  1. The terms of the ancient treaty were considered sacrosanct by both nations.
+  2. For the designer, his quiet morning coffee time was completely sacrosanct.
 
 ## 5: Sadistic
 - **Dissection:** [sad-ist-ic]
 - **Meaning:** Deriving pleasure or sexual gratification from inflicting pain on another
 - **Hindi:** परपीड़क
 - **Examples:**
-  1. Learning the word 'sadistic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sadistic' in daily conversations.
+  1. The guards were accused of showing sadistic behavior toward the prisoners.
+  2. He took a sadistic pleasure in pointing out the mistakes of his colleagues.
 
 ## 6: Saga
 - **Dissection:** [saga]
@@ -51,8 +51,8 @@
 - **Meaning:** Acutely insightful and wise
 - **Hindi:** मेधावी
 - **Examples:**
-  1. Much too perspicacious to be taken in by such a spurious argument.
-  2. Observant and thoughtful, he was given to asking sagacious questions.
+  1. The king relied on the sagacious advice of his most trusted counselors.
+  2. She made a sagacious investment that grew in value over the next ten years.
 
 ## 8: Sage
 - **Dissection:** [sage]
@@ -99,8 +99,8 @@
 - **Meaning:** Promoting health; healthful; ; ; ; ; - C.B.Davis
 - **Hindi:** स्वास्थ्यप्रद
 - **Examples:**
-  1. A healthy diet.
-  2. Clean healthy air.
+  1. The warm, dry climate of the desert is considered highly salubrious for health.
+  2. We enjoyed a salubrious walk along the clean beach during our morning break.
 
 ## 14: Salutary
 - **Dissection:** [salut-ary]
@@ -123,8 +123,8 @@
 - **Meaning:** Excessively or hypocritically pious
 - **Hindi:** पाखंडी
 - **Examples:**
-  1. Perhaps you think the editorial meetings are solemn affairs, a little sanctimonious??
-  2. A sickening sanctimonious smile.
+  1. I dislike his sanctimonious lectures about morality, as he rarely follows his own rules.
+  2. She gave a sanctimonious sigh, pretending to be deeply concerned about our behavior.
 
 ## 17: Sanctuary
 - **Dissection:** [sanc-tu-ary]
@@ -235,8 +235,8 @@
 - **Meaning:** Man with strong sexual desires
 - **Hindi:** ऐयाश
 - **Examples:**
-  1. Learning the word 'satyr' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'satyr' in daily conversations.
+  1. In Greek myths, a satyr is a forest spirit represented as having goat horns.
+  2. The ancient stone vase is decorated with paintings of satyrs and nymphs.
 
 ## 31: Saunter
 - **Dissection:** [saunter]
@@ -251,8 +251,8 @@
 - **Meaning:** Someone who has been admitted to membership in a scholarly field
 - **Hindi:** पंडित
 - **Examples:**
-  1. Learning the word 'savant' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'savant' in daily conversations.
+  1. The math savant could multiply large numbers in his head within seconds.
+  2. The university invited a world-famous savant to deliver the keynote address.
 
 ## 33: Savor
 - **Dissection:** [sa-vor]
@@ -275,8 +275,8 @@
 - **Meaning:** Any of a number of fishes of the family Carangidae
 - **Hindi:** एक प्रकार की मछली
 - **Examples:**
-  1. Learning the word 'scad' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'scad' in daily conversations.
+  1. The local library offers scads of resources for anyone doing research.
+  2. She spent scads of money buying presents for her family during holidays.
 
 ## 36: Scaffold
 - **Dissection:** [scaf-fold]
@@ -307,8 +307,8 @@
 - **Meaning:** Someone who is punished for the errors of others
 - **Hindi:** बलि का बकरा
 - **Examples:**
-  1. He is making me a scapegoat.
-  2. It is beneficial to understand the meaning and context of 'scapegoat' in daily conversations.
+  1. The manager tried to make the new employee a scapegoat for the failed project.
+  2. The politician was used as a scapegoat by his party after the scandal broke.
 
 ## 40: Scavenge
 - **Dissection:** [scav-enge]
@@ -332,15 +332,15 @@
 - **Hindi:** ढांच के रूप में
 - **Examples:**
   1. I'll have to study the schematics for the new integrated circuit before I can create a good layout.
-  2. It is beneficial to understand the meaning and context of 'schematic' in daily conversations.
+  2. A schematic, abstract treatment of men and animals, by intent, rose only in the late eighth century.
 
 ## 43: Schism
 - **Dissection:** [schism]
 - **Meaning:** Division of a group into opposing factions
 - **Hindi:** फूट
 - **Examples:**
-  1. Another schism like that and they will wind up in bankruptcy.
-  2. The schism between Sunnis and Shias happened quite early in Islamic history.
+  1. A major schism split the political party into two competing factions before the election.
+  2. The board of directors worked to resolve the schism and restore unity.
 
 ## 44: Scintilla
 - **Dissection:** [scin-tilla]
@@ -419,8 +419,8 @@
 - **Meaning:** Expressing offensive reproach
 - **Hindi:** मिथ्या
 - **Examples:**
-  1. We have had our address used by scurrilous crooks in the past to gain assets by fraud.
-  2. It is beneficial to understand the meaning and context of 'scurrilous' in daily conversations.
+  1. The politician faced criticism for making scurrilous attacks against his rival.
+  2. The tabloid newspaper published a scurrilous article filled with baseless lies.
 
 ## 54: Scurry
 - **Dissection:** [scurry]
@@ -428,7 +428,7 @@
 - **Hindi:** बौछाड़
 - **Examples:**
   1. So terrified by the extraordinary ebbing of the sea that they scurried to higher ground.
-  2. It is beneficial to understand the meaning and context of 'scurry' in daily conversations.
+  2. Scurry- on / Marty, I want movement!
 
 ## 55: Scurvy
 - **Dissection:** [scurvy]
@@ -500,7 +500,7 @@
 - **Hindi:** संप्रदाय
 - **Examples:**
   1. A religious sect.
-  2. It is beneficial to understand the meaning and context of 'sect' in daily conversations.
+  2. The Ch'an ( Zen ) sect may have derived its metaphysic from Mahayana, but its psychology was pure early Taoist.
 
 ## 64: Sectarian
 - **Dissection:** [sec-tari-an]
@@ -531,8 +531,8 @@
 - **Meaning:** An illegal action inciting resistance to lawful authority and tending to cause the disruption or overthrow of the government
 - **Hindi:** राजद्रोह
 - **Examples:**
-  1. Learning the word 'sedition' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sedition' in daily conversations.
+  1. The rebel leader was arrested and charged with sedition against the state.
+  2. The government banned the pamphlet, calling it a dangerous piece of sedition.
 
 ## 68: Sedulous
 - **Dissection:** [sed-u-lous]
@@ -587,16 +587,16 @@
 - **Meaning:** Mental infirmity as a consequence of old age; sometimes shown by foolish infatuations
 - **Hindi:** बुढ़ापा
 - **Examples:**
-  1. He was entering his years of senility and not liking it a bit.
-  2. It is beneficial to understand the meaning and context of 'senility' in daily conversations.
+  1. The elderly doctor showed no signs of senility, remaining sharp and active.
+  2. The family worked together to care for their grandfather as he entered senility.
 
 ## 75: Sensitization
 - **Dissection:** [sens-it-iz-a-tion]
 - **Meaning:** The state of being sensitive (as to an antigen)
 - **Hindi:** संवेदीकरण
 - **Examples:**
-  1. Learning the word 'sensitization' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sensitization' in daily conversations.
+  1. The company organized a sensitization program to promote workplace safety.
+  2. Exposure to the chemical can cause a sensitization of the skin over time.
 
 ## 76: Sensual
 - **Dissection:** [sen-su-al]
@@ -635,8 +635,8 @@
 - **Meaning:** Good luck in making unexpected and fortunate discoveries
 - **Hindi:** नसीब
 - **Examples:**
-  1. Learning the word 'serendipity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'serendipity' in daily conversations.
+  1. Finding the rare book in a small local shop was a moment of pure serendipity.
+  2. They met by serendipity at a transit station and became lifelong friends.
 
 ## 81: Serenity
 - **Dissection:** [serenity]
@@ -667,8 +667,8 @@
 - **Meaning:** Submissive or fawning in attitude or behavior
 - **Hindi:** ग़ुलामी का
 - **Examples:**
-  1. Spoke in a servile tone.
-  2. The incurably servile housekeeper.
+  1. The obsequious assistant had a servile attitude that annoyed his coworkers.
+  2. She refused to show servile obedience to a manager who did not respect her.
 
 ## 85: Servitude
 - **Dissection:** [ser-vitude]
@@ -723,8 +723,8 @@
 - **Meaning:** A broken piece of a brittle artifact
 - **Hindi:** ठीकरा
 - **Examples:**
-  1. Learning the word 'shard' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'shard' in daily conversations.
+  1. He accidentally stepped on a sharp shard of broken glass on the kitchen floor.
+  2. Archeologists discovered shards of ancient pottery buried under the sand.
 
 ## 92: Sheaf
 - **Dissection:** [sheaf]
@@ -747,8 +747,8 @@
 - **Meaning:** A frozen dessert made primarily of fruit juice and sugar, but also containing milk or egg-white or gelatin
 - **Hindi:** शर्बत
 - **Examples:**
-  1. Learning the word 'sherbet' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sherbet' in daily conversations.
+  1. We enjoyed a refreshing scoop of lemon sherbet on the hot summer afternoon.
+  2. The children ordered orange and raspberry sherbets from the ice cream cart.
 
 ## 95: Shimmer
 - **Dissection:** [shim-mer]
@@ -779,8 +779,8 @@
 - **Meaning:** A scolding nagging bad-tempered woman
 - **Hindi:** कर्कशा
 - **Examples:**
-  1. Learning the word 'shrew' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'shrew' in daily conversations.
+  1. The old story tells the tale of a husband who attempts to tame a wild shrew.
+  2. He complained that his neighbor was an angry shrew who shouted at everyone.
 
 ## 99: Shrewd
 - **Dissection:** [shrewd]
@@ -811,8 +811,8 @@
 - **Meaning:** A person (especially a lawyer or politician) who uses unscrupulous or unethical methods
 - **Hindi:** शाइस्टर
 - **Examples:**
-  1. Learning the word 'shyster' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'shyster' in daily conversations.
+  1. The shyster lawyer charged exorbitant fees for simple legal advice.
+  2. Do not trust that shyster merchant who sells low-quality goods at high prices.
 
 ## 103: Sibling
 - **Dissection:** [sib-ling]
@@ -867,8 +867,8 @@
 - **Meaning:** A silly self-conscious smile
 - **Hindi:** मुसकुराना
 - **Examples:**
-  1. Learning the word 'simper' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'simper' in daily conversations.
+  1. She gave a silly simper when the actor walked past her table.
+  2. I could not stand his nervous simper during the important interview.
 
 ## 110: Simplistic
 - **Dissection:** [simplist-ic]
@@ -883,8 +883,8 @@
 - **Meaning:** A benefice to which no spiritual or pastoral duties are attached
 - **Hindi:** सिनेक्योर
 - **Examples:**
-  1. By some writers this office is called a sinecure.
-  2. It is beneficial to understand the meaning and context of 'sinecure' in daily conversations.
+  1. His position at the firm was a complete sinecure, requiring no real work.
+  2. The political ally was rewarded with a comfortable sinecure in the government.
 
 ## 112: Sinewy
 - **Dissection:** [sinewy]
@@ -899,8 +899,8 @@
 - **Meaning:** Threatening or foreshadowing evil or tragic developments
 - **Hindi:** भयावह
 - **Examples:**
-  1. A baleful look.
-  2. Forbidding thunderclouds.
+  1. The dark, empty house on the corner of the street had a sinister look.
+  2. We heard a sinister whisper coming from behind the locked wooden door.
 
 ## 114: Sinuous
 - **Dissection:** [sinu-ous]
@@ -915,8 +915,8 @@
 - **Meaning:** Someone who habitually doubts accepted beliefs
 - **Hindi:** संदेहवादी
 - **Examples:**
-  1. Learning the word 'skeptic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'skeptic' in daily conversations.
+  1. A true skeptic will always demand clear evidence before believing a new claim.
+  2. He remained a skeptic about the benefits of the new economic policy.
 
 ## 116: Skiff
 - **Dissection:** [skiff]
@@ -939,8 +939,8 @@
 - **Meaning:** A selfish person who is unwilling to give or spend
 - **Hindi:** कंजूस
 - **Examples:**
-  1. Learning the word 'skinflint' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'skinflint' in daily conversations.
+  1. The old skinflint refused to donate even a single dollar to the local charity.
+  2. Our landlord is a skinflint who refuses to spend money on fixing the heating.
 
 ## 119: Skirmish
 - **Dissection:** [skir-mish]
@@ -971,8 +971,8 @@
 - **Meaning:** The scum formed by oxidation at the surface of molten metals
 - **Hindi:** लावा
 - **Examples:**
-  1. Learning the word 'slag' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'slag' in daily conversations.
+  1. The industrial plant dumped heaps of dark slag near the edge of the town.
+  2. The steel manufacturing process produces a large amount of molten slag.
 
 ## 123: Slake
 - **Dissection:** [slake]
@@ -1019,8 +1019,8 @@
 - **Meaning:** Adroitness in using the hands
 - **Hindi:** सफ़ाई
 - **Examples:**
-  1. Learning the word 'sleight' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sleight' in daily conversations.
+  1. The card trick relied on rapid hand movements and clever sleight of hand.
+  2. He resolved the political dispute using a masterly sleight of diplomacy.
 
 ## 129: Slipshod
 - **Dissection:** [slip-shod]
@@ -1123,8 +1123,8 @@
 - **Meaning:** A disrespectful laugh
 - **Hindi:** हिनहिनाहट
 - **Examples:**
-  1. Learning the word 'snicker' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'snicker' in daily conversations.
+  1. We heard a quiet snicker from the back of the classroom during the speech.
+  2. Do not snicker at other people's mistakes; offer to help them instead.
 
 ## 142: Snivel
 - **Dissection:** [sniv-el]
@@ -1132,7 +1132,7 @@
 - **Hindi:** बच्चे की तरह रोना
 - **Examples:**
   1. Stop snivelling--you got yourself into this mess!
-  2. It is beneficial to understand the meaning and context of 'snivel' in daily conversations.
+  2. I do not snivel that snivel the world over, That months are vacuums and the ground but wallow and filth.
 
 ## 143: Sobriety
 - **Dissection:** [sobri-ety]
@@ -1155,16 +1155,16 @@
 - **Meaning:** A temporary stay (e.g., as a guest)
 - **Hindi:** डेरा डालना
 - **Examples:**
-  1. During a sojourn of slightly more than three months Chamberlain Littlepage could see action on both elements.
-  2. 19: 33 And if a stranger sojourn with thee in your land, ye shall not vex him.
+  1. After a brief sojourn in Paris, she returned to her office in London.
+  2. The artist spent a peaceful summer sojourn in a small village by the sea.
 
 ## 146: Solace
 - **Dissection:** [solace]
 - **Meaning:** The comfort you feel when consoled in times of disappointment
 - **Hindi:** सांत्वना
 - **Examples:**
-  1. Second place was no consolation to him.
-  2. His presence was a consolation to her.
+  1. She found solace in reading poetry after the loss of her close friend.
+  2. The quiet garden offered a welcome solace from the busy city streets.
 
 ## 147: Solder
 - **Dissection:** [solder]
@@ -1179,8 +1179,8 @@
 - **Meaning:** A socially awkward or tactless act
 - **Hindi:** प्रमाद
 - **Examples:**
-  1. Learning the word 'solecism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'solecism' in daily conversations.
+  1. The editor corrected a minor solecism in the first sentence of the article.
+  2. His behavior at the formal dinner was considered a serious social solecism.
 
 ## 149: Solemnity
 - **Dissection:** [solem-nity]
@@ -1259,8 +1259,8 @@
 - **Meaning:** Someone who walks about in their sleep
 - **Hindi:** नींद में चलनेवाला
 - **Examples:**
-  1. Learning the word 'somnambulist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'somnambulist' in daily conversations.
+  1. The somnambulist walked down the hallway in her sleep, completely unaware.
+  2. The doctor suggested a sleep study to help manage the young somnambulist.
 
 ## 159: Somnolent
 - **Dissection:** [som-no-lent]
@@ -1291,8 +1291,8 @@
 - **Meaning:** A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone
 - **Hindi:** सत्य का आभास
 - **Examples:**
-  1. Learning the word 'sophistry' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sophistry' in daily conversations.
+  1. The lawyer's argument was a clever piece of sophistry designed to mislead the jury.
+  2. I was not fooled by his political sophistry, as the facts told a different story.
 
 ## 163: Sophomoric
 - **Dissection:** [sopho-mor-ic]
@@ -1331,8 +1331,8 @@
 - **Meaning:** Affected by involuntary jerky muscular contractions; resembling a spasm
 - **Hindi:** अकड़नेवाला
 - **Examples:**
-  1. Convulsive motions.
-  2. His body made a spasmodic jerk.
+  1. The old engine started with a series of spasmodic coughs and loud sputters.
+  2. He made spasmodic efforts to study, but he could not maintain his focus.
 
 ## 168: Spat
 - **Dissection:** [spat]
@@ -1355,8 +1355,8 @@
 - **Meaning:** A turner with a narrow flexible blade
 - **Hindi:** रंग
 - **Examples:**
-  1. Learning the word 'spatula' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'spatula' in daily conversations.
+  1. She used a silicone spatula to scrape the cake batter out of the bowl.
+  2. The chef flipped the pancakes on the grill using a wide metal spatula.
 
 ## 171: Spawn
 - **Dissection:** [spawn]
@@ -1371,8 +1371,8 @@
 - **Meaning:** Plausible but false
 - **Hindi:** दिखौवा
 - **Examples:**
-  1. A specious claim.
-  2. Spurious inferences.
+  1. His argument sounded convincing at first, but it proved to be specious.
+  2. We should avoid making decisions based on specious claims and rumors.
 
 ## 173: Spectral
 - **Dissection:** [spec-tral]
@@ -1419,8 +1419,8 @@
 - **Meaning:** Recurring in scattered and irregular or unpredictable instances
 - **Hindi:** छिटपुट
 - **Examples:**
-  1. Student leaders began sporadic efforts to negotiate theater integration several months ago.
-  2. As their identity diffusion increased, they became more susceptible to sporadic diversions in love and sexual affairs.
+  1. The area experienced sporadic power outages during the severe thunderstorm.
+  2. He made sporadic progress on the project, working only when he felt inspired.
 
 ## 179: Sportive
 - **Dissection:** [sport-ive]
@@ -1443,8 +1443,8 @@
 - **Meaning:** Plausible but false
 - **Hindi:** जाली
 - **Examples:**
-  1. A specious claim.
-  2. Spurious inferences.
+  1. The expert exposed the painting as a spurious copy of the famous masterpiece.
+  2. He was arrested for attempting to buy goods with spurious currency notes.
 
 ## 182: Spurn
 - **Dissection:** [spurn]
@@ -1467,8 +1467,8 @@
 - **Meaning:** Sordid dirtiness
 - **Hindi:** गंदगी
 - **Examples:**
-  1. Learning the word 'squalor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'squalor' in daily conversations.
+  1. The refugees lived in extreme squalor, lacking clean water and electricity.
+  2. The reformers worked to clear the urban slums and improve living squalor.
 
 ## 185: Squander
 - **Dissection:** [squander]
@@ -1499,8 +1499,8 @@
 - **Meaning:** Not circulating or flowing
 - **Hindi:** आलसी
 - **Examples:**
-  1. Dead air.
-  2. Dead water.
+  1. The water in the abandoned swimming pool became green and stagnant.
+  2. The company's sales remained stagnant for three years without any growth.
 
 ## 189: Staid
 - **Dissection:** [staid]
@@ -1532,7 +1532,7 @@
 - **Hindi:** सहनशीलता
 - **Examples:**
   1. He has a lot of stamina. I suppose that's why he can run for a long time.
-  2. It is beneficial to understand the meaning and context of 'stamina' in daily conversations.
+  2. We must acquire proficiency in defense and display stamina in purpose.
 
 ## 193: Stanch
 - **Dissection:** [stanch]
@@ -1547,8 +1547,8 @@
 - **Meaning:** A fixed number of lines of verse forming a unit of a poem
 - **Hindi:** छंद
 - **Examples:**
-  1. Learning the word 'stanza' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'stanza' in daily conversations.
+  1. The poem consists of four stanzas, each containing five rhyming lines.
+  2. She recited the first stanza of the national anthem during the ceremony.
 
 ## 195: Statute
 - **Dissection:** [stat-ute]
@@ -1587,16 +1587,16 @@
 - **Meaning:** Used of the voice
 - **Hindi:** बुलंद
 - **Examples:**
-  1. Learning the word 'stentorian' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'stentorian' in daily conversations.
+  1. The sergeant gave his commands in a stentorian voice that echoed across the field.
+  2. We could hear the manager's stentorian laugh from the other side of the office.
 
 ## 200: Stereotype
 - **Dissection:** [ste-reo-type]
 - **Meaning:** A conventional or formulaic conception or image
 - **Hindi:** टकसाली
 - **Examples:**
-  1. Regional stereotypes have been part of America since its founding.
-  2. I was stereotyped as a lazy Southern European.
+  1. The movie was criticized for relying on simple stereotypes instead of real characters.
+  2. It is important to challenge the negative stereotypes associated with certain groups.
 
 ## 201: Sterile
 - **Dissection:** [sterile]
@@ -1627,8 +1627,8 @@
 - **Meaning:** The apical end of the style where deposited pollen enters the pistil
 - **Hindi:** कलंक
 - **Examples:**
-  1. Now how did this odious stigma originate?
-  2. And the Lord set a mark upon Cain.
+  1. The organization worked to reduce the social stigma associated with mental illness.
+  2. In the past, there was a heavy stigma attached to filing for bankruptcy.
 
 ## 205: Stilted
 - **Dissection:** [stil-ted]
@@ -1651,8 +1651,8 @@
 - **Meaning:** A sum of money allotted on a regular basis; usually for some specific purpose
 - **Hindi:** वेतन
 - **Examples:**
-  1. My stipend for doing public service is barely enough to cover living expenses.
-  2. It is beneficial to understand the meaning and context of 'stipend' in daily conversations.
+  1. The university offered a monthly stipend to help graduate students pay for rent.
+  2. She received a small stipend to cover her travel expenses during the internship.
 
 ## 208: Stipulate
 - **Dissection:** [stip-u-late]
@@ -1683,8 +1683,8 @@
 - **Meaning:** Stir up or tend; of a fire
 - **Hindi:** ईधन झोंकना
 - **Examples:**
-  1. Learning the word 'stoke' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'stoke' in daily conversations.
+  1. He used a metal poker to stoke the fire and keep the cabin warm.
+  2. The coach gave an exciting speech to stoke the team's enthusiasm.
 
 ## 212: Stolid
 - **Dissection:** [stol-id]
@@ -1723,8 +1723,8 @@
 - **Meaning:** Mark with striae or striations
 - **Hindi:** धारीदार
 - **Examples:**
-  1. Learning the word 'striated' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'striated' in daily conversations.
+  1. The geologist examined the striated rock surface left by the ancient glacier.
+  2. The microscope slide showed the detailed structure of striated muscle fibers.
 
 ## 217: Stricture
 - **Dissection:** [stric-ture]
@@ -1739,8 +1739,8 @@
 - **Meaning:** Conspicuously and offensively loud; given to vehement outcry
 - **Hindi:** तेज़
 - **Examples:**
-  1. Blatant radios.
-  2. A clamorous uproar.
+  1. The angry customer made strident complaints that could be heard by everyone.
+  2. The local newspaper published a strident editorial criticizing the mayor.
 
 ## 219: Stringent
 - **Dissection:** [strin-gent]
@@ -1771,8 +1771,8 @@
 - **Meaning:** Prove to be of unsound mind or demonstrate someone's incompetence
 - **Hindi:** मूर्ख बनाना
 - **Examples:**
-  1. Nobody is legally allowed to stultify himself.
-  2. He stultified himself by contradicting himself and being inconsistent.
+  1. Excessive bureaucracy can stultify the creative efforts of the employees.
+  2. The strict rules of the school seemed designed to stultify independent thought.
 
 ## 223: Stupefy
 - **Dissection:** [stu-pefy]
@@ -1811,8 +1811,8 @@
 - **Meaning:** The quality of being bland and gracious or ingratiating in manner
 - **Hindi:** मधुरता
 - **Examples:**
-  1. Suavity of language, conversation, or address.
-  2. It is beneficial to understand the meaning and context of 'suavity' in daily conversations.
+  1. The diplomat was famous for his suavity and ability to resolve disputes calmly.
+  2. He spoke with a smooth suavity that made a great impression on the clients.
 
 ## 228: Subaltern
 - **Dissection:** [sub-al-tern]
@@ -1835,8 +1835,8 @@
 - **Meaning:** Put down by force or intimidation
 - **Hindi:** अधीन करना
 - **Examples:**
-  1. The government quashes any attempt of an uprising.
-  2. China keeps down her dissidents very efficiently.
+  1. The ancient king sought to subjugate all the independent tribes in the region.
+  2. The invading forces worked quickly to subjugate the local population.
 
 ## 231: Sublimate
 - **Dissection:** [sub-lim-ate]
@@ -1859,8 +1859,8 @@
 - **Meaning:** Below the threshold of conscious perception
 - **Hindi:** अचेतन
 - **Examples:**
-  1. Learning the word 'subliminal' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'subliminal' in daily conversations.
+  1. The advertisement used subliminal messages to influence consumer choices.
+  2. The music created a subliminal feeling of suspense during the movie scene.
 
 ## 234: Submissive
 - **Dissection:** [sub-missive]
@@ -1891,8 +1891,8 @@
 - **Meaning:** Compliant and obedient to authority; -G. B. Shaw
 - **Hindi:** अधीन
 - **Examples:**
-  1. Editors and journalists who express opinions in print that are opposed to the interests of the rich are dismissed and replaced by subservient ones.
-  2. Instrumental in solving the crime.
+  1. She refused to be subservient to anyone, demanding to be treated as an equal.
+  2. The committee was criticized for being subservient to the wishes of the sponsor.
 
 ## 238: Subside
 - **Dissection:** [sub-side]
@@ -1971,8 +1971,8 @@
 - **Meaning:** Briefly giving the gist of something
 - **Hindi:** संक्षिप्त
 - **Examples:**
-  1. A short and compendious book.
-  2. A compact style is brief and pithy.
+  1. The manager asked for a succinct summary of the report rather than a long detail.
+  2. She gave a succinct explanation of the issue, highlighting the main points.
 
 ## 248: Succor
 - **Dissection:** [suc-cor]
@@ -1987,8 +1987,8 @@
 - **Meaning:** A plant adapted to arid conditions and characterized by fleshy water-storing tissues that act as water reservoirs
 - **Hindi:** रसीला
 - **Examples:**
-  1. Lush fruits.
-  2. Succulent roast beef.
+  1. The chef served a succulent roast chicken that was perfectly seasoned and tender.
+  2. We planted several succulent cacti in the sunny corner of our backyard.
 
 ## 250: Suffrage
 - **Dissection:** [suf-frage]
@@ -2035,16 +2035,16 @@
 - **Meaning:** Rich and superior in quality
 - **Hindi:** वैभवशाली
 - **Examples:**
-  1. A princely sum.
-  2. Gilded dining rooms.
+  1. The hotel hosted a sumptuous banquet featuring dishes from around the world.
+  2. The palace was decorated with sumptuous fabrics, gold leaf, and marble.
 
 ## 256: Sunder
 - **Dissection:** [sun-der]
 - **Meaning:** Break apart or in two, using violence
 - **Hindi:** अलग करना
 - **Examples:**
-  1. Learning the word 'sunder' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sunder' in daily conversations.
+  1. The violent earthquake threatened to sunder the small island into two parts.
+  2. The civil war did sunder families, splitting their loyalties between sides.
 
 ## 257: Supercilious
 - **Dissection:** [su-per-cili-ous]
@@ -2067,8 +2067,8 @@
 - **Meaning:** Serving no useful purpose; having no excuse for being
 - **Hindi:** ज़रूरत से ज़्यादा
 - **Examples:**
-  1. Otiose lines in a play.
-  2. Advice is wasted words.
+  1. The editor removed several superfluous paragraphs to shorten the article.
+  2. Buying a second television seemed superfluous since we rarely watched the first.
 
 ## 260: Superimpose
 - **Dissection:** [su-per-im-pose]
@@ -2140,7 +2140,7 @@
 - **Hindi:** अनुमान
 - **Examples:**
   1. Any society is built upon certain assumptions.
-  2. It is beneficial to understand the meaning and context of 'supposition' in daily conversations.
+  2. And under such a supposition, which would have been most miserable, when time had disclosed all, too late?
 
 ## 269: Suppress
 - **Dissection:** [sup-press]
@@ -2155,8 +2155,8 @@
 - **Meaning:** The state of being more than full
 - **Hindi:** अतिरेक
 - **Examples:**
-  1. A surfeit of wheat is driving down the price.
-  2. King Henry I is said to have died of a surfeit of lampreys.
+  1. The harvest was so successful that the local market had a surfeit of apples.
+  2. He suffered from a surfeit of advice, as everyone wanted to tell him what to do.
 
 ## 271: Surly
 - **Dissection:** [surly]
@@ -2203,8 +2203,8 @@
 - **Meaning:** Close observation of a person or group (usually by the police)
 - **Hindi:** निगरानी
 - **Examples:**
-  1. Learning the word 'surveillance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'surveillance' in daily conversations.
+  1. The bank is equipped with multiple surveillance cameras to prevent robbery.
+  2. The police kept the suspect under close surveillance for two weeks.
 
 ## 277: Susceptible
 - **Dissection:** [sus-cept-ible]
@@ -2283,24 +2283,24 @@
 - **Meaning:** A person who swindles you by means of deception or fraud
 - **Hindi:** ठग
 - **Examples:**
-  1. Learning the word 'swindler' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'swindler' in daily conversations.
+  1. The clever swindler tricked the elderly couple out of their life savings.
+  2. He was arrested for operating a scam and exposed as a notorious swindler.
 
 ## 287: Sybarite
 - **Dissection:** [sy-bar-ite]
 - **Meaning:** A person addicted to luxury and pleasures of the senses
 - **Hindi:** विषयी
 - **Examples:**
-  1. Learning the word 'sybarite' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sybarite' in daily conversations.
+  1. The wealthy sybarite spent his days relaxing on yachts and eating fine meals.
+  2. He lived like a sybarite, surrounding himself with luxury and comfort.
 
 ## 288: Sycophant
 - **Dissection:** [sy-co-phant]
 - **Meaning:** A person who tries to please someone in order to gain a personal advantage
 - **Hindi:** चापलूस
 - **Examples:**
-  1. Learning the word 'sycophant' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'sycophant' in daily conversations.
+  1. The boss was surrounded by sycophants who constantly agreed with his opinions.
+  2. She disliked the sycophants in her class who flattered the teacher for grades.
 
 ## 289: Syllabus
 - **Dissection:** [syl-labus]
@@ -2315,8 +2315,8 @@
 - **Meaning:** Deductive reasoning in which a conclusion is derived from two premises
 - **Hindi:** न्यायवाक्य
 - **Examples:**
-  1. Learning the word 'syllogism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'syllogism' in daily conversations.
+  1. The philosophy teacher explained how to construct a valid logical syllogism.
+  2. His argument was a simple syllogism: all men are mortal; Socrates is a man.
 
 ## 291: Sylvan
 - **Dissection:** [sylvan]
@@ -2331,8 +2331,8 @@
 - **Meaning:** (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane
 - **Hindi:** समरूपता
 - **Examples:**
-  1. What will be the final symmetry of the good society??
-  2. Douglass found Af to be trigonal, Laue symmetry Af, with Af, Af.
+  1. The architect designed the cathedral with perfect bilateral symmetry.
+  2. The natural symmetry of the butterfly's wings was beautiful to look at.
 
 ## 293: Synchronous
 - **Dissection:** [syn-chron-ous]
@@ -2355,8 +2355,8 @@
 - **Meaning:** The process of producing a chemical compound (usually by the union of simpler chemical compounds)
 - **Hindi:** संश्लेषण
 - **Examples:**
-  1. True, a Mason watercolor is unmistakably a synthesis of nature rather than a detailed inventory.
-  2. Impartiality to him meant an unwillingness to generalize and to search for a synthesis.
+  1. Her research represents a brilliant synthesis of history and sociology.
+  2. The chemist explained the synthesis of the new compound in the lab.
 
 ## 296: Synthetic
 - **Dissection:** [syn-thet-ic]

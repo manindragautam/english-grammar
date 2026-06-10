@@ -35,8 +35,8 @@
 - **Meaning:** A game played on a court with light long-handled rackets used to volley a shuttlecock over a net
 - **Hindi:** बैडमिंटन
 - **Examples:**
-  1. Learning the word 'badminton' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'badminton' in daily conversations.
+  1. We decided to play a friendly game of badminton in the backyard after lunch.
+  2. She practiced her serves daily to prepare for the upcoming local badminton tournament.
 
 ## 6: Baffle
 - **Dissection:** [baffle]

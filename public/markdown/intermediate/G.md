@@ -59,8 +59,8 @@
 - **Meaning:** Bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves
 - **Hindi:** लहसुन
 - **Examples:**
-  1. Learning the word 'garlic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'garlic' in daily conversations.
+  1. He added three minced cloves of garlic to the pasta sauce for extra flavor.
+  2. The recipe calls for a simple combination of olive oil, garlic, and fresh herbs.
 
 ## 9: Garment
 - **Dissection:** [gar-ment]

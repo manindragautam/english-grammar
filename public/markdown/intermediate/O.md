@@ -20,7 +20,7 @@
 - **Hindi:** शाद्वल
 - **Examples:**
   1. The park was an oasis in the middle of the busy city.
-  2. It is beneficial to understand the meaning and context of 'oasis' in daily conversations.
+  2. We were never meant to be an oasis of liberty and abundance in a worldwide desert of disappointed dreams.
 
 ## 4: Oath
 - **Dissection:** [oath]

@@ -3,8 +3,8 @@
 - **Meaning:** Be undecided about something; waver between conflicting positions or courses of action
 - **Hindi:** संदेह करना
 - **Examples:**
-  1. He oscillates between accepting the new position and retirement.
-  2. The line on the monitor vacillated.
+  1. She tended to vacillate between different choices, making it hard to decide.
+  2. Do not vacillate; choose a course of action and stick with it.
 
 ## 2: Vacuous
 - **Dissection:** [vacu-ous]
@@ -51,8 +51,8 @@
 - **Meaning:** A farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)
 - **Hindi:** विदा का
 - **Examples:**
-  1. A valedictory address.
-  2. Valedictory praise for his uniformly manly course.
+  1. The student delivered an inspiring valedictory address at the graduation ceremony.
+  2. The retiring CEO gave a valedictory speech thanking the company employees.
 
 ## 8: Validate
 - **Dissection:** [val-id-ate]
@@ -76,7 +76,7 @@
 - **Hindi:** पिशाच
 - **Examples:**
   1. I read up all about bishops in our anarchist pamphlets, in Superstition the Vampire and Priests of Prey.
-  2. It is beneficial to understand the meaning and context of 'vampire' in daily conversations.
+  2. Girl: We' re being listed through Mr. Vampire- man.
 
 ## 11: Vanguard
 - **Dissection:** [van-guard]
@@ -99,8 +99,8 @@
 - **Meaning:** Lacking taste or flavor or tang
 - **Hindi:** नीरस
 - **Examples:**
-  1. A bland diet.
-  2. Insipid hospital food.
+  1. I fell asleep during the movie because the plot was incredibly vapid.
+  2. He grew tired of their vapid conversations about fashion and celebrity gossip.
 
 ## 14: Vaporize
 - **Dissection:** [va-por-ize]
@@ -131,8 +131,8 @@
 - **Meaning:** A person holding a fief; a person who owes allegiance and service to a feudal lord
 - **Hindi:** जागीरदार
 - **Examples:**
-  1. Learning the word 'vassal' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'vassal' in daily conversations.
+  1. The medieval lord demanded absolute loyalty and tribute from his vassals.
+  2. The small country was treated as a vassal state by the powerful empire.
 
 ## 18: Veer
 - **Dissection:** [veer]
@@ -155,8 +155,8 @@
 - **Meaning:** Marked by extreme intensity of emotions or convictions; inclined to react violently; fervid
 - **Hindi:** लवलीन
 - **Examples:**
-  1. Fierce loyalty.
-  2. In a tearing rage.
+  1. The politician made a vehement denial of the corruption accusations.
+  2. She faced vehement opposition from the community members during the meeting.
 
 ## 21: Velocity
 - **Dissection:** [ve-lo-city]
@@ -171,16 +171,16 @@
 - **Meaning:** Capable of being corrupted
 - **Hindi:** ज़रख़ीद
 - **Examples:**
-  1. Corruptible judges.
-  2. Dishonest politicians.
+  1. The corrupt politician was exposed as a venal official who accepted bribes.
+  2. The journalist wrote a column criticizing the venal practices of local judges.
 
 ## 23: Vendetta
 - **Dissection:** [ven-detta]
 - **Meaning:** A feud in which members of the opposing parties murder each other
 - **Hindi:** प्रतिशोध
 - **Examples:**
-  1. Learning the word 'vendetta' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'vendetta' in daily conversations.
+  1. The two families engaged in a bitter, decade-long vendetta over land.
+  2. He carried out a personal vendetta against the colleague who got him fired.
 
 ## 24: Vendor
 - **Dissection:** [vendor]
@@ -195,16 +195,16 @@
 - **Meaning:** Coating consisting of a thin layer of superior wood glued to a base of inferior wood
 - **Hindi:** पोशिश
 - **Examples:**
-  1. Veneer the furniture to protect it.
-  2. To veneer a piece of furniture with mahogany.
+  1. Under her polite veneer of friendliness, she concealed a deep dislike for him.
+  2. The table was made of cheap pine wood covered with a thin veneer of cherry.
 
 ## 26: Venerable
 - **Dissection:** [ven-er-able]
 - **Meaning:** Impressive by reason of age
 - **Hindi:** सम्मानित
 - **Examples:**
-  1. A venerable sage with white hair and beard.
-  2. Revered holy men.
+  1. The venerable old oak tree had stood in the center of the town for three centuries.
+  2. The university welcomed the venerable professor back for a special lecture.
 
 ## 27: Venerate
 - **Dissection:** [ven-er-ate]
@@ -219,8 +219,8 @@
 - **Meaning:** Warranting only temporal punishment
 - **Hindi:** क्षम्य
 - **Examples:**
-  1. Venial sin.
-  2. A venial error.
+  1. The manager dismissed the employee's minor mistake as a simple, venial error.
+  2. In some traditions, a venial sin is considered minor and easily forgiven.
 
 ## 29: Venom
 - **Dissection:** [venom]
@@ -244,7 +244,7 @@
 - **Hindi:** Ventriloquist का हिंदी अर्थ
 - **Examples:**
   1. " Have you never heard a ventriloquist?".
-  2. It is beneficial to understand the meaning and context of 'ventriloquist' in daily conversations.
+  2. Teen girl # 1: Maybe she has a ventriloquist.
 
 ## 32: Venturesome
 - **Dissection:** [ven-ture-some]
@@ -259,8 +259,8 @@
 - **Meaning:** Unwillingness to tell lies
 - **Hindi:** सच्चाई
 - **Examples:**
-  1. Learning the word 'veracity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'veracity' in daily conversations.
+  1. The detective questioned the veracity of the witness's alibi after checking facts.
+  2. We have no reason to doubt the veracity of her statement, as she is always honest.
 
 ## 34: Verbalize
 - **Dissection:** [verb-al-ize]
@@ -291,8 +291,8 @@
 - **Meaning:** Using or containing too many words
 - **Hindi:** वाचाल
 - **Examples:**
-  1. Long-winded (or windy) speakers.
-  2. Verbose and ineffective instructional methods.
+  1. The editor shortened the verbose report to make it easier to read.
+  2. His writing is highly verbose, filled with unnecessary words and descriptions.
 
 ## 38: Verdant
 - **Dissection:** [verd-ant]
@@ -315,8 +315,8 @@
 - **Meaning:** The appearance of truth; the quality of seeming to be true
 - **Hindi:** संभाव्यता
 - **Examples:**
-  1. Learning the word 'verisimilitude' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'verisimilitude' in daily conversations.
+  1. The historical costumes gave the movie a high degree of verisimilitude.
+  2. He added realistic descriptions to his novel to enhance its verisimilitude.
 
 ## 41: Verity
 - **Dissection:** [ver-ity]
@@ -355,8 +355,8 @@
 - **Meaning:** A reeling sensation; a feeling that you are about to fall
 - **Hindi:** सिर का चक्कर
 - **Examples:**
-  1. He fought the panic of vertigo.
-  2. His soul swayed in a vertigo of moral indecision.
+  1. She suffered from a sudden attack of vertigo when she looked down from the cliff.
+  2. The doctor suggested treatment to help manage the patient's chronic vertigo.
 
 ## 46: Verve
 - **Dissection:** [verve]
@@ -371,8 +371,8 @@
 - **Meaning:** An indication that something has been present
 - **Hindi:** निशान
 - **Examples:**
-  1. There wasn't a trace of evidence for the claim.
-  2. A tincture of condescension.
+  1. The ancient stone wall was the last vestige of the medieval fortress.
+  2. She showed no vestige of anger, greeting him with a warm smile.
 
 ## 48: Vex
 - **Dissection:** [vex]
@@ -435,8 +435,8 @@
 - **Meaning:** A brief literary description
 - **Hindi:** विनेट
 - **Examples:**
-  1. Learning the word 'vignette' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'vignette' in daily conversations.
+  1. The book is a collection of short, descriptive vignettes about life in Italy.
+  2. The play consists of several interesting vignettes separated by musical interludes.
 
 ## 56: Vilify
 - **Dissection:** [vil-i-fy]
@@ -475,8 +475,8 @@
 - **Meaning:** A noisy or scolding or domineering woman
 - **Hindi:** विरागो
 - **Examples:**
-  1. Learning the word 'virago' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'virago' in daily conversations.
+  1. The loud, aggressive virago shouted at the store clerk over a minor issue.
+  2. The play features a main character who is a fierce, outspoken virago.
 
 ## 61: Virile
 - **Dissection:** [virile]
@@ -523,24 +523,24 @@
 - **Meaning:** Having the sticky properties of an adhesive
 - **Hindi:** चिपचिपा
 - **Examples:**
-  1. Learning the word 'viscid' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'viscid' in daily conversations.
+  1. The sticky sap of the pine tree was a viscid liquid that adhered to our fingers.
+  2. The chemist studied the behavior of various viscid substances at low temperatures.
 
 ## 67: Viscous
 - **Dissection:** [vis-cous]
 - **Meaning:** Having a relatively high resistance to flow
 - **Hindi:** चिपचिपा
 - **Examples:**
-  1. Learning the word 'viscous' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'viscous' in daily conversations.
+  1. Honey is a highly viscous liquid that flows much slower than water.
+  2. The engine requires a viscous oil to properly lubricate the moving parts.
 
 ## 68: Vise
 - **Dissection:** [vise]
 - **Meaning:** A holding device attached to a workbench; has two jaws to hold workpiece firmly in place
 - **Hindi:** शिकंजा
 - **Examples:**
-  1. Learning the word 'vise' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'vise' in daily conversations.
+  1. He clamped the metal tube tightly in a heavy vise before starting to cut it.
+  2. The wrestler held his opponent in a powerful, vise-like grip.
 
 ## 69: Visionary
 - **Dissection:** [vis-ion-ary]
@@ -667,8 +667,8 @@
 - **Meaning:** A viewer who enjoys seeing the sex acts or sex organs of others
 - **Hindi:** वोयर
 - **Examples:**
-  1. Learning the word 'voyeur' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'voyeur' in daily conversations.
+  1. The peeping tom was arrested and charged as a voyeur for looking into windows.
+  2. She felt like a voyeur, watching the private family argument from her window.
 
 ## 85: Vulnerable
 - **Dissection:** [vul-ner-able]

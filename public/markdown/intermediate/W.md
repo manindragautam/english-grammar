@@ -52,7 +52,7 @@
 - **Hindi:** गोदाम
 - **Examples:**
   1. The warehousing of syndicated TV shows.
-  2. It is beneficial to understand the meaning and context of 'warehouse' in daily conversations.
+  2. I wish mistress would buy her lace at the warehouse, as I told her, and not of these folks.
 
 ## 8: Warfare
 - **Dissection:** [war-fare]

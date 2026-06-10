@@ -107,8 +107,8 @@
 - **Meaning:** A loud bombastic declamation expressed with strong emotion
 - **Hindi:** भाषण
 - **Examples:**
-  1. She gave her son a harangue about the dangers of playing in the street.
-  2. The angry motorist leapt from his car to harangue the other driver.
+  1. The angry manager delivered a long harangue criticizing the team's performance.
+  2. We had to stand and listen to a loud harangue about the importance of discipline.
 
 ## 15: Harass
 - **Dissection:** [har-ass]
@@ -123,8 +123,8 @@
 - **Meaning:** Something that precedes and indicates the approach of something or someone
 - **Hindi:** अग्र-दूत
 - **Examples:**
-  1. Learning the word 'harbinger' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'harbinger' in daily conversations.
+  1. The blooming of the first crocus flower is a reliable harbinger of spring.
+  2. Many economists warned that the drop in stock prices was a harbinger of a recession.
 
 ## 17: Hardy
 - **Dissection:** [hardy]
@@ -219,8 +219,8 @@
 - **Meaning:** The pursuit of pleasure as a matter of ethical principle
 - **Hindi:** हेडोनिजम
 - **Examples:**
-  1. Learning the word 'hedonism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hedonism' in daily conversations.
+  1. He lived a life of pure hedonism, caring only about luxury and pleasure.
+  2. The ancient philosophers debated the moral implications of extreme hedonism.
 
 ## 29: Heedless
 - **Dissection:** [heed-less]
@@ -235,8 +235,8 @@
 - **Meaning:** The dominance or leadership of one social group or nation over others
 - **Hindi:** नायकत्व
 - **Examples:**
-  1. The hegemony of a single member state is not incompatible with a genuine confederation.
-  2. To say they have priority is not to say they have complete hegemony.
+  1. The ancient empire established its hegemony over all the neighboring kingdoms.
+  2. The tech company successfully maintained its global hegemony in the smartphone market.
 
 ## 31: Heinous
 - **Dissection:** [hein-ous]
@@ -251,32 +251,32 @@
 - **Meaning:** Feeding only on plants
 - **Hindi:** तृणभक्षी
 - **Examples:**
-  1. Learning the word 'herbivorous' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'herbivorous' in daily conversations.
+  1. Deer and rabbits are herbivorous animals that feed exclusively on plants and leaves.
+  2. The biology textbook explained the digestive systems of various herbivorous species.
 
 ## 33: Heresy
 - **Dissection:** [heresy]
 - **Meaning:** Any opinions or doctrines at variance with the official or orthodox position
 - **Hindi:** विधर्म
 - **Examples:**
-  1. Learning the word 'heresy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'heresy' in daily conversations.
+  1. In the middle ages, teaching Galileo's theories was considered a serious heresy.
+  2. The academic faced accusations of heresy for disputing the established theory.
 
 ## 34: Hermetic
 - **Dissection:** [her-met-ic]
 - **Meaning:** Completely sealed; completely airtight
 - **Hindi:** वायु-रोधी
 - **Examples:**
-  1. Learning the word 'hermetic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hermetic' in daily conversations.
+  1. The chemist stored the reactive substance inside a container with a hermetic seal.
+  2. He preferred a hermetic lifestyle, choosing to live in a secluded cabin in the woods.
 
 ## 35: Hermitage
 - **Dissection:** [her-mit-age]
 - **Meaning:** The abode of a hermit
 - **Hindi:** आश्रम
 - **Examples:**
-  1. Learning the word 'hermitage' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hermitage' in daily conversations.
+  1. The monk spent ten years in a quiet hermitage deep in the forest.
+  2. He retired from public life and built a small hermitage on the island.
 
 ## 36: Heterodox
 - **Dissection:** [het-ero-dox]
@@ -340,7 +340,7 @@
 - **Hindi:** आनंद
 - **Examples:**
   1. He was for some reason in a condition of curious hilarity.
-  2. It is beneficial to understand the meaning and context of 'hilarity' in daily conversations.
+  2. After a short silence on both sides, Mrs. Jennings, with all her natural hilarity, burst forth again.
 
 ## 44: Hindrance
 - **Dissection:** [hindrance]
@@ -355,8 +355,8 @@
 - **Meaning:** Characteristic of acting or a stage performance; often affected
 - **Hindi:** अभिनय-संबंधी
 - **Examples:**
-  1. Histrionic gestures.
-  2. An attitude of melodramatic despair.
+  1. She annoyed her classmates with her histrionic reactions to minor problems.
+  2. The lawyer's histrionic speech in the courtroom was designed to win the jury's sympathy.
 
 ## 46: Hoard
 - **Dissection:** [hoard]
@@ -379,8 +379,8 @@
 - **Meaning:** Something intended to deceive; deliberate trickery intended to gain an advantage
 - **Hindi:** छल
 - **Examples:**
-  1. Learning the word 'hoax' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hoax' in daily conversations.
+  1. The report of a monster in the lake proved to be a complete practical hoax.
+  2. The police warned that spreading the false emergency rumor was a dangerous hoax.
 
 ## 49: Holocaust
 - **Dissection:** [holo-caust]
@@ -403,8 +403,8 @@
 - **Meaning:** All of the same or similar kind or nature
 - **Hindi:** सजातीय
 - **Examples:**
-  1. Folklore is individually created art that a homogeneous group of people preserve, vary and recreate through oral transmission.
-  2. The folk are simply not homogeneous with respect to nation or political attitude.
+  1. The population of the small village was highly homogeneous, sharing the same culture.
+  2. Mix the ingredients thoroughly until the batter becomes a homogeneous paste.
 
 ## 52: Hone
 - **Dissection:** [hone]
@@ -420,7 +420,7 @@
 - **Hindi:** आंख में धूल झोंकना
 - **Examples:**
   1. He bamboozled his professors into thinking that he knew the subject well.
-  2. It is beneficial to understand the meaning and context of 'hoodwink' in daily conversations.
+  2. The Bare-fronted Hoodwink (Dissimulatrix spuria) was a hoax and satirical wastebasket species of bird created by ornithologist M. F. M. Meiklejohn.
 
 ## 54: Horde
 - **Dissection:** [horde]
@@ -435,16 +435,16 @@
 - **Meaning:** Giving strong encouragement
 - **Hindi:** उपदेश देनेवाला
 - **Examples:**
-  1. Learning the word 'hortatory' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hortatory' in daily conversations.
+  1. The coach gave a hortatory speech to encourage the team before the game.
+  2. The teacher delivered a hortatory address on the benefits of hard study.
 
 ## 56: Horticultural
 - **Dissection:** [hor-ti-cul-tur-al]
 - **Meaning:** Of or relating to the cultivation of plants
 - **Hindi:** बागवानी
 - **Examples:**
-  1. Learning the word 'horticultural' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'horticultural' in daily conversations.
+  1. The botanical society hosted a horticultural exhibition showing rare orchids.
+  2. She decided to take a college course to learn professional horticultural methods.
 
 ## 57: Hostility
 - **Dissection:** [hos-til-ity]
@@ -459,8 +459,8 @@
 - **Meaning:** Loud confused noise from many sources
 - **Hindi:** कोलाहल
 - **Examples:**
-  1. Learning the word 'hubbub' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hubbub' in daily conversations.
+  1. We could barely hear each other speak over the loud hubbub of the market.
+  2. The sudden arrival of the guests caused a brief hubbub in the quiet house.
 
 ## 59: Hubris
 - **Dissection:** [hubris]
@@ -468,7 +468,7 @@
 - **Hindi:** अभिमान
 - **Examples:**
   1. His hubris, deficiency of taste, and sadism carried him straightaway to the top.
-  2. It is beneficial to understand the meaning and context of 'hubris' in daily conversations.
+  2. The myth both provided an etiology of spiders' web-spinning abilities and was a cautionary tale about hubris.
 
 ## 60: Hue
 - **Dissection:** [hue]
@@ -484,7 +484,7 @@
 - **Hindi:** कोलाहल
 - **Examples:**
   1. They made such a hullabaloo about the change that the authorities were forced to change it back.
-  2. It is beneficial to understand the meaning and context of 'hullabaloo' in daily conversations.
+  2. Hullabaloo is an American musical variety series that aired on NBC from January 12, 1965, to April 11, 1966 (with repeats to August 1966).
 
 ## 62: Humane
 - **Dissection:** [hu-mane]
@@ -523,16 +523,16 @@
 - **Meaning:** A small natural hill
 - **Hindi:** टीला
 - **Examples:**
-  1. Learning the word 'hummock' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hummock' in daily conversations.
+  1. We sat down to rest on a small grassy hummock overlooking the river.
+  2. The flat plains of the tundra were dotted with small frozen hummocks.
 
 ## 67: Humus
 - **Dissection:** [hu-mus]
 - **Meaning:** Partially decomposed organic matter; the organic component of soil
 - **Hindi:** धरण
 - **Examples:**
-  1. Learning the word 'humus' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'humus' in daily conversations.
+  1. The gardener added a layer of organic humus to fertilize the soil.
+  2. The forest floor was covered with a thick, rich layer of dark humus.
 
 ## 68: Hurl
 - **Dissection:** [hurl]
@@ -548,15 +548,15 @@
 - **Hindi:** कृषि
 - **Examples:**
   1. Husbandry was bounded by snake-rail fences, and there were grazing cattle.
-  2. It is beneficial to understand the meaning and context of 'husbandry' in daily conversations.
+  2. Animal husbandry is the branch of agriculture concerned with animals that are raised for meat, fibre, milk, or other products.
 
 ## 70: Hybrid
 - **Dissection:** [hy-brid]
 - **Meaning:** A word that is composed of parts from different languages (e.g., `monolingual' has a Greek prefix and a Latin root)
 - **Hindi:** हाइब्रिड
 - **Examples:**
-  1. The vice-presidency is a hybrid of administrative and legislative offices.
-  2. A mule is a cross between a horse and a donkey.
+  1. The gardener developed a beautiful hybrid flower by cross-breeding two different roses.
+  2. She decided to buy a hybrid car to save money on fuel and reduce emissions.
 
 ## 71: Hydrophobia
 - **Dissection:** [hy-dro-phobia]
@@ -564,15 +564,15 @@
 - **Hindi:** जलांतक
 - **Examples:**
   1. Another cure for hydrophobia was to suck the wounds, then cauterize them with a hot knife or poker.
-  2. It is beneficial to understand the meaning and context of 'hydrophobia' in daily conversations.
+  2. On 19 March 2012, it was announced the company had closed due to low sales of Hydrophobia.
 
 ## 72: Hyperbole
 - **Dissection:** [hy-per-bole]
 - **Meaning:** Extravagant exaggeration
 - **Hindi:** अतिशयोक्ति
 - **Examples:**
-  1. Learning the word 'hyperbole' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hyperbole' in daily conversations.
+  1. Her claim that she walked a million miles was a clear example of hyperbole.
+  2. He used dramatic hyperbole to emphasize how difficult the final exam was.
 
 ## 73: Hypercritical
 - **Dissection:** [hy-per-crit-ic-al]
@@ -587,8 +587,8 @@
 - **Meaning:** A patient with imaginary symptoms and ailments
 - **Hindi:** Hypochondriac का हिंदी अर्थ
 - **Examples:**
-  1. Learning the word 'hypochondriac' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'hypochondriac' in daily conversations.
+  1. The hypochondriac visited the doctor every week, convinced he had a rare disease.
+  2. She realized she was behaving like a hypochondriac after looking up symptoms online.
 
 ## 75: Hypocritical
 - **Dissection:** [hy-po-crit-ic-al]

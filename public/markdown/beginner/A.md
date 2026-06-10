@@ -244,7 +244,7 @@
 - **Hindi:** हवाई जहाज
 - **Examples:**
   1. The flight was delayed due to trouble with the airplane.
-  2. It is beneficial to understand the meaning and context of 'airplane' in daily conversations.
+  2. Public-spirited backers staked him to a brand-new airplane, aimed at putting their city and state on the flying map.
 
 ## 32: Airport
 - **Dissection:** [air-port]

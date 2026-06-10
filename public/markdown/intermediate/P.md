@@ -52,7 +52,7 @@
 - **Hindi:** पुस्तिका
 - **Examples:**
   1. The final section of this pamphlet is of special interest in a consideration of Steele's relations with Swift.
-  2. It is beneficial to understand the meaning and context of 'pamphlet' in daily conversations.
+  2. Pamphlet lady: That' s why you' ve got no power!
 
 ## 8: Panel
 - **Dissection:** [pan-el]
@@ -83,8 +83,8 @@
 - **Meaning:** Tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit
 - **Hindi:** पपीता
 - **Examples:**
-  1. Learning the word 'papaya' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'papaya' in daily conversations.
+  1. She sliced a fresh, ripe papaya and served it with lime juice for breakfast.
+  2. The tropical fruit salad contained chunks of mango, pineapple, and sweet papaya.
 
 ## 12: Parachute
 - **Dissection:** [para-chute]
@@ -115,8 +115,8 @@
 - **Meaning:** (logic) a statement that contradicts itself
 - **Hindi:** विरोधाभास
 - **Examples:**
-  1. `I always lie' is a paradox because if it is true it must be false.
-  2. "This sentence is false" is a paradox.
+  1. It is a strange paradox that the more she studied, the less confident she felt.
+  2. The old puzzle presents a fascinating logical paradox that is difficult to solve.
 
 ## 16: Paragraph
 - **Dissection:** [para-graph]
@@ -507,8 +507,8 @@
 - **Meaning:** The boundary line or the area immediately inside the boundary
 - **Hindi:** परिधि
 - **Examples:**
-  1. Learning the word 'perimeter' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'perimeter' in daily conversations.
+  1. The security guards patrolled the fence along the outer perimeter of the facility.
+  2. The math teacher showed the students how to calculate the perimeter of a rectangle.
 
 ## 65: Permeate
 - **Dissection:** [per-meate]
@@ -659,8 +659,8 @@
 - **Meaning:** A scientist trained in physics
 - **Hindi:** भौतिक विज्ञानी
 - **Examples:**
-  1. Learning the word 'physicist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'physicist' in daily conversations.
+  1. The theoretical physicist published a paper on the behavior of subatomic particles.
+  2. She worked as a research physicist at the national nuclear laboratory.
 
 ## 84: Physics
 - **Dissection:** [phys-ics]
@@ -859,8 +859,8 @@
 - **Meaning:** The form of a word that is used to denote more than one
 - **Hindi:** बहुवचन
 - **Examples:**
-  1. Learning the word 'plural' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'plural' in daily conversations.
+  1. The teacher showed the class how to form the plural version of irregular nouns.
+  2. The word 'children' is the plural form of the singular noun 'child'.
 
 ## 109: Plus
 - **Dissection:** [plus]
@@ -884,7 +884,7 @@
 - **Hindi:** न्यूमोनिया
 - **Examples:**
   1. In these damp circumstances, he was an odds-on bet to develop pneumonia.
-  2. It is beneficial to understand the meaning and context of 'pneumonia' in daily conversations.
+  2. MTA employee: So I had a touch of pneumonia, and they had to remove part of my lung.
 
 ## 112: Poetry
 - **Dissection:** [po-etry]
@@ -1051,8 +1051,8 @@
 - **Meaning:** The charge for mailing something
 - **Hindi:** डाक
 - **Examples:**
-  1. Learning the word 'postage' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'postage' in daily conversations.
+  1. He stuck a stamp on the envelope to pay for the domestic letter postage.
+  2. The online store charged a small fee to cover the cost of postage and handling.
 
 ## 133: Poster
 - **Dissection:** [poster]
@@ -1251,8 +1251,8 @@
 - **Meaning:** A statement that is assumed to be true and from which a conclusion can be drawn
 - **Hindi:** आधार
 - **Examples:**
-  1. On the assumption that he has been injured we can infer that he will not to play.
-  2. He premised these remarks so that his readers might understand.
+  1. The detective based his theory on the premise that the witness was telling the truth.
+  2. The entire argument is invalid because it is based on a false premise.
 
 ## 158: Premium
 - **Dissection:** [premi-um]

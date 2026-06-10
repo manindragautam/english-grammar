@@ -611,8 +611,8 @@
 - **Meaning:** The period of European history at the close of the Middle Ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries
 - **Hindi:** पुनर्जागरण
 - **Examples:**
-  1. Go inside for a closer look at a Renaissance palace.
-  2. Stephen Gosson and Sir Philip Sidney from renaissance England;;.
+  1. The historic city is experiencing a cultural renaissance with new art galleries.
+  2. He studied the famous paintings and sculptures of the Italian Renaissance.
 
 ## 78: Render
 - **Dissection:** [render]
@@ -1059,8 +1059,8 @@
 - **Meaning:** A mechanism that can move automatically
 - **Hindi:** रोबोट
 - **Examples:**
-  1. Learning the word 'robot' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'robot' in daily conversations.
+  1. The factory uses a specialized robot to assemble the delicate computer parts.
+  2. The scientists designed a small robot to explore the surface of the planet.
 
 ## 134: Rocket
 - **Dissection:** [rock-et]

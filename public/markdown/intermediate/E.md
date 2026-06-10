@@ -59,8 +59,8 @@
 - **Meaning:** The environment as it relates to living organisms
 - **Hindi:** परिस्थितिकी
 - **Examples:**
-  1. It changed the ecology of the island.
-  2. It is beneficial to understand the meaning and context of 'ecology' in daily conversations.
+  1. The biology class studied the ecology of the local wetlands to understand species interactions.
+  2. Industrial pollution can cause severe damage to the delicate ecology of the river.
 
 ## 9: Edit
 - **Dissection:** [edit]
@@ -291,8 +291,8 @@
 - **Meaning:** Leave one's country of residence for a new one
 - **Hindi:** विदेशवास करना
 - **Examples:**
-  1. Many people had to emigrate during the Nazi period.
-  2. It is beneficial to understand the meaning and context of 'emigrate' in daily conversations.
+  1. Her grandparents decided to emigrate from Europe to South America in search of better jobs.
+  2. It can be difficult to emigrate to a new country and adapt to a different culture.
 
 ## 38: Eminent
 - **Dissection:** [em-in-ent]
@@ -419,8 +419,8 @@
 - **Meaning:** A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty
 - **Hindi:** विश्वकोश
 - **Examples:**
-  1. His life's work was a four-volume encyclopedia of aviation topics.
-  2. It is beneficial to understand the meaning and context of 'encyclopedia' in daily conversations.
+  1. He consulted a multi-volume encyclopedia to find information about ancient Rome.
+  2. Online encyclopedias allow users to quickly search for facts on any topic.
 
 ## 54: Endeavor
 - **Dissection:** [en-deavor]
@@ -603,8 +603,8 @@
 - **Meaning:** Someone who organizes a business venture and assumes the risk for it
 - **Hindi:** उद्यमी
 - **Examples:**
-  1. Learning the word 'entrepreneur' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'entrepreneur' in daily conversations.
+  1. The young entrepreneur successfully secured funding for her innovative tech startup.
+  2. He is a successful entrepreneur who has opened three different businesses in the city.
 
 ## 77: Envelope
 - **Dissection:** [en-vel-ope]
@@ -643,8 +643,8 @@
 - **Meaning:** A period marked by distinctive character or reckoned from a fixed point or event
 - **Hindi:** युग
 - **Examples:**
-  1. That was one epoch: the apple-tree epoch.
-  2. It is beneficial to understand the meaning and context of 'epoch' in daily conversations.
+  1. The invention of the printing press marked the beginning of a new epoch in human history.
+  2. Geologists divided the earth's history into different periods and epochs.
 
 ## 82: Equality
 - **Dissection:** [equal-ity]

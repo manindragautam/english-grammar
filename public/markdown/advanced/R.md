@@ -11,8 +11,8 @@
 - **Meaning:** A person skilled in telling anecdotes
 - **Hindi:** बयान करनेवाला
 - **Examples:**
-  1. Learning the word 'raconteur' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'raconteur' in daily conversations.
+  1. The charming host was a brilliant raconteur who kept the guests entertained.
+  2. He was a popular storyteller, known as the best raconteur in the town.
 
 ## 3: Raiment
 - **Dissection:** [raiment]
@@ -68,7 +68,7 @@
 - **Hindi:** विद्वेष
 - **Examples:**
   1. I could almost see the rancor in his eyes when he challenged me to a fight.
-  2. It is beneficial to understand the meaning and context of 'rancor' in daily conversations.
+  2. As you recall, the year 1975 opened with rancor and with bitterness.
 
 ## 10: Rankle
 - **Dissection:** [rankle]
@@ -83,8 +83,8 @@
 - **Meaning:** A loud bombastic declamation expressed with strong emotion
 - **Hindi:** शेख़ी
 - **Examples:**
-  1. Nay, and thou' lt mouth, Ile rant as well as thou.
-  2. It is beneficial to understand the meaning and context of 'rant' in daily conversations.
+  1. The customer launched into a loud rant about the poor service at the restaurant.
+  2. I had to listen to his long rant about the local traffic issues again.
 
 ## 12: Rapacious
 - **Dissection:** [ra-pa-cious]
@@ -99,8 +99,8 @@
 - **Meaning:** A relationship of mutual understanding or trust and agreement between people
 - **Hindi:** संबंध
 - **Examples:**
-  1. Maestro's biggest stock in trade is his personality, and ability to establish a warm rapport with his audience.
-  2. Its findings are reported each year in its Rapport Sur l'activite Pendant annee ( Bruxelles ).
+  1. The teacher worked hard to build a positive rapport with her new students.
+  2. A good salesman knows how to establish quick rapport with potential clients.
 
 ## 14: Rapt
 - **Dissection:** [rapt]
@@ -139,8 +139,8 @@
 - **Meaning:** The proposition arrived at by logical reasoning (such as the proposition that must follow from the major and minor premises of a syllogism)
 - **Hindi:** अनुपातीकरण
 - **Examples:**
-  1. Learning the word 'ratiocination' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ratiocination' in daily conversations.
+  1. The detective solved the case through logical ratiocination and checking facts.
+  2. The math problem requires a process of clear ratiocination to solve.
 
 ## 19: Rationale
 - **Dissection:** [ra-tionale]
@@ -219,8 +219,8 @@
 - **Meaning:** Someone who helps to gather the harvest
 - **Hindi:** काटनेवाला
 - **Examples:**
-  1. Learning the word 'reaper' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'reaper' in daily conversations.
+  1. The farmers worked in the field, using a mechanical reaper to harvest wheat.
+  2. In old folklore, the Grim Reaper is a personification of death.
 
 ## 29: Rebate
 - **Dissection:** [re-bate]
@@ -251,24 +251,24 @@
 - **Meaning:** A puzzle where you decode a message consisting of pictures representing syllables and words
 - **Hindi:** रिबास
 - **Examples:**
-  1. Learning the word 'rebus' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'rebus' in daily conversations.
+  1. The children solved the puzzle, which used a rebus of pictures and letters.
+  2. The magazine features a weekly rebus that is fun to decode.
 
 ## 33: Recalcitrant
 - **Dissection:** [re-cal-cit-rant]
 - **Meaning:** Stubbornly resistant to authority or control
 - **Hindi:** आज्ञा न माननेवाला
 - **Examples:**
-  1. A fractious animal that would not submit to the harness.
-  2. A refractory child.
+  1. The teacher struggled to manage the recalcitrant student who refused to follow rules.
+  2. The manager had to deal with a recalcitrant employee who ignored instructions.
 
 ## 34: Recant
 - **Dissection:** [re-cant]
 - **Meaning:** Formally reject or disavow a formerly held belief, usually under pressure
 - **Hindi:** अपने को वंचित करना
 - **Examples:**
-  1. He retracted his earlier statements about his religion.
-  2. She abjured her beliefs.
+  1. The witness decided to recant his previous statement, admitting he had lied.
+  2. The scientist was forced to recant his controversial theories under pressure.
 
 ## 35: Recapitulate
 - **Dissection:** [re-capit-u-late]
@@ -347,8 +347,8 @@
 - **Meaning:** Difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge
 - **Hindi:** गंभीर
 - **Examples:**
-  1. The professor's lectures were so abstruse that students tended to avoid them.
-  2. A deep metaphysical theory.
+  1. The book covers recondite philosophical concepts that are difficult to grasp.
+  2. He spent his career researching recondite periods of ancient history.
 
 ## 45: Reconnaissance
 - **Dissection:** [re-con-nais-sance]
@@ -371,8 +371,8 @@
 - **Meaning:** Mutual accusations
 - **Hindi:** अभियोग
 - **Examples:**
-  1. Learning the word 'recrimination' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'recrimination' in daily conversations.
+  1. The meeting descended into bitter recriminations and blame for the failure.
+  2. They spent the afternoon in mutual recrimination instead of fixing the issue.
 
 ## 48: Rectify
 - **Dissection:** [rec-ti-fy]
@@ -387,16 +387,16 @@
 - **Meaning:** Righteousness as a consequence of being honorable and honest
 - **Hindi:** इंसाफ
 - **Examples:**
-  1. Learning the word 'rectitude' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'rectitude' in daily conversations.
+  1. The respected judge was admired by everyone for his absolute moral rectitude.
+  2. She lived her life with a strong sense of rectitude and honesty.
 
 ## 50: Recumbent
 - **Dissection:** [re-cum-bent]
 - **Meaning:** Lying down; in a position of comfort or rest
 - **Hindi:** लेटा हुआ
 - **Examples:**
-  1. Learning the word 'recumbent' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'recumbent' in daily conversations.
+  1. He spent the afternoon in a recumbent position on the comfortable sofa.
+  2. We saw several recumbent figures resting in the shade of the large trees.
 
 ## 51: Recuperate
 - **Dissection:** [re-cu-per-ate]
@@ -443,8 +443,8 @@
 - **Meaning:** More than is needed, desired, or required
 - **Hindi:** अनावश्यक
 - **Examples:**
-  1. Trying to lose excess weight.
-  2. Found some extra change lying on the dresser.
+  1. The editor removed several redundant words to make the paragraph more concise.
+  2. The new computer system made the old manual filing process completely redundant.
 
 ## 57: Reek
 - **Dissection:** [reek]
@@ -459,16 +459,16 @@
 - **Meaning:** A communal dining-hall (usually in a monastery)
 - **Hindi:** चायख़ाना
 - **Examples:**
-  1. Learning the word 'refectory' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'refectory' in daily conversations.
+  1. The monks gathered in the quiet refectory to eat their simple midday meal.
+  2. The boarding school has a large refectory where students have dinner.
 
 ## 59: Refraction
 - **Dissection:** [re-frac-tion]
 - **Meaning:** The change in direction of a propagating wave (light or sound) when passing from one medium to another
 - **Hindi:** अपवर्तन
 - **Examples:**
-  1. Learning the word 'refraction' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'refraction' in daily conversations.
+  1. The rainbow is caused by the refraction of sunlight through raindrops.
+  2. The science teacher demonstrated the refraction of light using a prism.
 
 ## 60: Refractory
 - **Dissection:** [re-fract-ory]
@@ -531,8 +531,8 @@
 - **Meaning:** A meeting for boat races
 - **Hindi:** दौड़ की प्रतियोगिता
 - **Examples:**
-  1. Learning the word 'regatta' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'regatta' in daily conversations.
+  1. The local yacht club organized an annual sailing regatta on the lake.
+  2. We watched the boats compete in the exciting regatta from the harbor.
 
 ## 68: Regeneration
 - **Dissection:** [re-gen-er-a-tion]
@@ -555,8 +555,8 @@
 - **Meaning:** (medicine) a systematic plan for therapy (often including diet)
 - **Hindi:** आहार
 - **Examples:**
-  1. Learning the word 'regimen' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'regimen' in daily conversations.
+  1. The doctor prescribed a strict daily regimen of exercise and healthy diet.
+  2. She followed a skin care regimen to keep her face clean and healthy.
 
 ## 71: Reimburse
 - **Dissection:** [re-im-burse]
@@ -587,8 +587,8 @@
 - **Meaning:** Refer to another person for decision or judgment
 - **Hindi:** बाहर निकाल देना
 - **Examples:**
-  1. She likes to relegate difficult questions to her colleagues.
-  2. She was demoted because she always speaks up.
+  1. The manager decided to relegate the lazy employee to a lower position.
+  2. The team was sad to relegate to the junior division after a series of losses.
 
 ## 75: Relent
 - **Dissection:** [re-lent]
@@ -603,8 +603,8 @@
 - **Meaning:** The relation of something to the matter at hand
 - **Hindi:** प्रासंगिकता
 - **Examples:**
-  1. Learning the word 'relevancy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'relevancy' in daily conversations.
+  1. The judge questioned the relevancy of the witness's statement to the case.
+  2. He failed to demonstrate the relevancy of his arguments to the main topic.
 
 ## 77: Relinquish
 - **Dissection:** [re-lin-quish]
@@ -643,8 +643,8 @@
 - **Meaning:** Failing in what duty requires
 - **Hindi:** बेपरवाह
 - **Examples:**
-  1. Derelict (or delinquent) in his duty.
-  2. Neglectful of his duties.
+  1. It would be remiss of me if I did not thank everyone who helped with the event.
+  2. The security guard was fired for being remiss in his duties during the night.
 
 ## 82: Remission
 - **Dissection:** [re-mis-sion]
@@ -755,16 +755,16 @@
 - **Meaning:** Adroitness and cleverness in reply
 - **Hindi:** हाजिर जवाबी
 - **Examples:**
-  1. Learning the word 'repartee' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'repartee' in daily conversations.
+  1. The two old friends engaged in a quick, witty repartee that entertained the guests.
+  2. She was famous for her sharp intellect and brilliant repartee during debates.
 
 ## 96: Repast
 - **Dissection:** [re-past]
 - **Meaning:** The food served and eaten at one time
 - **Hindi:** अन्न
 - **Examples:**
-  1. Learning the word 'repast' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'repast' in daily conversations.
+  1. The host prepared a delicious, warm repast for the traveling guests.
+  2. We enjoyed a simple repast of cheese, bread, and fresh fruit.
 
 ## 97: Repeal
 - **Dissection:** [re-peal]
@@ -787,24 +787,24 @@
 - **Meaning:** The entire range of skills or aptitudes or devices used in a particular field or occupation
 - **Hindi:** प्रदर्शनों की सूची
 - **Examples:**
-  1. The repertory of the supposed feats of mesmerism.
-  2. Has a large repertory of dialects and characters.
+  1. The pianist added several classical pieces to his performance repertoire.
+  2. The theater company has a diverse repertoire of plays for the upcoming season.
 
 ## 100: Repine
 - **Dissection:** [re-pine]
 - **Meaning:** Express discontent
 - **Hindi:** विलाप करना
 - **Examples:**
-  1. Learning the word 'repine' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'repine' in daily conversations.
+  1. It is useless to repine over past mistakes; focus on the future instead.
+  2. She refused to repine about her bad luck, choosing to stay positive.
 
 ## 101: Replenish
 - **Dissection:** [re-plen-ish]
 - **Meaning:** Fill something that had previously been emptied
 - **Hindi:** Replenish का हिंदी अर्थ
 - **Examples:**
-  1. Refill my glass, please.
-  2. It's a popular product, and they have to replenish their stock of it frequently.
+  1. We stopped at a local store to replenish our supplies of fresh food and water.
+  2. The waiter arrived quickly to replenish our glasses with ice water.
 
 ## 102: Replete
 - **Dissection:** [re-plete]
@@ -899,8 +899,8 @@
 - **Meaning:** A person without moral scruples
 - **Hindi:** बदमाश
 - **Examples:**
-  1. God reprobated the unrepenting sinner.
-  2. We condemn the racism in South Africa.
+  1. The old reprobate spent all his money on gambling and refused to find a job.
+  2. Despite his bad reputation, the community hoped the reprobate would change.
 
 ## 114: Reprove
 - **Dissection:** [re-prove]
@@ -923,8 +923,8 @@
 - **Meaning:** Intense aversion
 - **Hindi:** घृणा
 - **Examples:**
-  1. Learning the word 'repugnance' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'repugnance' in daily conversations.
+  1. She felt a sudden wave of repugnance at the sight of the dirty kitchen.
+  2. He made no attempt to hide his deep repugnance for the corrupt deal.
 
 ## 117: Repulsion
 - **Dissection:** [re-pul-sion]
@@ -947,16 +947,16 @@
 - **Meaning:** A song or hymn of mourning composed or performed as a memorial to a dead person
 - **Hindi:** Requiem का हिंदी अर्थ
 - **Examples:**
-  1. Learning the word 'requiem' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'requiem' in daily conversations.
+  1. The composer wrote a beautiful, moving requiem in memory of his father.
+  2. The choir performed Mozart's Requiem at the special memorial service.
 
 ## 120: Requisite
 - **Dissection:** [re-quis-ite]
 - **Meaning:** Anything indispensable
 - **Hindi:** मांग
 - **Examples:**
-  1. Food and shelter are necessities of life.
-  2. The essentials of the good life.
+  1. Before starting the advanced course, students must complete the requisite classes.
+  2. A valid passport is a requisite document for any international travel.
 
 ## 121: Requite
 - **Dissection:** [re-quite]
@@ -1043,8 +1043,8 @@
 - **Meaning:** A (temporary) relief from harm or discomfort
 - **Hindi:** मोहलत
 - **Examples:**
-  1. We took a 10-minute break.
-  2. He took time out to recuperate.
+  1. The brief rain shower provided a welcome respite from the intense summer heat.
+  2. He worked for ten hours without a single moment of rest or respite.
 
 ## 132: Resplendent
 - **Dissection:** [resplen-dent]
@@ -1092,7 +1092,7 @@
 - **Hindi:** पुनरारंभ
 - **Examples:**
   1. But a resumption does not seem justifiable now.
-  2. It is beneficial to understand the meaning and context of 'resumption' in daily conversations.
+  2. The sharp rise in the September surplus came from a resumption of export deliveries delayed by strikes the previous month.
 
 ## 138: Resurge
 - **Dissection:** [re-sur-ge]
@@ -1115,8 +1115,8 @@
 - **Meaning:** Temperamentally disinclined to talk
 - **Hindi:** मितभाषी
 - **Examples:**
-  1. Learning the word 'reticent' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'reticent' in daily conversations.
+  1. He was highly reticent, choosing to listen rather than speak during meetings.
+  2. She remained reticent about her personal life, avoiding questions.
 
 ## 141: Retinue
 - **Dissection:** [ret-in-ue]
@@ -1124,7 +1124,7 @@
 - **Hindi:** परिचारक वर्ग
 - **Examples:**
   1. The queen’s retinues.
-  2. It is beneficial to understand the meaning and context of 'retinue' in daily conversations.
+  2. A retinue is a body of persons "retained" in the service of a noble, royal personage, or dignitary; a suite (French "what follows") of retainers.
 
 ## 142: Retiring
 - **Dissection:** [re-tir-ing]
@@ -1139,8 +1139,8 @@
 - **Meaning:** A quick reply to a question or remark (especially a witty or critical one)
 - **Hindi:** प्रत्युत्तर
 - **Examples:**
-  1. It brought a sharp rejoinder from the teacher.
-  2. To retort the charge of vanity.
+  1. She made a quick, clever retort that left her opponent with nothing to say.
+  2. He was quick to retort when anyone questioned the accuracy of his data.
 
 ## 144: Retract
 - **Dissection:** [re-tract]
@@ -1188,7 +1188,7 @@
 - **Hindi:** पूर्वप्रभावी
 - **Examples:**
   1. Retrospective self-justification.
-  2. It is beneficial to understand the meaning and context of 'retrospective' in daily conversations.
+  2. When the tracks are by the same recording artist, the album may be referred to as a retrospective album or an anthology.
 
 ## 150: Revelry
 - **Dissection:** [rev-elry]
@@ -1196,7 +1196,7 @@
 - **Hindi:** मद्यपान का उत्सव
 - **Examples:**
   1. [ A BURST OF REVELRY FROM THE FORECASTLE.].
-  2. It is beneficial to understand the meaning and context of 'revelry' in daily conversations.
+  2. Revelry was a cocktail bar and Korean restaurant in Portland, Oregon, United States.
 
 ## 151: Reverberate
 - **Dissection:** [re-ver-ber-ate]
@@ -1259,16 +1259,16 @@
 - **Meaning:** Recite a rhapsody
 - **Hindi:** रैप्सोडाइज़
 - **Examples:**
-  1. Learning the word 'rhapsodize' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'rhapsodize' in daily conversations.
+  1. The food critic began to rhapsodize about the delicious dessert he had eaten.
+  2. He would often rhapsodize about the beauty of his mountain hometown.
 
 ## 159: Rhetoric
 - **Dissection:** [rhet-or-ic]
 - **Meaning:** Using language effectively to please or persuade
 - **Hindi:** वक्रपटुता
 - **Examples:**
-  1. The grandiosity of his prose.
-  2. An excessive ornateness of language.
+  1. The speaker's empty rhetoric failed to convince the audience to support the project.
+  2. He studied classical rhetoric to learn how to deliver persuasive speeches.
 
 ## 160: Ribald
 - **Dissection:** [rib-ald]
@@ -1348,7 +1348,7 @@
 - **Hindi:** छोटी नदी
 - **Examples:**
   1. A rivulet of tears ran down his face.
-  2. It is beneficial to understand the meaning and context of 'rivulet' in daily conversations.
+  2. The Goorudee Rivulet, a perennial river of the Murrumbidgee catchment of the Murray–Darling basin, is located in the Snowy Mountains region of New South Wales, Australia.
 
 ## 170: Robust
 - **Dissection:** [ro-bust]
@@ -1380,7 +1380,7 @@
 - **Hindi:** गुलाबी
 - **Examples:**
   1. The roseate glow of dawn.
-  2. It is beneficial to understand the meaning and context of 'roseate' in daily conversations.
+  2. The island is part of the Stewart B. McKinney National Wildlife Refuge and has the fifth-largest colony of nesting roseate terns in the northeastern United States.
 
 ## 174: Roster
 - **Dissection:** [roster]
@@ -1444,7 +1444,7 @@
 - **Hindi:** मलवा
 - **Examples:**
   1. In place of the police headquarters was a new square filled with rubble.
-  2. It is beneficial to understand the meaning and context of 'rubble' in daily conversations.
+  2. Like Richard Dean, she helped to pull her fellow citizens out of the rubble and deal with that awful tragedy.
 
 ## 182: Rubric
 - **Dissection:** [rub-ric]

@@ -3,8 +3,8 @@
 - **Meaning:** Any of several fleet black-and-white striped African equines
 - **Hindi:** ज़ेबरा
 - **Examples:**
-  1. Learning the word 'zebra' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'zebra' in daily conversations.
+  1. We watched a large herd of zebras grazing on the grassy plains of the savannah.
+  2. The zebra is easily recognized by its distinctive black and white striped coat.
 
 ## 2: Zinc
 - **Dissection:** [zinc]

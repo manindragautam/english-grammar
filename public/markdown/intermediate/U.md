@@ -59,8 +59,8 @@
 - **Meaning:** Be or form the base for
 - **Hindi:** आधारभूत
 - **Examples:**
-  1. Shortcomings inherent in our approach.
-  2. An underlying meaning.
+  1. Doctors worked to identify the underlying cause of the patient's symptoms.
+  2. The underlying theme of the novel is the struggle for social justice.
 
 ## 9: Undermine
 - **Dissection:** [un-der-mine]

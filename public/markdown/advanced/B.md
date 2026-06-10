@@ -211,8 +211,8 @@
 - **Meaning:** A person who helps people or institutions (especially with financial help)
 - **Hindi:** दान देनेवाला
 - **Examples:**
-  1. Learning the word 'benefactor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'benefactor' in daily conversations.
+  1. An anonymous benefactor donated a million dollars to the city's children's hospital.
+  2. Without the help of our generous benefactor, we would not have finished the research project.
 
 ## 28: Benign
 - **Dissection:** [be-nign]
@@ -315,8 +315,8 @@
 - **Meaning:** A prejudiced person who is intolerant of any opinions differing from his own
 - **Hindi:** कट्टर व्यक्रित
 - **Examples:**
-  1. Learning the word 'bigot' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'bigot' in daily conversations.
+  1. The politician was widely criticized as a bigot for making discriminatory remarks.
+  2. It is important to challenge the views of any bigot who refuses to tolerate other opinions.
 
 ## 41: Bilious
 - **Dissection:** [bili-ous]
@@ -324,7 +324,7 @@
 - **Hindi:** बिलियस
 - **Examples:**
   1. " Think, think of the fevers, yellow and bilious!
-  2. It is beneficial to understand the meaning and context of 'bilious' in daily conversations.
+  2. You would not think it to look at him, but he is bilious -- Mr. Cole is very bilious.
 
 ## 42: Bilk
 - **Dissection:** [bilk]
@@ -347,8 +347,8 @@
 - **Meaning:** Praise somewhat dishonestly
 - **Hindi:** नरम करना
 - **Examples:**
-  1. Learning the word 'blandish' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'blandish' in daily conversations.
+  1. The salesman tried to blandish the customer into buying the expensive luxury watch.
+  2. No matter how much they tried to blandish him, he refused to change his vote.
 
 ## 45: Blase
 - **Dissection:** [blase]
@@ -435,8 +435,8 @@
 - **Meaning:** A crude uncouth ill-bred person lacking culture or refinement
 - **Hindi:** गंवार
 - **Examples:**
-  1. Learning the word 'boor' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'boor' in daily conversations.
+  1. His rude behavior at the dinner table proved that he was nothing but a boor.
+  2. I cannot stand that boor who constantly interrupts people when they are speaking.
 
 ## 56: Bootless
 - **Dissection:** [boot-less]
@@ -571,8 +571,8 @@
 - **Meaning:** A rude or vulgar fool
 - **Hindi:** विदूषक
 - **Examples:**
-  1. Learning the word 'buffoon' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'buffoon' in daily conversations.
+  1. He played the buffoon at the party to make the guests laugh and lighten the mood.
+  2. The director criticized the actor for turning a serious role into a ridiculous buffoon.
 
 ## 73: Bulwark
 - **Dissection:** [bul-wark]
@@ -587,8 +587,8 @@
 - **Meaning:** Offensively self-assertive
 - **Hindi:** ख़ुद-एतमाद
 - **Examples:**
-  1. Learning the word 'bumptious' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'bumptious' in daily conversations.
+  1. The bumptious young attorney irritated the judge with his arrogant attitude.
+  2. No one liked the bumptious manager who constantly bragged about his accomplishments.
 
 ## 75: Burgeon
 - **Dissection:** [bur-geon]
@@ -627,6 +627,6 @@
 - **Meaning:** A side road little traveled (as in the countryside)
 - **Hindi:** बायवे
 - **Examples:**
-  1. Learning the word 'byway' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'byway' in daily conversations.
+  1. We avoided the crowded highway and took a peaceful byway through the countryside.
+  2. The map showed several narrow byways winding through the mountain villages.
 

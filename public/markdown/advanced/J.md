@@ -12,7 +12,7 @@
 - **Hindi:** शब्दजाल
 - **Examples:**
   1. They don't speak our lingo.
-  2. It is beneficial to understand the meaning and context of 'jargon' in daily conversations.
+  2. " It is very true," said Marianne," that admiration of landscape scenery is become a mere jargon.
 
 ## 3: Jaundiced
 - **Dissection:** [jaun-diced]
@@ -59,16 +59,16 @@
 - **Meaning:** An extreme bellicose nationalist
 - **Hindi:** जिंगोइस्ट
 - **Examples:**
-  1. Learning the word 'jingoist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'jingoist' in daily conversations.
+  1. The jingoist politician demanded aggressive military action against the neighboring country.
+  2. We should avoid the extreme views of any jingoist who promotes hatred of other nations.
 
 ## 9: Jocose
 - **Dissection:** [joc-ose]
 - **Meaning:** Characterized by jokes and good humor
 - **Hindi:** विनोदी
 - **Examples:**
-  1. Learning the word 'jocose' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'jocose' in daily conversations.
+  1. The speaker's jocose remarks helped ease the tension in the crowded auditorium.
+  2. He was in a jocose mood, constantly telling funny jokes and laughing loudly.
 
 ## 10: Jocular
 - **Dissection:** [joc-u-lar]
@@ -99,8 +99,8 @@
 - **Meaning:** A feeling of extreme joy
 - **Hindi:** आनंदोत्सव
 - **Examples:**
-  1. Learning the word 'jubilation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'jubilation' in daily conversations.
+  1. The streets were filled with noise and jubilation when the war ended.
+  2. Winning the gold medal brought a feeling of absolute jubilation to the athlete.
 
 ## 14: Judicious
 - **Dissection:** [ju-di-cious]
@@ -115,8 +115,8 @@
 - **Meaning:** A massive inexorable force that seems to crush everything in its way
 - **Hindi:** रथ
 - **Examples:**
-  1. Learning the word 'juggernaut' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'juggernaut' in daily conversations.
+  1. The massive technology company became an unstoppable economic juggernaut.
+  2. The championship team proved to be a sports juggernaut, winning every single game.
 
 ## 16: Juncture
 - **Dissection:** [junc-ture]
@@ -139,8 +139,8 @@
 - **Meaning:** A group of military officers who rule a country after seizing power
 - **Hindi:** जून्टा
 - **Examples:**
-  1. Gen. Gursel has headed the military junta the last 17 months.
-  2. It is beneficial to understand the meaning and context of 'junta' in daily conversations.
+  1. A military junta took control of the nation after deposing the elected president.
+  2. The ruling junta suspended the constitution and declared a state of emergency.
 
 ## 19: Jurisprudence
 - **Dissection:** [jur-is-pru-dence]

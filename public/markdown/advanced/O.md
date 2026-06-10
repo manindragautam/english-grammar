@@ -27,8 +27,8 @@
 - **Meaning:** A stone pillar having a rectangular cross section tapering towards a pyramidal top
 - **Hindi:** स्मारक-स्तंभ
 - **Examples:**
-  1. Learning the word 'obelisk' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'obelisk' in daily conversations.
+  1. A tall granite obelisk stands in the center of the historic square.
+  2. The ancient Egyptians erected stone obelisks to honor their gods.
 
 ## 5: Obese
 - **Dissection:** [obese]
@@ -36,23 +36,23 @@
 - **Hindi:** मोटा
 - **Examples:**
   1. A weighty man.
-  2. It is beneficial to understand the meaning and context of 'obese' in daily conversations.
+  2. Lady: My dog hates morbidly obese people.
 
 ## 6: Obfuscate
 - **Dissection:** [ob-fus-cate]
 - **Meaning:** Make obscure or unclear
 - **Hindi:** अंधेरा करना
 - **Examples:**
-  1. Before leaving the scene, the murderer set a fire in order to obfuscate any evidence of their identity.
-  2. We need to obfuscate these classes before we ship the final release.
+  1. The spokesperson tried to obfuscate the truth by giving a long, confusing reply.
+  2. Do not use complicated language to obfuscate the main points of your report.
 
 ## 7: Obituary
 - **Dissection:** [ob-it-u-ary]
 - **Meaning:** A notice of someone's death; usually includes a short biography
 - **Hindi:** मृत्युलेख
 - **Examples:**
-  1. Learning the word 'obituary' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'obituary' in daily conversations.
+  1. The local newspaper published a touching obituary for the late doctor.
+  2. She read the obituary section daily to see if any old friends had passed.
 
 ## 8: Obligatory
 - **Dissection:** [ob-lig-at-ory]
@@ -83,8 +83,8 @@
 - **Meaning:** The state of being disregarded or forgotten
 - **Hindi:** विस्मरण
 - **Examples:**
-  1. He sought the great oblivion of sleep.
-  2. He regularly drank himself into oblivion.
+  1. The old ruins slowly crumbled into oblivion, forgotten by the local population.
+  2. She drank a cup of warm tea and fell into the peaceful oblivion of deep sleep.
 
 ## 12: Oblivious
 - **Dissection:** [ob-li-vi-ous]
@@ -107,16 +107,16 @@
 - **Meaning:** Attempting to win favor from influential people by flattery
 - **Hindi:** चापलूस
 - **Examples:**
-  1. Obsequious shop assistants.
-  2. It is beneficial to understand the meaning and context of 'obsequious' in daily conversations.
+  1. The obsequious waiter bowed constantly and praised the guest's taste in wine.
+  2. The manager disliked obsequious employees who agreed with everything he said.
 
 ## 15: Obsequy
 - **Dissection:** [ob-sequy]
 - **Meaning:** The last office for the dead.
 - **Hindi:** अवलोकन
 - **Examples:**
-  1. Learning the word 'obsequy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'obsequy' in daily conversations.
+  1. The church held a solemn obsequy for the fallen soldiers.
+  2. The royal family attended the grand obsequies of the late king.
 
 ## 16: Obsessive
 - **Dissection:** [ob-sess-ive]
@@ -131,8 +131,8 @@
 - **Meaning:** Acid or granitic glass formed by the rapid cooling of lava without crystallization; usually dark, but transparent in thin pieces
 - **Hindi:** ओब्सीडियन
 - **Examples:**
-  1. Learning the word 'obsidian' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'obsidian' in daily conversations.
+  1. Ancient craftsmen used sharp pieces of black obsidian to make tools.
+  2. The volcanic eruption left large deposits of shiny, dark obsidian.
 
 ## 18: Obsolete
 - **Dissection:** [ob-sol-ete]
@@ -147,8 +147,8 @@
 - **Meaning:** A physician specializing in obstetrics
 - **Hindi:** दाई
 - **Examples:**
-  1. Learning the word 'obstetrician' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'obstetrician' in daily conversations.
+  1. The obstetrician monitored the health of the pregnant woman and her baby.
+  2. She chose to consult a licensed obstetrician to help deliver her child.
 
 ## 20: Obstinate
 - **Dissection:** [ob-stin-ate]
@@ -171,8 +171,8 @@
 - **Meaning:** Push to thrust outward
 - **Hindi:** निकालना
 - **Examples:**
-  1. The colors don't intrude on the viewer.
-  2. It is beneficial to understand the meaning and context of 'obtrude' in daily conversations.
+  1. I did not want to obtrude on their conversation, so I quietly walked past them.
+  2. She tried to avoid situations where her personal views would obtrude on her work.
 
 ## 23: Obtuse
 - **Dissection:** [ob-tuse]
@@ -195,8 +195,8 @@
 - **Meaning:** The countries of (originally) Europe and (now including) North America and South America
 - **Hindi:** पच्छम
 - **Examples:**
-  1. Learning the word 'occident' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'occident' in daily conversations.
+  1. The book compares the cultural traditions of the Orient and the Occident.
+  2. He traveled widely across the Occident to study modern architecture.
 
 ## 26: Occlude
 - **Dissection:** [oc-clude]
@@ -211,16 +211,16 @@
 - **Meaning:** Supernatural forces and events and beings collectively
 - **Hindi:** गूढ़
 - **Examples:**
-  1. She doesn't believe in the supernatural.
-  2. He is a student of the occult.
+  1. The old library contains a collection of historical books on the occult and magic.
+  2. He spent his life researching occult rituals practiced by ancient civilizations.
 
 ## 28: Oculist
 - **Dissection:** [oculist]
 - **Meaning:** A person skilled in testing for defects of vision in order to prescribe corrective glasses
 - **Hindi:** नेत्र-विशेषज्ञ
 - **Examples:**
-  1. Learning the word 'oculist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'oculist' in daily conversations.
+  1. The oculist examined his eyes and prescribed a new pair of glasses.
+  2. She visited the local oculist to check her worsening vision.
 
 ## 29: Odious
 - **Dissection:** [odi-ous]
@@ -291,24 +291,24 @@
 - **Meaning:** Look at with amorous intentions
 - **Hindi:** घूरना
 - **Examples:**
-  1. Learning the word 'ogle' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ogle' in daily conversations.
+  1. The rude men began to ogle the young woman as she walked past them.
+  2. He tried not to ogle the expensive sports car parked near his house.
 
 ## 38: Olfactory
 - **Dissection:** [ol-fact-ory]
 - **Meaning:** Of or relating to olfaction
 - **Hindi:** सूंघनेवाला
 - **Examples:**
-  1. Learning the word 'olfactory' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'olfactory' in daily conversations.
+  1. Dogs have an exceptionally strong olfactory sense, allowing them to track scents.
+  2. The pleasant smell of fresh coffee stimulated our olfactory nerves.
 
 ## 39: Oligarchy
 - **Dissection:** [ol-ig-archy]
 - **Meaning:** A political system governed by a few people
 - **Hindi:** कुलीनतंत्र
 - **Examples:**
-  1. One of his cardinal convictions was that Britain was not run as a democracy but as an oligarchy.
-  2. The big cities were notoriously in the hands of the oligarchy of local businessmen.
+  1. The nation was ruled by a corrupt oligarchy consisting of a few wealthy families.
+  2. Political scientists argued that the regime was turning into an oppressive oligarchy.
 
 ## 40: Ominous
 - **Dissection:** [omin-ous]
@@ -323,16 +323,16 @@
 - **Meaning:** Having unlimited power
 - **Hindi:** सर्वशक्तिमान
 - **Examples:**
-  1. In the Arts especially he was omnipotent.
-  2. I know that of me, which thou knowest not of thyself, oh, thou omnipotent.
+  1. In many religious traditions, the creator is believed to be an omnipotent deity.
+  2. The absolute monarch behaved as if he were an omnipotent ruler above the law.
 
 ## 42: Omnipresent
 - **Dissection:** [om-ni-present]
 - **Meaning:** Being present everywhere at once
 - **Hindi:** सर्व-भूत
 - **Examples:**
-  1. Learning the word 'omnipresent' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'omnipresent' in daily conversations.
+  1. The hum of local traffic was an omnipresent sound in the city apartment.
+  2. He complained that his manager was omnipresent, constantly monitoring work.
 
 ## 43: Omniscient
 - **Dissection:** [om-ni-scient]
@@ -340,15 +340,15 @@
 - **Hindi:** सर्वज्ञ
 - **Examples:**
   1. The Abrahamic God is omniscient.
-  2. It is beneficial to understand the meaning and context of 'omniscient' in daily conversations.
+  2. Gansevoort said, `` It requires an omniscient eye to select those if any on whom we can now rely.
 
 ## 44: Omnivorous
 - **Dissection:** [om-ni-vor-ous]
 - **Meaning:** Feeding on both plants and animals
 - **Hindi:** सर्व-भक्षक
 - **Examples:**
-  1. Learning the word 'omnivorous' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'omnivorous' in daily conversations.
+  1. Bears are omnivorous animals that eat fish, berries, insects, and small plants.
+  2. The biology lesson covered the dietary differences between carnivorous and omnivorous species.
 
 ## 45: Onerous
 - **Dissection:** [oner-ous]
@@ -363,8 +363,8 @@
 - **Meaning:** Using words that imitate the sound they denote
 - **Hindi:** अर्थानुरणन
 - **Examples:**
-  1. Learning the word 'onomatopoeia' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'onomatopoeia' in daily conversations.
+  1. Words like 'buzz' and 'hiss' are famous examples of onomatopoeia.
+  2. The poet used onomatopoeia to bring the sounds of the forest to life.
 
 ## 47: Onslaught
 - **Dissection:** [on-slaught]
@@ -403,8 +403,8 @@
 - **Meaning:** A narcotic drug that contains opium or an opium derivative
 - **Hindi:** नशा
 - **Examples:**
-  1. Learning the word 'opiate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'opiate' in daily conversations.
+  1. The doctor administered an opiate to ease the patient's severe pain.
+  2. She found the quiet sound of the rain to be a soothing, natural opiate.
 
 ## 52: Opportune
 - **Dissection:** [op-por-tune]
@@ -419,8 +419,8 @@
 - **Meaning:** A person who places expediency above principle
 - **Hindi:** अवसरवादी
 - **Examples:**
-  1. Learning the word 'opportunist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'opportunist' in daily conversations.
+  1. The opportunist changed his political views to win the local election.
+  2. He was criticized as an opportunist who only helped others for personal gain.
 
 ## 54: Opprobrium
 - **Dissection:** [op-pro-bri-um]
@@ -435,8 +435,8 @@
 - **Meaning:** A worker who makes glasses for remedying defects of vision
 - **Hindi:** प्रकाशविज्ञानशास्री
 - **Examples:**
-  1. Learning the word 'optician' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'optician' in daily conversations.
+  1. The optician helped her select a comfortable frame for her new glasses.
+  2. He worked as a licensed optician, adjusting and fitting contact lenses.
 
 ## 56: Optimist
 - **Dissection:** [op-tim-ist]
@@ -467,8 +467,8 @@
 - **Meaning:** Wealth as evidenced by sumptuous living
 - **Hindi:** अधिकता
 - **Examples:**
-  1. Learning the word 'opulence' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'opulence' in daily conversations.
+  1. The royal palace was decorated with gold and marble, showing incredible opulence.
+  2. She was amazed by the opulence of the luxury hotel lobby during her stay.
 
 ## 60: Opus
 - **Dissection:** [opus]
@@ -507,8 +507,8 @@
 - **Meaning:** A severe or trying experience
 - **Hindi:** कठिन परीक्षा
 - **Examples:**
-  1. Learning the word 'ordeal' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ordeal' in daily conversations.
+  1. The lost hikers survived a terrifying three-day ordeal in the cold mountains.
+  2. Preparing for the final board exam proved to be a difficult ordeal.
 
 ## 65: Ordinance
 - **Dissection:** [or-din-ance]
@@ -523,8 +523,8 @@
 - **Meaning:** Solid excretory product evacuated from the bowels
 - **Hindi:** खाद
 - **Examples:**
-  1. Learning the word 'ordure' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ordure' in daily conversations.
+  1. The streets of the medieval city were filled with mud and horse ordure.
+  2. The health inspector warned the farm owner to clean the animal ordure.
 
 ## 67: Orifice
 - **Dissection:** [ori-fice]
@@ -547,8 +547,8 @@
 - **Meaning:** A zoologist who studies birds
 - **Hindi:** पक्षी विज्ञानी
 - **Examples:**
-  1. Learning the word 'ornithologist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ornithologist' in daily conversations.
+  1. The ornithologist spent his weekend observing and cataloging local birds.
+  2. She wrote a book on the migration patterns of eagles as a research ornithologist.
 
 ## 70: Orthodox
 - **Dissection:** [or-tho-dox]
@@ -571,8 +571,8 @@
 - **Meaning:** Become bony
 - **Hindi:** हड्डी बन जाना
 - **Examples:**
-  1. The tissue ossified.
-  2. Rigidify the training schedule.
+  1. Over time, the soft cartilage in a baby's body will slowly ossify into hard bone.
+  2. He warned that standard administrative routines can ossify and hinder innovation.
 
 ## 73: Ostensible
 - **Dissection:** [os-tens-ible]
@@ -595,8 +595,8 @@
 - **Meaning:** Expel from a community or group
 - **Hindi:** समाज से बाहर निकालना
 - **Examples:**
-  1. Ever since I spoke up, my colleagues ostracize me.
-  2. It is beneficial to understand the meaning and context of 'ostracize' in daily conversations.
+  1. The village elders decided to ostracize the thief, forcing him to leave the community.
+  2. It is wrong to ostracize a classmate just because they have different interests.
 
 ## 76: Oust
 - **Dissection:** [oust]
@@ -659,8 +659,8 @@
 - **Meaning:** Enthusiastic recognition (especially one accompanied by loud applause)
 - **Hindi:** जयध्वनि
 - **Examples:**
-  1. Learning the word 'ovation' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'ovation' in daily conversations.
+  1. The audience stood and gave a long, enthusiastic ovation to the pianist.
+  2. The championship team received a spectacular ovation from the crowd.
 
 ## 84: Overbearing
 - **Dissection:** [over-bear-ing]

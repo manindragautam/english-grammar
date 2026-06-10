@@ -36,7 +36,7 @@
 - **Hindi:** सफ़ारी
 - **Examples:**
   1. Ruger reports that on his recent African safari the little Magnum cartridge was a real work horse.
-  2. It is beneficial to understand the meaning and context of 'safari' in daily conversations.
+  2. In another four weeks, with schools closed across the nation, the great all-American summer safari will be under way.
 
 ## 6: Salary
 - **Dissection:** [salary]
@@ -132,7 +132,7 @@
 - **Hindi:** सॉसेज
 - **Examples:**
   1. My little sausage.
-  2. It is beneficial to understand the meaning and context of 'sausage' in daily conversations.
+  2. Drunk guy: What is this, some sort of sausage fest in here or something?
 
 ## 18: Savage
 - **Dissection:** [sav-age]
@@ -419,8 +419,8 @@
 - **Meaning:** Any meeting for an exchange of ideas
 - **Hindi:** सेमिनार
 - **Examples:**
-  1. Learning the word 'seminar' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'seminar' in daily conversations.
+  1. The university hosted a weekly seminar on the latest developments in physics.
+  2. She attended a professional seminar to learn how to manage local businesses.
 
 ## 54: Senate
 - **Dissection:** [sen-ate]
@@ -764,7 +764,7 @@
 - **Hindi:** समकालिक
 - **Examples:**
   1. A series of coincident events.
-  2. It is beneficial to understand the meaning and context of 'simultaneous' in daily conversations.
+  2. ) This is the same system as was used in the field-sequential color-TV system which preceded the present simultaneous system.
 
 ## 97: Sin
 - **Dissection:** [sin]
@@ -787,8 +787,8 @@
 - **Meaning:** The form of a word that is used to denote a singleton
 - **Hindi:** विलक्षण
 - **Examples:**
-  1. A remarkable sight.
-  2. Such poise is singular in one so young.
+  1. She had a singular talent for painting that set her apart from other artists.
+  2. The museum features a singular collection of rare historical manuscripts.
 
 ## 100: Sink
 - **Dissection:** [sink]
@@ -844,7 +844,7 @@
 - **Hindi:** गगनचुंबी इमारत
 - **Examples:**
   1. Los Angeles in 1957 finally bowed to the skyscraper.
-  2. It is beneficial to understand the meaning and context of 'skyscraper' in daily conversations.
+  2. The Burj Khalifa (previously known as Burj Dubai prior to inauguration) is a megatall skyscraper in Dubai, United Arab Emirates.
 
 ## 107: Slam
 - **Dissection:** [slam]
@@ -932,7 +932,7 @@
 - **Hindi:** नारा
 - **Examples:**
   1. Slogan of the John Birch Society: `` Paddle your own canoe.
-  2. It is beneficial to understand the meaning and context of 'slogan' in daily conversations.
+  2. Emcee Jack Herbert insists Dick Nixon's campaign slogan for governor of California is, `` Knight Must Fall ''!!
 
 ## 118: Slope
 - **Dissection:** [slope]
@@ -1011,8 +1011,8 @@
 - **Meaning:** A person regarded as arrogant and annoying
 - **Hindi:** मोची का नौकर
 - **Examples:**
-  1. Learning the word 'snob' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'snob' in daily conversations.
+  1. The wine snob refused to drink anything that did not come from a famous region.
+  2. She was a snob who looked down on people who did not share her taste in music.
 
 ## 128: Soak
 - **Dissection:** [soak]
@@ -1044,7 +1044,7 @@
 - **Hindi:** फुटबॉल
 - **Examples:**
   1. The Soccer Club was organized by undergraduate men interested in playing soccer and promoting the sport.
-  2. It is beneficial to understand the meaning and context of 'soccer' in daily conversations.
+  2. The FA in England, U.S. Soccer in the United States, etc.).
 
 ## 132: Sociology
 - **Dissection:** [so-ci-ology]
@@ -1099,8 +1099,8 @@
 - **Meaning:** A petitioner who solicits contributions or trade or votes
 - **Hindi:** वकील
 - **Examples:**
-  1. On the brief were Solicitor General Rankin, Assistant Attorney General Wilkey, Beatrice Rosenberg and J. F. Bishop.
-  2. And how can he write about Normans if the man' s only a solicitor?
+  1. The family consulted a local solicitor to draft their grandfather's will.
+  2. The solicitor represented the business owner during the contract negotiations.
 
 ## 139: Solo
 - **Dissection:** [solo]
@@ -1203,8 +1203,8 @@
 - **Meaning:** Something of sentimental value
 - **Hindi:** यादगार
 - **Examples:**
-  1. Learning the word 'souvenir' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'souvenir' in daily conversations.
+  1. She bought a small wooden box as a souvenir of her vacation in Switzerland.
+  2. He kept the ticket stub as a souvenir of the historic championship game.
 
 ## 152: Sovereign
 - **Dissection:** [sov-er-eign]
@@ -1236,7 +1236,7 @@
 - **Hindi:** स्पा
 - **Examples:**
   1. Chrysler also holds a 15 pct interest in Italian sports car producer & lt; Alfieri Maserati Spa >.
-  2. It is beneficial to understand the meaning and context of 'spa' in daily conversations.
+  2. It sounds like a spa.
 
 ## 156: Spade
 - **Dissection:** [spade]
@@ -1475,8 +1475,8 @@
 - **Meaning:** Self-generated; happening without any apparent external cause.
 - **Hindi:** अविरल
 - **Examples:**
-  1. He made a spontaneous offer of help.
-  2. We took a spontaneous road trip to the coast last weekend.
+  1. The audience erupted into a spontaneous round of applause after the speech.
+  2. We made a spontaneous decision to take a road trip over the weekend.
 
 ## 186: Spread
 - **Dissection:** [spread]
@@ -1628,7 +1628,7 @@
 - **Hindi:** सांख्यिकीय
 - **Examples:**
   1. By dying from an overdose, he became just another statistic.
-  2. It is beneficial to understand the meaning and context of 'statistic' in daily conversations.
+  2. The test is valid when the test statistic is chi-squared distributed under the null hypothesis, specifically Pearson's chi-squared test and variants thereof.
 
 ## 205: Statue
 - **Dissection:** [statue]
@@ -1932,7 +1932,7 @@
 - **Hindi:** चहलक़दमी
 - **Examples:**
   1. Returning from my first morning stroll, I again sallied out upon this special errand.
-  2. It is beneficial to understand the meaning and context of 'stroll' in daily conversations.
+  2. A visit to Chicago's museums and a stroll around broad Michigan Avenue will unfold many photogenic subjects to the alert photographer.
 
 ## 243: Struggle
 - **Dissection:** [struggle]
@@ -2139,8 +2139,8 @@
 - **Meaning:** Concerned with or comprehending only what is apparent or obvious; not deep or penetrating emotionally or intellectually
 - **Hindi:** सतही
 - **Examples:**
-  1. Superficial similarities.
-  2. A superficial mind.
+  1. The mechanic checked the car and said it had only suffered superficial damage.
+  2. Her writing was criticized for being superficial and lacking deep analysis.
 
 ## 269: Superior
 - **Dissection:** [su-per-i-or]
@@ -2451,8 +2451,8 @@
 - **Meaning:** The process of producing a chemical compound (usually by the union of simpler chemical compounds)
 - **Hindi:** संश्लेषण
 - **Examples:**
-  1. True, a Mason watercolor is unmistakably a synthesis of nature rather than a detailed inventory.
-  2. Impartiality to him meant an unwillingness to generalize and to search for a synthesis.
+  1. Her research represents a brilliant synthesis of history and sociology.
+  2. The chemist explained the synthesis of the new compound in the lab.
 
 ## 308: Syrup
 - **Dissection:** [syr-up]

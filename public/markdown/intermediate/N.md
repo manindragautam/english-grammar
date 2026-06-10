@@ -195,8 +195,8 @@
 - **Meaning:** A content word that can be used to refer to a person, place, thing, quality, or action
 - **Hindi:** संज्ञा
 - **Examples:**
-  1. Learning the word 'noun' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'noun' in daily conversations.
+  1. The teacher asked the students to identify every noun and verb in the sentence.
+  2. A proper noun should always be capitalized, regardless of its position.
 
 ## 26: Nourish
 - **Dissection:** [nour-ish]

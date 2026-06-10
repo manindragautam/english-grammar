@@ -147,8 +147,8 @@
 - **Meaning:** A message transmitted by telegraph
 - **Hindi:** टेलीग्राम
 - **Examples:**
-  1. Learning the word 'telegram' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'telegram' in daily conversations.
+  1. The family received a telegram bringing news of their grandfather's arrival.
+  2. In the past, sending a telegram was the fastest way to communicate across distances.
 
 ## 20: Telescope
 - **Dissection:** [tele-scope]
@@ -348,7 +348,7 @@
 - **Hindi:** थीसिस
 - **Examples:**
   1. " I have considered the thesis," answered the little man, composedly.
-  2. It is beneficial to understand the meaning and context of 'thesis' in daily conversations.
+  2. The desire to substantiate a thesis at the expense of sound research technique smacks more of the propagandist than the historian.
 
 ## 45: Thigh
 - **Dissection:** [thigh]

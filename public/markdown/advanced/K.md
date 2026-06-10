@@ -3,8 +3,8 @@
 - **Meaning:** A complex pattern of constantly changing colors and shapes
 - **Hindi:** बहुरूपदर्शक
 - **Examples:**
-  1. Learning the word 'kaleidoscope' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'kaleidoscope' in daily conversations.
+  1. The toy contains colorful beads that form a kaleidoscope of patterns.
+  2. The festival was a vibrant kaleidoscope of music, dance, and food.
 
 ## 2: Ken
 - **Dissection:** [ken]
@@ -27,8 +27,8 @@
 - **Meaning:** Someone who spoils the pleasure of others
 - **Hindi:** किलजॉय
 - **Examples:**
-  1. Learning the word 'killjoy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'killjoy' in daily conversations.
+  1. Do not be a killjoy; join the party and celebrate with the team.
+  2. The manager behaved like a killjoy, banning all music in the office.
 
 ## 5: Kindle
 - **Dissection:** [kindle]
@@ -59,8 +59,8 @@
 - **Meaning:** Someone with an irrational urge to steal in the absence of an economic motive
 - **Hindi:** क्लेपटोमानीया से बिमार
 - **Examples:**
-  1. Learning the word 'kleptomaniac' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'kleptomaniac' in daily conversations.
+  1. The store security caught the kleptomaniac who stole items she did not need.
+  2. He explained that his shoplifting was caused by being a kleptomaniac.
 
 ## 9: Knave
 - **Dissection:** [knave]

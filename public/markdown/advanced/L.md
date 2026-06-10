@@ -3,8 +3,8 @@
 - **Meaning:** Complex system of paths or tunnels in which it is easy to get lost
 - **Hindi:** भूलभुलैया
 - **Examples:**
-  1. Learning the word 'labyrinth' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'labyrinth' in daily conversations.
+  1. We got lost in the labyrinth of narrow streets in the old section of the city.
+  2. The tax code is a complicated labyrinth that requires expert help to navigate.
 
 ## 2: Laceration
 - **Dissection:** [la-cer-a-tion]
@@ -19,8 +19,8 @@
 - **Meaning:** Showing sorrow
 - **Hindi:** रोना
 - **Examples:**
-  1. Learning the word 'lachrymose' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'lachrymose' in daily conversations.
+  1. The sad movie was so lachrymose that almost everyone in the theater was crying.
+  2. She delivered a lachrymose speech at the memorial service for her late colleague.
 
 ## 4: Lackadaisical
 - **Dissection:** [lack-a-dais-ic-al]
@@ -51,8 +51,8 @@
 - **Meaning:** Someone who takes more time than necessary; someone who lags behind
 - **Hindi:** सुस्त
 - **Examples:**
-  1. The laggard broilers are euthanized and incinerated.
-  2. It is beneficial to understand the meaning and context of 'laggard' in daily conversations.
+  1. The manager urged the laggard employees to work faster to meet the deadline.
+  2. The company was a laggard in adopting new technology, falling far behind its competitors.
 
 ## 8: Lament
 - **Dissection:** [lament]
@@ -67,8 +67,8 @@
 - **Meaning:** A composition that imitates or misrepresents somebody's style, usually in a humorous way
 - **Hindi:** निन्दालेख
 - **Examples:**
-  1. The writer satirized the politician's proposal.
-  2. It is beneficial to understand the meaning and context of 'lampoon' in daily conversations.
+  1. The late-night comedy show is famous for its sketches that lampoon local politicians.
+  2. The student newspaper published a cartoon to lampoon the new school dress code.
 
 ## 10: Languid
 - **Dissection:** [lan-guid]
@@ -99,8 +99,8 @@
 - **Meaning:** A gift or money given (as for service or out of benevolence); usually given ostentatiously
 - **Hindi:** उदारता
 - **Examples:**
-  1. Learning the word 'largess' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'largess' in daily conversations.
+  1. The local museum was built thanks to the generous largess of a wealthy family.
+  2. The nonprofit organization relied on the largess of community members to fund its programs.
 
 ## 14: Lascivious
 - **Dissection:** [las-ci-vi-ous]
@@ -115,8 +115,8 @@
 - **Meaning:** A state of comatose torpor (as found in sleeping sickness)
 - **Hindi:** अवसाद
 - **Examples:**
-  1. Learning the word 'lassitude' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'lassitude' in daily conversations.
+  1. The extreme summer heat filled us with a sense of heavy, uncomfortable lassitude.
+  2. After recovering from the flu, she suffered from a lingering lassitude for weeks.
 
 ## 16: Latent
 - **Dissection:** [lat-ent]
@@ -187,8 +187,8 @@
 - **Meaning:** Unrestrained indulgence in sexual activity
 - **Hindi:** भ्रष्टाचार
 - **Examples:**
-  1. Learning the word 'lechery' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'lechery' in daily conversations.
+  1. The moralists criticized the novel for its detailed depiction of lechery.
+  2. He lived a life of lechery and excess, eventually losing his fortune.
 
 ## 25: Leery
 - **Dissection:** [leery]
@@ -211,8 +211,8 @@
 - **Meaning:** An illusory feat; considered magical by naive observers
 - **Hindi:** हथकंडा
 - **Examples:**
-  1. Learning the word 'legerdemain' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'legerdemain' in daily conversations.
+  1. The magician performed impressive feats of legerdemain that amazed the children.
+  2. The corrupt accountant used financial legerdemain to hide the missing funds.
 
 ## 28: Leniency
 - **Dissection:** [le-ni-ency]
@@ -283,8 +283,8 @@
 - **Meaning:** Someone who releases people from captivity or bondage
 - **Hindi:** मुक्तिदाता
 - **Examples:**
-  1. Learning the word 'liberator' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'liberator' in daily conversations.
+  1. The general was celebrated as a liberator after freeing the town from enemy forces.
+  2. The historical monument was dedicated to the liberators of the nation.
 
 ## 37: Libertine
 - **Dissection:** [lib-ertine]
@@ -324,7 +324,7 @@
 - **Hindi:** धारणाधिकार
 - **Examples:**
   1. Had we taken a lien on a state park??
-  2. It is beneficial to understand the meaning and context of 'lien' in daily conversations.
+  2. One of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.
 
 ## 42: Ligneous
 - **Dissection:** [ligneous]
@@ -372,15 +372,15 @@
 - **Hindi:** वंशावली
 - **Examples:**
   1. His entire lineage has been warriors.
-  2. It is beneficial to understand the meaning and context of 'lineage' in daily conversations.
+  2. Below these particulars was a series of alpha-beta-gammas connected by arrows and crosses which denoted the lineage of the breed.
 
 ## 48: Liniment
 - **Dissection:** [lini-ment]
 - **Meaning:** A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain
 - **Hindi:** लेप
 - **Examples:**
-  1. Learning the word 'liniment' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'liniment' in daily conversations.
+  1. She rubbed a soothing herbal liniment on her sore muscles after the long workout.
+  2. The athletic trainer recommended a warming liniment to ease the stiffness in his back.
 
 ## 49: Lionize
 - **Dissection:** [li-on-ize]

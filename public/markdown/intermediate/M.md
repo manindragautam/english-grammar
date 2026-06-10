@@ -67,8 +67,8 @@
 - **Meaning:** Any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk
 - **Hindi:** सस्तन प्राणी
 - **Examples:**
-  1. Learning the word 'mammal' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'mammal' in daily conversations.
+  1. Whales and dolphins are mammals that breathe air and nurse their young.
+  2. The science class studied the differences between mammals and reptiles.
 
 ## 10: Manifest
 - **Dissection:** [mani-fest]
@@ -691,8 +691,8 @@
 - **Meaning:** A favorite saying of a sect or political group
 - **Hindi:** सिद्धांत
 - **Examples:**
-  1. Learning the word 'motto' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'motto' in daily conversations.
+  1. The school's official motto is 'Learn, Lead, Serve' which is printed on the shield.
+  2. He lived by the personal motto that one should treat others with kindness.
 
 ## 88: Mount
 - **Dissection:** [mount]

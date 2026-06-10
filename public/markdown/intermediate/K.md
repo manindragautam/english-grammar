@@ -35,8 +35,8 @@
 - **Meaning:** A metric unit of length equal to 1000 meters (or 0.621371 miles)
 - **Hindi:** किलोमीटर
 - **Examples:**
-  1. Learning the word 'kilometer' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'kilometer' in daily conversations.
+  1. The signs along the highway indicated that the nearest city was fifty kilometers away.
+  2. He ran a five-kilometer race to raise money for a local animal shelter.
 
 ## 6: Kingdom
 - **Dissection:** [king-dom]

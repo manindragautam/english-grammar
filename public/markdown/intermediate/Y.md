@@ -35,6 +35,6 @@
 - **Meaning:** The yellow spherical part of an egg that is surrounded by the albumen
 - **Hindi:** जर्दी
 - **Examples:**
-  1. Learning the word 'yolk' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'yolk' in daily conversations.
+  1. She separated the yellow yolk from the clear egg white before making the cake.
+  2. The recipe requires you to beat three egg yolks with sugar until creamy.
 

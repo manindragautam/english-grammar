@@ -123,8 +123,8 @@
 - **Meaning:** Someone who dissipates resources self-indulgently
 - **Hindi:** ख़राबी
 - **Examples:**
-  1. Learning the word 'wastrel' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'wastrel' in daily conversations.
+  1. The lazy wastrel spent his entire inheritance on expensive cars and parties.
+  2. The father worried that his son was becoming a reckless wastrel who refused to work.
 
 ## 17: Watershed
 - **Dissection:** [wa-ter-shed]
@@ -139,8 +139,8 @@
 - **Meaning:** Wait in hiding to attack
 - **Hindi:** ताक में रहना
 - **Examples:**
-  1. Learning the word 'waylay' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'waylay' in daily conversations.
+  1. Bandits used to hide in the forest to waylay travelers on the mountain road.
+  2. The reporters waited near the entrance, planning to waylay the politician for questions.
 
 ## 19: Wean
 - **Dissection:** [wean]
@@ -212,7 +212,7 @@
 - **Hindi:** हिनाहिनाहट
 - **Examples:**
   1. Just at that moment he felt something warm nosing about at his shoulder, and heard a little whinny.
-  2. It is beneficial to understand the meaning and context of 'whinny' in daily conversations.
+  2. Coyotes and hunting wolves sounded like signaling Indian scouts, the whinny of a restless pony made one's skin crawl.
 
 ## 28: Whittling
 - **Dissection:** [whit-tling]
@@ -315,16 +315,16 @@
 - **Meaning:** (of especially persons) lacking sense or understanding or judgment
 - **Hindi:** बुद्धिहीन
 - **Examples:**
-  1. Learning the word 'witless' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'witless' in daily conversations.
+  1. He made a series of witless remarks that embarrassed his friends at the dinner.
+  2. It was a witless decision to leave the house unlocked while going on vacation.
 
 ## 41: Witticism
 - **Dissection:** [wit-ti-cism]
 - **Meaning:** A message whose ingenuity or verbal skill or incongruity has the power to evoke laughter
 - **Hindi:** व्यंग्यवाद
 - **Examples:**
-  1. Learning the word 'witticism' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'witticism' in daily conversations.
+  1. The speaker's clever witticisms made the long presentation much more enjoyable.
+  2. She was admired for her sharp wit and memorable, quick witticisms.
 
 ## 42: Wizardry
 - **Dissection:** [wiz-ardry]

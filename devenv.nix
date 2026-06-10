@@ -27,6 +27,7 @@
         pyphen
         deep-translator
         nltk
+        pypdf
       '';
     };
   };

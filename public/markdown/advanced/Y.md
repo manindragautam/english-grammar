@@ -11,8 +11,8 @@
 - **Meaning:** Officer in the (ceremonial) bodyguard of the British monarch
 - **Hindi:** फ़र्मर
 - **Examples:**
-  1. Learning the word 'yeoman' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'yeoman' in daily conversations.
+  1. The yeoman spent his days farming his own plot of land in the countryside.
+  2. The local volunteer group did a yeoman service cleaning up the public park.
 
 ## 3: Yoke
 - **Dissection:** [yoke]

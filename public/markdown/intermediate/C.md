@@ -396,7 +396,7 @@
 - **Hindi:** प्रसिद्ध व्यक्ति
 - **Examples:**
   1. He was a baseball celebrity.
-  2. It is beneficial to understand the meaning and context of 'celebrity' in daily conversations.
+  2. Chick: You told me you was a celebrity!
 
 ## 51: Cellar
 - **Dissection:** [cel-lar]
@@ -2460,7 +2460,7 @@
 - **Hindi:** खीरा
 - **Examples:**
   1. ' What a number of cucumber- frames there must be!'.
-  2. It is beneficial to understand the meaning and context of 'cucumber' in daily conversations.
+  2. " I tell you," cried the American in the utmost excitement," I was as cool as a cucumber.".
 
 ## 309: Cue
 - **Dissection:** [cue]

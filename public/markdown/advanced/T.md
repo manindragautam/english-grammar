@@ -35,16 +35,16 @@
 - **Meaning:** A trinket or piece of jewelry usually hung about the neck and thought to be a magical protection against evil or disease
 - **Hindi:** तावीज़
 - **Examples:**
-  1. Learning the word 'talisman' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'talisman' in daily conversations.
+  1. The sailor carried a silver coin as a talisman to protect him from storms.
+  2. She wore an old stone talisman around her neck for good luck.
 
 ## 6: Talon
 - **Dissection:** [talon]
 - **Meaning:** A sharp hooked claw especially on a bird of prey
 - **Hindi:** कूपन
 - **Examples:**
-  1. Learning the word 'talon' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'talon' in daily conversations.
+  1. The hawk grabbed the small mouse with its sharp, powerful talons.
+  2. We watched the eagle extend its talons as it landed on the tree branch.
 
 ## 7: Tangential
 - **Dissection:** [tan-gen-tial]
@@ -91,8 +91,8 @@
 - **Meaning:** Large southern European spider once thought to be the cause of tarantism (uncontrollable bodily movement)
 - **Hindi:** टारेंटयुला
 - **Examples:**
-  1. Learning the word 'tarantula' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tarantula' in daily conversations.
+  1. The zoo features a large terrarium housing a hairy desert tarantula.
+  2. She shivered at the sight of the massive tarantula crawling on the wall.
 
 ## 13: Tarry
 - **Dissection:** [tarry]
@@ -139,24 +139,24 @@
 - **Meaning:** A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior
 - **Hindi:** वर्गीकरण वैज्ञानिक
 - **Examples:**
-  1. Learning the word 'taxonomist' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'taxonomist' in daily conversations.
+  1. The taxonomist classified the newly discovered insect under a rare genus.
+  2. She worked as a research taxonomist at the botanical gardens.
 
 ## 19: Tedium
 - **Dissection:** [te-di-um]
 - **Meaning:** The feeling of being bored by something tedious
 - **Hindi:** विरक्ति
 - **Examples:**
-  1. Learning the word 'tedium' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tedium' in daily conversations.
+  1. Listening to the long, dry presentation filled the audience with tedium.
+  2. He decided to take a vacation to escape the daily tedium of office work.
 
 ## 20: Temerity
 - **Dissection:** [temer-ity]
 - **Meaning:** Fearless daring
 - **Hindi:** उतावलापन
 - **Examples:**
-  1. Learning the word 'temerity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'temerity' in daily conversations.
+  1. No one had the temerity to challenge the manager's decision during the meeting.
+  2. The young officer had the temerity to correct his commanding general.
 
 ## 21: Temperament
 - **Dissection:** [tem-pera-ment]
@@ -172,7 +172,7 @@
 - **Hindi:** संयम
 - **Examples:**
   1. Temperance in eating and drinking.
-  2. It is beneficial to understand the meaning and context of 'temperance' in daily conversations.
+  2. The virtue of temperance is held in higher estimation.
 
 ## 23: Tempestuous
 - **Dissection:** [tem-pes-tu-ous]
@@ -235,8 +235,8 @@
 - **Meaning:** A religious doctrine that is proclaimed as true without proof
 - **Hindi:** सिद्धांत
 - **Examples:**
-  1. Learning the word 'tenet' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tenet' in daily conversations.
+  1. A central tenet of the organization is that everyone deserves equal respect.
+  2. He explained the basic tenets of his philosophical beliefs to the class.
 
 ## 31: Tensile
 - **Dissection:** [tensile]
@@ -299,8 +299,8 @@
 - **Meaning:** A place where something ends or is complete
 - **Hindi:** अंतिम स्टेशन
 - **Examples:**
-  1. Learning the word 'terminus' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'terminus' in daily conversations.
+  1. The train station serves as the final terminus for the northern railway line.
+  2. We walked along the path until we reached its terminus at the mountain cliff.
 
 ## 39: Terrestrial
 - **Dissection:** [ter-restri-al]
@@ -339,8 +339,8 @@
 - **Meaning:** Relating to or constituting a topic of discourse
 - **Hindi:** विषयगत
 - **Examples:**
-  1. Learning the word 'thematic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'thematic' in daily conversations.
+  1. The museum arranged the exhibits in a thematic order rather than historical.
+  2. The novel has a clear thematic focus on family and forgiveness.
 
 ## 44: Theocracy
 - **Dissection:** [theo-cracy]
@@ -379,8 +379,8 @@
 - **Meaning:** The state of being under the control of another person
 - **Hindi:** ग़ुलाम
 - **Examples:**
-  1. Learning the word 'thrall' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'thrall' in daily conversations.
+  1. The small nation was held in the thrall of the powerful empire for a century.
+  2. She found herself in the thrall of the beautiful music, completely captivated.
 
 ## 49: Threadbare
 - **Dissection:** [thread-bare]
@@ -467,16 +467,16 @@
 - **Meaning:** A speech of violent denunciation
 - **Hindi:** टाइरैड
 - **Examples:**
-  1. Learning the word 'tirade' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tirade' in daily conversations.
+  1. The manager launched into an angry tirade against the workers who arrived late.
+  2. We had to stand and listen to his loud tirade about the office budget.
 
 ## 60: Titanic
 - **Dissection:** [ti-tan-ic]
 - **Meaning:** Of great force or power
 - **Hindi:** टाइटैनिक
 - **Examples:**
-  1. Learning the word 'titanic' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'titanic' in daily conversations.
+  1. The two corporate giants engaged in a titanic struggle for market dominance.
+  2. The construction crew faced a titanic task clearing the landslide debris.
 
 ## 61: Tithe
 - **Dissection:** [tithe]
@@ -523,8 +523,8 @@
 - **Meaning:** A (usually) large and scholarly book
 - **Hindi:** मेरे लिए
 - **Examples:**
-  1. Learning the word 'tome' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tome' in daily conversations.
+  1. The professor consulted a heavy, leather-bound tome on ancient history.
+  2. She spent her afternoon reading a thick tome in the quiet library.
 
 ## 67: Topography
 - **Dissection:** [to-po-graphy]
@@ -659,8 +659,8 @@
 - **Meaning:** A disposition free from stress or emotion
 - **Hindi:** शांति
 - **Examples:**
-  1. Learning the word 'tranquility' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tranquility' in daily conversations.
+  1. We enjoyed the quiet tranquility of the mountain lake during our camping trip.
+  2. He retired to a small coastal village to find peace and tranquility.
 
 ## 84: Transcendent
 - **Dissection:** [tran-scend-ent]
@@ -795,8 +795,8 @@
 - **Meaning:** A formal exposition
 - **Hindi:** निबंध
 - **Examples:**
-  1. Learning the word 'treatise' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'treatise' in daily conversations.
+  1. The economist published a comprehensive treatise on modern trade policies.
+  2. He wrote a detailed treatise explaining the mathematical theory.
 
 ## 101: Trek
 - **Dissection:** [trek]
@@ -836,7 +836,7 @@
 - **Hindi:** घबराहट
 - **Examples:**
   1. I decided, with considerable trepidation, to let him drive my car without me.
-  2. It is beneficial to understand the meaning and context of 'trepidation' in daily conversations.
+  2. *** Opened with trepidation given Toby' s recent article ablout 1996 white Burgundy.
 
 ## 106: Trespass
 - **Dissection:** [tres-pass]
@@ -860,7 +860,7 @@
 - **Hindi:** ट्रिब्यूनल
 - **Examples:**
   1. The tribunal upheld a countervailing duty of 84. 9 U. S. cents a bushel.
-  2. It is beneficial to understand the meaning and context of 'tribunal' in daily conversations.
+  2. In a report to the Canadian finance department, the tribunal said the duty is hurting Canadian farmers and food processors.
 
 ## 109: Trident
 - **Dissection:** [tri-dent]
@@ -883,8 +883,8 @@
 - **Meaning:** A set of three literary or dramatic works related in subject or theme
 - **Hindi:** त्रयी
 - **Examples:**
-  1. Learning the word 'trilogy' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'trilogy' in daily conversations.
+  1. The author released the final book of her famous science fiction trilogy.
+  2. We watched the entire movie trilogy over the weekend.
 
 ## 112: Trinket
 - **Dissection:** [trinket]
@@ -923,8 +923,8 @@
 - **Meaning:** Obstreperous and defiant aggressiveness
 - **Hindi:** ट्रुकुलेंस
 - **Examples:**
-  1. Learning the word 'truculence' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'truculence' in daily conversations.
+  1. The customer's aggressive truculence worried the restaurant staff.
+  2. He was criticized for his truculence and refusal to cooperate with others.
 
 ## 117: Truism
 - **Dissection:** [tru-ism]
@@ -939,8 +939,8 @@
 - **Meaning:** Nonsensical talk or writing
 - **Hindi:** निरर्थक दिखावटी वस्तुऐ
 - **Examples:**
-  1. Learning the word 'trumpery' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'trumpery' in daily conversations.
+  1. The drawer was filled with cheap trumpery and useless souvenirs.
+  2. She dismissed the expensive jewelry, calling it worthless trumpery.
 
 ## 119: Truncate
 - **Dissection:** [trun-cate]
@@ -955,8 +955,8 @@
 - **Meaning:** A date; usually with a member of the opposite sex
 - **Hindi:** भेंट
 - **Examples:**
-  1. Learning the word 'tryst' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tryst' in daily conversations.
+  1. The two young lovers met secretly for a brief tryst in the quiet park.
+  2. The novel tells the story of a secret tryst that changed the course of history.
 
 ## 121: Tumult
 - **Dissection:** [tu-mult]
@@ -971,8 +971,8 @@
 - **Meaning:** A vast treeless plain in the Arctic regions where the subsoil is permanently frozen
 - **Hindi:** टुंड्रा
 - **Examples:**
-  1. Learning the word 'tundra' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tundra' in daily conversations.
+  1. Only a few hardy mosses and lichens can survive in the cold Arctic tundra.
+  2. We watched a herd of reindeer travel across the flat, frozen tundra.
 
 ## 123: Turbid
 - **Dissection:** [tur-bid]
@@ -1011,8 +1011,8 @@
 - **Meaning:** A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
 - **Hindi:** संक्रांति काल
 - **Examples:**
-  1. Learning the word 'turncoat' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'turncoat' in daily conversations.
+  1. The general was exposed as a turncoat who had sold secrets to the enemy.
+  2. No one trusted the turncoat politician who switched parties before the vote.
 
 ## 128: Turpitude
 - **Dissection:** [turpitude]
@@ -1044,7 +1044,7 @@
 - **Hindi:** आंधी
 - **Examples:**
   1. And in this very Typhoon, did he not swear that he would have no lightning- rods?
-  2. It is beneficial to understand the meaning and context of 'typhoon' in daily conversations.
+  2. He said the production fall was due to typhoon damage to more than 6, 000 hectares of canefields last year.
 
 ## 132: Tyranny
 - **Dissection:** [tyranny]
@@ -1059,6 +1059,6 @@
 - **Meaning:** Someone new to a field or activity
 - **Hindi:** नौसिखिए
 - **Examples:**
-  1. Learning the word 'tyro' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'tyro' in daily conversations.
+  1. As a chess tyro, he lost his first match within ten minutes.
+  2. The class is designed for any tyro who wants to learn how to cook.
 

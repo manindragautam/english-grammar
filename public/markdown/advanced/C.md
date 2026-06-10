@@ -19,8 +19,8 @@
 - **Meaning:** A loud harsh or strident noise
 - **Hindi:** कोलाहल
 - **Examples:**
-  1. Learning the word 'cacophony' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cacophony' in daily conversations.
+  1. A cacophony of car horns and sirens filled the air during the morning rush hour.
+  2. The musicians tuned their instruments, creating a brief cacophony before the concert began.
 
 ## 4: Cajole
 - **Dissection:** [ca-jole]
@@ -75,8 +75,8 @@
 - **Meaning:** A deliberately misleading fabrication
 - **Hindi:** अफवाह
 - **Examples:**
-  1. Learning the word 'canard' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'canard' in daily conversations.
+  1. The tabloid newspaper published a malicious canard about the celebrity's personal life.
+  2. The press secretary quickly dismissed the rumor as a baseless political canard.
 
 ## 11: Candor
 - **Dissection:** [candor]
@@ -84,15 +84,15 @@
 - **Hindi:** स्पष्टवादिता
 - **Examples:**
   1. I think it fair to say that he never quite reached such candor in his sermons.
-  2. It is beneficial to understand the meaning and context of 'candor' in daily conversations.
+  2. With so much in the balance, those of us in public office have a duty to speak with candor.
 
 ## 12: Canine
 - **Dissection:** [can-ine]
 - **Meaning:** One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars
 - **Hindi:** कुत्ते का
 - **Examples:**
-  1. Learning the word 'canine' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'canine' in daily conversations.
+  1. The police officer was accompanied by a highly trained canine assistant.
+  2. The vet checked the health of the dog's large canine teeth during the examination.
 
 ## 13: Canny
 - **Dissection:** [canny]
@@ -116,7 +116,7 @@
 - **Hindi:** शर्त पर हथियार डाल देना
 - **Examples:**
   1. He argued and hollered for so long that I finally capitulated just to make him stop.
-  2. It is beneficial to understand the meaning and context of 'capitulate' in daily conversations.
+  2. It faced the initial German attack on Greece during the Battle of the Metaxas Line, and was forced to capitulate after four days of fighting on 9 April 1941.
 
 ## 16: Capricious
 - **Dissection:** [ca-pri-cious]
@@ -163,16 +163,16 @@
 - **Meaning:** Persistent petty and unjustified criticism
 - **Hindi:** छिद्रान्वेषी
 - **Examples:**
-  1. Learning the word 'carping' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'carping' in daily conversations.
+  1. I grew tired of her constant carping about the quality of the hotel room service.
+  2. Instead of offering helpful suggestions, he spent the entire meeting carping about the budget.
 
 ## 22: Cartography
 - **Dissection:** [car-to-graphy]
 - **Meaning:** The making of maps and charts
 - **Hindi:** नक्शानवीसी
 - **Examples:**
-  1. Learning the word 'cartography' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cartography' in daily conversations.
+  1. Modern cartography relies heavily on satellite imagery and computer modeling.
+  2. He studied historical cartography to understand how maps changed over the centuries.
 
 ## 23: Caste
 - **Dissection:** [caste]
@@ -180,7 +180,7 @@
 - **Hindi:** जाति
 - **Examples:**
   1. Lose caste by doing work beneath one's station.
-  2. It is beneficial to understand the meaning and context of 'caste' in daily conversations.
+  2. A caste is a fixed social group into which an individual is born within a particular system of social stratification: a caste system.
 
 ## 24: Castigate
 - **Dissection:** [cas-tig-ate]
@@ -188,7 +188,7 @@
 - **Hindi:** पीटना
 - **Examples:**
   1. She chastised him for his insensitive remarks.
-  2. It is beneficial to understand the meaning and context of 'castigate' in daily conversations.
+  2. Unlike Moses, Jacob is not afraid to castigate some of the tribes, in particular, Reuben, Simeon, and Levi.
 
 ## 25: Cataclysm
 - **Dissection:** [cata-clysm]
@@ -235,8 +235,8 @@
 - **Meaning:** A gallant or courtly gentleman
 - **Hindi:** घुड़सवार
 - **Examples:**
-  1. Learning the word 'cavalier' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cavalier' in daily conversations.
+  1. His cavalier attitude toward safety regulations worried his coworkers.
+  2. She dismissed our serious concerns with a cavalier wave of her hand.
 
 ## 31: Cavil
 - **Dissection:** [cav-il]
@@ -244,15 +244,15 @@
 - **Hindi:** झूठा इलज़ाम
 - **Examples:**
   1. Anne, far from wishing to cavil at the pleasure, replied," I can easily believe it.
-  2. It is beneficial to understand the meaning and context of 'cavil' in daily conversations.
+  2. The story follows two versions of the Cylon known as Cavil, one of whom admits they may have made a mistake, with the story being told in flashback.
 
 ## 32: Celerity
 - **Dissection:** [celer-ity]
 - **Meaning:** A rate that is rapid
 - **Hindi:** ज्लदी
 - **Examples:**
-  1. Learning the word 'celerity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'celerity' in daily conversations.
+  1. The rescue team responded with admirable celerity when the emergency call came in.
+  2. He completed the complex programming task with unexpected celerity.
 
 ## 33: Celibate
 - **Dissection:** [cel-ib-ate]
@@ -308,7 +308,7 @@
 - **Hindi:** समापन
 - **Examples:**
   1. A cessation of the thunder.
-  2. It is beneficial to understand the meaning and context of 'cessation' in daily conversations.
+  2. The cessation of active campaigning does not mean that we can completely disband our fighting forces.
 
 ## 40: Chaff
 - **Dissection:** [chaff]
@@ -331,8 +331,8 @@
 - **Meaning:** A flamboyant deceiver; one who attracts customers with tricks or jokes
 - **Hindi:** मायावी
 - **Examples:**
-  1. Learning the word 'charlatan' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'charlatan' in daily conversations.
+  1. The dishonest merchant was exposed as a charlatan who sold fake medicine.
+  2. Do not trust that self-proclaimed expert; he is nothing but a charlatan.
 
 ## 43: Chary
 - **Dissection:** [chary]
@@ -347,8 +347,8 @@
 - **Meaning:** A deep opening in the earth's surface
 - **Hindi:** खाई
 - **Examples:**
-  1. Learning the word 'chasm' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'chasm' in daily conversations.
+  1. A deep chasm separated the two cliffs, making it impossible to cross without a bridge.
+  2. The political debate revealed a wide chasm between the views of the two parties.
 
 ## 45: Chauvinist
 - **Dissection:** [chau-vin-ist]
@@ -356,15 +356,15 @@
 - **Hindi:** अंधराष्ट्रीवादी
 - **Examples:**
   1. He is a Chauvinist officer, Dubosc.
-  2. It is beneficial to understand the meaning and context of 'chauvinist' in daily conversations.
+  2. During World War I, most left-wing political parties took a social-chauvinist stand, with few exceptions.
 
 ## 46: Chicanery
 - **Dissection:** [chi-canery]
 - **Meaning:** The use of tricks to deceive someone (usually to extract money from them)
 - **Hindi:** झूठा इलज़ाम
 - **Examples:**
-  1. Learning the word 'chicanery' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'chicanery' in daily conversations.
+  1. The lawyer used legal chicanery to delay the trial and protect his client.
+  2. He won the election through political chicanery and underhanded deals.
 
 ## 47: Chide
 - **Dissection:** [chide]
@@ -427,8 +427,8 @@
 - **Meaning:** A style that involves indirect ways of expressing things
 - **Hindi:** कपटपूर्ण बातें
 - **Examples:**
-  1. Learning the word 'circumlocution' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'circumlocution' in daily conversations.
+  1. The politician used circumlocution to avoid giving a direct answer to the reporter's question.
+  2. Her writing was filled with unnecessary circumlocution that made it hard to follow.
 
 ## 55: Circumscribe
 - **Dissection:** [cir-cum-scribe]
@@ -459,16 +459,16 @@
 - **Meaning:** A stronghold into which people could go for shelter during a battle
 - **Hindi:** गढ़
 - **Examples:**
-  1. Learning the word 'citadel' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'citadel' in daily conversations.
+  1. The ancient citadel stood high on the hill, overlooking the entire valley below.
+  2. The fortress served as the last citadel of defense against the invading army.
 
 ## 59: Clairvoyant
 - **Dissection:** [clair-voy-ant]
 - **Meaning:** Someone who has the power of clairvoyance
 - **Hindi:** भेदक
 - **Examples:**
-  1. Learning the word 'clairvoyant' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'clairvoyant' in daily conversations.
+  1. She claimed to be a clairvoyant who could predict the future by reading tea leaves.
+  2. He had a clairvoyant ability to anticipate market trends before they happened.
 
 ## 60: Clamor
 - **Dissection:** [clam-or]
@@ -611,8 +611,8 @@
 - **Meaning:** To feel or express sympathy or compassion
 - **Hindi:** सहानुभूति प्रकट करना
 - **Examples:**
-  1. Learning the word 'commiserate' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'commiserate' in daily conversations.
+  1. We gathered in the breakroom to commiserate with our colleague after he lost his job.
+  2. She called her friend to commiserate over the cancelled vacation plans.
 
 ## 78: Commodious
 - **Dissection:** [com-mo-di-ous]
@@ -627,8 +627,8 @@
 - **Meaning:** A publication containing a variety of works
 - **Hindi:** सारांश
 - **Examples:**
-  1. Learning the word 'compendium' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'compendium' in daily conversations.
+  1. The book is a comprehensive compendium of recipes from around the world.
+  2. He published a compendium of legal cases related to environmental law.
 
 ## 80: Complacent
 - **Dissection:** [com-pla-cent]
@@ -667,8 +667,8 @@
 - **Meaning:** A feeling of deep regret (usually for some misdeed)
 - **Hindi:** मलाल
 - **Examples:**
-  1. Learning the word 'compunction' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'compunction' in daily conversations.
+  1. The thief showed no compunction about stealing from the wealthy family.
+  2. She felt a sudden pang of compunction after lying to her best friend.
 
 ## 85: Concatenate
 - **Dissection:** [con-cat-en-ate]
@@ -691,8 +691,8 @@
 - **Meaning:** A confidential or secret meeting
 - **Hindi:** निर्वाचिका सभा
 - **Examples:**
-  1. Learning the word 'conclave' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'conclave' in daily conversations.
+  1. The cardinals gathered in a secret conclave to elect the new pope.
+  2. The board of directors held an emergency conclave to discuss the merger.
 
 ## 88: Concomitant
 - **Dissection:** [con-com-it-ant]
@@ -787,8 +787,8 @@
 - **Meaning:** Present at birth but not necessarily hereditary; acquired during fetal development
 - **Hindi:** जन्मजात
 - **Examples:**
-  1. Learning the word 'congenital' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'congenital' in daily conversations.
+  1. The child was born with a congenital heart defect that required immediate surgery.
+  2. Doctors determined that the patient's condition was congenital rather than acquired.
 
 ## 100: Conglomerate
 - **Dissection:** [con-glom-er-ate]
@@ -827,8 +827,8 @@
 - **Meaning:** Encourage or assent to illegally or criminally
 - **Hindi:** बढ़ावा देना
 - **Examples:**
-  1. Learning the word 'connive' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'connive' in daily conversations.
+  1. The corrupt officials decided to connive with smugglers to avoid paying customs duties.
+  2. She suspected that her coworkers were planning to connive against her to get her fired.
 
 ## 105: Connoisseur
 - **Dissection:** [con-nois-seur]
@@ -843,8 +843,8 @@
 - **Meaning:** (anthropology) related by blood
 - **Hindi:** रक्तसंबंध
 - **Examples:**
-  1. Learning the word 'consanguinity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'consanguinity' in daily conversations.
+  1. The lawyer explained that consanguinity prevented the relatives from marrying under local law.
+  2. The genetic study examined the effects of consanguinity in isolated populations.
 
 ## 107: Conscript
 - **Dissection:** [con-script]
@@ -963,8 +963,8 @@
 - **Meaning:** The exercise of self constraint in sexual matters
 - **Hindi:** संयम
 - **Examples:**
-  1. Learning the word 'continence' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'continence' in daily conversations.
+  1. The monk practiced strict continence and spent his days in quiet meditation.
+  2. Emotional continence allowed her to remain calm and professional during the crisis.
 
 ## 122: Contingent
 - **Dissection:** [con-tin-gent]
@@ -1059,8 +1059,8 @@
 - **Meaning:** Curving or bulging outward
 - **Hindi:** उत्तल
 - **Examples:**
-  1. Learning the word 'convex' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'convex' in daily conversations.
+  1. The magnifying glass uses a convex lens to bend light and make images look larger.
+  2. The design of the convex mirror allows drivers to see a wider area behind them.
 
 ## 134: Convivial
 - **Dissection:** [con-vivi-al]
@@ -1292,7 +1292,7 @@
 - **Hindi:** क्रक्स
 - **Examples:**
   1. The crux of her argument was that the roadways needed repair before anything else could be accomplished.
-  2. It is beneficial to understand the meaning and context of 'crux' in daily conversations.
+  2. The crux of ecumenical advance is an even more personalized matter than the relation between congregations in the same community.
 
 ## 163: Cryptic
 - **Dissection:** [cryptic]
@@ -1339,8 +1339,8 @@
 - **Meaning:** Extreme greed for material wealth
 - **Hindi:** अर्थलिप्सा
 - **Examples:**
-  1. Learning the word 'cupidity' can help improve your communication and writing skills.
-  2. It is beneficial to understand the meaning and context of 'cupidity' in daily conversations.
+  1. The business partner's cupidity led him to steal money from the company treasury.
+  2. He warned his children that cupidity and greed would never bring them true happiness.
 
 ## 169: Curmudgeon
 - **Dissection:** [cur-mudgeon]
