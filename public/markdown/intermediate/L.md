@@ -1,632 +1,632 @@
 ## 1: Label
-- **Dissection:** [la-bel]
-- **Meaning:** A brief description given for purposes of identification
-- **Hindi:** लेबल
+- **Dissection:** [ले-बल] (la-bel)
+- **Meaning:** A piece of paper fixed to something to give information about it.
+- **Hindi:** लेबल / पर्ची
 - **Examples:**
-  1. The label Modern is applied to many different kinds of architecture.
-  2. The artists and repertoire department of a recording label is responsible for finding new talent.
+  1. Please read the washing **label** on the new shirt.
+  2. He put a name **label** on his travel bag.
 
 ## 2: Labor
-- **Dissection:** [labor]
-- **Meaning:** A social class comprising those who do manual labor or work for wages
-- **Hindi:** श्रम
+- **Dissection:** [ले-बर] (la-bor)
+- **Meaning:** Hard physical or mental work.
+- **Hindi:** श्रम / मेहनत
 - **Examples:**
-  1. There is a shortage of skilled labor in this field.
-  2. His labor did not require a great deal of skill.
+  1. Building the long bridge took months of hard **labor**.
+  2. Manual **labor** can make your muscles very tired.
 
 ## 3: Laboratory
-- **Dissection:** [labor-at-ory]
-- **Meaning:** A workplace for the conduct of scientific research
+- **Dissection:** [लैब-र-टोर-ई] (lab-o-ra-to-ry)
+- **Meaning:** A room or building where scientists do tests and research.
 - **Hindi:** प्रयोगशाला
 - **Examples:**
-  1. The new nation is a testing ground for socioeconomic theories.
-  2. Pakistan is a laboratory for studying the use of American troops to combat terrorism.
+  1. The students mixed the liquids in the chemistry **laboratory**.
+  2. They sent the blood sample to the **laboratory** for testing.
 
 ## 4: Lace
-- **Dissection:** [lace]
-- **Meaning:** A cord that is drawn through eyelets or around hooks in order to draw together two edges (as of a shoe or garment)
-- **Hindi:** फीता
+- **Dissection:** [लेस] (lace - एक बार में बोलें)
+- **Meaning:** A delicate cloth made of fine threads, or a string used to tie a shoe.
+- **Hindi:** फीता / जालीदार कपड़ा
 - **Examples:**
-  1. Intertwine the ribbons.
-  2. Twine the threads into a rope.
+  1. The bride wore a beautiful white dress made of **lace**.
+  2. He needs to tie his shoe **lace** before he trips.
 
 ## 5: Lack
-- **Dissection:** [lack]
-- **Meaning:** The state of needing something that is absent or unavailable
+- **Dissection:** [लैक] (lack - एक बार में बोलें)
+- **Meaning:** Not having enough of something, or not having any at all.
 - **Hindi:** कमी
 - **Examples:**
-  1. There is a serious lack of insight into the problem.
-  2. Water is the critical deficiency in desert regions.
+  1. The plant died because of a total **lack** of water.
+  2. A **lack** of sleep makes it hard to focus at school.
 
 ## 6: Ladder
-- **Dissection:** [lad-der]
-- **Meaning:** Steps consisting of two parallel members connected by rungs; for climbing up or down
+- **Dissection:** [लैड-अर] (lad-der)
+- **Meaning:** A piece of equipment with steps, used for climbing up or down.
 - **Hindi:** सीढ़ी
 - **Examples:**
-  1. He climbed the career ladder.
-  2. She got a run in her stocking.
+  1. He climbed the tall wooden **ladder** to paint the roof.
+  2. Be careful not to fall off the high **ladder**.
 
 ## 7: Lady
-- **Dissection:** [lady]
-- **Meaning:** A polite name for any woman
+- **Dissection:** [ले-डी] (la-dy)
+- **Meaning:** A polite word for a woman.
 - **Hindi:** महिला
 - **Examples:**
-  1. A nice lady at the library helped me.
-  2. A chauffeur opened the door of the limousine for the grand lady.
+  1. A kind old **lady** helped me find my way.
+  2. The young **lady** wore a beautiful red hat.
 
 ## 8: Lamb
-- **Dissection:** [lamb]
-- **Meaning:** Young sheep
-- **Hindi:** भेड़ का बच्चा
+- **Dissection:** [लैम] (lamb - एक बार में बोलें)
+- **Meaning:** A young sheep, or the meat from a young sheep.
+- **Hindi:** भेड़ का बच्चा / मेमना
 - **Examples:**
-  1. The ewe lambed.
-  2. The shepherd was up all night, lambing her young ewes.
+  1. The little white **lamb** ran across the green field.
+  2. We had roast **lamb** and vegetables for Sunday dinner.
 
 ## 9: Lame
-- **Dissection:** [lame]
-- **Meaning:** Someone who doesn't understand what is going on
-- **Hindi:** झूठा
+- **Dissection:** [लेम] (lame - एक बार में बोलें)
+- **Meaning:** Not able to walk well because of an injured leg or foot. Also means a weak excuse.
+- **Hindi:** लंगड़ा / कमज़ोर
 - **Examples:**
-  1. She wore a gold lame dress.
-  2. The accident has crippled her for life.
+  1. The poor horse became **lame** after hurting its foot.
+  2. Saying the dog ate your homework is a very **lame** excuse.
 
 ## 10: Lamp
-- **Dissection:** [lamp]
-- **Meaning:** An artificial source of visible illumination
-- **Hindi:** चिराग
+- **Dissection:** [लैंप] (lamp - एक बार में बोलें)
+- **Meaning:** An object that produces light using electricity, oil, or gas.
+- **Hindi:** चिराग / बत्ती
 - **Examples:**
-  1. To create such a lamp, order a wired pedestal from any lamp shop.
-  2. Are you indiscriminantly offering unnecessary medical services -- flu shots, sun lamp treatments, etc.??
+  1. Please turn on the reading **lamp** next to the bed.
+  2. The street **lamp** shone brightly in the dark night.
 
 ## 11: Landscape
-- **Dissection:** [land-scape]
-- **Meaning:** An expanse of scenery that can be seen in a single view
-- **Hindi:** परिदृश्य
+- **Dissection:** [लैंड-स्केप] (land-scape)
+- **Meaning:** A large area of countryside, especially in relation to its appearance.
+- **Hindi:** परिदृश्य / भूदृश्य
 - **Examples:**
-  1. The political landscape looks bleak without a change of administration.
-  2. We changed the landscape for solving the problem of payroll inequity.
+  1. We painted a beautiful picture of the mountain **landscape**.
+  2. The snowy winter **landscape** looked very quiet and peaceful.
 
 ## 12: Lane
-- **Dissection:** [lane]
-- **Meaning:** A narrow way or road
-- **Hindi:** लेन
+- **Dissection:** [लेन] (lane - एक बार में बोलें)
+- **Meaning:** A narrow road or path, or a marked section of a wide road.
+- **Hindi:** गली / लेन
 - **Examples:**
-  1. La Russell's run in `` Skylark '', debuting next week at Drury Lane, already is a sellout.
-  2. The adjacent driver in Lane B has three choices open to him.
+  1. The car drove down a quiet country **lane**.
+  2. Keep to the left **lane** if you want to turn.
 
 ## 13: Lantern
-- **Dissection:** [lan-tern]
-- **Meaning:** Light in a transparent protective case
+- **Dissection:** [लैन-टर्न] (lan-tern)
+- **Meaning:** A light with a clear case to protect the flame or bulb from the wind.
 - **Hindi:** लालटेन
 - **Examples:**
-  1. The lantern of the cupola of the Capitol at Washington, or that of the Florence cathedral.
-  2. To lantern a lighthouse.
+  1. We used a bright battery **lantern** when the power went out.
+  2. He held the old oil **lantern** to see in the dark cave.
 
 ## 14: Lap
-- **Dissection:** [lap]
-- **Meaning:** The upper side of the thighs of a seated person
+- **Dissection:** [लैप] (lap - एक बार में बोलें)
+- **Meaning:** The flat area formed by your thighs when you are sitting down.
 - **Hindi:** गोद
 - **Examples:**
-  1. He picked up the little girl and plopped her down in his lap.
-  2. The job fell right in my lap.
+  1. The small cat jumped up and went to sleep on her **lap**.
+  2. He held the baby carefully on his **lap**.
 
 ## 15: Laser
-- **Dissection:** [laser]
-- **Meaning:** An acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light
+- **Dissection:** [ले-ज़र] (la-ser)
+- **Meaning:** A machine that produces a very strong, narrow beam of light.
 - **Hindi:** लेज़र
 - **Examples:**
-  1. And Sand plans to market a laser printer in the fourth fiscal quarter, Shattner said.
-  2. Mitek als said it has introduced a line of 15 page per minute desk top laser printers.
+  1. The doctor used a hot **laser** to fix my eye.
+  2. The scanner uses a red **laser** to read the price.
 
 ## 16: Latitude
-- **Dissection:** [lat-it-ude]
-- **Meaning:** The angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself
+- **Dissection:** [लैट-इ-ट्यूड] (lat-i-tude)
+- **Meaning:** The distance of a place north or south of the equator, measured in degrees.
 - **Hindi:** अक्षांश
 - **Examples:**
-  1. The new freedom in movies and novels.
-  2. Allowed his children considerable latitude in how they spent their money.
+  1. The warm island is located at a low **latitude**.
+  2. We checked the map to find the exact **latitude** of the city.
 
 ## 17: Latter
-- **Dissection:** [lat-ter]
-- **Meaning:** The second of two or the second mentioned of two
+- **Dissection:** [लैट-अर] (lat-ter)
+- **Meaning:** The second of two people, things, or groups just mentioned.
 - **Hindi:** बाद वाला
 - **Examples:**
-  1. Tom and Dick were both heroes but only the latter is remembered today.
-  2. In the latter case.
+  1. He offered me tea or coffee, and I chose the **latter**.
+  2. The **latter** half of the movie was much more exciting.
 
 ## 18: Launch
-- **Dissection:** [launch]
-- **Meaning:** A motorboat with an open deck or a half deck
-- **Hindi:** शुरू करना
+- **Dissection:** [लॉन्च] (launch - एक बार में बोलें)
+- **Meaning:** To send a boat into the water or a rocket into space.
+- **Hindi:** शुरू करना / प्रक्षेपण करना
 - **Examples:**
-  1. She set up a literacy program.
-  2. Launch the space shuttle.
+  1. They will **launch** the new spaceship tomorrow morning.
+  2. The company plans to **launch** a new phone next month.
 
 ## 19: Laundry
-- **Dissection:** [laun-dry]
-- **Meaning:** Garments or white goods that can be cleaned by laundering
-- **Hindi:** धोने लायक कपड़े
+- **Dissection:** [लॉन-ड्री] (laun-dry)
+- **Meaning:** Clothes, towels, and sheets that need to be washed or have just been washed.
+- **Hindi:** धोने लायक कपड़े / कपड़े धोने की जगह
 - **Examples:**
-  1. We told you about the laundry- door, at Uppercross.
-  2. All day, from morning until evening, she ironed clothes in a laundry.
+  1. I have a large basket of dirty **laundry** to wash today.
+  2. Please fold the clean **laundry** and put it away.
 
 ## 20: Lavatory
-- **Dissection:** [lav-at-ory]
-- **Meaning:** A room or building equipped with one or more toilets
+- **Dissection:** [लैव-अ-टोर-ई] (lav-a-to-ry)
+- **Meaning:** A room with a toilet and a sink for washing hands; a bathroom.
 - **Hindi:** शौचालय
 - **Examples:**
-  1. He ran some water in the basin and splashed it on his face.
-  2. A much larger room, adjacent to the lavatory, served as a passageway to and from the skimpy toilet.
+  1. The airplane has a small **lavatory** at the back.
+  2. Please wash your hands in the **lavatory** before dinner.
 
 ## 21: Lawn
-- **Dissection:** [lawn]
-- **Meaning:** A field of cultivated and mowed grass
-- **Hindi:** घास का मैदान
+- **Dissection:** [लॉन] (lawn - एक बार में बोलें)
+- **Meaning:** An area of grass, especially near a house, that is cut short.
+- **Hindi:** घास का मैदान / लॉन
 - **Examples:**
-  1. Yet a grassy approach can turn a pool into a floating lawn every time the grass is mowed.
-  2. The trees' shadows circled from street to sidewalk, from sidewalk to lawn.
+  1. We had a nice picnic on the green **lawn** behind the house.
+  2. He uses a machine to cut the **lawn** every Sunday.
 
 ## 22: Layer
-- **Dissection:** [lay-er]
-- **Meaning:** Single thickness of usually some homogeneous substance
+- **Dissection:** [ले-अर] (lay-er)
+- **Meaning:** An amount of a substance that covers a surface or lies between two other things.
 - **Hindi:** परत
 - **Examples:**
-  1. Slices of hard-boiled egg on a bed of spinach.
-  2. A good actor communicates on several levels.
+  1. A thin **layer** of dust covered the old books.
+  2. The delicious cake has a thick **layer** of chocolate inside.
 
 ## 23: Layout
-- **Dissection:** [lay-out]
-- **Meaning:** A plan or design of something that is laid out
-- **Hindi:** लेआउट
+- **Dissection:** [ले-आउट] (lay-out)
+- **Meaning:** The way in which the parts of something are arranged or laid out.
+- **Hindi:** खाका / लेआउट
 - **Examples:**
-  1. `` The Olivetti plant near Turin has modern layout, modern machinery.
-  2. Layout and equipment were modernized and improved to obtain increased production on an efficient basis.
+  1. I do not like the confusing **layout** of this website.
+  2. The **layout** of the new supermarket is very easy to follow.
 
 ## 24: Leak
-- **Dissection:** [leak]
-- **Meaning:** An accidental hole that allows something (fluid or light etc.) to enter or escape
-- **Hindi:** रिसना
+- **Dissection:** [लीक] (leak - एक बार में बोलें)
+- **Meaning:** A hole or crack through which a liquid or gas can flow out of a container.
+- **Hindi:** रिसना / रिसाव
 - **Examples:**
-  1. One of the tires developed a leak.
-  2. He had to take a leak.
+  1. There is a small **leak** in the water pipe under the sink.
+  2. The boat began to sink because of a big **leak**.
 
 ## 25: Lean
-- **Dissection:** [lean]
-- **Meaning:** The property possessed by a line or surface that departs from the vertical
-- **Hindi:** दुबला
+- **Dissection:** [लीन] (lean - एक बार में बोलें)
+- **Meaning:** To bend or rest against something, or meat with very little fat.
+- **Hindi:** झुकना / दुबला
 - **Examples:**
-  1. The tower had a pronounced tilt.
-  2. The ship developed a list to starboard.
+  1. Do not **lean** against the wet paint on the wall.
+  2. She prefers to eat healthy, **lean** meat for dinner.
 
 ## 26: Leap
-- **Dissection:** [leap]
-- **Meaning:** A light, self-propelled movement upwards or forwards
-- **Hindi:** छलाँग
+- **Dissection:** [लीप] (leap - एक बार में बोलें)
+- **Meaning:** To jump high or a long way.
+- **Hindi:** छलाँग / कूद
 - **Examples:**
-  1. A successful leap from college to the major leagues.
-  2. A jump in attendance.
+  1. The frog can **leap** far across the small pond.
+  2. He took a big **leap** over the puddle of water.
 
 ## 27: Lease
-- **Dissection:** [lease]
-- **Meaning:** Property that is leased or rented out or let
-- **Hindi:** पट्टा
+- **Dissection:** [लीस] (lease - एक बार में बोलें)
+- **Meaning:** A legal agreement to pay money to use a building or car for a certain time.
+- **Hindi:** पट्टा / किराये का समझौता
 - **Examples:**
-  1. We rented our apartment to friends while we were abroad.
-  2. I am leasing my country estate to some foreigners.
+  1. We signed a one-year **lease** for the new apartment.
+  2. The **lease** on his car ends next month.
 
 ## 28: Lecture
-- **Dissection:** [lec-ture]
-- **Meaning:** A speech that is open to the public
-- **Hindi:** व्याख्यान
+- **Dissection:** [लेक-चर] (lec-ture)
+- **Meaning:** A formal talk given to a group of people to teach them about a subject.
+- **Hindi:** व्याख्यान / भाषण
 - **Examples:**
-  1. He attended a lecture on telecommunications.
-  2. A good lecture was my father's idea of discipline.
+  1. The professor gave an interesting **lecture** about history.
+  2. I fell asleep during the long science **lecture**.
 
 ## 29: Legend
-- **Dissection:** [le-gend]
-- **Meaning:** A story about mythical or supernatural beings or events
-- **Hindi:** दंतकथा
+- **Dissection:** [लेज-एंड] (leg-end)
+- **Meaning:** An old, well-known story that may or may not be true.
+- **Hindi:** दंतकथा / पुरानी कहानी
 - **Examples:**
-  1. In that function, he helps to rebut another legend about the Comedie.
-  2. Such identification comes for each group in each crisis by rewriting history into legend and developing appropriate national heroes.
+  1. The old **legend** says a dragon lives in the mountain.
+  2. Robin Hood is a famous **legend** from England.
 
 ## 30: Legislate
-- **Dissection:** [le-gis-late]
-- **Meaning:** Make laws, bills, etc. or bring into effect by legislation
+- **Dissection:** [लेज-इस-लेट] (leg-is-late)
+- **Meaning:** To make or pass a new law.
 - **Hindi:** कानून बनाना
 - **Examples:**
-  1. They passed the amendment.
-  2. We cannot legislate how people spend their free time.
+  1. The government will **legislate** to make the roads safer.
+  2. It is difficult to **legislate** against bad behavior.
 
 ## 31: Leisure
-- **Dissection:** [leis-ure]
-- **Meaning:** Time available for ease and relaxation
-- **Hindi:** आराम
+- **Dissection:** [ली-ज़र] (lei-sure)
+- **Meaning:** Free time when you are not working and can relax.
+- **Hindi:** आराम / खाली समय
 - **Examples:**
-  1. His job left him little leisure.
-  2. He lacked the leisure for golf.
+  1. She likes to read books during her **leisure** time.
+  2. Golf is a popular **leisure** activity for older people.
 
 ## 32: Lens
-- **Dissection:** [lens]
-- **Meaning:** A transparent optical device used to converge or diverge transmitted light and to form images
-- **Hindi:** लेंस
+- **Dissection:** [लेंस] (lens - एक बार में बोलें)
+- **Meaning:** A curved piece of glass in glasses or a camera that makes things look clearer, larger, or smaller.
+- **Hindi:** लेंस / शीशा
 - **Examples:**
-  1. Cascading single stages by coupling lens systems, ( B ).
-  2. The cylindrical focusing electrode permits adjustment of the positive lens part by varying the focusing potential.
+  1. I need to clean the dirty **lens** of my camera.
+  2. The broken glass **lens** fell out of his spectacles.
 
 ## 33: Leopard
-- **Dissection:** [leo-pard]
-- **Meaning:** The pelt of a leopard
+- **Dissection:** [लेप-अर्ड] (leop-ard)
+- **Meaning:** A large, wild cat with yellow fur and dark spots.
 - **Hindi:** तेंदुआ
 - **Examples:**
-  1. 13: 23 Can the Ethiopian change his skin, or the leopard his spots?
-  2. The leopard (Panthera pardus) is one of the five extant cat species in the genus Panthera.
+  1. The fast **leopard** ran across the dry grass to catch its food.
+  2. We saw a sleeping **leopard** high up in the tree.
 
 ## 34: Lessen
-- **Dissection:** [lessen]
-- **Meaning:** Decrease in size, extent, or range
-- **Hindi:** कम
+- **Dissection:** [लेस-अन] (les-sen)
+- **Meaning:** To become smaller in amount, level, or importance, or make something do this.
+- **Hindi:** कम करना
 - **Examples:**
-  1. The amount of homework decreased towards the end of the semester.
-  2. The cabin pressure fell dramatically.
+  1. The medicine will help to **lessen** your pain.
+  2. The loud noise began to **lessen** as the train moved away.
 
 ## 35: Lever
-- **Dissection:** [lever]
-- **Meaning:** A rigid bar pivoted about a fulcrum
-- **Hindi:** उत्तोलक
+- **Dissection:** [ली-वर] (le-ver)
+- **Meaning:** A bar or handle that you pull or push to make a machine work.
+- **Hindi:** उत्तोलक / लीवर
 - **Examples:**
-  1. The burglar jimmied the lock.
-  2. Raccoons managed to pry the lid off the garbage pail.
+  1. You must pull the long metal **lever** to start the machine.
+  2. He used a heavy iron **lever** to lift the big rock.
 
 ## 36: Liable
-- **Dissection:** [li-able]
-- **Meaning:** At risk of or subject to experiencing something usually unpleasant
-- **Hindi:** उत्तरदायी
+- **Dissection:** [लाय-अ-बल] (li-a-ble)
+- **Meaning:** Legally responsible for paying the cost of something.
+- **Hindi:** उत्तरदायी / जवाबदेह
 - **Examples:**
-  1. He is apt to lose.
-  2. She is liable to forget.
+  1. If you break the window, you will be **liable** for the repair cost.
+  2. The driver is **liable** for any damage to the rented car.
 
 ## 37: Liberal
-- **Dissection:** [lib-er-al]
-- **Meaning:** A person who favors a political philosophy of progress and reform and the protection of civil liberties
+- **Dissection:** [लिब-र-अल] (lib-er-al)
+- **Meaning:** Willing to understand and respect other people's ideas and feelings.
 - **Hindi:** उदार
 - **Examples:**
-  1. A broad political stance.
-  2. Generous and broad sympathies.
+  1. Her parents have very **liberal** views on education.
+  2. The new boss is very **liberal** and lets us work from home.
 
 ## 38: Liberty
-- **Dissection:** [liberty]
-- **Meaning:** Immunity from arbitrary exercise of authority: political independence
-- **Hindi:** स्वतंत्रता
+- **Dissection:** [लिब-अर-टी] (lib-er-ty)
+- **Meaning:** The freedom to live as you choose without too many rules.
+- **Hindi:** स्वतंत्रता / आज़ादी
 - **Examples:**
-  1. Liberty of opinion.
-  2. Liberty of worship.
+  1. The statue represents the **liberty** of the people.
+  2. They fought a long war to win their national **liberty**.
 
 ## 39: License
-- **Dissection:** [li-cense]
-- **Meaning:** A legal document giving official permission to do something
-- **Hindi:** लाइसेंस
+- **Dissection:** [लाय-संस] (li-cense)
+- **Meaning:** An official paper that gives you permission to do something, like drive a car.
+- **Hindi:** लाइसेंस / अनुमति पत्र
 - **Examples:**
-  1. When liberty becomes license dictatorship is near.
-  2. The intolerable license with which the newspapers break...the rules of decorum.
+  1. You must show your driving **license** to the police officer.
+  2. He needs to renew his fishing **license** this year.
 
 ## 40: Lick
-- **Dissection:** [lick]
-- **Meaning:** A salt deposit that animals regularly lick
+- **Dissection:** [लिक] (lick - एक बार में बोलें)
+- **Meaning:** To move your tongue across the surface of something.
 - **Hindi:** चाटना
 - **Examples:**
-  1. The dog's laps were warm and wet.
-  2. I gave him a clout on his nose.
+  1. The happy dog likes to **lick** my face.
+  2. She wants to **lick** the sweet ice cream before it melts.
 
 ## 41: Lid
-- **Dissection:** [lid]
-- **Meaning:** Either of two folds of skin that can be moved to cover or open the eye
+- **Dissection:** [लिड] (lid - एक बार में बोलें)
+- **Meaning:** A cover on a container, which can be lifted up or taken off.
 - **Hindi:** ढक्कन
 - **Examples:**
-  1. His lids would stay open no longer.
-  2. He raised the piano lid.
+  1. Please put the **lid** back on the jar so the food stays fresh.
+  2. The hot pot has a heavy glass **lid**.
 
 ## 42: Lightning
-- **Dissection:** [light-ning]
-- **Meaning:** Abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light
-- **Hindi:** बिजली चमकना
+- **Dissection:** [लाइट-निंग] (light-ning)
+- **Meaning:** A sudden flash of bright light in the sky during a storm.
+- **Hindi:** बिजली चमकना / आकाशीय बिजली
 - **Examples:**
-  1. Although we did not see the lightning, we did hear the thunder.
-  2. That tree was hit by lightning.
+  1. We saw a bright flash of **lightning** before the loud thunder.
+  2. It is not safe to stand under a tree during a **lightning** storm.
 
 ## 43: Limb
-- **Dissection:** [limb]
-- **Meaning:** One of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper
-- **Hindi:** अवयव
+- **Dissection:** [लिम] (limb - एक बार में बोलें)
+- **Meaning:** An arm or leg of a person or animal, or a large branch of a tree.
+- **Hindi:** अंग / बड़ी शाखा
 - **Examples:**
-  1. The upper limb of the bow.
-  2. The limb of the sextant.
+  1. The heavy snow broke a large **limb** off the old tree.
+  2. He hurt his lower **limb** while running in the race.
 
 ## 44: Limestone
-- **Dissection:** [lime-stone]
-- **Meaning:** A sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals
+- **Dissection:** [लाइम-स्टोन] (lime-stone)
+- **Meaning:** A type of white or grey stone often used for building.
 - **Hindi:** चूना पत्थर
 - **Examples:**
-  1. The ancient pyramid was constructed using massive blocks of durable white limestone.
-  2. Water flowing through the soft limestone layer eventually created a beautiful cave.
+  1. The old church was built using heavy blocks of **limestone**.
+  2. Water dripping through **limestone** creates beautiful caves.
 
 ## 45: Limp
-- **Dissection:** [limp]
-- **Meaning:** The uneven manner of walking that results from an injured leg
-- **Hindi:** लंगड़ा
+- **Dissection:** [लिंप] (limp - एक बार में बोलें)
+- **Meaning:** To walk slowly and with difficulty because of an injured leg or foot.
+- **Hindi:** लंगड़ाना
 - **Examples:**
-  1. The old woman hobbles down to the store every day.
-  2. The boat limped into the harbor.
+  1. He walked with a slight **limp** after dropping a box on his foot.
+  2. The injured dog had to **limp** back to the house.
 
 ## 46: Linear
-- **Dissection:** [lin-ear]
-- **Meaning:** Designating or involving an equation whose terms are of the first degree
-- **Hindi:** रेखीय
+- **Dissection:** [लिन-ई-अर] (lin-e-ar)
+- **Meaning:** Arranged in or following a straight line.
+- **Hindi:** रेखीय / सीधा
 - **Examples:**
-  1. A linear measurement.
-  2. Analogue device.
+  1. The houses on this street are built in a simple **linear** pattern.
+  2. The story is told in a clear, **linear** way from start to finish.
 
 ## 47: Linen
-- **Dissection:** [lin-en]
-- **Meaning:** A fabric woven with fibers from the flax plant
-- **Hindi:** सनी
+- **Dissection:** [लिन-इन] (lin-en)
+- **Meaning:** A light cloth made from a plant, or sheets and tablecloths.
+- **Hindi:** लिनन का कपड़ा / चादरें
 - **Examples:**
-  1. Scrapings from the bed linen identical with the lint and thread found in the nasal and oral cavities.
-  2. 38: 16 All the hangings of the court round about were of fine twined linen.
+  1. He wore a cool white **linen** shirt on the hot summer day.
+  2. Please put the clean **linen** on the bed.
 
 ## 48: Linger
-- **Dissection:** [linger]
-- **Meaning:** Remain present although waning or gradually dying
-- **Hindi:** रुकना
+- **Dissection:** [लिंग-गर] (lin-ger)
+- **Meaning:** To stay somewhere for a long time because you do not want to leave.
+- **Hindi:** देर तक रुकना
 - **Examples:**
-  1. Her perfume lingered on.
-  2. The high school students like to loiter in the Central Square.
+  1. The nice smell of the food will **linger** in the kitchen all day.
+  2. They like to **linger** at the table after dinner to talk.
 
 ## 49: Lion
-- **Dissection:** [li-on]
-- **Meaning:** Large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male
+- **Dissection:** [लाय-अन] (li-on)
+- **Meaning:** A large, strong wild cat from Africa or Asia.
 - **Hindi:** शेर
 - **Examples:**
-  1. In 1800, Manthey went abroad and Oersted was appointed manager of the Lion Pharmacy.
-  2. It was John who found the lion tracks.
+  1. We heard the loud roar of a big male **lion** at the zoo.
+  2. The **lion** is often called the king of the jungle.
 
 ## 50: Liquor
-- **Dissection:** [li-quor]
-- **Meaning:** An alcoholic beverage that is distilled rather than fermented
+- **Dissection:** [लिक-अर] (li-quor)
+- **Meaning:** A strong alcoholic drink.
 - **Hindi:** शराब
 - **Examples:**
-  1. I didn't smell a drop of liquor, and we didn't have a bit of trouble ''.
-  2. The company supplies janitors and workmen for McCormick Place and factories, liquor firms, and other businesses.
+  1. They bought a bottle of expensive **liquor** for the party.
+  2. It is against the law to sell **liquor** to children.
 
 ## 51: Liter
-- **Dissection:** [liter]
-- **Meaning:** A metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)
+- **Dissection:** [ली-टर] (li-ter)
+- **Meaning:** A measure of liquid, like water or milk.
 - **Hindi:** लीटर
 - **Examples:**
-  1. You should be able to fill four cups with one litre of water.
-  2. The litre (Commonwealth spelling) or liter (American spelling) (SI symbols L and l, other symbol used: ℓ) is a metric unit of volume.
+  1. She bought a **liter** of milk from the shop.
+  2. This big bottle holds two **liters** of water.
 
 ## 52: Literal
-- **Dissection:** [lit-er-al]
-- **Meaning:** A mistake in printed matter resulting from mechanical failures of some kind
-- **Hindi:** शाब्दिक
+- **Dissection:** [लिट-अर-अल] (lit-er-al)
+- **Meaning:** The most basic, exact meaning of a word or phrase.
+- **Hindi:** शाब्दिक / अक्षरशः
 - **Examples:**
-  1. Her actual motive.
-  2. A literal solitude like a desert.
+  1. The **literal** meaning of "television" is "seeing from far away".
+  2. He took her joke in a **literal** way and got upset.
 
 ## 53: Literature
-- **Dissection:** [lit-er-at-ure]
-- **Meaning:** Creative writing of recognized artistic value
+- **Dissection:** [लिट-र-चर] (lit-er-a-ture)
+- **Meaning:** Written works like books, poems, and plays that have lasting value.
 - **Hindi:** साहित्य
 - **Examples:**
-  1. He took a course in Russian lit.
-  2. The technical literature.
+  1. He likes to read classic English **literature**.
+  2. The library has a large collection of children's **literature**.
 
 ## 54: Liver
-- **Dissection:** [liv-er]
-- **Meaning:** Large and complicated reddish-brown glandular organ located in the upper right portion of the abdominal cavity; secretes bile and functions in metabolism of protein and carbohydrate and fat; synthesizes substances involved in the clotting of the blood; synthesizes vitamin A; detoxifies poisonous substances and breaks down worn-out erythrocytes
-- **Hindi:** जिगर
+- **Dissection:** [लिव-अर] (liv-er)
+- **Meaning:** A large organ in your body that cleans your blood.
+- **Hindi:** जिगर / यकृत
 - **Examples:**
-  1. A high liver.
-  2. A liver in cities.
+  1. Drinking too much alcohol can damage your **liver**.
+  2. The doctor checked to see if his **liver** was healthy.
 
 ## 55: Load
-- **Dissection:** [load]
-- **Meaning:** Weight to be borne or conveyed
-- **Hindi:** भार
+- **Dissection:** [लोड] (load - एक बार में बोलें)
+- **Meaning:** A heavy thing that is being carried or moved.
+- **Hindi:** भार / लादना
 - **Examples:**
-  1. The system broke down under excessive loads.
-  2. He got a load on and started a brawl.
+  1. The truck carried a heavy **load** of bricks.
+  2. Please help me **load** the boxes into the car.
 
 ## 56: Loaf
-- **Dissection:** [loaf]
-- **Meaning:** A shaped mass of baked bread that is usually sliced before eating
+- **Dissection:** [लोफ] (loaf - एक बार में बोलें)
+- **Meaning:** Bread that has been baked in one large piece.
 - **Hindi:** पाव रोटी
 - **Examples:**
-  1. Meat loaf.
-  2. Sugar loaf.
+  1. She baked a fresh **loaf** of bread this morning.
+  2. He bought a sliced **loaf** from the bakery.
 
 ## 57: Loan
-- **Dissection:** [loan]
-- **Meaning:** The temporary provision of money (usually at interest)
-- **Hindi:** ऋृण
+- **Dissection:** [लोन] (loan - एक बार में बोलें)
+- **Meaning:** Money that you borrow, often from a bank, and have to pay back.
+- **Hindi:** ऋण / कर्ज़
 - **Examples:**
-  1. I will lend you my car.
-  2. Loan me some money.
+  1. He took a bank **loan** to buy his new car.
+  2. I need to pay back the **loan** to my friend.
 
 ## 58: Lobby
-- **Dissection:** [lobby]
-- **Meaning:** A large entrance or reception room or area
-- **Hindi:** लॉबी
+- **Dissection:** [लॉब-ई] (lob-by)
+- **Meaning:** A large, open space just inside the main entrance of a public building like a hotel.
+- **Hindi:** लॉबी / प्रतीक्षा कक्ष
 - **Examples:**
-  1. I had to wait in the lobby for hours before seeing the doctor.
-  2. The influence of the tobacco lobby has decreased considerably in the US.
+  1. I will meet you in the hotel **lobby** at five o'clock.
+  2. Many people were waiting in the cinema **lobby**.
 
 ## 59: Locate
-- **Dissection:** [loc-ate]
-- **Meaning:** Discover the location of; determine the place of; find by searching or examining
-- **Hindi:** का पता लगाने
+- **Dissection:** [लो-केट] (lo-cate)
+- **Meaning:** To find the exact position of someone or something.
+- **Hindi:** खोजना / पता लगाना
 - **Examples:**
-  1. Can you locate your cousins in the Midwest?
-  2. My search turned up nothing.
+  1. Can you help me **locate** my missing keys?
+  2. The police used a dog to **locate** the lost child.
 
 ## 60: Location
-- **Dissection:** [loc-a-tion]
-- **Meaning:** A point or extent in space
-- **Hindi:** जगह
+- **Dissection:** [लो-के-शन] (lo-ca-tion)
+- **Meaning:** A place or position.
+- **Hindi:** जगह / स्थान
 - **Examples:**
-  1. He got a good fix on the target.
-  2. They shot the film on location in Nevada.
+  1. This park is a perfect **location** for our family picnic.
+  2. She sent me the exact map **location** on my phone.
 
 ## 61: Locomotive
-- **Dissection:** [lo-co-mot-ive]
-- **Meaning:** A wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks
-- **Hindi:** लोकोमोटिव
+- **Dissection:** [लो-क-मो-टिव] (lo-co-mo-tive)
+- **Meaning:** The engine of a train that pulls the wagons.
+- **Hindi:** रेल का इंजन
 - **Examples:**
-  1. To go with a locomotive!
-  2. To hear the hiss of steam, the merry shriek, the steam- whistle, the laughing locomotive!
+  1. The powerful **locomotive** pulled the long train up the hill.
+  2. The old steam **locomotive** blew thick black smoke.
 
 ## 62: Lodge
-- **Dissection:** [lodge]
-- **Meaning:** English physicist who studied electromagnetic radiation and was a pioneer of radiotelegraphy (1851-1940)
-- **Hindi:** लॉज
+- **Dissection:** [लॉज] (lodge - एक बार में बोलें)
+- **Meaning:** A small house in the country, or to pay to live in a room in someone's house.
+- **Hindi:** लॉज / ठहरना
 - **Examples:**
-  1. He joined a golf club.
-  2. They formed a small lunch society.
+  1. We stayed in a wooden mountain **lodge** for the holiday.
+  2. The hunters rested at the small **lodge** in the forest.
 
 ## 63: Logic
-- **Dissection:** [lo-gic]
-- **Meaning:** The branch of philosophy that analyzes inference
+- **Dissection:** [लॉ-जिक] (lo-gic)
+- **Meaning:** A sensible and reasonable way of thinking about something.
 - **Hindi:** तर्क
 - **Examples:**
-  1. It made a certain kind of logic.
-  2. Economic logic requires it.
+  1. There is no clear **logic** behind his strange decision.
+  2. If you use simple **logic**, you can solve the puzzle.
 
 ## 64: Logo
-- **Dissection:** [logo]
-- **Meaning:** A company emblem or device
-- **Hindi:** प्रतीक चिन्ह
+- **Dissection:** [लो-गो] (lo-go)
+- **Meaning:** A special design or symbol that a company uses to represent its name.
+- **Hindi:** प्रतीक चिन्ह / लोगो
 - **Examples:**
-  1. The designer created a simple, modern logo for the new coffee shop.
-  2. You can easily recognize the brand by its famous blue and silver logo.
+  1. The famous sports brand has a simple check mark **logo**.
+  2. She designed a new blue **logo** for our small business.
 
 ## 65: Lonely
-- **Dissection:** [lonely]
-- **Meaning:** Lacking companions or companionship
-- **Hindi:** अकेला
+- **Dissection:** [लोन-ली] (lone-ly)
+- **Meaning:** Feeling sad because you are not with other people.
+- **Hindi:** अकेला / तनहा
 - **Examples:**
-  1. He was alone when we met him.
-  2. She is alone much of the time.
+  1. The old man felt very **lonely** after his wife died.
+  2. It can be a bit **lonely** moving to a new city alone.
 
 ## 66: Loop
-- **Dissection:** [loop]
-- **Meaning:** Fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines
-- **Hindi:** कुंडली
+- **Dissection:** [लूप] (loop - एक बार में बोलें)
+- **Meaning:** The shape made by a piece of string or wire crossing over itself.
+- **Hindi:** फंदा / कुण्डली
 - **Examples:**
-  1. The solution took hundreds of iterations.
-  2. He's no longer in the loop.
+  1. Make a small **loop** with the string to tie the knot.
+  2. The plane flew in a big circle, making a **loop** in the sky.
 
 ## 67: Lord
-- **Dissection:** [lord]
-- **Meaning:** Terms referring to the Judeo-Christian God
-- **Hindi:** भगवान
+- **Dissection:** [लॉर्ड] (lord - एक बार में बोलें)
+- **Meaning:** A title for a man with a lot of power or money, or a name for God.
+- **Hindi:** मालिक / भगवान
 - **Examples:**
-  1. The third belief, in six points, emphasizes the Diety of the Lord Jesus Christ, and:.
-  2. Britain's plans to press Russia for a definite cease-fire timetable was announced in London by Foreign Secretary Lord Home.
+  1. The wealthy **lord** lived in a huge stone castle.
+  2. Many people pray to the **Lord** for peace and health.
 
 ## 68: Lorry
-- **Dissection:** [lorry]
-- **Meaning:** A large low horse-drawn wagon without sides
-- **Hindi:** लॉरी
+- **Dissection:** [लॉ-री] (lor-ry)
+- **Meaning:** A large truck used for carrying heavy loads.
+- **Hindi:** लॉरी / बड़ा ट्रक
 - **Examples:**
-  1. A large lorry carrying construction materials was parked outside the building site.
-  2. The delivery driver loaded the boxes onto the back of the heavy lorry.
+  1. The big **lorry** carried fresh fruit to the supermarket.
+  2. It is hard to drive a heavy **lorry** on narrow roads.
 
 ## 69: Lotion
-- **Dissection:** [lo-tion]
-- **Meaning:** Any of various cosmetic preparations that are applied to the skin
-- **Hindi:** लोशन
+- **Dissection:** [लो-शन] (lo-tion)
+- **Meaning:** A liquid that you put on your skin to make it soft or to heal it.
+- **Hindi:** लोशन / मलहम
 - **Examples:**
-  1. The place smelt of some kind of hair lotion these pimplike characters use.
-  2. Everything being the sweater, a lipstick case, and a squirt bottle of Kissin' Kare pink hand lotion.
+  1. She put some hand **lotion** on her dry skin.
+  2. Remember to use sun **lotion** to protect your face at the beach.
 
 ## 70: Lottery
-- **Dissection:** [lot-tery]
-- **Meaning:** Something that is regarded as a chance event
+- **Dissection:** [लॉट-र-ई] (lot-ter-y)
+- **Meaning:** A game of chance where people buy numbered tickets to win money.
 - **Hindi:** लॉटरी
 - **Examples:**
-  1. She bought a ticket every week, hoping she would eventually win the state lottery.
-  2. The proceeds from the local lottery were used to fund public school repairs.
+  1. He won a million dollars playing the state **lottery**.
+  2. I buy one **lottery** ticket every week for fun.
 
 ## 71: Lounge
-- **Dissection:** [lounge]
-- **Meaning:** An upholstered seat for more than one person
+- **Dissection:** [लाउंज] (lounge - एक बार में बोलें)
+- **Meaning:** A public room in a hotel or airport where people can sit and relax.
 - **Hindi:** विश्राम कक्ष
 - **Examples:**
-  1. He was lounging on the sofa.
-  2. The high school students like to loiter in the Central Square.
+  1. We waited for our flight in the comfortable airport **lounge**.
+  2. The hotel **lounge** has soft chairs and a TV.
 
 ## 72: Loyal
-- **Dissection:** [loy-al]
-- **Meaning:** Steadfast in allegiance or duty
-- **Hindi:** वफादार
+- **Dissection:** [लॉय-अल] (loy-al)
+- **Meaning:** Always supporting your friends, family, or country.
+- **Hindi:** वफादार / सच्चा
 - **Examples:**
-  1. Loyal subjects.
-  2. Loyal friends stood by him.
+  1. The **loyal** dog waited for its owner to come home every day.
+  2. He has been a **loyal** friend to me for many years.
 
 ## 73: Lubricate
-- **Dissection:** [lub-ric-ate]
-- **Meaning:** Have lubricating properties
-- **Hindi:** चिकना
+- **Dissection:** [लू-ब्रि-केट] (lu-bri-cate)
+- **Meaning:** To put oil or grease on a machine so it moves smoothly.
+- **Hindi:** चिकना करना
 - **Examples:**
-  1. The liquid in this can lubricates well.
-  2. Lubricate my car.
+  1. You need to **lubricate** the bike chain so it does not rust.
+  2. They use a special oil to **lubricate** the car engine.
 
 ## 74: Luggage
-- **Dissection:** [lug-gage]
-- **Meaning:** Cases used to carry belongings when traveling
+- **Dissection:** [लग-इज] (lug-gage)
+- **Meaning:** The bags and suitcases you take with you when you travel.
 - **Hindi:** सामान
 - **Examples:**
-  1. ( Check on the Payne luggage.
-  2. The hostlers were carrying in luggage.
+  1. We put all our heavy **luggage** into the back of the taxi.
+  2. The airline lost my piece of **luggage** during the flight.
 
 ## 75: Lumber
-- **Dissection:** [lum-ber]
-- **Meaning:** The wood of trees cut and prepared for use as building material
+- **Dissection:** [लम-बर] (lum-ber)
+- **Meaning:** Wood that has been cut into long, flat pieces for building.
 - **Hindi:** लकड़ी
 - **Examples:**
-  1. The heavy man lumbered across the room.
-  2. I got lumbered with that boring woman all afternoon.
+  1. The truck brought a load of fresh **lumber** to build the house.
+  2. He went to the store to buy some **lumber** for his new table.
 
 ## 76: Lump
-- **Dissection:** [lump]
-- **Meaning:** A compact mass
-- **Hindi:** पिंड
+- **Dissection:** [लंप] (lump - एक बार में बोलें)
+- **Meaning:** A solid piece of something that does not have a regular shape.
+- **Hindi:** पिंड / ढेला
 - **Examples:**
-  1. A ball of mud caught him on the shoulder.
-  2. A hunk of bread.
+  1. She put a small **lump** of sugar in her tea.
+  2. He felt a hard **lump** under his skin.
 
 ## 77: Lunar
-- **Dissection:** [lun-ar]
-- **Meaning:** Of or relating to or associated with the moon
-- **Hindi:** चांद्र
+- **Dissection:** [लू-नर] (lu-nar)
+- **Meaning:** Relating to the moon.
+- **Hindi:** चांद्र / चंद्रमा संबंधी
 - **Examples:**
-  1. Lunar surface.
-  2. Lunar module.
+  1. The astronauts walked on the grey **lunar** surface.
+  2. We watched the beautiful **lunar** eclipse last night.
 
 ## 78: Lung
-- **Dissection:** [lung]
-- **Meaning:** Either of two saclike respiratory organs in the chest of vertebrates; serves to remove carbon dioxide and provide oxygen to the blood
+- **Dissection:** [लंग] (lung - एक बार में बोलें)
+- **Meaning:** One of the two organs in your chest that you use for breathing.
 - **Hindi:** फेफड़ा
 - **Examples:**
-  1. From the resulting data the doctor can determine lung defects with hitherto unknown accuracy and detail.
-  2. The bronchus and pulmonary artery in this lung type maintain a close relationship throughout.
+  1. You fill your **lungs** with air when you take a deep breath.
+  2. Smoking cigarettes is very bad for your **lung** health.
 
 ## 79: Luxury
-- **Dissection:** [lux-ury]
-- **Meaning:** Something that is an indulgence rather than a necessity
-- **Hindi:** विलासिता
+- **Dissection:** [लग-ज़र-ई] (lux-u-ry)
+- **Meaning:** Something expensive that you enjoy but do not really need.
+- **Hindi:** विलासिता / सुख-साधन
 - **Examples:**
-  1. But for many of us, it will prove an enjoyable luxury.
-  2. But can we any longer afford the luxury of such smug indigation??
+  1. They stayed in a five-star **luxury** hotel by the beach.
+  2. Buying a new sports car is a big **luxury**.
 

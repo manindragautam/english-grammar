@@ -1,536 +1,536 @@
 ## 1: Habitual
-- **Dissection:** [ha-bitu-al]
-- **Meaning:** Commonly used or practiced; usual
-- **Hindi:** अभ्यस्त
+- **Dissection:** [ह-बि-चु-अल] (ha-bit-u-al)
+- **Meaning:** Doing something out of habit, or done regularly.
+- **Hindi:** अभ्यस्त / आदत
 - **Examples:**
-  1. His accustomed thoroughness.
-  2. Took his customary morning walk.
+  1. He is a **habitual** coffee drinker every morning.
+  2. Her **habitual** kindness makes everyone like her.
 
 ## 2: Halt
-- **Dissection:** [halt]
-- **Meaning:** The state of inactivity following an interruption
-- **Hindi:** पड़ाव
+- **Dissection:** [हॉल्ट] (halt - एक बार में बोलें)
+- **Meaning:** To stop moving or doing something.
+- **Hindi:** रुकना / पड़ाव
 - **Examples:**
-  1. The negotiations were in arrest.
-  2. Held them in check.
+  1. The police officer told the fast car to **halt**.
+  2. We will call a **halt** to the work until it stops raining.
 
 ## 3: Hammer
-- **Dissection:** [ham-mer]
-- **Meaning:** The part of a gunlock that strikes the percussion cap when the trigger is pulled
+- **Dissection:** [हैम-अर] (ham-mer)
+- **Meaning:** A tool with a heavy metal head used for hitting nails.
 - **Hindi:** हथौड़ा
 - **Examples:**
-  1. The sudden hammer of fists caught him off guard.
-  2. The pounding of feet on the hallway.
+  1. He used a heavy **hammer** to push the nail into the wood.
+  2. Please hand me the **hammer** so I can fix this broken chair.
 
 ## 4: Handful
-- **Dissection:** [hand-ful]
-- **Meaning:** A small number or amount
-- **Hindi:** मुट्ठी
+- **Dissection:** [हैंड-फुल] (hand-ful)
+- **Meaning:** An amount that you can hold in one hand, or a small number.
+- **Hindi:** मुट्ठी भर
 - **Examples:**
-  1. Only a handful of responses were received.
-  2. Those twins are a real handful to look after.
+  1. She took a small **handful** of sweet candies from the bowl.
+  2. Only a **handful** of people came to the early morning meeting.
 
 ## 5: Handicap
-- **Dissection:** [han-di-cap]
-- **Meaning:** The condition of being unable to perform as a consequence of physical or mental unfitness
-- **Hindi:** विकलांगता
+- **Dissection:** [हैन-डी-कैप] (han-di-cap)
+- **Meaning:** A physical or mental condition that makes doing some things difficult.
+- **Hindi:** विकलांगता / बाधा
 - **Examples:**
-  1. Reading disability.
-  2. Hearing impairment.
+  1. Despite his physical **handicap**, he is a very fast swimmer.
+  2. Not knowing English can be a big **handicap** when traveling in America.
 
 ## 6: Handkerchief
-- **Dissection:** [handker-chief]
-- **Meaning:** A square piece of cloth used for wiping the eyes or nose or as a costume accessory
+- **Dissection:** [हैंग-कर-चीफ] (hand-ker-chief)
+- **Meaning:** A small piece of cloth used for wiping your nose or face.
 - **Hindi:** रूमाल
 - **Examples:**
-  1. We did that and found a dirty handkerchief, some matches and fourteen cents in change.
-  2. In the other: a wristwatch with broken crystal wrapped in a dirty handkerchief.
+  1. He used a clean white **handkerchief** to wipe his sweaty face.
+  2. She kept a soft cotton **handkerchief** in her small purse.
 
 ## 7: Handsome
-- **Dissection:** [hand-some]
-- **Meaning:** Pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - Thackeray; - Lillian Hellman
-- **Hindi:** आकर्षक
+- **Dissection:** [हैन-सम] (hand-some)
+- **Meaning:** Good-looking (usually used for men).
+- **Hindi:** आकर्षक / सुंदर
 - **Examples:**
-  1. A fine-looking woman.
-  2. A good-looking man.
+  1. The tall, **handsome** man wore a very nice suit.
+  2. Everyone said the young actor was very **handsome**.
 
 ## 8: Handy
-- **Dissection:** [handy]
-- **Meaning:** United States blues musician who transcribed and published traditional blues music (1873-1958)
-- **Hindi:** सुविधाजनक
+- **Dissection:** [हैन-डी] (han-dy)
+- **Meaning:** Useful, or easy to reach and use.
+- **Hindi:** उपयोगी / सुविधाजनक
 - **Examples:**
-  1. Found a handy spot for the can opener.
-  2. A handy gadget.
+  1. A small flashlight is very **handy** when the power goes out.
+  2. Keep this map **handy** in case we get lost in the city.
 
 ## 9: Harbor
-- **Dissection:** [har-bor]
-- **Meaning:** A sheltered port where ships can take on or discharge cargo
+- **Dissection:** [हार-बर] (har-bor)
+- **Meaning:** A safe place by the land where boats and ships can stay.
 - **Hindi:** बंदरगाह
 - **Examples:**
-  1. Bear a grudge.
-  2. Entertain interesting notions.
+  1. The large boats rested safely in the quiet water of the **harbor**.
+  2. We walked along the **harbor** to look at the fishing ships.
 
 ## 10: Hardware
-- **Dissection:** [hard-ware]
-- **Meaning:** Major items of military weaponry (as tanks or missile)
-- **Hindi:** हार्डवेयर
+- **Dissection:** [हार्ड-वेअर] (hard-ware)
+- **Meaning:** Tools and equipment made of metal, or the physical parts of a computer.
+- **Hindi:** हार्डवेयर / धातु का सामान
 - **Examples:**
-  1. The company began operation in 1900 with hardware and oil mill supplies.
-  2. In fact the accumulation of the hardware of destruction is day by day increasing our fear of each other.
+  1. He went to the **hardware** store to buy some nails and paint.
+  2. A mouse and keyboard are basic computer **hardware**.
 
 ## 11: Harm
-- **Dissection:** [harm]
-- **Meaning:** Any physical damage to the body caused by violence or accident or fracture etc.
-- **Hindi:** चोट
+- **Dissection:** [हार्म] (harm - एक बार में बोलें)
+- **Meaning:** To hurt someone or damage something.
+- **Hindi:** नुकसान / चोट
 - **Examples:**
-  1. These pills won't harm your system.
-  2. No harm came to my possessions.
+  1. A good dog will never **harm** a little child.
+  2. Smoking cigarettes can cause great **harm** to your health.
 
 ## 12: Harmony
-- **Dissection:** [har-mony]
-- **Meaning:** Compatibility in opinion and action
-- **Hindi:** सद्भाव
+- **Dissection:** [हार-म-नी] (har-mo-ny)
+- **Meaning:** Living or working together in a peaceful way, or sounds playing nicely together.
+- **Hindi:** सद्भाव / तालमेल
 - **Examples:**
-  1. He was a member of Harmony lodge, No. 12, AF & AM, Scottish Rite;;.
-  2. Neither has the establishment of the State of Israel fostered harmony between Muslims and Jews.
+  1. The different people in the village lived together in peace and **harmony**.
+  2. The singers' voices blended in beautiful **harmony**.
 
 ## 13: Harness
-- **Dissection:** [har-ness]
-- **Meaning:** A support consisting of an arrangement of straps for holding something to the body (especially one supporting a person suspended from a parachute)
-- **Hindi:** साज़
+- **Dissection:** [हार-नेस] (har-ness)
+- **Meaning:** A set of leather straps used to control an animal, or to control and use the power of something.
+- **Hindi:** साज़ / उपयोग करना
 - **Examples:**
-  1. Harness the horse.
-  2. Harness natural forces and resources.
+  1. The farmer put the leather **harness** on the strong work horse.
+  2. We can **harness** the power of the wind to make electricity.
 
 ## 14: Harsh
-- **Dissection:** [harsh]
-- **Meaning:** Unpleasantly stern
+- **Dissection:** [हार्श] (harsh - एक बार में बोलें)
+- **Meaning:** Very rough, strict, or unpleasant.
 - **Hindi:** कठोर
 - **Examples:**
-  1. Wild and harsh country full of hot sand and cactus.
-  2. The nomad life is rough and hazardous.
+  1. The **harsh** winter wind made everyone feel very cold.
+  2. He received a very **harsh** punishment for breaking the big window.
 
 ## 15: Harvest
-- **Dissection:** [har-vest]
-- **Meaning:** The yield from plants in a single growing season
-- **Hindi:** फसल
+- **Dissection:** [हार-वेस्ट] (har-vest)
+- **Meaning:** To cut and collect crops from the fields.
+- **Hindi:** फसल काटना / फसल
 - **Examples:**
-  1. They gathered a harvest of examples.
-  2. A harvest of love.
+  1. The farmers will **harvest** the yellow corn in the autumn.
+  2. It was a very good year for the apple **harvest**.
 
 ## 16: Haste
-- **Dissection:** [haste]
-- **Meaning:** Overly eager speed (and possible carelessness)
-- **Hindi:** जल्दी
+- **Dissection:** [हेस्ट] (haste - एक बार में बोलें)
+- **Meaning:** Moving or acting too quickly.
+- **Hindi:** जल्दबाजी
 - **Examples:**
-  1. He soon regretted his haste.
-  2. In his haste to leave he forgot his book.
+  1. In his **haste** to leave, he forgot to lock the front door.
+  2. If you do your work in **haste**, you might make many mistakes.
 
 ## 17: Hatch
-- **Dissection:** [hatch]
-- **Meaning:** The production of young from an egg
+- **Dissection:** [हैच] (hatch - एक बार में बोलें)
+- **Meaning:** To break open so a young animal can come out of an egg.
 - **Hindi:** अंडे से निकलना
 - **Examples:**
-  1. Young birds, fish, and reptiles hatch.
-  2. He thought up a plan to get rich quickly.
+  1. The small yellow chicks will soon **hatch** from their eggs.
+  2. We watched the tiny baby turtles **hatch** on the sandy beach.
 
 ## 18: Hatred
-- **Dissection:** [hatred]
-- **Meaning:** The emotion of intense dislike; a feeling of dislike so strong that it demands action
-- **Hindi:** घृणा
+- **Dissection:** [हे-ट्रिड] (ha-tred)
+- **Meaning:** A very strong feeling of dislike or anger.
+- **Hindi:** नफरत / घृणा
 - **Examples:**
-  1. The whole official City apparently has an intense hatred toward birds.
-  2. For Castro was bringing Cuba not freedom, but hatred.
+  1. They fought the war because of deep **hatred** between the two countries.
+  2. There was a look of pure **hatred** in the angry man's eyes.
 
 ## 19: Haul
-- **Dissection:** [haul]
-- **Meaning:** The act of drawing or hauling something
-- **Hindi:** ढोना
+- **Dissection:** [हॉल] (haul - एक बार में बोलें)
+- **Meaning:** To pull or carry something heavy.
+- **Hindi:** ढोना / खींचना
 - **Examples:**
-  1. The haul up the hill went very slowly.
-  2. The catch was only 10 fish.
+  1. The large truck was used to **haul** the heavy stones away.
+  2. They had to **haul** the broken boat out of the deep water.
 
 ## 20: Haunt
-- **Dissection:** [haunt]
-- **Meaning:** A frequently visited place
-- **Hindi:** अड्डा
+- **Dissection:** [हॉन्ट] (haunt - एक बार में बोलें)
+- **Meaning:** To visit a place often (like a ghost), or to stay in someone's mind and cause sadness.
+- **Hindi:** मंडराना / सताना
 - **Examples:**
-  1. Her ex-boyfriend stalked her.
-  2. The ghost of her mother haunted her.
+  1. People say a sad ghost likes to **haunt** the old empty house.
+  2. The memory of the terrible accident will **haunt** him forever.
 
 ## 21: Hawk
-- **Dissection:** [hawk]
-- **Meaning:** Diurnal bird of prey typically having short rounded wings and a long tail
+- **Dissection:** [हॉक] (hawk - एक बार में बोलें)
+- **Meaning:** A large bird that catches and eats small animals.
 - **Hindi:** बाज़
 - **Examples:**
-  1. The tribes like to hawk in the desert.
-  2. He cleared his throat before he started to speak.
+  1. A large brown **hawk** flew high up in the clear blue sky.
+  2. The quick **hawk** suddenly dove down to catch a small field mouse.
 
 ## 22: Hazard
-- **Dissection:** [haz-ard]
-- **Meaning:** A source of danger; a possibility of incurring loss or misfortune
+- **Dissection:** [हैज़-अर्ड] (haz-ard)
+- **Meaning:** Something that is dangerous and can cause harm.
 - **Hindi:** खतरा
 - **Examples:**
-  1. Drinking alcohol is a health hazard.
-  2. Bad luck caused his downfall.
+  1. The deep hole in the road is a bad **hazard** for driving cars.
+  2. Playing with fire is a serious health **hazard** for children.
 
 ## 23: Headline
-- **Dissection:** [head-line]
-- **Meaning:** The heading or caption of a newspaper article
-- **Hindi:** शीर्षक
+- **Dissection:** [हेड-लाइन] (head-line)
+- **Meaning:** The title of a news story printed in large letters.
+- **Hindi:** मुख्य समाचार / शीर्षक
 - **Examples:**
-  1. Wagner replied, `` Can't you just see the headline:' City Hooked for $172,000' ''??
-  2. And watch for a headline from this pair any time now.
+  1. The newspaper **headline** announced the winner of the big election.
+  2. She quickly read the front-page **headline** before going to work.
 
 ## 24: Heal
-- **Dissection:** [heal]
-- **Meaning:** Heal or recover
-- **Hindi:** ठीक होना
+- **Dissection:** [हील] (heal - एक बार में बोलें)
+- **Meaning:** To become healthy again after an injury or sickness.
+- **Hindi:** ठीक होना / घाव भरना
 - **Examples:**
-  1. My broken leg is mending.
-  2. The wound is healing slowly.
+  1. The deep cut on his arm will take a few weeks to fully **heal**.
+  2. Good medicine and rest will help the sick boy **heal** quickly.
 
 ## 25: Heap
-- **Dissection:** [heap]
-- **Meaning:** A collection of objects laid on top of each other
+- **Dissection:** [हीप] (heap - एक बार में बोलें)
+- **Meaning:** A messy pile of things.
 - **Hindi:** ढेर
 - **Examples:**
-  1. A batch of letters.
-  2. A deal of trouble.
+  1. He left a messy **heap** of dirty clothes on the bedroom floor.
+  2. She gathered the dry leaves into a large **heap** in the garden.
 
 ## 26: Heaven
-- **Dissection:** [heav-en]
-- **Meaning:** Any place of complete bliss and delight and peace
+- **Dissection:** [हेव-अन] (heav-en)
+- **Meaning:** A perfect place of peace where some people believe they go after they die.
 - **Hindi:** स्वर्ग
 - **Examples:**
-  1. And if you bore each other then, heaven help you.
-  2. After baptism Jesus came up out of the water at once, and at that moment heaven opened;;.
+  1. The good woman believed her kind soul would go to **heaven**.
+  2. This quiet and beautiful beach feels just like a little piece of **heaven**.
 
 ## 27: Heel
-- **Dissection:** [heel]
-- **Meaning:** The bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation
+- **Dissection:** [हील] (heel - एक बार में बोलें)
+- **Meaning:** The back part of your foot, or the back part of a shoe.
 - **Hindi:** एड़ी
 - **Examples:**
-  1. You dirty dog.
-  2. The balloon heeled over.
+  1. He got a painful blister on his left **heel** from his new shoes.
+  2. The high **heel** of her black shoe broke while she was dancing.
 
 ## 28: Heir
-- **Dissection:** [heir]
-- **Meaning:** A person who is entitled by law or by the terms of a will to inherit the estate of another
-- **Hindi:** वारिस
+- **Dissection:** [ऐर] (heir - एक बार में बोलें)
+- **Meaning:** A person who has the right to receive money, property, or a title when someone dies.
+- **Hindi:** वारिस / उत्तराधिकारी
 - **Examples:**
-  1. He is still heir to the rare gifts of space and silence, if he chooses to be.
-  2. After the war back to the heir apparency of the steel company.
+  1. The king's oldest son is the rightful **heir** to the royal throne.
+  2. She became a very rich **heir** after her wealthy uncle died.
 
 ## 29: Helicopter
-- **Dissection:** [heli-copter]
-- **Meaning:** An aircraft without wings that obtains its lift from the rotation of overhead blades
-- **Hindi:** हेलीकाप्टर
+- **Dissection:** [हेल-इ-कॉप-टर] (hel-i-cop-ter)
+- **Meaning:** An aircraft without wings that flies using large spinning blades on top.
+- **Hindi:** हेलीकॉप्टर
 - **Examples:**
-  1. We flew over the city in a helicopter.
-  2. Helicoptering his jacket, helicoptering his arms.
+  1. The police **helicopter** flew quickly over the tall city buildings.
+  2. A rescue **helicopter** was sent to save the lost hikers on the mountain.
 
 ## 30: Hell
-- **Dissection:** [hell]
-- **Meaning:** Any place of pain and turmoil
+- **Dissection:** [हेल] (hell - एक बार में बोलें)
+- **Meaning:** A very bad place of suffering where some believe bad people go after death, or a very difficult situation.
 - **Hindi:** नरक
 - **Examples:**
-  1. The hell of battle.
-  2. The inferno of the engine room.
+  1. The religious book talks about the fiery punishments of **hell**.
+  2. Driving in that heavy traffic was absolute **hell** today.
 
 ## 31: Helmet
-- **Dissection:** [hel-met]
-- **Meaning:** Armor plate that protects the head
-- **Hindi:** हेलमेट
+- **Dissection:** [हेल-मट] (hel-met)
+- **Meaning:** A hard hat worn to protect the head.
+- **Hindi:** हेलमेट / शिरस्त्राण
 - **Examples:**
-  1. The top of a policeman' s helmet appeared above the garden wall.
-  2. How comes a man like you to be talking philosophy in a blue helmet on the Thames embankment?
+  1. You must always wear a hard **helmet** when riding a motorcycle.
+  2. The construction worker put on his yellow **helmet** before entering the site.
 
 ## 32: Herd
-- **Dissection:** [herd]
-- **Meaning:** A group of cattle or sheep or other domestic mammals all of the same kind that are herded by humans
+- **Dissection:** [हर्ड] (herd - एक बार में बोलें)
+- **Meaning:** A large group of animals of the same kind that live and feed together.
 - **Hindi:** झुंड
 - **Examples:**
-  1. His brilliance raised him above the ruck.
-  2. The children resembled a fairy herd.
+  1. A large **herd** of wild elephants moved slowly across the grassy plain.
+  2. The working dog helped to move the **herd** of sheep into the pen.
 
 ## 33: Hero
-- **Dissection:** [hero]
-- **Meaning:** A man distinguished by exceptional courage and nobility and strength
-- **Hindi:** नायक
+- **Dissection:** [ही-रो] (he-ro)
+- **Meaning:** A person who is admired for their courage or doing a great thing.
+- **Hindi:** नायक / बहादुर व्यक्ति
 - **Examples:**
-  1. RAF pilots were the heroes of the Battle of Britain.
-  2. Let's discuss how to play if the hero has KK, and there's an ace on board.
+  1. The brave firefighter was called a **hero** for saving the trapped baby.
+  2. Every little boy wants to be a strong **hero** when he grows up.
 
 ## 34: Hesitate
-- **Dissection:** [hes-it-ate]
-- **Meaning:** Pause or hold back in uncertainty or unwillingness
-- **Hindi:** संकोच करना
+- **Dissection:** [हेज़-इ-टेट] (hes-i-tate)
+- **Meaning:** To pause before doing something because you are unsure or nervous.
+- **Hindi:** हिचकिचाना
 - **Examples:**
-  1. Authorities hesitate to quote exact figures.
-  2. The speaker paused.
+  1. Please do not **hesitate** to ask if you need any help with the work.
+  2. He began to **hesitate** before jumping into the cold swimming pool.
 
 ## 35: Highway
-- **Dissection:** [high-way]
-- **Meaning:** A major road for any form of motor transport
-- **Hindi:** हाइवे
+- **Dissection:** [हाइ-वे] (high-way)
+- **Meaning:** A main road, especially one connecting major towns or cities.
+- **Hindi:** राजमार्ग / हाईवे
 - **Examples:**
-  1. Maybe motel-keeping isn't the nation's biggest industry, but it certainly looks that way from the highway.
-  2. In the 12 months ended in February, 1961, this highway earned 93 per cent of its interest.
+  1. We drove fast on the wide open **highway** to reach the next city.
+  2. A bad accident caused a long traffic jam on the main **highway**.
 
 ## 36: Hint
-- **Dissection:** [hint]
-- **Meaning:** An indirect suggestion
-- **Hindi:** संकेत देना
+- **Dissection:** [हिंट] (hint - एक बार में बोलें)
+- **Meaning:** A small piece of information that helps you guess something without saying it directly.
+- **Hindi:** संकेत / इशारा
 - **Examples:**
-  1. Not a breath of scandal ever touched her.
-  2. This dish could use a touch of garlic.
+  1. Can you give me a small **hint** to help solve this puzzle?
+  2. He dropped a heavy **hint** about what he wanted for his birthday.
 
 ## 37: Hire
-- **Dissection:** [hire]
-- **Meaning:** A newly hired employee
-- **Hindi:** किराये पर लेना
+- **Dissection:** [हाइ-अर] (hi-re)
+- **Meaning:** To give someone a job and pay them for their work, or to pay to use something for a short time.
+- **Hindi:** नौकरी पर रखना / किराये पर लेना
 - **Examples:**
-  1. The new hires need special training.
-  2. He signed up for a week's car hire.
+  1. The company wants to **hire** a new manager for the office.
+  2. We will **hire** a big car for our family holiday.
 
 ## 38: Historian
-- **Dissection:** [his-tor-i-an]
-- **Meaning:** A person who is an authority on history and who studies it and writes about it
+- **Dissection:** [हिस-टॉ-रि-अन] (his-to-ri-an)
+- **Meaning:** A person who studies and writes about the past.
 - **Hindi:** इतिहासकार
 - **Examples:**
-  1. Yet nationalism has lost few of its charms for the historian, writer or man in the street.
-  2. The historian Charles Francis Adams called him `` a crude and half-crazy thinker ''.
+  1. The famous **historian** wrote a long book about the old war.
+  2. A local **historian** can tell you how the town was built.
 
 ## 39: Hive
-- **Dissection:** [hive]
-- **Meaning:** A teeming multitude
-- **Hindi:** मधुमुखी का छत्ता
+- **Dissection:** [हाइव] (hive - एक बार में बोलें)
+- **Meaning:** A structure where bees live and make honey, or a very busy place.
+- **Hindi:** मधुमक्खी का छत्ता
 - **Examples:**
-  1. Bees hive honey and pollen.
-  2. He hived lots of information.
+  1. The busy bees flew in and out of the wooden **hive**.
+  2. The kitchen was a **hive** of activity before the big dinner.
 
 ## 40: Hobby
-- **Dissection:** [hobby]
-- **Meaning:** An auxiliary activity
+- **Dissection:** [हॉब-ई] (hob-by)
+- **Meaning:** An activity you enjoy doing in your free time.
 - **Hindi:** शौक
 - **Examples:**
-  1. You say, `` But it costs a lot of money to have a hobby.
-  2. Folklore is his hobby, and he, all too rightly, wishes it to remain as such.
+  1. Her favorite **hobby** is taking beautiful pictures of nature.
+  2. Playing the piano is a fun **hobby** that relaxes him.
 
 ## 41: Hollow
-- **Dissection:** [hol-low]
-- **Meaning:** A cavity or space in something
+- **Dissection:** [हॉल-ओ] (hol-low)
+- **Meaning:** Empty inside.
 - **Hindi:** खोखला
 - **Examples:**
-  1. Hunger had caused the hollows in their cheeks.
-  2. He built himself a cabin in a hollow high up in the Appalachians.
+  1. The small bird made a warm nest inside the **hollow** tree.
+  2. When you hit the empty box, it makes a **hollow** sound.
 
 ## 42: Holy
-- **Dissection:** [holy]
-- **Meaning:** A sacred place of pilgrimage
+- **Dissection:** [हो-ली] (ho-ly)
+- **Meaning:** Connected to God or a religion, and treated with great respect.
 - **Hindi:** पवित्र
 - **Examples:**
-  1. I'm planning to visit the holy city of Jerusalem this Christmas.
-  2. My grandmother is a very holy woman.
+  1. The people went to pray in the beautiful **holy** temple.
+  2. They read stories from the ancient **holy** book every night.
 
 ## 43: Homogeneous
-- **Dissection:** [ho-mo-gen-eous]
-- **Meaning:** All of the same or similar kind or nature
-- **Hindi:** सजातीय
+- **Dissection:** [हो-म-जी-नि-अस] (ho-mo-ge-ne-ous)
+- **Meaning:** Made up of parts or people that are all the same kind.
+- **Hindi:** सजातीय / एक जैसा
 - **Examples:**
-  1. The population of the small village was highly homogeneous, sharing the same culture.
-  2. Mix the ingredients thoroughly until the batter becomes a homogeneous paste.
+  1. The milk and sugar were mixed together to make a **homogeneous** liquid.
+  2. It was a very **homogeneous** neighborhood where everyone looked similar.
 
 ## 44: Honey
-- **Dissection:** [honey]
-- **Meaning:** A sweet yellow liquid produced by bees
+- **Dissection:** [हन-ई] (hon-ey)
+- **Meaning:** A sweet, sticky yellow substance made by bees.
 - **Hindi:** शहद
 - **Examples:**
-  1. Honey, I'm home.
-  2. Man, there are some fine honeys here tonight!
+  1. I like to put sweet **honey** in my hot tea instead of sugar.
+  2. The busy bees collect juice from flowers to make **honey**.
 
 ## 45: Hook
-- **Dissection:** [hook]
-- **Meaning:** A catch for locking a door
-- **Hindi:** अंकुश
+- **Dissection:** [हुक] (hook - एक बार में बोलें)
+- **Meaning:** A curved piece of metal or plastic used for hanging, holding, or catching things.
+- **Hindi:** काँटा / खूंटी
 - **Examples:**
-  1. He took lessons to cure his hooking.
-  2. She sat there crocheting all day.
+  1. Please hang your wet coat on the silver **hook** behind the door.
+  2. He put a small worm on the fishing **hook** to catch a fish.
 
 ## 46: Horizon
-- **Dissection:** [ho-ri-zon]
-- **Meaning:** The line at which the sky and Earth appear to meet
+- **Dissection:** [ह-राइ-ज़न] (ho-ri-zon)
+- **Meaning:** The line far away where the sky seems to meet the land or the sea.
 - **Hindi:** क्षितिज
 - **Examples:**
-  1. It is beyond the horizon of present knowledge.
-  2. A tall building was visible on the horizon.
+  1. We watched the bright sun slowly set below the ocean **horizon**.
+  2. A large ship appeared on the far **horizon** in the morning.
 
 ## 47: Horizontal
-- **Dissection:** [ho-ri-zont-al]
-- **Meaning:** Something that is oriented horizontally
-- **Hindi:** क्षैतिज
+- **Dissection:** [हॉर-इ-ज़ॉन-टल] (hor-i-zon-tal)
+- **Meaning:** Flat and level; going straight across from side to side.
+- **Hindi:** क्षैतिज / आड़ा
 - **Examples:**
-  1. A horizontal surface.
-  2. 1667: As when the Sun new ris'n / Looks through the Horizontal misty Air — John Milton, Paradise Lost, Book 1, ll. 594-5.
+  1. The student drew a straight **horizontal** line across the white paper.
+  2. You should keep the camera **horizontal** when taking this picture.
 
 ## 48: Horn
-- **Dissection:** [horn]
-- **Meaning:** A noisemaker (as at parties or games) that makes a loud noise when you blow through it
-- **Hindi:** सींग
+- **Dissection:** [हॉर्न] (horn - एक बार में बोलें)
+- **Meaning:** A hard pointed part on the head of some animals, or a device that makes a loud sound.
+- **Hindi:** सींग / भोंपू
 - **Examples:**
-  1. Horns at the ends of a new moon.
-  2. The hornof an anvil.
+  1. The angry bull had a very sharp **horn** on its head.
+  2. The impatient driver blew his car **horn** loudly in the traffic jam.
 
 ## 49: Horror
-- **Dissection:** [hor-ror]
-- **Meaning:** Intense and profound fear
-- **Hindi:** डरावनी
+- **Dissection:** [हॉर-अर] (hor-ror)
+- **Meaning:** A strong feeling of fear, shock, or disgust.
+- **Hindi:** डर / खौफ
 - **Examples:**
-  1. The painting that others found so beautiful was a horror to him.
-  2. I saw many horrors during the war.
+  1. They screamed in **horror** when they saw the terrible car crash.
+  2. We watched a scary **horror** movie late at night.
 
 ## 50: Hose
-- **Dissection:** [hose]
-- **Meaning:** Socks and stockings and tights collectively (the British include underwear)
-- **Hindi:** नली
+- **Dissection:** [होज़] (hose - एक बार में बोलें)
+- **Meaning:** A long rubber or plastic tube used to move water.
+- **Hindi:** नली / पाइप
 - **Examples:**
-  1. Mr. Parrillo was given first aid at Johnston Hose 1.
-  2. Use the air hose for this job.
+  1. He used the garden **hose** to water the dry plants.
+  2. The brave firefighter pointed the heavy **hose** at the burning house.
 
 ## 51: Host
-- **Dissection:** [host]
-- **Meaning:** A person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there
+- **Dissection:** [होस्ट] (host - एक बार में बोलें)
+- **Meaning:** A person who invites guests to their home or a party.
 - **Hindi:** मेज़बान
 - **Examples:**
-  1. Atlanta was chosen to be host for the Olympic Games.
-  2. We hosted 4 couples last night.
+  1. The friendly **host** welcomed everyone to the big dinner party.
+  2. Our country will be the proud **host** of the next Olympic games.
 
 ## 52: Hostage
-- **Dissection:** [host-age]
-- **Meaning:** A prisoner who is held by one party to insure that another party will meet specified terms
+- **Dissection:** [हॉस-टिज] (hos-tage)
+- **Meaning:** A person taken by force and held prisoner by someone who demands something in return.
 - **Hindi:** बंधक
 - **Examples:**
-  1. The Hostage ( closed ), by Ireland's Brendan Behan.
-  2. The bank robbers took three employees hostage during the six-hour standoff with police.
+  1. The bad robbers held the bank manager as a **hostage**.
+  2. The police worked hard to free the frightened **hostage** safely.
 
 ## 53: Hostile
-- **Dissection:** [hos-tile]
-- **Meaning:** Troops belonging to the enemy's military forces
-- **Hindi:** शत्रुतापूर्ण
+- **Dissection:** [हॉस-टाइल] (hos-tile)
+- **Meaning:** Very unfriendly, angry, or ready to argue or fight.
+- **Hindi:** शत्रुतापूर्ण / विरोधी
 - **Examples:**
-  1. The platoon ran into a pack of hostiles.
-  2. A hostile nation.
+  1. The angry dog gave a very **hostile** growl to the stranger.
+  2. It is difficult to work in such a **hostile** office environment.
 
 ## 54: Hound
-- **Dissection:** [hound]
-- **Meaning:** Any of several breeds of dog used for hunting typically having large drooping ears
-- **Hindi:** हाउंड
+- **Dissection:** [हाउंड] (hound - एक बार में बोलें)
+- **Meaning:** A type of dog often used for hunting, or to bother someone constantly.
+- **Hindi:** शिकारी कुत्ता / परेशान करना
 - **Examples:**
-  1. You dirty dog.
-  2. The hunters traced the deer into the woods.
+  1. The fast **hound** ran quickly through the forest to catch the rabbit.
+  2. Reporters will often **hound** famous actors for a quick picture.
 
 ## 55: Hover
-- **Dissection:** [hov-er]
-- **Meaning:** Be undecided about something; waver between conflicting positions or courses of action
+- **Dissection:** [हव-अर] (hov-er)
+- **Meaning:** To stay in one place in the air, or to wait closely near someone.
 - **Hindi:** मंडराना
 - **Examples:**
-  1. He oscillates between accepting the new position and retirement.
-  2. The shy student lingered in the corner.
+  1. The noisy helicopter will **hover** above the tall building.
+  2. The nervous mother would always **hover** near her playing child.
 
 ## 56: Howl
-- **Dissection:** [howl]
-- **Meaning:** A long loud emotional utterance
-- **Hindi:** चीख़
+- **Dissection:** [हाउल] (howl - एक बार में बोलें)
+- **Meaning:** A long, loud, sad sound made by a wolf, dog, or the wind.
+- **Hindi:** चीखना / रोना
 - **Examples:**
-  1. He gave a howl of pain.
-  2. Howls of laughter.
+  1. We heard a hungry wolf **howl** loudly in the dark night.
+  2. The strong wind began to **howl** around the old house.
 
 ## 57: Hug
-- **Dissection:** [hug]
-- **Meaning:** A tight or amorous embrace
-- **Hindi:** आलिंगन
+- **Dissection:** [हग] (hug - एक बार में बोलें)
+- **Meaning:** To hold someone tightly in your arms to show love or friendship.
+- **Hindi:** गले लगाना
 - **Examples:**
-  1. Come here and give me a big hug.
-  2. Hug me, please.
+  1. The mother gave her crying child a warm **hug**.
+  2. They shared a happy **hug** when they finally met again.
 
 ## 58: Humanity
-- **Dissection:** [hu-man-ity]
-- **Meaning:** The quality of being humane
-- **Hindi:** इंसानियत
+- **Dissection:** [ह्यू-मैन-इ-टी] (hu-man-i-ty)
+- **Meaning:** All the people in the world, or the quality of being kind to others.
+- **Hindi:** मानवता / इंसानियत
 - **Examples:**
-  1. He feared the speedy decline of all manhood.
-  2. All the world loves a lover.
+  1. Pollution is a terrible danger to all of **humanity**.
+  2. Giving food to the poor animals showed great **humanity**.
 
 ## 59: Humble
-- **Dissection:** [humble]
-- **Meaning:** (Baltimore) An arrest based on weak evidence intended to demean or punish the subject.
-- **Hindi:** विनम्र
+- **Dissection:** [हम-बल] (hum-ble)
+- **Meaning:** Not proud, or not believing that you are better than other people.
+- **Hindi:** विनम्र / सीधा-सादा
 - **Examples:**
-  1. He lives in a humble one-bedroom cottage.
-  2. She was very humble about her achievements, always sharing credit with her team.
+  1. Despite being very famous, the great scientist remained **humble**.
+  2. They lived a simple life in a **humble** little house.
 
 ## 60: Humorous
-- **Dissection:** [hu-mor-ous]
-- **Meaning:** Full of or characterized by humor
-- **Hindi:** रस लेनेवाला
+- **Dissection:** [ह्यू-मर-अस] (hu-mor-ous)
+- **Meaning:** Funny, or making you smile or laugh.
+- **Hindi:** हास्यपूर्ण / मज़ेदार
 - **Examples:**
-  1. Humorous stories.
-  2. Humorous cartoons.
+  1. He told a very **humorous** story that made everyone laugh.
+  2. The clever teacher has a highly **humorous** way of explaining things.
 
 ## 61: Hurricane
-- **Dissection:** [hur-ricane]
-- **Meaning:** A severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)
-- **Hindi:** चक्रवात
+- **Dissection:** [हर-इ-केन] (hur-ri-cane)
+- **Meaning:** A very severe storm with strong winds and heavy rain.
+- **Hindi:** तूफ़ान / चक्रवात
 - **Examples:**
-  1. The basement or belowground shelters also will serve for tornado or hurricane protection.
-  2. He replenished the dipper and handed it to his young wife riding the hurricane deck.
+  1. The strong **hurricane** destroyed many houses near the beach.
+  2. People had to leave their homes before the terrible **hurricane** arrived.
 
 ## 62: Hut
-- **Dissection:** [hut]
-- **Meaning:** Temporary military shelter
+- **Dissection:** [हट] (hut - एक बार में बोलें)
+- **Meaning:** A small, simple house or building.
 - **Hindi:** झोपड़ी
 - **Examples:**
-  1. A thatched hut; a mud hut; a shepherd’s hut.
-  2. A groundsman’s hut.
+  1. The poor farmer lived in a small mud **hut** near the river.
+  2. They built a wooden **hut** in the forest to sleep in.
 
 ## 63: Hydrogen
-- **Dissection:** [hy-dro-gen]
-- **Meaning:** A nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe
+- **Dissection:** [हाइ-ड्र-जन] (hy-dro-gen)
+- **Meaning:** A light gas that has no color or smell and burns easily.
 - **Hindi:** हाइड्रोजन
 - **Examples:**
-  1. This would give the hydrogen atom a slight charge-excess.
-  2. Dr. Lyttleton then imagines the universe as a large hydrogen sphere with surface atoms shooting away from it.
+  1. Water is made by joining oxygen and **hydrogen** together.
+  2. The large balloon was filled with light **hydrogen** gas to float.
 
 ## 64: Hygiene
-- **Dissection:** [hy-giene]
-- **Meaning:** A condition promoting sanitary practices
+- **Dissection:** [हाइ-जीन] (hy-giene)
+- **Meaning:** The practice of keeping yourself and your surroundings clean to stay healthy.
 - **Hindi:** स्वच्छता
 - **Examples:**
-  1. Personal hygiene.
-  2. Hygiene is an important consideration in places where food is prepared.
+  1. Washing your hands before eating is very important for good **hygiene**.
+  2. The dirty restaurant was closed because of poor food **hygiene**.
 
 ## 65: Hypocrisy
-- **Dissection:** [hy-po-crisy]
-- **Meaning:** An expression of agreement that is not supported by real conviction
-- **Hindi:** पाखंड
+- **Dissection:** [हि-पॉक-रि-सी] (hy-poc-ri-sy)
+- **Meaning:** Saying that you have certain beliefs but acting in a different way.
+- **Hindi:** पाखंड / ढोंग
 - **Examples:**
-  1. Hypocrisy thus becomes the answer to a foolish public policy.
-  2. I was searching for an accent of self-delusion or, even, of hypocrisy.
+  1. It is pure **hypocrisy** to tell others not to smoke while you smoke yourself.
+  2. The people were angry about the leader's clear **hypocrisy**.
 
 ## 66: Hypothesis
-- **Dissection:** [hy-po-thes-is]
-- **Meaning:** A proposal intended to explain certain facts or observations
+- **Dissection:** [हाइ-पॉथ-अ-सिस] (hy-poth-e-sis)
+- **Meaning:** An idea or guess that is suggested as an explanation for something but has not yet been proven.
 - **Hindi:** परिकल्पना
 - **Examples:**
-  1. A scientific hypothesis that survives experimental testing becomes a scientific theory.
-  2. He proposed a fresh theory of alkalis that later was accepted in chemical practices.
+  1. The scientist tested his new **hypothesis** by doing many experiments.
+  2. We need more facts to prove that your clever **hypothesis** is correct.
 
 ## 67: Hysterical
-- **Dissection:** [hys-ter-ic-al]
-- **Meaning:** Characterized by or arising from psychoneurotic hysteria; - Morris Fishbein
-- **Hindi:** उन्माद
+- **Dissection:** [हिस-टेर-इ-कल] (hys-ter-i-cal)
+- **Meaning:** Unable to control your feelings or behavior because of extreme fear, anger, or excitement; very funny.
+- **Hindi:** अनियंत्रित (हँसी या डर से) / बहुत मज़ेदार
 - **Examples:**
-  1. During hysterical conditions various functions of the human body are disordered.
-  2. Hysterical amnesia.
+  1. The scared child became completely **hysterical** when the lights went out.
+  2. We all thought the clown's silly dance was absolutely **hysterical**.
 

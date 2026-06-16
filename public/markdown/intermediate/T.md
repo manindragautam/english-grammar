@@ -1,1008 +1,994 @@
 ## 1: Tack
-- **Dissection:** [tack]
-- **Meaning:** The heading or position of a vessel relative to the trim of its sails
-- **Hindi:** कील
+- **Dissection:** [टैक] (tack - एक बार में बोलें)
+- **Meaning:** A small, sharp nail with a flat head.
+- **Hindi:** छोटी कील
 - **Examples:**
-  1. Tack the notice on the board.
-  2. The sailors decided to tack the boat.
+  1. She used a small metal **tack** to put the picture on the wall.
+  2. Be careful not to step on that sharp **tack** on the floor.
 
 ## 2: Tackle
-- **Dissection:** [tackle]
-- **Meaning:** The person who plays that position on a football team
-- **Hindi:** जूझना
+- **Dissection:** [टैक-अल] (tack-le)
+- **Meaning:** To try to deal with something or someone.
+- **Hindi:** निपटना / सुलझाना
 - **Examples:**
-  1. The right tackle is a straight A student.
-  2. It takes a big man to play tackle.
+  1. We need to bravely **tackle** this big problem right now.
+  2. The brave player tried to **tackle** the man with the ball.
 
 ## 3: Tactic
-- **Dissection:** [tac-tic]
-- **Meaning:** A plan for attaining a particular goal
-- **Hindi:** रणनीति
+- **Dissection:** [टैक-टिक] (tac-tic)
+- **Meaning:** A planned way of doing something.
+- **Hindi:** रणनीति / युक्ति
 - **Examples:**
-  1. The principal tactic in controlling the ball was giving it to Abner Haynes, the flashy halfback.
-  2. It should be appallingly apparent that city-trading is not a profitable military tactic.
+  1. The smart coach used a new **tactic** to win the big game.
+  2. Her best **tactic** is to stay quiet and listen carefully.
 
 ## 4: Tag
-- **Dissection:** [tag]
-- **Meaning:** A label written or printed on paper, cardboard, or plastic that is attached to something to indicate its owner, nature, price, etc.
-- **Hindi:** टैग
+- **Dissection:** [टैग] (tag - एक बार में बोलें)
+- **Meaning:** A small piece of paper, cloth, or metal with information on it, tied or stuck onto something larger.
+- **Hindi:** टैग / पर्ची
 - **Examples:**
-  1. Semantic tags were attached in order to identify different meanings of the word.
-  2. Label these bottles.
+  1. Please look at the price **tag** before you buy the shirt.
+  2. He put a name **tag** on his brown travel bag.
 
 ## 5: Tailor
-- **Dissection:** [tail-or]
-- **Meaning:** A person whose occupation is making and altering garments
+- **Dissection:** [टे-लर] (tai-lor)
+- **Meaning:** Someone whose job is to make, repair, and adjust clothes.
 - **Hindi:** दर्जी
 - **Examples:**
-  1. A magazine oriented towards young people.
-  2. Tailor your needs to your surroundings.
+  1. The skilled **tailor** made a beautiful new suit for the wedding.
+  2. She took her long dress to the **tailor** to make it shorter.
 
 ## 6: Tale
-- **Dissection:** [tale]
-- **Meaning:** A message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program
-- **Hindi:** कथा
+- **Dissection:** [टेल] (tale - एक बार में बोलें)
+- **Meaning:** A story, especially one that might be invented or difficult to believe.
+- **Hindi:** कहानी / कथा
 - **Examples:**
-  1. His narrative was interesting.
-  2. Disney's stories entertain adults as well as children.
+  1. The old man told a wonderful **tale** about a magic flying horse.
+  2. She loves to read a good fairy **tale** before she goes to sleep.
 
 ## 7: Talent
-- **Dissection:** [tal-ent]
-- **Meaning:** Natural abilities or qualities
-- **Hindi:** प्रतिभा
+- **Dissection:** [टैल-अंट] (tal-ent)
+- **Meaning:** A natural ability to be good at something, especially without being taught.
+- **Hindi:** प्रतिभा / हुनर
 - **Examples:**
-  1. He has a real talent for drawing.
-  2. The director searched their talent pool to fill the new opening.
+  1. The young girl has a great natural **talent** for playing the piano.
+  2. He showed his amazing artistic **talent** in his beautiful paintings.
 
 ## 8: Tame
-- **Dissection:** [tame]
-- **Meaning:** Correct by punishment or discipline
-- **Hindi:** टेम
+- **Dissection:** [टेम] (tame - एक बार में बोलें)
+- **Meaning:** Not wild or dangerous, either naturally or because of training or long involvement with humans.
+- **Hindi:** पालतू / घरेलू
 - **Examples:**
-  1. Tone down that aggressive letter.
-  2. The author finally tamed some of his potentially offensive statements.
+  1. The small bird is so **tame** that it will eat from my hand.
+  2. They have a very friendly, **tame** monkey living in their house.
 
 ## 9: Tank
-- **Dissection:** [tank]
-- **Meaning:** An enclosed armored military vehicle; has a cannon and moves on caterpillar treads
-- **Hindi:** टैंक
+- **Dissection:** [टैंक] (tank - एक बार में बोलें)
+- **Meaning:** A large container for storing liquid or gas.
+- **Hindi:** टंकी / टैंक
 - **Examples:**
-  1. Tank animal refuse.
-  2. I burned three tanks of gas on the drive to New York.
+  1. The car's petrol **tank** is almost completely empty right now.
+  2. They keep the large fish in a clean glass water **tank**.
 
 ## 10: Tap
-- **Dissection:** [tap]
-- **Meaning:** The sound made by a gentle blow
-- **Hindi:** नल
+- **Dissection:** [टैप] (tap - एक बार में बोलें)
+- **Meaning:** A device that controls the flow of liquid, especially water, from a pipe; or to hit something gently.
+- **Hindi:** नल / थपथपाना
 - **Examples:**
-  1. Tap one's memory.
-  2. Tap a source of money.
+  1. Please turn off the water **tap** when you finish washing your hands.
+  2. He felt a soft **tap** on his shoulder and turned around quickly.
 
 ## 11: Tape
-- **Dissection:** [tape]
-- **Meaning:** A long thin piece of cloth or paper as used for binding or fastening
-- **Hindi:** फीता
+- **Dissection:** [टेप] (tape - एक बार में बोलें)
+- **Meaning:** A long, narrow strip of material that is sometimes sticky on one side.
+- **Hindi:** टेप / फीता
 - **Examples:**
-  1. He used a piece of tape for a belt.
-  2. He wrapped a tape around the package.
+  1. She used some clear sticky **tape** to fix the torn paper page.
+  2. He bought a long red **tape** to tie the pretty gift box.
 
 ## 12: Target
-- **Dissection:** [tar-get]
-- **Meaning:** A reference point to shoot at
-- **Hindi:** लक्ष्य
+- **Dissection:** [टार-गिट] (tar-get)
+- **Meaning:** An object shot at during shooting practice, often a circle with a pattern on it, or any mark or exact place aimed at.
+- **Hindi:** लक्ष्य / निशाना
 - **Examples:**
-  1. His arrow hit the mark.
-  2. He fell prey to muggers.
+  1. He shot his fast arrow right into the middle of the round **target**.
+  2. The brave team reached their main **target** very early today.
 
 ## 13: Tariff
-- **Dissection:** [tar-iff]
-- **Meaning:** A government tax on imports or exports
-- **Hindi:** टैरिफ़
+- **Dissection:** [टैर-इफ] (tar-iff)
+- **Meaning:** A charge or list of charges either for services or on goods entering a country.
+- **Hindi:** शुल्क / टैरिफ
 - **Examples:**
-  1. They signed a treaty to lower duties on trade between their countries.
-  2. Tariff imported goods.
+  1. The government put a new high **tariff** on all imported cars.
+  2. They had to pay a special **tariff** to bring the goods inside.
 
 ## 14: Tart
-- **Dissection:** [tart]
-- **Meaning:** A woman who engages in sexual intercourse for money
-- **Hindi:** तीखा
+- **Dissection:** [टार्ट] (tart - एक बार में बोलें)
+- **Meaning:** An open pastry case with a filling, usually of sweet food such as fruit; or tasting sour.
+- **Hindi:** तीखा (स्वाद) / एक प्रकार की मिठाई
 - **Examples:**
-  1. Sharp criticism.
-  2. A sharp-worded exchange.
+  1. She baked a delicious sweet apple **tart** for our dessert tonight.
+  2. The fresh yellow lemon juice had a very sharp and **tart** taste.
 
 ## 15: Tease
-- **Dissection:** [tease]
-- **Meaning:** Someone given to teasing (as by mocking or stirring curiosity)
+- **Dissection:** [टीज़] (tease - एक बार में बोलें)
+- **Meaning:** To laugh at someone or say unkind things about them, either because you are joking or because you want to upset that person.
 - **Hindi:** चिढ़ाना
 - **Examples:**
-  1. He ignored their teases.
-  2. His ribbing was gentle but persistent.
+  1. It is not nice to cruelly **tease** your little brother about his hair.
+  2. The other children used to **tease** him because he wore glasses.
 
 ## 16: Technician
-- **Dissection:** [tech-ni-cian]
-- **Meaning:** Someone whose occupation involves training in a specific technical process
+- **Dissection:** [टेक-निश-अन] (tech-ni-cian)
+- **Meaning:** A worker trained with special skills, especially in science or engineering.
 - **Hindi:** तकनीशियन
 - **Examples:**
-  1. An impressive technician, Mr. Skolovsky has fine rhythm, to boot.
-  2. During the night, a phone company technician had deadened the bells and installed red blinkers on the phones.
+  1. The smart computer **technician** quickly fixed my broken laptop yesterday.
+  2. A lab **technician** will carefully test the blood sample very soon.
 
 ## 17: Technique
-- **Dissection:** [tech-nique]
-- **Meaning:** A practical method or art applied to some particular task
-- **Hindi:** तकनीक
+- **Dissection:** [टेक-नीक] (tech-nique)
+- **Meaning:** A way of doing an activity that needs skill.
+- **Hindi:** तकनीक / काम करने का तरीका
 - **Examples:**
-  1. Since the apparatus is new, it requires experimentation and changes in technique.
-  2. His technique is ample and his musical ideas are projected beautifully.
+  1. The famous artist uses a very special **technique** to paint her pictures.
+  2. He is still trying to improve his basic reading **technique**.
 
 ## 18: Tedious
-- **Dissection:** [te-di-ous]
-- **Meaning:** So lacking in interest as to cause mental weariness; ; ; ; ; ; - Edmund Burke; ; - Mark Twain
-- **Hindi:** थकाऊ
+- **Dissection:** [टी-डी-अस] (te-di-ous)
+- **Meaning:** Boring and tiring, especially because long or often repeated.
+- **Hindi:** थकाऊ / उबाऊ
 - **Examples:**
-  1. A boring evening with uninteresting people.
-  2. The deadening effect of some routine tasks.
+  1. Painting the large white wall was a very slow and **tedious** job.
+  2. She had to listen to a long, **tedious** speech about the new rules.
 
 ## 19: Telegram
-- **Dissection:** [tele-gram]
-- **Meaning:** A message transmitted by telegraph
-- **Hindi:** टेलीग्राम
+- **Dissection:** [टेल-इ-ग्रैम] (tel-e-gram)
+- **Meaning:** A message sent by telegraph and then printed and given to someone.
+- **Hindi:** तार (संदेश)
 - **Examples:**
-  1. The family received a telegram bringing news of their grandfather's arrival.
-  2. In the past, sending a telegram was the fastest way to communicate across distances.
+  1. In the old days, people often sent a short written **telegram** for quick news.
+  2. He received an urgent **telegram** from his family far away.
 
 ## 20: Telescope
-- **Dissection:** [tele-scope]
-- **Meaning:** A magnifier of images of distant objects
+- **Dissection:** [टेल-इ-स्कोप] (tel-e-scope)
+- **Meaning:** A cylinder-shaped device for making objects that are far away look closer and larger.
 - **Hindi:** दूरबीन
 - **Examples:**
-  1. In the accident, the cars telescoped.
-  2. My hiking sticks telescope and can be put into the backpack.
+  1. He looked through his large new **telescope** to see the bright stars.
+  2. The smart scientist uses a powerful **telescope** to study the moon.
 
 ## 21: Temper
-- **Dissection:** [tem-per]
-- **Meaning:** A sudden outburst of anger
-- **Hindi:** गुस्सा
+- **Dissection:** [टेम-पर] (tem-per)
+- **Meaning:** The tendency to become angry very quickly.
+- **Hindi:** स्वभाव / गुस्सा
 - **Examples:**
-  1. His temper sparked like damp firewood.
-  2. Whether he praised or cursed me depended on his temper at the time.
+  1. The tired man has a very bad **temper** when he doesn't sleep well.
+  2. She must learn to control her sudden angry **temper** at work.
 
 ## 22: Temple
-- **Dissection:** [temple]
-- **Meaning:** Place of worship consisting of an edifice for the worship of a deity
+- **Dissection:** [टेम-पल] (tem-ple)
+- **Meaning:** A building used for the worship of a god or gods in some religions.
 - **Hindi:** मंदिर
 - **Examples:**
-  1. The veins in his temple throbbed.
-  2. A temple of commerce, a temple of drinking and dining.
+  1. Many people go to the beautiful old **temple** to pray quietly.
+  2. They visited a famous golden **temple** during their holiday trip.
 
 ## 23: Temporary
-- **Dissection:** [tem-por-ary]
-- **Meaning:** A worker (especially in an office) hired on a temporary basis
+- **Dissection:** [टेम-पर-अर-ई] (tem-po-ra-ry)
+- **Meaning:** Not lasting or needed for very long.
 - **Hindi:** अस्थायी
 - **Examples:**
-  1. Politics is an impermanent factor of life.
-  2. Impermanent palm cottages.
+  1. He found a good **temporary** job for the summer holiday months.
+  2. This is just a quick, **temporary** fix for the broken water pipe.
 
 ## 24: Tempt
-- **Dissection:** [tempt]
-- **Meaning:** Dispose or incline or entice to
-- **Hindi:** प्रलोभन
+- **Dissection:** [टेम्प्ट] (tempt - एक बार में बोलें)
+- **Meaning:** To make someone want to have or do something, especially something that is unnecessary or wrong.
+- **Hindi:** ललचाना / प्रलोभन देना
 - **Examples:**
-  1. We were tempted by the delicious-looking food.
-  2. He lured me into temptation.
+  1. The sweet smell of the cake will easily **tempt** you to eat it.
+  2. Do not let the bright shiny toys **tempt** you to spend all your money.
 
 ## 25: Tenant
-- **Dissection:** [ten-ant]
-- **Meaning:** Someone who pays rent to use land or a building or a car that is owned by someone else
-- **Hindi:** किराएदार
-- **Examples:**
-  1. If you are a life tenant, you deduct allowable depreciation and depletion.
-  2. She's married that tenant!!
 
 ## 26: Tendency
-- **Dissection:** [tend-ency]
-- **Meaning:** An attitude of mind especially one that favors one alternative over others
-- **Hindi:** प्रवृत्ति
+- **Dissection:** [टेन-डन-सी] (tend-en-cy)
+- **Meaning:** If there is a tendency for something to happen, it is likely to happen or it often happens.
+- **Hindi:** प्रवृत्ति / रुझान
 - **Examples:**
-  1. He had an inclination to give up too easily.
-  2. A tendency to be too strict.
+  1. He has a strong **tendency** to talk too much when he is nervous.
+  2. There is a growing **tendency** for people to work from home.
 
 ## 27: Tender
-- **Dissection:** [tender]
-- **Meaning:** Something that can be used as an official medium of payment
-- **Hindi:** नाज़ुक
+- **Dissection:** [टेन-डर] (ten-der)
+- **Meaning:** Gentle, loving, or kind; or easy to cut or chew (food).
+- **Hindi:** कोमल / मुलायम
 - **Examples:**
-  1. The Swiss dealer offered $2 million for the painting.
-  2. Tenderize meat.
+  1. She gave the small crying baby a very gentle, **tender** kiss.
+  2. The slow-cooked meat was very soft and **tender** to eat.
 
 ## 28: Tense
-- **Dissection:** [tense]
-- **Meaning:** A grammatical category of verbs used to express distinctions of time
-- **Hindi:** तनावग्रस्त
+- **Dissection:** [टेन्स] (tense - एक बार में बोलें)
+- **Meaning:** Nervous and unable to relax; or the form of a verb that shows the time of an action.
+- **Hindi:** तनावग्रस्त / काल
 - **Examples:**
-  1. The bodybuilder's neck muscles tensed;.
-  2. The rope strained when the weight was attached.
+  1. He felt very nervous and **tense** before his big driving test.
+  2. The long meeting was very **tense** because people were angry.
 
 ## 29: Tension
-- **Dissection:** [ten-sion]
-- **Meaning:** (psychology) a state of mental or emotional strain or suspense
+- **Dissection:** [टेन-शन] (ten-sion)
+- **Meaning:** A feeling of nervousness before an important or difficult event; or a feeling of fear or anger between two groups of people.
 - **Hindi:** तनाव
 - **Examples:**
-  1. He suffered from fatigue and emotional tension.
-  2. Stress is a vasoconstrictor.
+  1. You could feel the nervous **tension** in the room before the exam.
+  2. A hot bath will help reduce the muscle **tension** in your back.
 
 ## 30: Terminal
-- **Dissection:** [ter-min-al]
-- **Meaning:** Station where transport vehicles load or unload passengers or goods
-- **Hindi:** टर्मिनल
+- **Dissection:** [टर-मिन-अल] (ter-mi-nal)
+- **Meaning:** A building where you can get onto a plane, bus, or ship; or a disease that cannot be cured and will cause death.
+- **Hindi:** टर्मिनल / अंतिम (असाध्य)
 - **Examples:**
-  1. The end of the pier.
-  2. She knotted the end of the thread.
+  1. We had to wait for two hours at the busy airport **terminal**.
+  2. The poor old man is very sick with a **terminal** illness.
 
 ## 31: Terrace
-- **Dissection:** [ter-race]
-- **Meaning:** Usually paved outdoor area adjoining a residence
-- **Hindi:** छत
+- **Dissection:** [टेर-अस] (ter-race)
+- **Meaning:** A flat raised area, especially outside a house or restaurant, where people can sit.
+- **Hindi:** छत / चबूतरा
 - **Examples:**
-  1. Grosvenor Terrace.
-  2. We terrassed the country house.
+  1. They drank their morning coffee outside on the sunny stone **terrace**.
+  2. The restaurant has a beautiful open **terrace** with sea views.
 
 ## 32: Terrain
-- **Dissection:** [ter-rain]
-- **Meaning:** A piece of ground having specific characteristics or military potential
-- **Hindi:** इलाके
+- **Dissection:** [टर-एन] (ter-rain)
+- **Meaning:** An area of land, when considering its natural features.
+- **Hindi:** इलाका / भूभाग
 - **Examples:**
-  1. They decided to attack across the rocky terrain.
-  2. The race will be run over a variety of terrain, including grass and sand.
+  1. The brave soldiers walked slowly across the very rough, rocky **terrain**.
+  2. This strong car is designed to drive on difficult off-road **terrain**.
 
 ## 33: Terrify
-- **Dissection:** [ter-rify]
-- **Meaning:** Fill with terror; frighten greatly
-- **Hindi:** ख़ौफ़ में डालना
+- **Dissection:** [टेर-इ-फाइ] (ter-ri-fy)
+- **Meaning:** To make someone feel extremely afraid.
+- **Hindi:** डराना / भयभीत करना
 - **Examples:**
-  1. For he never means to swallow a single limb; he only thinks to terrify by feints.
-  2. The thought of speaking in front of a large audience used to terrify her, but she overcame that fear through practice.
+  1. The loud thunder and dark storm really **terrify** the small dog.
+  2. He told a scary story just to **terrify** the young children.
 
 ## 34: Territory
-- **Dissection:** [ter-rit-ory]
-- **Meaning:** A region marked off for administrative or other purposes
-- **Hindi:** इलाका
+- **Dissection:** [टेर-इ-टर-ई] (ter-ri-to-ry)
+- **Meaning:** Land that is owned or controlled by a particular country, ruler, or animal.
+- **Hindi:** क्षेत्र / इलाका
 - **Examples:**
-  1. His questions covered a lot of territory.
-  2. American troops were stationed on Japanese soil.
+  1. The wild wolves will aggressively fight to protect their hunting **territory**.
+  2. The brave explorers slowly marched deep into unknown dangerous **territory**.
 
 ## 35: Terror
-- **Dissection:** [ter-ror]
-- **Meaning:** An overwhelming feeling of fear and anxiety
-- **Hindi:** आतंक
+- **Dissection:** [टेर-अर] (ter-ror)
+- **Meaning:** Extreme fear.
+- **Hindi:** आतंक / खौफ
 - **Examples:**
-  1. He was the terror of the neighborhood.
-  2. He used terror to make them confess.
+  1. She screamed in pure **terror** when she saw the large snake.
+  2. The violent storm brought a night of deep **terror** to the village.
 
 ## 36: Text
-- **Dissection:** [text]
-- **Meaning:** The words of something written
-- **Hindi:** मूलपाठ
+- **Dissection:** [टेक्स्ट] (text - एक बार में बोलें)
+- **Meaning:** The written words in a book, magazine, etc., not the pictures; or a written message sent on a mobile phone.
+- **Hindi:** मूल पाठ / संदेश
 - **Examples:**
-  1. There were more than a thousand words of text.
-  2. They handed out the printed text of the mayor's speech.
+  1. The large colorful pictures take up more space than the actual **text**.
+  2. Please send me a quick short **text** when you safely arrive.
 
 ## 37: Textile
-- **Dissection:** [tex-tile]
-- **Meaning:** Artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers
-- **Hindi:** कपड़ा
+- **Dissection:** [टेक्स-टाइल] (tex-tile)
+- **Meaning:** A cloth made by hand or machine.
+- **Hindi:** कपड़ा / वस्त्र
 - **Examples:**
-  1. The fabric in the curtains was light and semitransparent.
-  2. Woven cloth originated in Mesopotamia around 5000 BC.
+  1. The large factory makes a beautiful patterned **textile** for expensive clothes.
+  2. India has a very old and rich history of fine **textile** making.
 
 ## 38: Texture
-- **Dissection:** [tex-ture]
-- **Meaning:** The feel of a surface or a fabric
-- **Hindi:** बनावट
+- **Dissection:** [टेक्स-चर] (tex-ture)
+- **Meaning:** The way that something feels when you touch it.
+- **Hindi:** बनावट / स्पर्श
 - **Examples:**
-  1. The wall had a smooth texture.
-  2. The texture of Neapolitan life.
+  1. The rough, hard rock had a very bumpy surface **texture**.
+  2. She loves the soft, smooth **texture** of fine silk material.
 
 ## 39: Theft
-- **Dissection:** [theft]
-- **Meaning:** The act of taking something from someone unlawfully
+- **Dissection:** [थेफ्ट] (theft - एक बार में बोलें)
+- **Meaning:** The act of dishonestly taking something that belongs to someone else and keeping it.
 - **Hindi:** चोरी
 - **Examples:**
-  1. He had done time for the theft.
-  2. The thieving is awful at Kennedy International.
+  1. He was quickly arrested for the clear **theft** of the expensive car.
+  2. Please lock your door carefully to prevent simple home **theft**.
 
 ## 40: Theology
-- **Dissection:** [theo-logy]
-- **Meaning:** The rational and systematic study of religion and its influences and of the nature of religious truth
-- **Hindi:** धर्मशास्र
+- **Dissection:** [थी-ओल-अ-जी] (the-ol-o-gy)
+- **Meaning:** The study of religion and religious belief.
+- **Hindi:** धर्मशास्त्र
 - **Examples:**
-  1. Jewish theology.
-  2. Roman Catholic theology.
+  1. The smart young student wants to study deep **theology** at university.
+  2. They had a long interesting discussion about early Christian **theology**.
 
 ## 41: Theoretical
-- **Dissection:** [the-or-et-ic-al]
-- **Meaning:** Concerned primarily with theories or hypotheses rather than practical considerations
+- **Dissection:** [थी-अ-रेट-इ-कल] (the-o-ret-i-cal)
+- **Meaning:** Based on the ideas that relate to a subject, not the practical uses of that subject.
 - **Hindi:** सैद्धांतिक
 - **Examples:**
-  1. Theoretical science.
-  2. Theoretical physics.
+  1. The science class involves both real practical work and **theoretical** study.
+  2. His new interesting idea is purely **theoretical** and not proven yet.
 
 ## 42: Therapy
-- **Dissection:** [ther-apy]
-- **Meaning:** (medicine) the act of caring for someone (as by medication or remedial training etc.)
-- **Hindi:** चिकित्सा
+- **Dissection:** [थेर-अ-पी] (ther-a-py)
+- **Meaning:** A treatment that helps someone feel better, grow stronger, etc., especially after an illness.
+- **Hindi:** चिकित्सा / उपचार
 - **Examples:**
-  1. The quarterback is undergoing treatment for a knee injury.
-  2. He tried every treatment the doctors suggested.
+  1. She is having special physical **therapy** to heal her broken leg.
+  2. Talking calmly about your sad feelings is a good mental **therapy**.
 
 ## 43: Thermometer
-- **Dissection:** [ther-mo-met-er]
-- **Meaning:** Measuring instrument for measuring temperature
-- **Hindi:** थर्मामीटर
+- **Dissection:** [थर-मॉम-इ-टर] (ther-mom-e-ter)
+- **Meaning:** A device used for measuring temperature.
+- **Hindi:** थर्मामीटर / तापमापी
 - **Examples:**
-  1. For roasts, insert meat thermometer diagonally so it does not rest on bone.
-  2. Also make sure thermometer does not touch the revolving spit or hit the coals.
+  1. The nurse used a small digital **thermometer** to check his fever.
+  2. The outdoor **thermometer** shows that today is a very hot day.
 
 ## 44: Thesis
-- **Dissection:** [thes-is]
-- **Meaning:** An unproved statement put forward as a premise in an argument
-- **Hindi:** थीसिस
+- **Dissection:** [थी-सिस] (the-sis)
+- **Meaning:** A long piece of writing on a particular subject, especially one that is done for a higher college or university degree.
+- **Hindi:** शोध प्रबंध (थीसिस)
 - **Examples:**
-  1. " I have considered the thesis," answered the little man, composedly.
-  2. The desire to substantiate a thesis at the expense of sound research technique smacks more of the propagandist than the historian.
+  1. He spent three long years writing his difficult university research **thesis**.
+  2. Her brilliant final **thesis** was about old Indian village history.
 
 ## 45: Thigh
-- **Dissection:** [thigh]
-- **Meaning:** The part of the leg between the hip and the knee
-- **Hindi:** जाँघ
+- **Dissection:** [थाइ] (thigh - एक बार में बोलें)
+- **Meaning:** The part of a person's leg above the knee.
+- **Hindi:** जांघ
 - **Examples:**
-  1. It's a complete thigh contraction-extension exercise.
-  2. It landed on Roberts' sprawled right thigh, poised precariously, then slid off to the ground.
+  1. He pulled a heavy muscle in his left **thigh** while running fast.
+  2. The deep water reached all the way up to his upper **thigh**.
 
 ## 46: Thirst
-- **Dissection:** [thirst]
-- **Meaning:** A physiological need to drink
+- **Dissection:** [थर्स्ट] (thirst - एक बार में बोलें)
+- **Meaning:** A need for something to drink; or a strong desire for something.
 - **Hindi:** प्यास
 - **Examples:**
-  1. A thirst for knowledge.
-  2. Hunger for affection.
+  1. After walking in the hot desert, his strong **thirst** was terrible.
+  2. The bright young student has a great deep **thirst** for knowledge.
 
 ## 47: Thorn
-- **Dissection:** [thorn]
-- **Meaning:** Something that causes irritation and annoyance
+- **Dissection:** [थॉर्न] (thorn - एक बार में बोलें)
+- **Meaning:** A small, sharp pointed growth on the stem of a plant.
 - **Hindi:** कांटा
 - **Examples:**
-  1. He's a thorn in my flesh.
-  2. The cockspur thorn.
+  1. The sharp red rose **thorn** deeply cut her soft left hand.
+  2. He carefully pulled a long wooden **thorn** out of his shoe.
 
 ## 48: Thorough
-- **Dissection:** [thor-ough]
-- **Meaning:** Painstakingly careful and accurate
-- **Hindi:** अच्छी तरह
+- **Dissection:** [थर-ओ] (thor-ough)
+- **Meaning:** Detailed and careful.
+- **Hindi:** विस्तृत / पूरी तरह से
 - **Examples:**
-  1. Our accountant is thorough.
-  2. Thorough research.
+  1. The smart police did a very careful and **thorough** search of the house.
+  2. Please give the dirty kitchen floor a really **thorough** clean today.
 
 ## 49: Thrill
-- **Dissection:** [thrill]
-- **Meaning:** The swift release of a store of affective force
-- **Hindi:** रोमांच
+- **Dissection:** [थ्रिल] (thrill - एक बार में बोलें)
+- **Meaning:** A feeling of extreme excitement, usually caused by something pleasant.
+- **Hindi:** रोमांच / सिहरन
 - **Examples:**
-  1. They got a great bang out of it.
-  2. What a boot!
-
-## 50: Throne
-- **Dissection:** [throne]
-- **Meaning:** The chair of state for a monarch, bishop, etc.
-- **Hindi:** सिंहासन
-- **Examples:**
-  1. The king sat on his throne.
-  2. The Queen was enthroned more than 50 years ago.
+  1. It was a great big **thrill** to finally meet my favorite actor.
+  2. She loves the fast, exciting **thrill** of riding a big rollercoaster.
 
 ## 51: Thrust
-- **Dissection:** [thrust]
-- **Meaning:** The force used in pushing
-- **Hindi:** जोर
+- **Dissection:** [थ्रस्ट] (thrust - एक बार में बोलें)
+- **Meaning:** To push suddenly and strongly.
+- **Hindi:** जोर से धकेलना
 - **Examples:**
-  1. The push of the water on the walls of the tank.
-  2. The thrust of the jet engines.
+  1. He angrily **thrust** the heavy book into her empty hands.
+  2. The brave soldier tried to **thrust** his sharp sword forward.
 
 ## 52: Thunder
-- **Dissection:** [thun-der]
-- **Meaning:** A deep prolonged loud noise
-- **Hindi:** गड़गड़ाहट
+- **Dissection:** [थंड-अर] (thun-der)
+- **Meaning:** The loud noise in the sky that you hear during a storm.
+- **Hindi:** गड़गड़ाहट (बादलों की)
 - **Examples:**
-  1. The bus thundered down the road.
-  2. `Get out of here,' he roared.
+  1. The loud, deep **thunder** woke the sleeping baby last night.
+  2. We saw bright lightning just before we heard the heavy **thunder**.
 
 ## 53: Tick
-- **Dissection:** [tick]
-- **Meaning:** A metallic tapping sound
-- **Hindi:** सही का निशान लगाना
+- **Dissection:** [टिक] (tick - एक बार में बोलें)
+- **Meaning:** The sound clocks and watches make every second; or a mark to show something is correct.
+- **Hindi:** टिक-टिक (घड़ी की) / सही का निशान
 - **Examples:**
-  1. He counted the ticks of the clock.
-  2. As he called the role he put a check mark by each student's name.
+  1. In the quiet room, you could only hear the clock **tick**.
+  2. Please put a small red **tick** next to the correct answer.
 
 ## 54: Tide
-- **Dissection:** [tide]
-- **Meaning:** The periodic rise and fall of the sea level under the gravitational pull of the moon
+- **Dissection:** [टाइड] (tide - एक बार में बोलें)
+- **Meaning:** The regular rising and falling of the sea level.
 - **Hindi:** ज्वार-भाटा
 - **Examples:**
-  1. A rising tide of popular interest.
-  2. Surging waves.
+  1. The high ocean **tide** completely covered the yellow sandy beach.
+  2. We must wait for the low **tide** to easily cross the river.
 
 ## 55: Tidy
-- **Dissection:** [tidy]
-- **Meaning:** Receptacle that holds odds and ends (as sewing materials)
-- **Hindi:** साफ
+- **Dissection:** [टाइ-डी] (ti-dy)
+- **Meaning:** Having everything ordered and arranged in the right place.
+- **Hindi:** साफ-सुथरा
 - **Examples:**
-  1. Tidy up your room!
-  2. A tidy person.
+  1. Her small bedroom is always very clean, neat, and **tidy**.
+  2. Please keep your wooden desk **tidy** while you are working here.
 
 ## 56: Tiger
-- **Dissection:** [ti-ger]
-- **Meaning:** A fierce or audacious person
-- **Hindi:** चीता
+- **Dissection:** [टाइ-गर] (ti-ger)
+- **Meaning:** A large wild animal of the cat family with yellowish-orange fur and dark stripes.
+- **Hindi:** बाघ
 - **Examples:**
-  1. He's a tiger on the tennis court.
-  2. It aroused the tiger in me.
+  1. The beautiful Bengal **tiger** quietly walked through the tall green grass.
+  2. A strong wild **tiger** is a very dangerous and powerful hunter.
 
 ## 57: Tile
-- **Dissection:** [tile]
-- **Meaning:** A flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces
-- **Hindi:** टाइल
+- **Dissection:** [टाइल] (tile - एक बार में बोलें)
+- **Meaning:** A thin, flat piece of baked clay, used for covering roofs, floors, or walls.
+- **Hindi:** टाइल / खपरैल
 - **Examples:**
-  1. Tile the wall and the floor of the bathroom.
-  2. Each tile within Google Maps consists of 256 × 256 pixels.
+  1. The kitchen floor is covered with a beautiful blue ceramic **tile**.
+  2. The strong wind blew a heavy roof **tile** onto the street.
 
 ## 58: Timber
-- **Dissection:** [tim-ber]
-- **Meaning:** The wood of trees cut and prepared for use as building material
-- **Hindi:** लकड़ी
+- **Dissection:** [टिम-बर] (tim-ber)
+- **Meaning:** Wood used for building.
+- **Hindi:** लकड़ी (इमारती)
 - **Examples:**
-  1. The timbre of her soprano was rich and lovely.
-  2. The muffled tones of the broken bell summoned them to meet.
+  1. The strong wooden house was built using the best thick **timber**.
+  2. They cut down the tall trees to sell the valuable **timber**.
 
 ## 59: Timid
-- **Dissection:** [tim-id]
-- **Meaning:** People who are fearful and cautious
-- **Hindi:** डरपोक
+- **Dissection:** [टिम-इड] (tim-id)
+- **Meaning:** Shy and nervous; without much confidence.
+- **Hindi:** डरपोक / शर्मीला
 - **Examples:**
-  1. Whitewater rafting is not for the timid.
-  2. Stood in the doorway diffident and abashed.
+  1. The small, quiet boy was too **timid** to ask a simple question.
+  2. A very shy and **timid** little deer hid behind the big tree.
 
 ## 60: Tin
-- **Dissection:** [tin]
-- **Meaning:** A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide
-- **Hindi:** टिन
+- **Dissection:** [टिन] (tin - एक बार में बोलें)
+- **Meaning:** A soft, silver-white metal; or a closed metal container for food.
+- **Hindi:** टिन (धातु) / डिब्बा
 - **Examples:**
-  1. Tinned foods are not very tasty.
-  2. Muffin tin.
+  1. We opened a small round **tin** of hot baked beans for dinner.
+  2. The old roof was made of cheap and thin metal **tin**.
 
 ## 61: Tissue
-- **Dissection:** [tis-sue]
-- **Meaning:** Part of an organism consisting of an aggregate of cells having a similar structure and function
-- **Hindi:** ऊतक
+- **Dissection:** [टिश-ऊ] (tis-sue)
+- **Meaning:** Soft paper that is used for cleaning; or the material that animals and plants are made of.
+- **Hindi:** ऊतक / मुलायम कागज (टिशू)
 - **Examples:**
-  1. Tissue textiles.
-  2. A tissue of forgeries, or of lies.
+  1. He used a soft white **tissue** to wipe his runny nose.
+  2. The smart doctor carefully examined the damaged muscle **tissue** today.
 
 ## 62: Title
-- **Dissection:** [title]
-- **Meaning:** A heading that names a statute or legislative bill; may give a brief summary of the matters it deals with
-- **Hindi:** शीर्षक
+- **Dissection:** [टाइ-टल] (ti-tle)
+- **Meaning:** The name of a book, film, play, etc.
+- **Hindi:** शीर्षक / उपाधि
 - **Examples:**
-  1. Title 8 provided federal help for schools.
-  2. He looked for books with the word `jazz' in the title.
+  1. The main **title** of the new exciting book is written in red.
+  2. She finally won the world championship **title** after working very hard.
 
 ## 63: Toast
-- **Dissection:** [toast]
-- **Meaning:** Slices of bread that have been toasted
-- **Hindi:** सेंकना
+- **Dissection:** [टोस्ट] (toast - एक बार में बोलें)
+- **Meaning:** Sliced bread made warm and brown by heating.
+- **Hindi:** सेंका हुआ ब्रेड
 - **Examples:**
-  1. He was the toast of the town.
-  2. I'm a goner if this plan doesn't work.
+  1. I usually eat hot brown **toast** with sweet butter for breakfast.
+  2. She likes her warm morning **toast** to be very dark and crunchy.
 
 ## 64: Tobacco
-- **Dissection:** [to-bacco]
-- **Meaning:** Leaves of the tobacco plant dried and prepared for smoking or ingestion
+- **Dissection:** [ट-बक-ओ] (to-bac-co)
+- **Meaning:** A substance smoked in cigarettes, pipes, etc.
 - **Hindi:** तंबाकू
 - **Examples:**
-  1. Smokers reduced to `` the makings '', spoke of the sack tobacco as `` Hoover dust ''.
-  2. Early in 1822 he was at Fort Garry offering to bring in pork, flour, liquor and tobacco.
+  1. The old man enjoys smoking sweet **tobacco** in his wooden pipe.
+  2. Smoking strong **tobacco** is very bad for your general health.
 
 ## 65: Token
-- **Dissection:** [token]
-- **Meaning:** An individual instance of a type of symbol
-- **Hindi:** टोकन
+- **Dissection:** [टो-कन] (to-ken)
+- **Meaning:** A piece of paper or plastic given to someone, representing money or proving something.
+- **Hindi:** प्रतीक / टोकन
 - **Examples:**
-  1. The word`error' contains three tokens of `r'.
-  2. The fee was nominal.
+  1. He gave her a beautiful ring as a **token** of his true love.
+  2. You need a small plastic **token** to easily use the washing machine.
 
 ## 66: Tolerate
-- **Dissection:** [tol-er-ate]
-- **Meaning:** Put up with something or somebody unpleasant
+- **Dissection:** [टॉल-अर-एट] (tol-er-ate)
+- **Meaning:** To accept behavior and beliefs that are different from your own, although you might not agree with or approve of them.
 - **Hindi:** सहन करना
 - **Examples:**
-  1. I cannot bear his constant criticism.
-  2. The new secretary had to endure a lot of unprofessional remarks.
+  1. The strict teacher will not **tolerate** any bad behavior in her class.
+  2. We must try to **tolerate** each other's different opinions and beliefs.
 
 ## 67: Toll
-- **Dissection:** [toll]
-- **Meaning:** A fee levied for the use of roads or bridges (used for maintenance)
-- **Hindi:** टोल
+- **Dissection:** [टोल] (toll - एक बार में बोलें)
+- **Meaning:** A small amount of money that you have to pay to use a road or bridge.
+- **Hindi:** टोल / पथकर
 - **Examples:**
-  1. The cost in human life was enormous.
-  2. The price of success is hard work.
+  1. We had to pay a small cash **toll** to cross the long bridge.
+  2. The tragic accident took a heavy terrible **toll** on the sad family.
 
 ## 68: Tomb
-- **Dissection:** [tomb]
-- **Meaning:** A place for the burial of a corpse (especially beneath the ground and marked by a tombstone)
-- **Hindi:** मकबरा
+- **Dissection:** [टूम] (tomb - एक बार में बोलें)
+- **Meaning:** A large stone structure or underground room where someone is buried.
+- **Hindi:** मकबरा / कब्र
 - **Examples:**
-  1. Similarly in Illinois there is Lincoln country to be seen -- his tomb and other landmarks.
-  2. In this true lover's tomb interred A world of love lies sepulchred.
+  1. The famous dead king was buried in a beautiful old stone **tomb**.
+  2. We slowly walked around the dark quiet **tomb** of the rich man.
 
 ## 69: Ton
-- **Dissection:** [ton]
-- **Meaning:** A United States unit of weight equivalent to 2000 pounds
-- **Hindi:** टन
+- **Dissection:** [टन] (ton - एक बार में बोलें)
+- **Meaning:** A unit of weight equal to 1,000 kilograms (or 2,000 pounds/2,240 pounds depending on the system).
+- **Hindi:** टन (वजन)
 - **Examples:**
-  1. A ton of cooling compares to the cooling you get by melting a ton of ice.
-  2. -- To increase rate of gain and improve feed efficiency, feed 10 to 20 grams per ton.
+  1. The heavy grey elephant weighs more than a full **ton**.
+  2. She has a huge **ton** of hard homework to finish tonight.
 
 ## 70: Tone
-- **Dissection:** [tone]
-- **Meaning:** The quality of a person's voice
-- **Hindi:** सुर
+- **Dissection:** [टोन] (tone - एक बार में बोलें)
+- **Meaning:** The quality of a sound, especially of someone's voice.
+- **Hindi:** स्वर / लहजा
 - **Examples:**
-  1. He began in a conversational tone.
-  2. He spoke in a nervous tone of voice.
+  1. He spoke to the small child in a very soft, gentle **tone**.
+  2. The loud angry **tone** of her voice really frightened the little boy.
 
 ## 71: Topic
-- **Dissection:** [top-ic]
-- **Meaning:** The subject matter of a conversation or discussion
+- **Dissection:** [टॉप-इक] (top-ic)
+- **Meaning:** A subject that is discussed, written about, or studied.
 - **Hindi:** विषय
 - **Examples:**
-  1. He didn't want to discuss that subject.
-  2. It was a very sensitive topic.
+  1. The main **topic** of the long meeting was the new town project.
+  2. We talked about a very interesting science **topic** in school today.
 
 ## 72: Torch
-- **Dissection:** [torch]
-- **Meaning:** A light usually carried in the hand; consists of some flammable substance
-- **Hindi:** मशाल
+- **Dissection:** [टॉर्च] (torch - एक बार में बोलें)
+- **Meaning:** A small electric light you carry in your hand; or a burning stick used for light.
+- **Hindi:** टॉर्च / मशाल
 - **Examples:**
-  1. The madman torched the barns.
-  2. The mob of angry villagers carried torches and pitchforks to the vampire's castle.
+  1. He used his bright new electric **torch** to find the lost keys.
+  2. The brave runner carried the hot burning Olympic **torch** very proudly.
 
 ## 73: Torment
-- **Dissection:** [tor-ment]
-- **Meaning:** Unbearable physical pain
-- **Hindi:** यातना
+- **Dissection:** [टॉर-मेंट] (tor-ment)
+- **Meaning:** Great mental suffering and unhappiness, or great physical pain.
+- **Hindi:** यातना / तड़प
 - **Examples:**
-  1. An agony of doubt.
-  2. The torments of the damned.
+  1. The terrible toothache caused him a lot of deep physical **torment**.
+  2. It is cruel to constantly **torment** a small helpless animal.
 
 ## 74: Tortoise
-- **Dissection:** [tor-toise]
-- **Meaning:** Usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except Australia and Antarctica
-- **Hindi:** कछुआ
+- **Dissection:** [टॉर-टस] (tor-toise)
+- **Meaning:** An animal with a thick, hard shell that it can move its head and legs into for protection. It eats plants and moves very slowly.
+- **Hindi:** कछुआ (जमीन पर रहने वाला)
 - **Examples:**
-  1. I wore my sword because the Tortoise came wearing his coat of mail.".
-  2. So the Tortoise was sent for.
+  1. The slow old green **tortoise** slowly walked across the green grass.
+  2. In the famous story, the slow **tortoise** finally beats the fast hare.
 
 ## 75: Torture
-- **Dissection:** [tor-ture]
-- **Meaning:** Extreme mental distress
-- **Hindi:** यातना
+- **Dissection:** [टॉर-चर] (tor-ture)
+- **Meaning:** The act of causing great physical or mental pain in order to persuade someone to do something or to give information.
+- **Hindi:** यातना (देना) / प्रताड़ना
 - **Examples:**
-  1. An agony of doubt.
-  2. The torments of the damned.
+  1. The cruel bad king used painful **torture** to get the secret information.
+  2. Waiting so long for the important exam results is absolute mental **torture**.
 
 ## 76: Toss
-- **Dissection:** [toss]
-- **Meaning:** The act of flipping a coin
-- **Hindi:** टॉस
+- **Dissection:** [टॉस] (toss - एक बार में बोलें)
+- **Meaning:** To throw something carelessly.
+- **Hindi:** उछालना / फेंकना
 - **Examples:**
-  1. The pass was fumbled.
-  2. A toss of his head.
+  1. He angrily decided to **toss** the old letter into the fire.
+  2. Please softly **toss** the small red ball to me.
 
 ## 77: Tow
-- **Dissection:** [tow]
-- **Meaning:** The act of hauling something (as a vehicle) by means of a hitch or rope
-- **Hindi:** रस्सा
+- **Dissection:** [टो] (tow - एक बार में बोलें)
+- **Meaning:** To pull a car, boat, etc. along, fastened behind another vehicle or boat.
+- **Hindi:** खींचना (रस्सी या चेन से)
 - **Examples:**
-  1. The truck gave him a tow to the garage.
-  2. Horses used to tow barges along the canal.
+  1. We had to strongly **tow** the broken car to the local garage.
+  2. A large heavy truck will quickly **tow** your vehicle away.
 
 ## 78: Toxic
-- **Dissection:** [tox-ic]
-- **Meaning:** Of or relating to or caused by a toxin or poison
-- **Hindi:** विषाक्त
+- **Dissection:** [टॉक्स-इक] (tox-ic)
+- **Meaning:** Poisonous.
+- **Hindi:** जहरीला
 - **Examples:**
-  1. Suffering from exposure to toxic substances.
-  2. Tobacco smoke contains many toxic substances.
+  1. They found very dangerous **toxic** chemicals in the dirty river water.
+  2. You should never eat those small wild **toxic** mushrooms.
 
 ## 79: Trace
-- **Dissection:** [trace]
-- **Meaning:** A just detectable amount
-- **Hindi:** पता लगाना
+- **Dissection:** [ट्रेस] (trace - एक बार में बोलें)
+- **Meaning:** To find someone or something that was lost; or a very slight amount.
+- **Hindi:** पता लगाना / निशान
 - **Examples:**
-  1. He speaks French with a trace of an accent.
-  2. There wasn't a trace of evidence for the claim.
+  1. The clever police tried to **trace** the missing stolen money.
+  2. There was not a single clear **trace** of the lost dog.
 
 ## 80: Tractor
-- **Dissection:** [tract-or]
-- **Meaning:** A wheeled vehicle with large wheels; used in farming and other applications
+- **Dissection:** [ट्रैक्ट-अर] (trac-tor)
+- **Meaning:** A strong vehicle with large wheels, used for pulling farm machinery.
 - **Hindi:** ट्रैक्टर
 - **Examples:**
-  1. The Eleanor Roosevelt Tractor Committee acts on behalf of the Cuban freedom fighters.
-  2. I almost ran over the snake before I could stop the tractor in time.
+  1. The busy old farmer drives his green **tractor** every single morning.
+  2. They used a heavy strong **tractor** to pull the big broken tree.
 
 ## 81: Tragedy
-- **Dissection:** [tragedy]
-- **Meaning:** An event resulting in great loss and misfortune
-- **Hindi:** त्रासदी
+- **Dissection:** [ट्रैज-अ-डी] (trag-e-dy)
+- **Meaning:** A very sad event or situation, especially one involving death or suffering.
+- **Hindi:** त्रासदी / दुखद घटना
 - **Examples:**
-  1. The whole city was affected by the irremediable calamity.
-  2. The earthquake was a disaster.
+  1. The terrible plane crash was a great and sudden national **tragedy**.
+  2. It is a real sad **tragedy** that the smart young man died.
 
 ## 82: Trail
-- **Dissection:** [trail]
-- **Meaning:** A track or mark left by something that has passed
-- **Hindi:** पगडंडी
+- **Dissection:** [ट्रेल] (trail - एक बार में बोलें)
+- **Meaning:** A path through a countryside, mountain, or forest area.
+- **Hindi:** पगडंडी / रास्ता
 - **Examples:**
-  1. There as a trail of blood.
-  2. A tear left its trail on her cheek.
+  1. We enjoyed a long quiet walk on the beautiful mountain **trail**.
+  2. The lost hiker followed a small muddy **trail** through the dark woods.
 
 ## 83: Trait
-- **Dissection:** [trait]
-- **Meaning:** A distinguishing feature of your personal nature
-- **Hindi:** प्रवृत्ति
+- **Dissection:** [ट्रेट] (trait - एक बार में बोलें)
+- **Meaning:** A particular characteristic that can produce a particular type of behavior.
+- **Hindi:** गुण / विशेषता
 - **Examples:**
-  1. The number one personality trait I hate is hypocrisy. Why can't you be consistent!?
-  2. Traits are somewhat between an interface and a mixin.
+  1. Her best positive character **trait** is that she is always honest.
+  2. Being very patient is an important **trait** for a good teacher.
 
 ## 84: Traitor
-- **Dissection:** [trait-or]
-- **Meaning:** Someone who betrays his country by committing treason
-- **Hindi:** गद्दार
+- **Dissection:** [ट्रे-टर] (trai-tor)
+- **Meaning:** A person who is not loyal or stops being loyal to their own country, social class, beliefs, etc.
+- **Hindi:** गद्दार / देशद्रोही
 - **Examples:**
-  1. I mean the traitor, if he was a traitor.
-  2. There is a traitor at this table.
+  1. The angry king called him a terrible dangerous **traitor** to the country.
+  2. He felt like a bad secret **traitor** when he left his team.
 
 ## 85: Tram
-- **Dissection:** [tram]
-- **Meaning:** A conveyance that transports passengers or freight in carriers suspended from cables and supported by a series of towers
-- **Hindi:** ट्राम
+- **Dissection:** [ट्रैम] (tram - एक बार में बोलें)
+- **Meaning:** An electric vehicle that transports people, usually in cities, and goes along metal tracks in the road.
+- **Hindi:** ट्राम (बिजली से चलने वाली गाड़ी)
 - **Examples:**
-  1. A tramcar carries coal out of a coal mine.
-  2. Tourists enjoy riding the historic tram up the mountain to get a panoramic view of the city.
+  1. We took a slow comfortable yellow **tram** to the city center.
+  2. The busy electric street **tram** stopped right in front of us.
 
 ## 86: Transaction
-- **Dissection:** [trans-ac-tion]
-- **Meaning:** The act of transacting within or between groups (as carrying on commercial activities)
+- **Dissection:** [ट्रैन्ज़-ऐक-शन] (trans-ac-tion)
+- **Meaning:** An occasion when someone buys or sells something.
 - **Hindi:** लेन-देन
 - **Examples:**
-  1. No transactions are possible without him.
-  2. He has always been honest is his dealings with me.
+  1. The fast digital bank **transaction** was completed in just one minute.
+  2. You will safely receive a receipt after every complete business **transaction**.
 
 ## 87: Transcend
-- **Dissection:** [tran-scend]
-- **Meaning:** Be greater in scope or size than some standard
-- **Hindi:** ट्रांसेंड
+- **Dissection:** [ट्रैन-सेंड] (tran-scend)
+- **Meaning:** To go further, rise above, or be more important or better than something, especially a limit.
+- **Hindi:** पार करना / श्रेष्ठ होना
 - **Examples:**
-  1. Their loyalty exceeds their national bonds.
-  2. She exceeded our expectations.
+  1. Great beautiful art can easily **transcend** simple differences in human language.
+  2. She hopes her good strong message will **transcend** normal political boundaries.
 
 ## 88: Transfer
-- **Dissection:** [trans-fer]
-- **Meaning:** The act of moving something from one location to another
-- **Hindi:** स्थानांतरण
+- **Dissection:** [ट्रैन्स-फर] (trans-fer)
+- **Meaning:** To move someone or something from one place, vehicle, person, or group to another.
+- **Hindi:** स्थानांतरण (करना)
 - **Examples:**
-  1. The best student was a transfer from LSU.
-  2. The transfer of the music from record to tape suppressed much of the background noise.
+  1. The bank will quickly **transfer** the required money to your new account.
+  2. He asked to slowly **transfer** his old desk to the new sunny office.
 
 ## 89: Transform
-- **Dissection:** [trans-form]
-- **Meaning:** Subject to a mathematical transformation
-- **Hindi:** परिवर्तन
+- **Dissection:** [ट्रैन्स-फॉर्म] (trans-form)
+- **Meaning:** To change completely the appearance or character of something or someone.
+- **Hindi:** रूप बदलना / परिवर्तित करना
 - **Examples:**
-  1. This experience transformed her completely.
-  2. She transformed the clay into a beautiful sculpture.
+  1. The bright fresh paint will completely **transform** this old dark room.
+  2. A beautiful small caterpillar will slowly **transform** into a lovely butterfly.
 
 ## 90: Transit
-- **Dissection:** [trans-it]
-- **Meaning:** A surveying instrument for measuring horizontal and vertical angles, consisting of a small telescope mounted on a tripod
-- **Hindi:** पारगमन
+- **Dissection:** [ट्रैन-ज़िट] (tran-sit)
+- **Meaning:** The movement of goods or people from one place to another.
+- **Hindi:** पारगमन / यातायात
 - **Examples:**
-  1. The outward passage took 10 days.
-  2. The tourists moved through the town and bought up all the souvenirs;.
+  1. The expensive fresh goods were unfortunately damaged during slow sea **transit**.
+  2. The fast new public **transit** system is very cheap and clean.
 
 ## 91: Translate
-- **Dissection:** [trans-late]
-- **Meaning:** Restate (words) from one language into another language
-- **Hindi:** अनुवाद
+- **Dissection:** [ट्रैन्स-लेट] (trans-late)
+- **Meaning:** To change words into a different language.
+- **Hindi:** अनुवाद करना
 - **Examples:**
-  1. I have to translate when my in-laws from Austria visit the U.S.
-  2. Can you interpret the speech of the visiting dignitaries?
+  1. Can you please quickly **translate** this difficult Spanish letter into English?
+  2. He used an online app to easily **translate** the menu text.
 
 ## 92: Transmit
-- **Dissection:** [trans-mit]
-- **Meaning:** Transfer to another
-- **Hindi:** संचारित
+- **Dissection:** [ट्रैन्स-मिट] (trans-mit)
+- **Meaning:** To broadcast something, or to send out or carry signals using radio, television, etc.
+- **Hindi:** संचारित करना / भेजना
 - **Examples:**
-  1. Communicate a disease.
-  2. Sound carries well over water.
+  1. The tall radio tower will loudly **transmit** the important news signal.
+  2. Sick dirty mosquitoes can easily **transmit** very dangerous diseases to humans.
 
 ## 93: Transparent
-- **Dissection:** [trans-par-ent]
-- **Meaning:** Transmitting light; able to be seen through with clarity
+- **Dissection:** [ट्रैन्स-पैर-अंट] (trans-par-ent)
+- **Meaning:** Clear and easy to see through.
 - **Hindi:** पारदर्शी
 - **Examples:**
-  1. The cold crystalline water of melted snow.
-  2. Crystal clear skies.
+  1. The clean clear water in the pool was completely and perfectly **transparent**.
+  2. She stored the fresh food in a small **transparent** plastic box.
 
 ## 94: Transplant
-- **Dissection:** [trans-plant]
-- **Meaning:** (surgery) tissue or organ transplanted from a donor to a recipient; in some cases the patient can be both donor and recipient
-- **Hindi:** प्रत्यारोपण
+- **Dissection:** [ट्रैन्स-प्लांट] (trans-plant)
+- **Meaning:** To move a plant from one place and plant it in another; or a medical operation.
+- **Hindi:** प्रत्यारोपण (करना)
 - **Examples:**
-  1. He had a kidney transplant.
-  2. The long-term results of cardiac transplantation are now excellent.
+  1. The brave young man needs a healthy new heart **transplant** soon.
+  2. We should carefully **transplant** the small tree into the large garden.
 
 ## 95: Transport
-- **Dissection:** [trans-port]
-- **Meaning:** Something that serves as a means of transportation
-- **Hindi:** परिवहन
+- **Dissection:** [ट्रैन्स-पोर्ट] (trans-port)
+- **Meaning:** The movement of people or goods from one place to another.
+- **Hindi:** परिवहन / यातायात
 - **Examples:**
-  1. Listening to sweet music in a perfect rapture.
-  2. You must carry your camping gear.
+  1. Heavy strong trucks provide very fast land **transport** for farm goods.
+  2. She usually uses cheap public **transport** to travel to her work.
 
 ## 96: Trap
-- **Dissection:** [trap]
-- **Meaning:** A device in which something (usually an animal) can be caught and penned
-- **Hindi:** जाल
+- **Dissection:** [ट्रैप] (trap - एक बार में बोलें)
+- **Meaning:** A device or hole for catching animals or people and preventing their escape.
+- **Hindi:** जाल / फंदा
 - **Examples:**
-  1. The exam was full of trap questions.
-  2. It was all a snare and delusion.
+  1. He carefully set a small wooden **trap** to catch the annoying mouse.
+  2. The clever hidden **trap** closed quickly on the wild brown bear.
 
 ## 97: Trash
-- **Dissection:** [trash]
-- **Meaning:** Worthless material that is to be disposed of
-- **Hindi:** कचरा
+- **Dissection:** [ट्रैश] (trash - एक बार में बोलें)
+- **Meaning:** Waste material or things that are no longer wanted or needed.
+- **Hindi:** कचरा / रद्दी
 - **Examples:**
-  1. Trash these old chairs.
-  2. Junk an old car.
+  1. Please throw your empty plastic bottle into the tall blue **trash** can.
+  2. He quickly cleaned the messy room and removed all the dirty **trash**.
 
 ## 98: Tray
-- **Dissection:** [tray]
-- **Meaning:** An open receptacle for holding or displaying or serving articles or food
-- **Hindi:** ट्रे
+- **Dissection:** [ट्रे] (tray - एक बार में बोलें)
+- **Meaning:** A flat object, usually with raised edges, used for carrying food and drinks.
+- **Hindi:** ट्रे / थाल
 - **Examples:**
-  1. I carefully arranged the dishes on the tray and brought it upstairs.
-  2. Make sure that tray of eggs is properly loaded.
+  1. The busy tired waiter carefully carried a heavy **tray** of cold drinks.
+  2. Please put the hot empty teacups on this small silver **tray**.
 
 ## 99: Treason
-- **Dissection:** [treas-on]
-- **Meaning:** A crime that undermines the offender's government
-- **Hindi:** राज-द्रोह
+- **Dissection:** [ट्री-ज़न] (trea-son)
+- **Meaning:** The crime of showing no loyalty to your country, especially by helping its enemies.
+- **Hindi:** राजद्रोह / देशद्रोह
 - **Examples:**
-  1. Then Athaliah rent her clothes, and said, Treason, Treason.
-  2. Perjury or treason is the only crime I haven' t committed.
+  1. The bad spy was strongly punished for the terrible crime of **treason**.
+  2. He was found guilty of high **treason** against his own country.
 
 ## 100: Treasure
-- **Dissection:** [treas-ure]
-- **Meaning:** Accumulated wealth in the form of money or jewels etc.
+- **Dissection:** [ट्रेज़-अर] (treas-ure)
+- **Meaning:** Very valuable things, usually in the form of a store of precious metals, precious stones, or money.
 - **Hindi:** खज़ाना
 - **Examples:**
-  1. The pirates hid their treasure on a small island in the West Indies.
-  2. The children returned from the seashore with their shells and other treasures.
+  1. The old pirates hid their stolen gold **treasure** on a small island.
+  2. The brave children discovered a small hidden **treasure** in the garden.
 
 ## 101: Treaty
-- **Dissection:** [treaty]
-- **Meaning:** A written agreement between two states or sovereigns
-- **Hindi:** संधि
+- **Dissection:** [ट्री-टी] (trea-ty)
+- **Meaning:** A written agreement between two or more countries.
+- **Hindi:** संधि / समझौता
 - **Examples:**
-  1. Catherine's first war against the Grand Turk had ended in 1774 with a peace treaty quite favorable to her.
-  2. And Emergency War Surgery in support of the North Atlantic Treaty Organization ( NATO ) Handbook.
+  1. The two countries finally signed a peace **treaty** to stop the war.
+  2. A formal trade **treaty** was agreed between the great nations.
 
 ## 102: Tremble
-- **Dissection:** [tremble]
-- **Meaning:** A reflex motion caused by cold or fear or excitement
-- **Hindi:** कांपना
+- **Dissection:** [ट्रेम-बल] (trem-ble)
+- **Meaning:** To shake slightly, usually because you are cold, frightened, or very emotional.
+- **Hindi:** कांपना / सिहरना
 - **Examples:**
-  1. His hands were trembling when he signed the document.
-  2. Her lip started to tremble as she burst into tears.
+  1. His cold hands began to slowly **tremble** in the freezing winter air.
+  2. She started to **tremble** with real fear when she saw the big dog.
 
 ## 103: Tremendous
-- **Dissection:** [tre-mend-ous]
-- **Meaning:** Extraordinarily large in size or extent or amount or power or degree; ; ; ; - Walter Lippman
-- **Hindi:** अद्भुत
+- **Dissection:** [ट्रि-मेन-डस] (tre-men-dous)
+- **Meaning:** Very great in amount or level, or extremely good.
+- **Hindi:** बहुत बड़ा / ज़बरदस्त
 - **Examples:**
-  1. An enormous boulder.
-  2. Enormous expenses.
+  1. The new large factory will make a **tremendous** difference to the town.
+  2. They had a **tremendous** time at the fun party last night.
 
 ## 104: Trend
-- **Dissection:** [trend]
-- **Meaning:** A general direction in which something tends to move
-- **Hindi:** रुझान
+- **Dissection:** [ट्रेंड] (trend - एक बार में बोलें)
+- **Meaning:** A general development or change in a situation or in the way that people are behaving.
+- **Hindi:** रुझान / प्रवृत्ति
 - **Examples:**
-  1. The shoreward tendency of the current.
-  2. The trend of the stock market.
+  1. There is a strong growing **trend** for people to eat healthy natural food.
+  2. Wearing bright colors is the latest fashion **trend** this summer.
 
 ## 105: Tribe
-- **Dissection:** [tribe]
-- **Meaning:** A social division of (usually preliterate) people
-- **Hindi:** जनजाति
+- **Dissection:** [ट्राइब] (tribe - एक बार में बोलें)
+- **Meaning:** A group of people, often of related families, who live together, sharing the same language, culture, and history.
+- **Hindi:** जनजाति / कबीला
 - **Examples:**
-  1. 1: 47 But the Levites after the tribe of their fathers were not numbered among them.
-  2. 13: 5 Of the tribe of Simeon, Shaphat the son of Hori.
+  1. The proud old chief leads a large native Indian **tribe** in the deep forest.
+  2. They visited a remote traditional African **tribe** during their holiday.
 
 ## 106: Tribute
-- **Dissection:** [trib-ute]
-- **Meaning:** Something given or done as an expression of esteem
-- **Hindi:** श्रद्धांजलि
+- **Dissection:** [ट्रिब-यूट] (trib-ute)
+- **Meaning:** Something that you say, write, or give that shows your respect and admiration for someone.
+- **Hindi:** श्रद्धांजलि / सम्मान
 - **Examples:**
-  1. Every store in the neighborhood had to pay him protection.
-  2. Please accept this as a tribute of our thanks.
+  1. Many people brought beautiful flowers as a **tribute** to the great leader.
+  2. He paid a glowing **tribute** to his helpful old teacher.
 
 ## 107: Trick
-- **Dissection:** [trick]
-- **Meaning:** A cunning or deceitful action or device
-- **Hindi:** चाल
+- **Dissection:** [ट्रिक] (trick - एक बार में बोलें)
+- **Meaning:** An action that is intended to deceive, either as a way of cheating someone, or as a joke or form of entertainment.
+- **Hindi:** चाल / तरकीब
 - **Examples:**
-  1. He played a trick on me.
-  2. He pulled a fast one and got away with it.
+  1. He used a clever card **trick** to surprise and entertain his young friends.
+  2. Do not let her dirty lies and **trick** completely fool you.
 
 ## 108: Trifle
-- **Dissection:** [trifle]
-- **Meaning:** A cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate
-- **Hindi:** छोटी सी
+- **Dissection:** [ट्राइ-फल] (tri-fle)
+- **Meaning:** A matter or object of little value or importance.
+- **Hindi:** तुच्छ बात / मामूली चीज़
 - **Examples:**
-  1. He is trifling with her.
-  2. She plays with the thought of moving to Tasmania.
+  1. We should not argue over such a small silly **trifle**.
+  2. She spent a lot of money on a useless little **trifle**.
 
 ## 109: Trigger
-- **Dissection:** [trig-ger]
-- **Meaning:** Lever that activates the firing mechanism of a gun
-- **Hindi:** चालू कर देना
+- **Dissection:** [ट्रिग-अर] (trig-ger)
+- **Meaning:** A part of a gun that causes the gun to fire when pressed; or an event or situation, etc. that causes something to start.
+- **Hindi:** ट्रिगर (बंदूक का) / शुरू करना
 - **Examples:**
-  1. Trigger a reaction.
-  2. Actuate the circuits.
+  1. He slowly pulled the metal **trigger** of the heavy gun.
+  2. The loud sudden noise could easily **trigger** a dangerous rock fall.
 
 ## 110: Trim
-- **Dissection:** [trim]
-- **Meaning:** A state of arrangement or appearance
-- **Hindi:** काट-छांट करना
+- **Dissection:** [ट्रिम] (trim - एक बार में बोलें)
+- **Meaning:** To make something tidier or more level by cutting a small amount off it.
+- **Hindi:** छांटना (बाल या पौधे) / काटना
 - **Examples:**
-  1. In good trim.
-  2. The trimming on a hat.
+  1. The careful barber will neatly **trim** your long messy hair.
+  2. She used sharp scissors to slowly **trim** the green garden bushes.
 
 ## 111: Triumph
-- **Dissection:** [tri-umph]
-- **Meaning:** A successful ending of a struggle or contest
-- **Hindi:** विजयोल्लास
+- **Dissection:** [ट्राइ-अम्फ] (tri-umph)
+- **Meaning:** A very great success, achievement, or victory.
+- **Hindi:** विजय / जीत
 - **Examples:**
-  1. A narrow victory.
-  2. The general always gets credit for his army's victory.
+  1. The difficult hard work resulted in a great and sweet **triumph**.
+  2. She felt a strong sense of proud **triumph** when she finished the long race.
 
 ## 112: Troop
-- **Dissection:** [troop]
-- **Meaning:** A group of soldiers
-- **Hindi:** सेना
+- **Dissection:** [ट्रूप] (troop - एक बार में बोलें)
+- **Meaning:** Soldiers on duty in a large group.
+- **Hindi:** सैन्य दल / सेना
 - **Examples:**
-  1. A troop of children.
-  2. The veterans paraded down the street.
+  1. A brave new **troop** of strong soldiers arrived at the empty camp.
+  2. The loyal army **troop** marched together for many long hours.
 
 ## 113: Tropical
-- **Dissection:** [trop-ic-al]
-- **Meaning:** Relating to or situated in or characteristic of the tropics (the region on either side of the equator)
+- **Dissection:** [ट्रॉप-इ-कल] (trop-i-cal)
+- **Meaning:** From or relating to the area between the two tropics.
 - **Hindi:** उष्णकटिबंधीय
 - **Examples:**
-  1. Tropical islands.
-  2. Tropical fruit.
+  1. The hot humid air is perfect for growing large **tropical** fruits.
+  2. We enjoyed a relaxing holiday on a beautiful warm **tropical** island.
 
 ## 114: Trunk
-- **Dissection:** [trunk]
-- **Meaning:** The main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber
-- **Hindi:** तना
+- **Dissection:** [ट्रंक] (trunk - एक बार में बोलें)
+- **Meaning:** The thick main stem of a tree; or a large strong box used for storing things.
+- **Hindi:** तना (पेड़ का) / बड़ा बक्सा
 - **Examples:**
-  1. They moved their arms and legs and bodies.
-  2. He put his golf bag in the trunk.
+  1. The old tree has a very thick, rough brown **trunk**.
+  2. She carefully packed her winter clothes in a large wooden **trunk**.
 
 ## 115: Trust
-- **Dissection:** [trust]
-- **Meaning:** Something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)
-- **Hindi:** विश्वास
+- **Dissection:** [ट्रस्ट] (trust - एक बार में बोलें)
+- **Meaning:** To believe that someone is good and honest and will not harm you, or that something is safe and reliable.
+- **Hindi:** विश्वास / भरोसा
 - **Examples:**
-  1. He is the beneficiary of a generous trust set up by his father.
-  2. He wrote the paper with considerable reliance on the work of other scientists.
+  1. You must slowly build strong **trust** in your good new friend.
+  2. I completely **trust** my doctor to give me the right medicine.
 
 ## 116: Tub
-- **Dissection:** [tub]
-- **Meaning:** A relatively large open container that you fill with water and use to wash the body
+- **Dissection:** [टब] (tub - एक बार में बोलें)
+- **Meaning:** A large, round container with a flat base and an open top.
 - **Hindi:** टब
 - **Examples:**
-  1. A tub of water.
-  2. He bought a tub of lard to roast the potatoes in.
+  1. She washed her dirty clothes in a large plastic **tub**.
+  2. He filled the white bath **tub** with warm clean water.
 
 ## 117: Tumble
-- **Dissection:** [tumble]
-- **Meaning:** An acrobatic feat of rolling or turning end over end
-- **Hindi:** टंबल
+- **Dissection:** [टम-बल] (tum-ble)
+- **Meaning:** To fall quickly and without control.
+- **Hindi:** लुढ़कना / गिरना
 - **Examples:**
-  1. He had a nasty spill on the ice.
-  2. The tower of the World Trade Center tumbled after the plane hit it.
+  1. The small child took a nasty fast **tumble** down the steep stairs.
+  2. The heavy rocks began to loudly **tumble** down the high mountain.
 
 ## 118: Tune
-- **Dissection:** [tune]
-- **Meaning:** A succession of notes forming a distinctive sequence
-- **Hindi:** सुर
+- **Dissection:** [ट्यून] (tune - एक बार में बोलें)
+- **Meaning:** A series of musical notes, especially one that is pleasant and easy to remember.
+- **Hindi:** धुन
 - **Examples:**
-  1. She was humming an air from Beethoven.
-  2. He cannot sing in tune.
+  1. He happily whistled a simple cheerful **tune** while walking home.
+  2. I heard a beautiful old song with a lovely familiar **tune**.
 
 ## 119: Tunnel
-- **Dissection:** [tun-nel]
-- **Meaning:** A passageway through or under something, usually underground (especially one for trains or cars)
+- **Dissection:** [टन-अल] (tun-nel)
+- **Meaning:** A long passage under or through the ground, especially one made by people.
 - **Hindi:** सुरंग
 - **Examples:**
-  1. The tunnel reduced congestion at that intersection.
-  2. Burrow through the forest.
+  1. The fast train went through a very long dark stone **tunnel**.
+  2. The busy cars drive fast under the deep river **tunnel**.
 
 ## 120: Turkey
-- **Dissection:** [tur-key]
-- **Meaning:** Large gallinaceous bird with fan-shaped tail; widely domesticated for food
-- **Hindi:** टर्की
+- **Dissection:** [टर-की] (tur-key)
+- **Meaning:** A large bird grown for its meat on farms.
+- **Hindi:** टर्की (एक प्रकार का पक्षी)
 - **Examples:**
-  1. Some joker is blocking the driveway.
-  2. The first experiment was a real turkey.
+  1. We ate a delicious roast **turkey** for our big holiday dinner.
+  2. The large wild **turkey** ran quickly into the deep forest.
 
 ## 121: Tutor
-- **Dissection:** [tu-tor]
-- **Meaning:** A person who gives private instruction (as in singing, acting, etc.)
-- **Hindi:** कोई विषय पढ़ाना
+- **Dissection:** [ट्यू-टर] (tu-tor)
+- **Meaning:** A teacher who teaches a child outside of school, especially in order to give the child extra help with a subject.
+- **Hindi:** निजी शिक्षक
 - **Examples:**
-  1. She tutored me in Spanish.
-  2. He passed the difficult class with help from his tutor.
+  1. His parents hired a smart math **tutor** to help him study.
+  2. The kind private **tutor** explained the difficult English lesson very clearly.
 
 ## 122: Twilight
-- **Dissection:** [twi-light]
-- **Meaning:** The time of day immediately following sunset
-- **Hindi:** सांझ
+- **Dissection:** [ट्वाइ-लाइट] (twi-light)
+- **Meaning:** The period just before it becomes completely dark in the evening.
+- **Hindi:** गोधूलि / सांझ
 - **Examples:**
-  1. He loved the twilight.
-  2. They finished before the fall of night.
+  1. We enjoyed a quiet walk along the beach in the soft evening **twilight**.
+  2. The pretty sky turns orange and purple during the short **twilight**.
 
 ## 123: Twin
-- **Dissection:** [twin]
-- **Meaning:** Either of two offspring born at the same time from the same pregnancy
+- **Dissection:** [ट्विन] (twin - एक बार में बोलें)
+- **Meaning:** Either of two children born to the same mother on the same occasion.
 - **Hindi:** जुड़वां
 - **Examples:**
-  1. The polished surface twinned his face and chest in reverse.
-  2. This fact is coupled to the other one.
+  1. The proud mother dressed her identical **twin** baby girls in matching pink dresses.
+  2. It is often hard to tell one identical **twin** brother from the other.
 
 ## 124: Twist
-- **Dissection:** [twist]
-- **Meaning:** An unforeseen development
-- **Hindi:** मोड़
+- **Dissection:** [ट्विस्ट] (twist - एक बार में बोलें)
+- **Meaning:** To turn something, especially repeatedly, or to turn or wrap one thing around another.
+- **Hindi:** मरोड़ना / मोड़ना
 - **Examples:**
-  1. Events suddenly took an awkward turn.
-  2. They put an unsympathetic construction on his conduct.
+  1. You have to carefully **twist** the jar lid hard to open it.
+  2. Do not **twist** the wet cloth too tightly or it will tear.
 
 ## 125: Tycoon
-- **Dissection:** [ty-coon]
-- **Meaning:** A very wealthy or powerful businessman
-- **Hindi:** टाइकून
+- **Dissection:** [टाइ-कून] (ty-coon)
+- **Meaning:** A person who has succeeded in business or industry and has become very rich and powerful.
+- **Hindi:** उद्योगपति / बड़ा व्यापारी
 - **Examples:**
-  1. An oil baron.
-  2. Chairman Yu is a tycoon who owns multiple hotel chains.
+  1. The rich oil **tycoon** owns several large expensive homes around the world.
+  2. A powerful media **tycoon** bought the popular national newspaper yesterday.
 
 ## 126: Tyrant
-- **Dissection:** [tyr-ant]
-- **Meaning:** A cruel and oppressive dictator
-- **Hindi:** तानाशाह
+- **Dissection:** [टाइ-रंट] (ty-rant)
+- **Meaning:** A ruler who has unlimited power over other people, and uses it unfairly and cruelly.
+- **Hindi:** तानाशाह / अत्याचारी
 - **Examples:**
-  1. Assassination, even of a tyrant, is repulsive to men of good conscience.
-  2. He has been a tyrant to me as to everybody else.
+  1. The cruel evil **tyrant** treated his poor people very badly for years.
+  2. People finally rebelled against the harsh rules of the terrible **tyrant**.
 

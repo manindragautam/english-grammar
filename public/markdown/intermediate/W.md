@@ -1,392 +1,392 @@
 ## 1: Wage
-- **Dissection:** [wage]
-- **Meaning:** Something that remunerates
-- **Hindi:** वेतन
+- **Dissection:** [वेज] (wage - एक बार में बोलें)
+- **Meaning:** A fixed amount of money that is paid, usually every week, to an employee.
+- **Hindi:** वेतन / मज़दूरी
 - **Examples:**
-  1. Wages were paid by check.
-  2. He wasted his pay on drink.
+  1. They are completely fighting for a higher minimum **wage**.
+  2. He earns a good steady **wage** at the local factory.
 
 ## 2: Wagon
-- **Dissection:** [wag-on]
-- **Meaning:** Any of various kinds of wheeled vehicles drawn by an animal or a tractor
-- **Hindi:** गाड़ी
+- **Dissection:** [वैग-अन] (wag-on)
+- **Meaning:** A vehicle with four wheels, usually pulled by horses or oxen, used for transporting heavy goods.
+- **Hindi:** मालगाड़ी / छकड़ा
 - **Examples:**
-  1. `` Wagon Train '' is reported the No. 1 TV show.
-  2. After all, where else can the public see a wagon these days??
+  1. The old tired horse slowly pulled the heavy wooden **wagon**.
+  2. We loaded the large farm **wagon** with sweet fresh hay.
 
 ## 3: Waist
-- **Dissection:** [waist]
-- **Meaning:** The narrowing of the body between the ribs and hips
+- **Dissection:** [वेस्ट] (waist - एक बार में बोलें)
+- **Meaning:** The part around the middle of your body where you wear a belt.
 - **Hindi:** कमर
 - **Examples:**
-  1. Broader leather belt round the waist, holding cartridges and light sabre.
-  2. Each wore the monkish scourge at his waist but this, it seems, was not employed for self-flagellation.
+  1. He tied a thick brown belt tightly around his **waist**.
+  2. She carefully measured her **waist** to buy a new dress.
 
 ## 4: Wander
-- **Dissection:** [wander]
-- **Meaning:** Move about aimlessly or without any destination, often in search of food or employment
-- **Hindi:** घूमना
+- **Dissection:** [वॉन्-डर] (wan-der)
+- **Meaning:** To walk around slowly in a relaxed way or without any clear purpose or direction.
+- **Hindi:** भटकना / घूमना
 - **Examples:**
-  1. The gypsies roamed the woods.
-  2. Roving vagabonds.
+  1. We decided to slowly **wander** through the old quiet town.
+  2. Do not **wander** too far into the dark scary forest.
 
 ## 5: Ward
-- **Dissection:** [ward]
-- **Meaning:** A person who is under the protection or in the custody of another
-- **Hindi:** वार्ड
+- **Dissection:** [वॉर्ड] (ward - एक बार में बोलें)
+- **Meaning:** One of the parts or large rooms into which a hospital is divided, usually with beds for patients.
+- **Hindi:** वार्ड (अस्पताल का)
 - **Examples:**
-  1. They put her in a 4-bed ward.
-  2. Guard my possessions while I'm away.
+  1. The sick little boy is resting in the children's **ward**.
+  2. She works as a very busy nurse in the maternity **ward**.
 
 ## 6: Wardrobe
-- **Dissection:** [ward-robe]
-- **Meaning:** A tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes
+- **Dissection:** [वॉर्ड-रोब] (ward-robe)
+- **Meaning:** A tall cupboard in which you hang your clothes; or all of the clothes that a person owns.
 - **Hindi:** कपड़े की अलमारी
 - **Examples:**
-  1. The wardrobe for a foreign bomb is a little expensive.
-  2. You must have opened my wardrobe.".
+  1. She hung her beautiful new dress in the large wooden **wardrobe**.
+  2. He completely bought a whole new summer **wardrobe** for his long holiday.
 
 ## 7: Warehouse
-- **Dissection:** [ware-house]
-- **Meaning:** A storehouse for goods and merchandise
+- **Dissection:** [वेअर-हाउस] (ware-house)
+- **Meaning:** A large building for storing things before they are sold, used, or sent out to shops.
 - **Hindi:** गोदाम
 - **Examples:**
-  1. The warehousing of syndicated TV shows.
-  2. I wish mistress would buy her lace at the warehouse, as I told her, and not of these folks.
+  1. The empty empty boxes are safely stored in the large back **warehouse**.
+  2. He drives a fast forklift in the busy shipping **warehouse**.
 
 ## 8: Warfare
-- **Dissection:** [war-fare]
-- **Meaning:** The waging of armed conflict against an enemy
-- **Hindi:** युद्ध
+- **Dissection:** [वॉर-फेअर] (war-fare)
+- **Meaning:** The activity of fighting a war, often including the weapons and methods that are used.
+- **Hindi:** युद्ध / लड़ाई
 - **Examples:**
-  1. Thousands of people were killed in the war.
-  2. A price war.
+  1. The two angry countries have been engaged in terrible **warfare** for many long years.
+  2. Modern powerful **warfare** uses very highly advanced smart technology.
 
 ## 9: Warrant
-- **Dissection:** [war-rant]
-- **Meaning:** A writ from a court commanding police to perform specified acts
-- **Hindi:** वारंट
+- **Dissection:** [वॉर-अंट] (war-rant)
+- **Meaning:** An official document, signed by a judge or other person in authority, that gives the police permission to search someone's home, arrest a person, or take some other action.
+- **Hindi:** वारंट / अधिकार पत्र
 - **Examples:**
-  1. As a sweetener they offered warrants along with the fixed-income securities.
-  2. A Democrat usually gets the union's endorsement.
+  1. The brave police easily arrested him with a valid search **warrant**.
+  2. They carefully showed the legal arrest **warrant** to the very angry suspect.
 
 ## 10: Warrior
-- **Dissection:** [war-ri-or]
-- **Meaning:** Someone engaged in or experienced in warfare
+- **Dissection:** [वॉर-ई-अर] (war-ri-or)
+- **Meaning:** A soldier, usually one who has both experience and skill in fighting, especially in the past.
 - **Hindi:** योद्धा
 - **Examples:**
-  1. In More's Utopia communism is not a means of separating out a warrior elite from the lumpish mass.
-  2. As he started to slump over, another warrior swung him onto his horse.
+  1. The brave strong **warrior** loudly fought the dangerous wild beast.
+  2. He is a truly great and highly respected old **warrior**.
 
 ## 11: Waterproof
-- **Dissection:** [wa-ter-proof]
-- **Meaning:** Any fabric impervious to water
-- **Hindi:** जलरोधक
+- **Dissection:** [वॉ-टर-प्रूफ] (wa-ter-proof)
+- **Meaning:** Not allowing water to go through.
+- **Hindi:** जलरोधक (वाटरप्रूफ)
 - **Examples:**
-  1. Ground together they made a strong adhesive, which became waterproof in drying.
-  2. Waterproof the coat.
+  1. She quickly wore a bright yellow **waterproof** coat in the heavy rain.
+  2. My new expensive watch is completely **waterproof** up to fifty deep meters.
 
 ## 12: Wax
-- **Dissection:** [wax]
-- **Meaning:** Any of various substances of either mineral origin or plant or animal origin; they are solid at normal temperatures and insoluble in water
+- **Dissection:** [वैक्स] (wax - एक बार में बोलें)
+- **Meaning:** A solid substance containing a lot of fat that becomes soft and melts when warm.
 - **Hindi:** मोम
 - **Examples:**
-  1. Wax the car.
-  2. Sales were climbing after prices were lowered.
+  1. The hot burning candle slowly dripped soft liquid **wax**.
+  2. He used special white **wax** to carefully polish the old wooden table.
 
 ## 13: Weaken
-- **Dissection:** [weak-en]
-- **Meaning:** Lessen the strength of
-- **Hindi:** कमजोर
+- **Dissection:** [वीक-अन] (weak-en)
+- **Meaning:** To make someone or something less strong or less powerful, or to become less strong or less powerful.
+- **Hindi:** कमज़ोर करना
 - **Examples:**
-  1. The fever weakened his body.
-  2. The prisoner's resistance weakened after seven days.
+  1. The long difficult illness completely began to slowly **weaken** his strong body.
+  2. The heavy strong rain will completely **weaken** the old bridge.
 
 ## 14: Wealthy
-- **Dissection:** [wealthy]
-- **Meaning:** Having an abundant supply of money or possessions of value
-- **Hindi:** धनवान
+- **Dissection:** [वेल-थी] (wealth-y)
+- **Meaning:** Rich.
+- **Hindi:** धनवान / अमीर
 - **Examples:**
-  1. An affluent banker.
-  2. A speculator flush with cash.
+  1. The very **wealthy** businessman easily bought another large new company.
+  2. She happily grew up in a very rich and highly **wealthy** family.
 
 ## 15: Weave
-- **Dissection:** [weave]
-- **Meaning:** Pattern of weaving or structure of a fabric
+- **Dissection:** [वीव] (weave - एक बार में बोलें)
+- **Meaning:** To make cloth by repeatedly crossing a single thread through two sets of long threads on a loom.
 - **Hindi:** बुनना
 - **Examples:**
-  1. Tissue textiles.
-  2. The river winds through the hills.
+  1. She used soft bright yarn to slowly **weave** a beautiful warm blanket.
+  2. They still traditionally **weave** fine silk by hand in the small old village.
 
 ## 16: Web
-- **Dissection:** [web]
-- **Meaning:** An intricate network suggesting something that was formed by weaving or interweaving
-- **Hindi:** वेब
+- **Dissection:** [वेब] (web - एक बार में बोलें)
+- **Meaning:** A net used to catch insects, made by a spider from the sticky thread that its body produces.
+- **Hindi:** जाला
 - **Examples:**
-  1. The trees cast a delicate web of shadows over the lawn.
-  2. He owned a network of shops.
+  1. The small busy spider quickly built a sticky silver **web** in the dark corner.
+  2. He carefully brushed away the old dirty spider **web** from the dirty ceiling.
 
 ## 17: Weed
-- **Dissection:** [weed]
-- **Meaning:** Any plant that crowds out cultivated plants
-- **Hindi:** खर-पतवार
+- **Dissection:** [वीड] (weed - एक बार में बोलें)
+- **Meaning:** Any wild plant that grows in an unwanted place, especially in a garden or field where it prevents the cultivated plants from growing freely.
+- **Hindi:** खरपतवार (जंगली घास)
 - **Examples:**
-  1. Weed the garden.
-  2. If it isn't in a straight line or marked with a label, it's a weed.
+  1. He must carefully pull every unwanted green **weed** out of the small garden.
+  2. A tall fast-growing **weed** quickly covered the beautiful delicate flower.
 
 ## 18: Weep
-- **Dissection:** [weep]
-- **Meaning:** Shed tears because of sadness, rage, or pain
+- **Dissection:** [वीप] (weep - एक बार में बोलें)
+- **Meaning:** To cry tears.
 - **Hindi:** रोना
 - **Examples:**
-  1. She cried bitterly when she heard the news of his death.
-  2. The girl in the wheelchair wept with frustration when she could not get up the stairs.
+  1. The sad young girl began to quietly **weep** when she lost her little dog.
+  2. It is completely okay to loudly **weep** when you feel very sad.
 
 ## 19: Weld
-- **Dissection:** [weld]
-- **Meaning:** European mignonette cultivated as a source of yellow dye; naturalized in North America
-- **Hindi:** वेल्ड
+- **Dissection:** [वेल्ड] (weld - एक बार में बोलें)
+- **Meaning:** To join two pieces of metal together permanently by melting the parts that touch.
+- **Hindi:** वेल्डिंग करना / जोड़ना
 - **Examples:**
-  1. Weld metal.
-  2. Her gratitude welded her to him.
+  1. The skilled busy worker must carefully **weld** the heavy steel pipes together.
+  2. The strong hot fire helps to permanently **weld** the broken pieces perfectly.
 
 ## 20: Welfare
-- **Dissection:** [wel-fare]
-- **Meaning:** Governmental provision of economic assistance to persons in need
-- **Hindi:** कल्याण
+- **Dissection:** [वेल-फेअर] (wel-fare)
+- **Meaning:** Help given, especially by the state or an organization, to people who need it, especially because they do not have enough money.
+- **Hindi:** कल्याण / भलाई
 - **Examples:**
-  1. She lives on welfare.
-  2. For the benefit of all.
+  1. The good caring government has a very helpful social **welfare** program.
+  2. She completely works very hard to quickly improve animal **welfare**.
 
 ## 21: Wheat
-- **Dissection:** [wheat]
-- **Meaning:** Annual or biennial grass having erect flower spikes and light brown grains
+- **Dissection:** [वीट] (wheat - एक बार में बोलें)
+- **Meaning:** A plant whose yellowish-brown grain is used for making flour, or the grain itself.
 - **Hindi:** गेहूँ
 - **Examples:**
-  1. Miss Colman pours measures of whole wheat, oats, and soy beans and turns on the motor.
-  2. They serve cracked wheat, oats or cornmeal.
+  1. The busy farmer carefully planted a large wide field of golden **wheat**.
+  2. We use healthy whole **wheat** flour to properly bake the fresh soft bread.
 
 ## 22: Whip
-- **Dissection:** [whip]
-- **Meaning:** An instrument with a handle and a flexible lash that is used for whipping
-- **Hindi:** चाबुक
+- **Dissection:** [विप] (whip - एक बार में बोलें)
+- **Meaning:** A piece of leather or rope that is fastened to a stick, used for hitting animals or people.
+- **Hindi:** चाबुक / कोड़ा
 - **Examples:**
-  1. The whip raised a red welt.
-  2. The teacher often flogged the students.
+  1. The cruel angry man loudly used a long leather **whip** on the poor horse.
+  2. The loud sharp crack of the strong **whip** scared the quiet animals.
 
 ## 23: Whisper
-- **Dissection:** [whis-per]
-- **Meaning:** Speaking softly without vibration of the vocal cords
+- **Dissection:** [विस्-पर] (whis-per)
+- **Meaning:** To speak very quietly, using the breath but not the voice, so that only the person close to you can hear you.
 - **Hindi:** फुसफुसाना
 - **Examples:**
-  1. There are whispers of rebellion all around.
-  2. The soup had just a whisper of basil.
+  1. Please speak in a very quiet **whisper** so you do not completely wake the sleeping baby.
+  2. She leaned close to loudly **whisper** a funny secret in my ear.
 
 ## 24: Whistle
-- **Dissection:** [whistle]
-- **Meaning:** The sound made by something moving rapidly or by steam coming out of a small aperture
-- **Hindi:** सीटी
+- **Dissection:** [विस-अल] (whis-tle)
+- **Meaning:** To make a high sound by forcing air through a small hole or passage, especially through the lips, or through a special device held to the lips.
+- **Hindi:** सीटी बजाना
 - **Examples:**
-  1. The whistle signalled the end of the game.
-  2. He lay there, snoring and whistling.
+  1. The loud sports referee blew his completely sharp **whistle** to properly stop the game.
+  2. He likes to happily **whistle** a familiar happy tune while he successfully works.
 
 ## 25: Wicked
-- **Dissection:** [wicked]
-- **Meaning:** Morally bad in principle or practice
-- **Hindi:** दुष्ट
+- **Dissection:** [विक-इड] (wick-ed)
+- **Meaning:** Morally very bad.
+- **Hindi:** दुष्ट / शैतान
 - **Examples:**
-  1. A sinful person.
-  2. Severe pain.
+  1. The cruel **wicked** witch clearly cast a very bad dark spell on the young beautiful princess.
+  2. It was a very **wicked** and completely bad thing to successfully do.
 
 ## 26: Widow
-- **Dissection:** [wid-ow]
-- **Meaning:** A woman whose husband is dead especially one who has not remarried
+- **Dissection:** [विड-ओ] (wid-ow)
+- **Meaning:** A woman whose husband or wife has died and who has not married again.
 - **Hindi:** विधवा
 - **Examples:**
-  1. His widow started the circulation of petitions after Barnard was reprimanded for violating the probation.
-  2. Survivors are his widow, Alice;;.
+  1. The sad lonely **widow** completely misses her dear dead husband very much.
+  2. The kind old **widow** lives quietly alone in the large empty house.
 
 ## 27: Width
-- **Dissection:** [width]
-- **Meaning:** The extent of something from side to side
+- **Dissection:** [विड्थ] (width - एक बार में बोलें)
+- **Meaning:** The distance across something from one side to the other.
 - **Hindi:** चौड़ाई
 - **Examples:**
-  1. You need the barbell variation to build width and mass in the pecs.
-  2. Spread article on flat surface to required width before measuring length at center.
+  1. Please correctly measure the exact **width** of the large open window.
+  2. The wide **width** of the deep dark river makes it very difficult to easily cross.
 
 ## 28: Wilderness
-- **Dissection:** [wil-der-ness]
-- **Meaning:** (politics) a state of disfavor
-- **Hindi:** जंगल
+- **Dissection:** [विल-डर-नस] (wil-der-ness)
+- **Meaning:** An area of land that has not been used to grow crops or had towns and roads built on it, especially because it is difficult to live in as a result of its extremely cold or hot weather or bad earth.
+- **Hindi:** बीहड़ / जंगल
 - **Examples:**
-  1. He led the Democratic party back from the wilderness.
-  2. It was a wilderness preserved for the hawks and mountaineers.
+  1. They bravely camped deep in the large empty forest **wilderness**.
+  2. The brave wild animals completely live safely in the quiet natural **wilderness**.
 
 ## 29: Willow
-- **Dissection:** [wil-low]
-- **Meaning:** Any of numerous deciduous trees and shrubs of the genus Salix
-- **Hindi:** विलो
+- **Dissection:** [विल-ओ] (wil-low)
+- **Meaning:** A tree that grows near water and has long, thin branches that hang down.
+- **Hindi:** विलो (एक प्रकार का पेड़)
 - **Examples:**
-  1. Each male willow catkin is composed of a large number of small flowers.
-  2. The staminate willow catkins, then, provide their visitors with both nectar and pollen;;.
+  1. The beautiful weeping **willow** softly touched the quiet cool water.
+  2. They quietly sat in the cool dark shade of the very large old **willow** tree.
 
 ## 30: Wipe
-- **Dissection:** [wipe]
-- **Meaning:** The act of rubbing or wiping
+- **Dissection:** [वाइप] (wipe - एक बार में बोलें)
+- **Meaning:** To slide something, especially a piece of cloth, over the surface of something else, in order to remove dirt, food, or liquid.
 - **Hindi:** पोंछना
 - **Examples:**
-  1. He gave the hood a quick rub.
-  2. Wipe the blackboard.
+  1. Please carefully **wipe** the dirty wet table with a clean dry cloth.
+  2. She used a completely soft tissue to gently **wipe** her sad crying eyes.
 
 ## 31: Wisdom
-- **Dissection:** [wis-dom]
-- **Meaning:** An element of personal character that enables one to distinguish the wise from the unwise.
-- **Hindi:** बुद्धि
+- **Dissection:** [विज़-डम] (wis-dom)
+- **Meaning:** The ability to use your knowledge and experience to make good decisions and judgments.
+- **Hindi:** बुद्धिमानी / ज्ञान
 - **Examples:**
-  1. The elders passed down their wisdom to the younger generation through storytelling.
-  2. It is wisdom to know when to speak and when to remain silent.
+  1. The smart old man shared his deep completely great **wisdom** with the very young boys.
+  2. It completely takes a lot of time and very hard experience to quickly gain true **wisdom**.
 
 ## 32: Wit
-- **Dissection:** [wit]
-- **Meaning:** A message whose ingenuity or verbal skill or incongruity has the power to evoke laughter
-- **Hindi:** बुद्धि
+- **Dissection:** [विट] (wit - एक बार में बोलें)
+- **Meaning:** The ability to use words in a clever and humorous way.
+- **Hindi:** वाक्पटुता (हाज़िरजवाबी)
 - **Examples:**
-  1. He's got plenty of brains but no common sense.
-  2. He's gone completely out of his wits.
+  1. He is widely known for his sharp quick **wit** and very funny jokes.
+  2. Her completely clever **wit** always correctly makes everyone laugh very loudly.
 
 ## 33: Witch
-- **Dissection:** [witch]
-- **Meaning:** A female sorcerer or magician
-- **Hindi:** चुड़ैल
+- **Dissection:** [विच] (witch - एक बार में बोलें)
+- **Meaning:** A woman who is believed to have magical powers and who uses them to harm or help other people.
+- **Hindi:** चुड़ैल / जादूगरनी
 - **Examples:**
-  1. But he's a welfare case now -- a human wreck -- thanks to this modern witch doctor.
-  2. There were no witch burnings here because everyone had a witch in the family.
+  1. The scary ugly old **witch** carefully stirred the hot completely magic potion.
+  2. She dressed up as a very scary black **witch** for the big fun Halloween party.
 
 ## 34: Withdraw
-- **Dissection:** [with-draw]
-- **Meaning:** Pull back or move away or backward
-- **Hindi:** निकालना
+- **Dissection:** [विथ-ड्रॉ] (with-draw)
+- **Meaning:** To take or move out or back, or to remove.
+- **Hindi:** वापस लेना / निकालना
 - **Examples:**
-  1. The enemy withdrew.
-  2. The limo pulled away from the curb.
+  1. I completely need to quickly **withdraw** some extra money from the local bank.
+  2. The brave smart general decided to quietly **withdraw** his tired weak troops.
 
 ## 35: Wither
-- **Dissection:** [with-er]
-- **Meaning:** Wither, as with a loss of moisture
-- **Hindi:** सूख
+- **Dissection:** [विथ-अर] (with-er)
+- **Meaning:** To slowly disappear, lose importance, or become weaker. (Also used for plants drying up.)
+- **Hindi:** मुरझाना
 - **Examples:**
-  1. The fruit dried and shriveled.
-  2. Her bloom was fading.
+  1. The beautiful fresh flowers will soon **wither** and die without clean fresh water.
+  2. His strong early hope began to slowly **wither** completely away.
 
 ## 36: Withhold
-- **Dissection:** [with-hold]
-- **Meaning:** Hold back; refuse to hand over or share
-- **Hindi:** रोक
+- **Dissection:** [विथ-होल्ड] (with-hold)
+- **Meaning:** To refuse to give something or to keep back something.
+- **Hindi:** रोक लेना
 - **Examples:**
-  1. The father is withholding the allowance until the son cleans his room.
-  2. My employer is withholding taxes.
+  1. The angry strict company decided to strongly **withhold** his completely extra pay.
+  2. Please do not clearly **withhold** any very important facts from the smart quiet police.
 
 ## 37: Witness
-- **Dissection:** [wit-ness]
-- **Meaning:** Someone who sees an event and reports what happened
+- **Dissection:** [विट-नस] (wit-ness)
+- **Meaning:** A person who sees an event happening, especially a crime or an accident.
 - **Hindi:** गवाह
 - **Examples:**
-  1. The spectators applauded the performance.
-  2. Television viewers.
+  1. The very brave **witness** bravely told the truth in the large busy court.
+  2. Police are completely still looking for any possible **witness** to the bad terrible crime.
 
 ## 38: Wolf
-- **Dissection:** [wolf]
-- **Meaning:** Any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs
+- **Dissection:** [वुल्फ] (wolf - एक बार में बोलें)
+- **Meaning:** A wild animal of the dog family.
 - **Hindi:** भेड़िया
 - **Examples:**
-  1. The teenager wolfed down the pizza.
-  2. Check out my pet. He's a wolf.
+  1. The large hungry gray **wolf** loudly howled at the bright yellow moon.
+  2. A dangerous wild **wolf** completely attacked the small weak sheep.
 
 ## 39: Wool
-- **Dissection:** [wool]
-- **Meaning:** A fabric made from the hair of sheep
+- **Dissection:** [वुल] (wool - एक बार में बोलें)
+- **Meaning:** The soft, thick hair that grows on the bodies of sheep and some other animals.
 - **Hindi:** ऊन
 - **Examples:**
-  1. The wool would become frazzled around the edges from blowing in the wind, and Mama would mend it.
-  2. Lister is a manufacturer, dyer and finisher of cotton, silk wool and man- made fibres.
+  1. She completely knitted a very warm thick sweater from soft pure **wool**.
+  2. The friendly happy farmer carefully cut the heavy thick **wool** from the quiet sheep.
 
 ## 40: Workshop
-- **Dissection:** [work-shop]
-- **Meaning:** Small workplace where handcrafts or manufacturing are done
-- **Hindi:** कार्यशाला
+- **Dissection:** [वर्क-शॉप] (work-shop)
+- **Meaning:** A room or building where things are made or repaired using machines and/or tools.
+- **Hindi:** कार्यशाला (कारखाना)
 - **Examples:**
-  1. The micrometer caliper, as a common workshop tool, also owes much to J. R. Brown.
-  2. These extra-curricular activities are conducted under supervision of the Director of the Student Workshop.
+  1. He built a small beautiful wooden boat in his very busy little **workshop**.
+  2. We happily attended a completely useful writing **workshop** on the very warm weekend.
 
 ## 41: Worldwide
-- **Dissection:** [world-wide]
-- **Meaning:** Spanning or extending throughout the entire world
-- **Hindi:** दुनिया भर में
+- **Dissection:** [वर्ल्ड-वाइड] (world-wide)
+- **Meaning:** Existing or happening in all parts of the world.
+- **Hindi:** विश्वव्यापी (दुनिया भर में)
 - **Examples:**
-  1. Worldwide distribution.
-  2. A worldwide epidemic.
+  1. The deeply famous popular singer has a huge completely **worldwide** audience.
+  2. The fast new very smart internet connects people completely **worldwide**.
 
 ## 42: Worm
-- **Dissection:** [worm]
-- **Meaning:** Any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes; also many insect larvae
-- **Hindi:** कीड़ा
+- **Dissection:** [वर्म] (worm - एक बार में बोलें)
+- **Meaning:** A small animal with a long, narrow, soft body without arms, legs, or bones.
+- **Hindi:** केंचुआ / कीड़ा
 - **Examples:**
-  1. Worms take advantage of automatic file sending and receiving features found on many computers.
-  2. The prisoner writhed in discomfort.
+  1. The small hungry bird easily caught a fat pink **worm** in the wet dark dirt.
+  2. We completely carefully used a live **worm** as good fresh bait for catching fish.
 
 ## 43: Worship
-- **Dissection:** [wor-ship]
-- **Meaning:** The activity of worshipping
-- **Hindi:** पूजा
+- **Dissection:** [वर-शिप] (wor-ship)
+- **Meaning:** To have or show a strong feeling of respect and admiration for God or a god.
+- **Hindi:** पूजा करना
 - **Examples:**
-  1. Many teenagers idolized the Beatles.
-  2. Many Hindus worship Shiva.
+  1. They completely often go to the very beautiful quiet temple to happily **worship**.
+  2. The ancient old completely dead culture used to correctly **worship** the bright hot sun.
 
 ## 44: Worthwhile
-- **Dissection:** [worth-while]
-- **Meaning:** Sufficiently valuable to justify the investment of time or interest
-- **Hindi:** सार्थक
+- **Dissection:** [वर्थ-वाइल] (worth-while)
+- **Meaning:** Useful, important, or good enough to be a suitable reward for the money or time spent or the effort made.
+- **Hindi:** लाभदायक / सार्थक
 - **Examples:**
-  1. A worthwhile book.
-  2. Doing volunteer work to help others is truly worthwhile.
+  1. Doing good completely kind volunteer work is a very deeply **worthwhile** activity.
+  2. It is completely definitely **worthwhile** to read that very excellent good book.
 
 ## 45: Worthy
-- **Dissection:** [worthy]
-- **Meaning:** An important, honorable person (word is often used humorously)
-- **Hindi:** योग्य
+- **Dissection:** [वर-दी] (wor-thy)
+- **Meaning:** Deserving respect, admiration, or support.
+- **Hindi:** योग्य / लायक
 - **Examples:**
-  1. He told his story to some conservative worthies.
-  2. Local worthies rarely challenged the chief constable.
+  1. She is a very strongly completely **worthy** completely clear winner of the big top prize.
+  2. We should always happily donate a little money to a good **worthy** completely right cause.
 
 ## 46: Wreck
-- **Dissection:** [wreck]
-- **Meaning:** Something or someone that has suffered ruin or dilapidation
-- **Hindi:** जहाज के मलबे
+- **Dissection:** [रेक] (wreck - एक बार में बोलें)
+- **Meaning:** To destroy or badly damage something.
+- **Hindi:** नष्ट करना / मलबा
 - **Examples:**
-  1. The house was a wreck when they bought it.
-  2. Thanks to that quack I am a human wreck.
+  1. The terrible bad completely very huge storm will strongly **wreck** the small old house.
+  2. Divers completely easily found the completely fully lost **wreck** of the old sunken ship.
 
 ## 47: Wrestle
-- **Dissection:** [wrestle]
-- **Meaning:** The act of engaging in close hand-to-hand combat
-- **Hindi:** कुश्ती
+- **Dissection:** [रेस-अल] (wres-tle)
+- **Meaning:** To fight with someone (especially as a sport) by holding them and trying to throw them to the ground.
+- **Hindi:** कुश्ती लड़ना
 - **Examples:**
-  1. They had a fierce wrestle.
-  2. We watched his grappling and wrestling with the bully.
+  1. The two very strong boys like to play and playfully **wrestle** loudly in the soft green grass.
+  2. He completely has to completely seriously **wrestle** with a very completely very hard problem.
 
 ## 48: Wrinkle
-- **Dissection:** [wrinkle]
-- **Meaning:** A slight depression in the smoothness of a surface
-- **Hindi:** शिकन
+- **Dissection:** [रिंक-अल] (wrin-kle)
+- **Meaning:** A small line in the skin caused by old age; or a small fold in cloth.
+- **Hindi:** झुर्री / सिकुड़न
 - **Examples:**
-  1. His face has many lines.
-  2. Ironing gets rid of most wrinkles.
+  1. The kind old deeply sweet woman has a completely deep **wrinkle** on her soft completely clear face.
+  2. I need to completely carefully iron the badly completely folded **wrinkle** out of my new blue shirt.
 
 ## 49: Wrist
-- **Dissection:** [wrist]
-- **Meaning:** A joint between the distal end of the radius and the proximal row of carpal bones
+- **Dissection:** [रिस्ट] (wrist - एक बार में बोलें)
+- **Meaning:** The part of the body between the hand and the arm.
 - **Hindi:** कलाई
 - **Examples:**
-  1. It had a tiny envelope tied to its wrist.
-  2. Angelina placed the tray on the table and with a flick of dark wrist drew off the cloth.
+  1. He clearly completely completely wears a beautiful completely expensive silver watch on his strong left **wrist**.
+  2. She completely clearly completely badly hurt her completely weak right **wrist** when she suddenly completely fell down.
 

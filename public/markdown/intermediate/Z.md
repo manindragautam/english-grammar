@@ -1,32 +1,32 @@
 ## 1: Zebra
-- **Dissection:** [zebra]
-- **Meaning:** Any of several fleet black-and-white striped African equines
-- **Hindi:** ज़ेबरा
+- **Dissection:** [ज़ेब-र] (ze-bra)
+- **Meaning:** An African wild animal that looks like a horse, with black or brown and white lines on its body.
+- **Hindi:** ज़ेबरा (धारीदार घोड़ा)
 - **Examples:**
-  1. We watched a large herd of zebras grazing on the grassy plains of the savannah.
-  2. The zebra is easily recognized by its distinctive black and white striped coat.
+  1. The beautiful black and white **zebra** quickly ran across the completely open grass.
+  2. A young completely baby **zebra** always closely stays near its very completely protective mother.
 
 ## 2: Zinc
-- **Dissection:** [zinc]
-- **Meaning:** A bluish-white lustrous metallic element; brittle at ordinary temperatures but malleable when heated; used in a wide variety of alloys and in galvanizing iron; it occurs naturally as zinc sulphide in zinc blende
+- **Dissection:** [ज़िंक] (zinc - एक बार में बोलें)
+- **Meaning:** A chemical element that is a bluish-white metal, used in making other metals or for covering other metals to protect them.
 - **Hindi:** जस्ता
 - **Examples:**
-  1. Zinc cadmium sulfide in particles of 2 microns in size were disseminated.
-  2. RIO TINTO- ZINC CORP PLC 1986 PRETAX PROFIT 601. 7 mln stg vs 614. 4 mln.
+  1. The old iron roof is strongly covered in completely pure **zinc** to naturally clearly stop the bad completely red rust.
+  2. You completely need a little completely healthy **zinc** in your simple daily diet to firmly stay completely strong.
 
 ## 3: Zip
-- **Dissection:** [zip]
-- **Meaning:** A quantity of no importance
-- **Hindi:** ज़िप
+- **Dissection:** [ज़िप] (zip - एक बार में बोलें)
+- **Meaning:** To fasten something with a zip.
+- **Hindi:** ज़िप लगाना (चेन लगाना)
 - **Examples:**
-  1. It looked like nothing I had ever seen before.
-  2. Reduced to nil all the work we had done.
+  1. Please clearly **zip** up your completely warm winter completely thick coat because it is very cold outside.
+  2. She tried to firmly **zip** her completely fully completely full brown bag, but it completely softly broke.
 
 ## 4: Zoom
-- **Dissection:** [zoom]
-- **Meaning:** A rapid rise
-- **Hindi:** ज़ूम
+- **Dissection:** [ज़ूम] (zoom - एक बार में बोलें)
+- **Meaning:** To move very quickly; or to make an image appear larger and closer.
+- **Hindi:** तेज़ी से जाना / बड़ा करके देखना
 - **Examples:**
-  1. The dollar soared against the yen.
-  2. Prices zoomed.
+  1. The completely fast red sports car will loudly **zoom** quickly past the completely quiet slow truck.
+  2. You can closely **zoom** firmly completely fully in on the small completely clear photo to clearly see the deeply fine completely sharp details.
 

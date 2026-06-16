@@ -1,1712 +1,1712 @@
 ## 1: Pace
-- **Dissection:** [pace]
-- **Meaning:** The rate of moving (especially walking or running)
-- **Hindi:** गति
+- **Dissection:** [पेस] (pace - एक बार में बोलें)
+- **Meaning:** The speed at which someone or something moves or does something.
+- **Hindi:** गति / चाल
 - **Examples:**
-  1. He stepped off ten paces from the old tree and began to dig.
-  2. He lived at a fast pace.
+  1. He walked at a fast **pace** so he would not be late.
+  2. The old dog could only walk at a very slow **pace**.
 
 ## 2: Pack
-- **Dissection:** [pack]
-- **Meaning:** A large indefinite number
-- **Hindi:** सामान बाँधना
+- **Dissection:** [पैक] (pack - एक बार में बोलें)
+- **Meaning:** To put things into a bag, box, or suitcase to carry them.
+- **Hindi:** सामान बांधना
 - **Examples:**
-  1. A battalion of ants.
-  2. A multitude of TV antennas.
+  1. I need to **pack** my clothes into a suitcase for the trip.
+  2. Please help me **pack** these books into the large box.
 
 ## 3: Package
-- **Dissection:** [pack-age]
-- **Meaning:** A collection of things wrapped or boxed together
-- **Hindi:** पैकेट
+- **Dissection:** [पैक-एज] (pack-age)
+- **Meaning:** Something wrapped in paper or put in a box to be sent somewhere.
+- **Hindi:** पैकेट / पार्सल
 - **Examples:**
-  1. The market for software is expected to expand.
-  2. Box the gift, please.
+  1. The mailman brought a large **package** to our door today.
+  2. She tied a beautiful red ribbon around the small **package**.
 
 ## 4: Pad
-- **Dissection:** [pad]
-- **Meaning:** A number of sheets of paper fastened together along one edge
-- **Hindi:** पैड
+- **Dissection:** [पैड] (pad - एक बार में बोलें)
+- **Meaning:** A piece of soft material used to protect something or make it comfortable; or a block of paper.
+- **Hindi:** गद्दा / लिखने का पैड
 - **Examples:**
-  1. Mules plodded in a circle around a grindstone.
-  2. Pad a bra.
+  1. She placed a soft **pad** under her knees while working in the garden.
+  2. He wrote the telephone number on a small paper **pad**.
 
 ## 5: Pale
-- **Dissection:** [pale]
-- **Meaning:** A wooden strip forming part of a fence
-- **Hindi:** फीका
+- **Dissection:** [पेल] (pale - एक बार में बोलें)
+- **Meaning:** Having a light color, or having skin that is lighter than usual because of sickness or fear.
+- **Hindi:** पीला / फीका
 - **Examples:**
-  1. Pale seagreen.
-  2. Pale blue eyes.
+  1. She painted the walls of her bedroom a very **pale** pink.
+  2. His face went completely **pale** when he saw the scary dog.
 
 ## 6: Palm
-- **Dissection:** [palm]
-- **Meaning:** The inner surface of the hand from the wrist to the base of the fingers
-- **Hindi:** हथेली
+- **Dissection:** [पाम] (palm - एक बार में बोलें)
+- **Meaning:** The flat inner surface of your hand; or a type of tall tree found in hot places.
+- **Hindi:** हथेली / ताड़ का पेड़
 - **Examples:**
-  1. Don't handle the merchandise.
-  2. John palmed the ball.
+  1. He held the small coin tightly in the **palm** of his hand.
+  2. We rested under the tall **palm** tree on the sunny beach.
 
 ## 7: Pamphlet
-- **Dissection:** [pamph-let]
-- **Meaning:** A small book usually having a paper cover
-- **Hindi:** पुस्तिका
+- **Dissection:** [पैम-फ़्लिट] (pam-phlet)
+- **Meaning:** A very thin book with a paper cover that gives information about something.
+- **Hindi:** पुस्तिका / पर्चा
 - **Examples:**
-  1. The final section of this pamphlet is of special interest in a consideration of Steele's relations with Swift.
-  2. Pamphlet lady: That' s why you' ve got no power!
+  1. The doctor gave me a **pamphlet** about eating healthy foods.
+  2. He handed out a small **pamphlet** to everyone on the street.
 
 ## 8: Panel
-- **Dissection:** [pan-el]
-- **Meaning:** Sheet that forms a distinct (usually flat and rectangular) section or component of something
-- **Hindi:** पैनल
+- **Dissection:** [पैन-अल] (pan-el)
+- **Meaning:** A flat piece of wood or glass that is part of a door or wall; or a group of people chosen to discuss something.
+- **Hindi:** तख़्ता / पैनल (समूह)
 - **Examples:**
-  1. He checked the instrument panel.
-  2. Suddenly the board lit up like a Christmas tree.
+  1. The beautiful wooden door had a small glass **panel** at the top.
+  2. A **panel** of five teachers will judge the school singing competition.
 
 ## 9: Panic
-- **Dissection:** [pan-ic]
-- **Meaning:** An overwhelming feeling of fear and anxiety
-- **Hindi:** घबड़ाहट
+- **Dissection:** [पैन-इक] (pan-ic)
+- **Meaning:** A sudden, very strong feeling of fear that stops you from thinking clearly.
+- **Hindi:** घबराहट / खलबली
 - **Examples:**
-  1. Panic in the stock market.
-  2. A war scare.
+  1. Please do not **panic** if you hear the loud fire alarm.
+  2. A sudden **panic** spread through the crowd when the lights went out.
 
 ## 10: Pant
-- **Dissection:** [pant]
-- **Meaning:** The noise made by a short puff of steam (as from an engine)
-- **Hindi:** पंत
+- **Dissection:** [पैंट] (pant - एक बार में बोलें)
+- **Meaning:** To breathe quickly and loudly through your mouth, usually after running or when hot.
+- **Hindi:** हांफना
 - **Examples:**
-  1. He had a sharp crease in his trousers.
-  2. She gave a gasp and fainted.
+  1. The long run made the dog **pant** heavily in the hot sun.
+  2. He had to stop and **pant** to catch his breath after climbing the stairs.
 
 ## 11: Papaya
-- **Dissection:** [papaya]
-- **Meaning:** Tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow fruit
+- **Dissection:** [प-पाइ-अ] (pa-pay-a)
+- **Meaning:** A tropical fruit with green or yellow skin and sweet orange flesh.
 - **Hindi:** पपीता
 - **Examples:**
-  1. She sliced a fresh, ripe papaya and served it with lime juice for breakfast.
-  2. The tropical fruit salad contained chunks of mango, pineapple, and sweet papaya.
+  1. I ate a slice of sweet **papaya** for breakfast this morning.
+  2. The juice from a fresh **papaya** is very tasty and healthy.
 
 ## 12: Parachute
-- **Dissection:** [para-chute]
-- **Meaning:** Rescue equipment consisting of a device that fills with air and retards your fall
-- **Hindi:** पैराशूट
+- **Dissection:** [पैर-अ-शूट] (par-a-chute)
+- **Meaning:** A large piece of cloth that opens in the air to slow down a person or thing falling from an airplane.
+- **Hindi:** पैराशूट / हवाई छतरी
 - **Examples:**
-  1. The soldiers were parachuted behind enemy lines.
-  2. The skydiver pulled the ripcord, but the parachute failed to deploy properly.
+  1. The soldier jumped out of the plane and opened his **parachute**.
+  2. The box of food was dropped from the sky using a strong **parachute**.
 
 ## 13: Parade
-- **Dissection:** [parade]
-- **Meaning:** A ceremonial procession including people marching
-- **Hindi:** परेड
+- **Dissection:** [प-रेड] (pa-rade)
+- **Meaning:** A public celebration where people and bands move slowly down a street.
+- **Hindi:** परेड / जुलूस
 - **Examples:**
-  1. A parade of strollers on the mall.
-  2. A parade of witnesses.
+  1. We stood on the street to watch the beautiful holiday **parade**.
+  2. The school marching band played loud music during the city **parade**.
 
 ## 14: Paradise
-- **Dissection:** [para-dise]
-- **Meaning:** Any place of complete bliss and delight and peace
-- **Hindi:** स्वर्ग
+- **Dissection:** [पैर-अ-डाइस] (par-a-dise)
+- **Meaning:** A perfect place where everything is beautiful and peaceful.
+- **Hindi:** स्वर्ग / आनंदलोक
 - **Examples:**
-  1. Living in paradise comes with a price.
-  2. An island paradise in the Caribbean; a shoppers’ paradise.
+  1. The beautiful island with white sand looked like a true **paradise**.
+  2. The garden full of flowers was a quiet **paradise** for the birds.
 
 ## 15: Paradox
-- **Dissection:** [para-dox]
-- **Meaning:** (logic) a statement that contradicts itself
+- **Dissection:** [पैर-अ-डॉक्स] (par-a-dox)
+- **Meaning:** A situation or statement that seems impossible because it contains two opposite facts.
 - **Hindi:** विरोधाभास
 - **Examples:**
-  1. It is a strange paradox that the more she studied, the less confident she felt.
-  2. The old puzzle presents a fascinating logical paradox that is difficult to solve.
+  1. It is a strange **paradox** that drinking lots of water can sometimes make you feel thirsty.
+  2. The idea that you must spend money to save money is a well-known **paradox**.
 
 ## 16: Paragraph
-- **Dissection:** [para-graph]
-- **Meaning:** One of several distinct subdivisions of a text intended to separate ideas; the beginning is usually marked by a new indented line
-- **Hindi:** अनुच्छेद
+- **Dissection:** [पैर-अ-ग्राफ़] (par-a-graph)
+- **Meaning:** A section of writing that usually deals with one subject, starting on a new line.
+- **Hindi:** अनुच्छेद / पैराग्राफ
 - **Examples:**
-  1. This story is well paragraphed.
-  2. All her friends were paragraphed in last Monday's paper.
+  1. Please read the first **paragraph** of the story out loud to the class.
+  2. You should write a new **paragraph** when you talk about a different idea.
 
 ## 17: Parallel
-- **Dissection:** [par-al-lel]
-- **Meaning:** Something having the property of being analogous to something else
+- **Dissection:** [पैर-अ-लैल] (par-al-lel)
+- **Meaning:** Lines or paths that are the same distance apart and never touch each other.
 - **Hindi:** समानांतर
 - **Examples:**
-  1. Parallels never meet.
-  2. Their roles are paralleled by ours.
+  1. The two long train tracks run **parallel** to each other for many miles.
+  2. We parked our cars in two **parallel** lines next to the building.
 
 ## 18: Paralyze
-- **Dissection:** [para-lyze]
-- **Meaning:** Make powerless and unable to function
-- **Hindi:** पंगु बना
+- **Dissection:** [पैर-अ-लाइज़] (par-a-lyze)
+- **Meaning:** To make someone unable to move their body or part of it.
+- **Hindi:** लकवा मारना / पंगु बनाना
 - **Examples:**
-  1. The bureaucracy paralyzes the entire operation.
-  2. The poison paralyzed him.
+  1. A bad accident can sometimes **paralyze** a person's legs.
+  2. His extreme fear seemed to completely **paralyze** him.
 
 ## 19: Parameter
-- **Dissection:** [para-met-er]
-- **Meaning:** A constant in the equation of a curve that can be varied to yield a family of similar curves
-- **Hindi:** पैरामीटर
+- **Dissection:** [प-रैम-इ-टर] (pa-ram-e-ter)
+- **Meaning:** A rule or limit that controls what something is or how something should be done.
+- **Hindi:** मापदंड / सीमा
 - **Examples:**
-  1. Roughly, a tuple of arguments could be thought of as a vector, whereas a tuple of parameters could be thought of as a covector (i.e., linear functional). When a function is called, a parameter tuple becomes "bound" to an argument tuple, allowing the function instance itself to be computed to yield a return value. This would be roughly analogous to applying a covector to a vector (by taking their dot product (or, rather, matrix-product of row vector and column vector)) to obtain a scalar.
-  2. The parameter of the principal axis of a conic section is called the latus rectum.
+  1. We must work within the given **parameter** of a low budget.
+  2. The teacher set a clear **parameter** for the science project.
 
 ## 20: Parcel
-- **Dissection:** [par-cel]
-- **Meaning:** A wrapped container
-- **Hindi:** पार्सल
+- **Dissection:** [पार-सल] (par-cel)
+- **Meaning:** Something wrapped in paper or in a box that is sent by mail.
+- **Hindi:** पार्सल / बंडल
 - **Examples:**
-  1. Death gets more than its share of attention from theologians.
-  2. The developers parceled the land.
+  1. I need to take this heavy **parcel** to the post office today.
+  2. The mailman brought a small brown **parcel** to our house.
 
 ## 21: Pardon
-- **Dissection:** [par-don]
-- **Meaning:** The act of excusing a mistake or offense
-- **Hindi:** क्षमा
+- **Dissection:** [पार-डन] (par-don)
+- **Meaning:** To forgive someone for doing something wrong, or a polite way to ask someone to repeat what they said.
+- **Hindi:** क्षमा / माफ़ी
 - **Examples:**
-  1. Please excuse my dirty hands.
-  2. Ford pardoned Nixon.
+  1. I beg your **pardon**, could you please repeat the question?
+  2. The kind king decided to **pardon** the man for his crimes.
 
 ## 22: Parliament
-- **Dissection:** [par-lia-ment]
-- **Meaning:** A legislative assembly in certain countries
+- **Dissection:** [पार-ल-मंट] (par-lia-ment)
+- **Meaning:** A group of people who are chosen to make laws for their country.
 - **Hindi:** संसद
 - **Examples:**
-  1. Urged the reconvention of the Congolese Parliament and the reorganization of the army.
-  2. `` With no strong men and no parliament to dispute his will, he was the government ''.
+  1. The leaders met in the large building to debate in **parliament**.
+  2. The new law was passed by a majority vote in **parliament**.
 
 ## 23: Partial
-- **Dissection:** [par-tial]
-- **Meaning:** The derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant
-- **Hindi:** आंशिक
+- **Dissection:** [पार-शल] (par-tial)
+- **Meaning:** Not complete; only a part of something.
+- **Hindi:** आंशिक / अधूरा
 - **Examples:**
-  1. A partial description of the suspect.
-  2. Partial collapse.
+  1. The team only found a **partial** solution to the very big problem.
+  2. She has a **partial** list of the people who will come to the party.
 
 ## 24: Participate
-- **Dissection:** [par-ti-cip-ate]
-- **Meaning:** Share in something
-- **Hindi:** हिस्सा लेना
+- **Dissection:** [पार-टिस-इ-पेट] (par-tic-i-pate)
+- **Meaning:** To take part in an activity or event.
+- **Hindi:** भाग लेना / हिस्सा लेना
 - **Examples:**
-  1. Enter a race.
-  2. Enter an agreement.
+  1. Every student must **participate** in the school sports day.
+  2. She was happy to **participate** in the local dance competition.
 
 ## 25: Particle
-- **Dissection:** [particle]
-- **Meaning:** (nontechnical usage) a tiny piece of anything
+- **Dissection:** [पार-टिक-अल] (par-ti-cle)
+- **Meaning:** A very small piece of something.
 - **Hindi:** कण
 - **Examples:**
-  1. The paramagnetic dipole effects provide some information on the particle shapes.
-  2. The x-ray data are consistent with particle sizes of 1000 A or greater.
+  1. A tiny **particle** of dust got caught in his eye.
+  2. The scientist studied a very small **particle** under the microscope.
 
 ## 26: Passage
-- **Dissection:** [pas-sage]
-- **Meaning:** The act of passing from one state or place to the next
-- **Hindi:** रास्ता
+- **Dissection:** [पैस-इज] (pas-sage)
+- **Meaning:** A narrow path or way through; or a short part of a book or song.
+- **Hindi:** रास्ता / गद्यांश
 - **Examples:**
-  1. The outward passage took 10 days.
-  2. The nasal passages.
+  1. They walked down a dark, narrow **passage** to find the old room.
+  2. He read a short **passage** from his favorite book to the class.
 
 ## 27: Passenger
-- **Dissection:** [pas-sen-ger]
-- **Meaning:** A traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it
-- **Hindi:** यात्री
+- **Dissection:** [पैस-इन-जर] (pas-sen-ger)
+- **Meaning:** A person who is traveling in a car, bus, train, or airplane but is not driving.
+- **Hindi:** यात्री / मुसाफिर
 - **Examples:**
-  1. And with passenger weight shifted forward, Hotei levels off for speed under power of a Merc 800.
-  2. The state presently owns 389 passenger vehicles in comparison to approximately 200 in 1940.
+  1. The train was full, and every **passenger** had a seat.
+  2. She was a **passenger** in the car when it suddenly stopped.
 
 ## 28: Passion
-- **Dissection:** [pas-sion]
-- **Meaning:** A strong feeling or emotion
-- **Hindi:** जुनून
+- **Dissection:** [पैश-अन] (pas-sion)
+- **Meaning:** A very strong feeling of love, hate, anger, or interest in something.
+- **Hindi:** जुनून / तीव्र भावना
 - **Examples:**
-  1. His rage for fame destroyed him.
-  2. The theater was her first love.
+  1. He has a great **passion** for playing the guitar.
+  2. She spoke with true **passion** about saving the wild animals.
 
 ## 29: Passive
-- **Dissection:** [pass-ive]
-- **Meaning:** The voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb
+- **Dissection:** [पैस-इव] (pas-sive)
+- **Meaning:** Accepting what happens or what others do, without trying to change things.
 - **Hindi:** निष्क्रिय
 - **Examples:**
-  1. `The ball was thrown by the boy' uses the passive voice.
-  2. `The ball was thrown' is an abbreviated passive.
+  1. He was very **passive** and just let the others make all the decisions.
+  2. A **passive** learner listens but does not ask many questions.
 
 ## 30: Passport
-- **Dissection:** [pass-port]
-- **Meaning:** Any authorization to pass or go somewhere
-- **Hindi:** पासपोर्ट
+- **Dissection:** [पास-पोर्ट] (pass-port)
+- **Meaning:** An official document you need to travel to a different country.
+- **Hindi:** पासपोर्ट / पारपत्र
 - **Examples:**
-  1. The pass to visit had a strict time limit.
-  2. Her pleasant personality is already a recommendation.
+  1. You must show your **passport** at the airport before you fly.
+  2. He kept his **passport** safely inside his small travel bag.
 
 ## 31: Paste
-- **Dissection:** [paste]
-- **Meaning:** Any mixture of a soft and malleable consistency
-- **Hindi:** पेस्ट करें
+- **Dissection:** [पेस्ट] (paste - एक बार में बोलें)
+- **Meaning:** A soft, wet mixture used to stick things together, or something you eat or put on your body.
+- **Hindi:** लेप / चिपकाना
 - **Examples:**
-  1. Paste the sign on the wall.
-  2. Cut and paste the sentence in the text.
+  1. She used white **paste** to stick the pictures into her book.
+  2. You need to brush your teeth with a minty tooth **paste**.
 
 ## 32: Pastime
-- **Dissection:** [pas-time]
-- **Meaning:** A diversion that occupies one's time and thoughts (usually pleasantly)
-- **Hindi:** शगल
+- **Dissection:** [पास-टायम] (pas-time)
+- **Meaning:** Something that you enjoy doing when you are not working.
+- **Hindi:** शौक / शगल
 - **Examples:**
-  1. Sailing is her favorite pastime.
-  2. His main pastime is gambling.
+  1. Reading old books is his favorite weekend **pastime**.
+  2. Playing chess is a quiet and relaxing **pastime** for her.
 
 ## 33: Pastry
-- **Dissection:** [pastry]
-- **Meaning:** A dough of flour and water and shortening
-- **Hindi:** पेस्ट्री
+- **Dissection:** [पेस-ट्री] (pas-try)
+- **Meaning:** A sweet baked food made of dough, often filled with fruit or cream.
+- **Hindi:** पेस्ट्री / मीठी कचौड़ी
 - **Examples:**
-  1. That pastry shop sells not just pastries, but all kinds of baked goods.
-  2. That pastry shop sells not just pastry, but all kinds of baked goods.
+  1. We bought a delicious fruit **pastry** from the warm bakery.
+  2. She learned how to make French **pastry** with butter and flour.
 
 ## 34: Pat
-- **Dissection:** [pat]
-- **Meaning:** The sound made by a gentle blow
+- **Dissection:** [पैट] (pat - एक बार में बोलें)
+- **Meaning:** To gently touch someone or something with your flat hand.
 - **Hindi:** थपथपाना
 - **Examples:**
-  1. Pat him on the shoulder.
-  2. Glib promises.
+  1. He gave the good dog a gentle **pat** on the head.
+  2. She gave her friend a quick **pat** on the back to say well done.
 
 ## 35: Patch
-- **Dissection:** [patch]
-- **Meaning:** A small contrasting part of something
-- **Hindi:** पैबंद
+- **Dissection:** [पैच] (patch - एक बार में बोलें)
+- **Meaning:** A small piece of material used to cover a hole, or a small area of ground.
+- **Hindi:** पैबंद / टुकड़ा
 - **Examples:**
-  1. A bald spot.
-  2. A leopard's spots.
+  1. My mother sewed a blue **patch** onto the hole in my jeans.
+  2. We grew green vegetables in a small dirt **patch** behind the house.
 
 ## 36: Patent
-- **Dissection:** [pat-ent]
-- **Meaning:** A document granting an inventor sole rights to an invention
-- **Hindi:** पेटेंट
+- **Dissection:** [पैट-अंट] (pat-ent)
+- **Meaning:** An official right that says only the inventor can make or sell their new invention.
+- **Hindi:** पेटेंट / एकस्व
 - **Examples:**
-  1. Should I patent this invention?
-  2. His behavior has patented an embarrassing fact about him.
+  1. He got a **patent** for his new machine so nobody else could copy it.
+  2. The company owns the **patent** for that special medicine.
 
 ## 37: Path
-- **Dissection:** [path]
-- **Meaning:** A course of conduct
-- **Hindi:** पथ
+- **Dissection:** [पाथ] (path - एक बार में बोलें)
+- **Meaning:** A track made by people walking, or the direction in which something moves.
+- **Hindi:** रास्ता / पगडंडी
 - **Examples:**
-  1. The path of virtue.
-  2. We went our separate ways.
+  1. We walked along the narrow dirt **path** through the dark forest.
+  2. The huge storm destroyed everything in its direct **path**.
 
 ## 38: Pathetic
-- **Dissection:** [pathet-ic]
-- **Meaning:** Deserving or inciting pity; ; ; - Galsworthy
+- **Dissection:** [प-थेट-इक] (pa-thet-ic)
+- **Meaning:** Making you feel pity or sadness; very bad or weak.
 - **Hindi:** दयनीय
 - **Examples:**
-  1. A hapless victim.
-  2. Miserable victims of war.
+  1. The small, hungry puppy looked so **pathetic** sitting in the cold rain.
+  2. His excuse for being late was very **pathetic** and untrue.
 
 ## 39: Patience
-- **Dissection:** [pa-tience]
-- **Meaning:** Good-natured tolerance of delay or incompetence
-- **Hindi:** धैर्य
+- **Dissection:** [पे-शन्स] (pa-tience)
+- **Meaning:** The ability to wait calmly for a long time or deal with problems without getting angry.
+- **Hindi:** धैर्य / सब्र
 - **Examples:**
-  1. Martin called for patience on the part of Americans.
-  2. God's mercy and patience will last forever.
+  1. You need a lot of **patience** to teach small children how to read.
+  2. She showed great **patience** while waiting in the very long line.
 
 ## 40: Patrol
-- **Dissection:** [patrol]
-- **Meaning:** A detachment used for security or reconnaissance
-- **Hindi:** पहरा
+- **Dissection:** [प-ट्रोल] (pa-trol)
+- **Meaning:** To go around an area to make sure it is safe.
+- **Hindi:** गश्त लगाना / पहरा देना
 - **Examples:**
-  1. A customs patrol.
-  2. To patrol a beat.
+  1. The police will **patrol** the empty streets at night to keep them safe.
+  2. A security guard was sent to **patrol** the large building.
 
 ## 41: Patron
-- **Dissection:** [pat-ron]
-- **Meaning:** A regular customer
-- **Hindi:** संरक्षक
+- **Dissection:** [पे-ट्रन] (pa-tron)
+- **Meaning:** A person who gives money and support to artists, or a regular customer at a store.
+- **Hindi:** संरक्षक / ग्राहक
 - **Examples:**
-  1. Yet paradoxically my liberal friends continue to view Jefferson as one of their patron saints.
-  2. This car park is for patrons only.
+  1. The rich queen was a famous **patron** of music and art.
+  2. He is a regular **patron** of the small coffee shop near his house.
 
 ## 42: Pause
-- **Dissection:** [pause]
-- **Meaning:** A time interval during which there is a temporary cessation of something
-- **Hindi:** विराम
+- **Dissection:** [पॉज़] (pause - एक बार में बोलें)
+- **Meaning:** To stop doing something for a short time before starting again.
+- **Hindi:** रुकना / ठहराव
 - **Examples:**
-  1. The speaker paused.
-  2. We pause for station identification.
+  1. Let us **pause** for a moment to rest and drink some water.
+  2. There was a long **pause** before he finally answered the difficult question.
 
 ## 43: Pave
-- **Dissection:** [pave]
-- **Meaning:** A setting with precious stones so closely set that no metal shows
-- **Hindi:** प्रशस्त
+- **Dissection:** [पेव] (pave - एक बार में बोलें)
+- **Meaning:** To cover a road or path with hard material so it is easy to walk or drive on.
+- **Hindi:** पक्का करना (सड़क)
 - **Examples:**
-  1. He urged continued negotiations among coffee producers to pave the way for a coffee export quota agreement by September.
-  2. Pave the roads in the village.
+  1. The city workers will **pave** the old dirt road with black stones.
+  2. They decided to **pave** the area around the house to park their cars.
 
 ## 44: Paw
-- **Dissection:** [paw]
-- **Meaning:** A clawed foot of an animal especially a quadruped
+- **Dissection:** [पॉ] (paw - एक बार में बोलें)
+- **Meaning:** The foot of an animal that has claws, like a dog or cat.
 - **Hindi:** पंजा
 - **Examples:**
-  1. He had the hands of a surgeon.
-  2. He extended his mitt.
+  1. The little cat hurt its front **paw** when it jumped down.
+  2. The dog lifted its **paw** to shake hands with the friendly boy.
 
 ## 45: Peak
-- **Dissection:** [peak]
-- **Meaning:** The most extreme possible amount or value
-- **Hindi:** चोटी
+- **Dissection:** [पीक] (peak - एक बार में बोलें)
+- **Meaning:** The highest, strongest, or best point of something, like the top of a mountain.
+- **Hindi:** चोटी / शिखर
 - **Examples:**
-  1. Voltage peak.
-  2. His landscapes were deemed the acme of beauty.
+  1. You could see the white snow on the high mountain **peak**.
+  2. The fast runner was at the **peak** of his health.
 
 ## 46: Peasant
-- **Dissection:** [peas-ant]
-- **Meaning:** A country person
-- **Hindi:** किसान
+- **Dissection:** [पेज़-अंट] (peas-ant)
+- **Meaning:** A poor farmer who owns or rents a small piece of land.
+- **Hindi:** किसान / खेतिहर
 - **Examples:**
-  1. The peasant grunted an apology, and got down from his seat.
-  2. Foremost among the men on the beach Syme saw the peasant who had driven their cart.
+  1. The poor **peasant** worked very hard in the fields all day long.
+  2. A large group of **peasant** farmers came to the market to sell food.
 
 ## 47: Peculiar
-- **Dissection:** [pe-cu-li-ar]
-- **Meaning:** Beyond or deviating from the usual or expected
-- **Hindi:** विचित्र
+- **Dissection:** [प-क्यूल-यर] (pe-cu-liar)
+- **Meaning:** Strange or unusual, sometimes in a bad or sick way.
+- **Hindi:** अजीब / विचित्र
 - **Examples:**
-  1. A curious hybrid accent.
-  2. Her speech has a funny twang.
+  1. That blue flower has a very **peculiar** smell that I do not like.
+  2. It is **peculiar** that he wore a thick winter coat in the hot summer.
 
 ## 48: Pedal
-- **Dissection:** [ped-al]
-- **Meaning:** A sustained bass note
-- **Hindi:** पैडल
+- **Dissection:** [पेड-अल] (ped-al)
+- **Meaning:** A part that you push with your foot to make a machine, like a bicycle, move.
+- **Hindi:** पैडल / पैर से चलाने वाला पुर्जा
 - **Examples:**
-  1. The word for a pedal extremity is `foot'.
-  2. A piano usually has two or three pedals.
+  1. You must push hard on the right **pedal** to ride the bike up the hill.
+  2. The driver pushed the brake **pedal** to stop the car quickly.
 
 ## 49: Pedestrian
-- **Dissection:** [ped-es-tri-an]
-- **Meaning:** A person who travels by foot
+- **Dissection:** [प-डेस-ट्री-अन] (pe-des-tri-an)
+- **Meaning:** A person who is walking in the street, not driving a car.
 - **Hindi:** पैदल यात्री
 - **Examples:**
-  1. A pedestrian movie plot.
-  2. Pedestrian crossing.
+  1. The car stopped to let the careful **pedestrian** cross the street.
+  2. A special path was made just for a walking **pedestrian**.
 
 ## 50: Peel
-- **Dissection:** [peel]
-- **Meaning:** British politician (1788-1850)
-- **Hindi:** छीलना
+- **Dissection:** [पील] (peel - एक बार में बोलें)
+- **Meaning:** To remove the skin from fruit or vegetables.
+- **Hindi:** छीलना / छिलका
 - **Examples:**
-  1. Pare apples.
-  2. The paint in my house is peeling off.
+  1. Can you help me **peel** these potatoes for dinner tonight?
+  2. I like to eat an apple, but my sister likes to **peel** it first.
 
 ## 51: Peer
-- **Dissection:** [peer]
-- **Meaning:** A person who is of equal standing with another in a group
-- **Hindi:** समकक्ष
+- **Dissection:** [पीअर] (peer - एक बार में बोलें)
+- **Meaning:** A person who is the same age or has the same social position or abilities as other people in a group; or to look carefully.
+- **Hindi:** सहकर्मी / ध्यान से देखना
 - **Examples:**
-  1. We peered into the back of the shop to see whether a salesman was around.
-  2. A peer of the realm.
+  1. Children often copy the behavior of a friend or **peer** at school.
+  2. He had to **peer** through the dark window to see who was inside.
 
 ## 52: Penalty
-- **Dissection:** [pen-alty]
-- **Meaning:** The act of punishing
-- **Hindi:** जुर्माना
+- **Dissection:** [पेन-अल-टी] (pen-al-ty)
+- **Meaning:** A punishment for doing something wrong or breaking a rule.
+- **Hindi:** जुर्माना / दंड
 - **Examples:**
-  1. Neglected his health and paid the penalty.
-  2. The penalty for his crime was to do hard labor.
+  1. There is a heavy **penalty** for driving your car too fast.
+  2. He had to pay a **penalty** for returning the library book late.
 
 ## 53: Penetrate
-- **Dissection:** [pen-et-rate]
-- **Meaning:** Pass into or through, often by overcoming resistance
-- **Hindi:** घुसना
+- **Dissection:** [पेन-इ-ट्रेट] (pen-e-trate)
+- **Meaning:** To move into or through something, usually with force.
+- **Hindi:** भेदना / घुसना
 - **Examples:**
-  1. The bullet penetrated her chest.
-  2. It dawned on him that she had betrayed him.
+  1. The bright sunlight could not **penetrate** the thick, dark clouds.
+  2. The sharp nail can easily **penetrate** the piece of soft wood.
 
 ## 54: Peninsula
-- **Dissection:** [pen-in-sula]
-- **Meaning:** A large mass of land projecting into a body of water
+- **Dissection:** [प-निन-स्यु-ल] (pe-nin-su-la)
+- **Meaning:** A long piece of land that is almost completely surrounded by water.
 - **Hindi:** प्रायद्वीप
 - **Examples:**
-  1. They cantered down the peninsula, not slackening until the coach reached Woodside where the Santa Cruz uplands begin.
-  2. On November 4, 1952, an earthquake occurred under the sea off the Kamchatka Peninsula.
+  1. They live on a small **peninsula** surrounded by the cold sea.
+  2. Florida is a famous **peninsula** in the United States.
 
 ## 55: Penny
-- **Dissection:** [penny]
-- **Meaning:** A fractional monetary unit of Ireland and the United Kingdom; equal to one hundredth of a pound
-- **Hindi:** पैसे
+- **Dissection:** [पेन-ई] (pen-ny)
+- **Meaning:** A small brown coin that is worth one cent in America or the UK.
+- **Hindi:** पेनी / सबसे छोटा सिक्का
 - **Examples:**
-  1. To turn an honest penny.
-  2. Zach and Ben had only been at college for a week when their door was pennied by the girls down the hall.
+  1. I found a shiny copper **penny** on the ground today.
+  2. The cheap toy only cost one **penny** at the store.
 
 ## 56: Pension
-- **Dissection:** [pen-sion]
-- **Meaning:** A regular payment to a person that is intended to allow them to subsist without working
-- **Hindi:** पेंशन
+- **Dissection:** [पेन-शन] (pen-sion)
+- **Meaning:** Money paid regularly by the government or a company to someone who has stopped working because they are old or sick.
+- **Hindi:** पेंशन / निवृत्ति वेतन
 - **Examples:**
-  1. Many old people depend on their pension to pay the bills.
-  2. A pension had somewhat less to offer than a hotel; it was always smaller, and never elegant; it sometimes offered breakfast, and sometimes not (John Irving).
+  1. My grandfather receives a monthly **pension** from his old company.
+  2. She retired early and now lives on a small state **pension**.
 
 ## 57: Perceive
-- **Dissection:** [per-ceive]
-- **Meaning:** To become aware of through the senses
-- **Hindi:** समझना
+- **Dissection:** [पर-सीव] (per-ceive)
+- **Meaning:** To notice, see, or recognize something.
+- **Hindi:** समझना / महसूस करना
 - **Examples:**
-  1. I could perceive the ship coming over the horizon.
-  2. She finally perceived the futility of her protest.
+  1. Cats can **perceive** tiny movements in the dark much better than humans.
+  2. I could **perceive** a small change in her voice when she was angry.
 
 ## 58: Percent
-- **Dissection:** [per-cent]
-- **Meaning:** A proportion in relation to a whole (which is usually the amount per hundred)
+- **Dissection:** [पर-सेंट] (per-cent)
+- **Meaning:** One part in every hundred.
 - **Hindi:** प्रतिशत
 - **Examples:**
-  1. Goodis said that single rooms account for 95 percent of the accomodations in some hotels.
-  2. Expect their own production volume, and presumably sales, to jump 30 percent in 1961.
+  1. Almost fifty **percent** of the students in my class are boys.
+  2. The store is offering a ten **percent** discount on all shoes.
 
 ## 59: Percentage
-- **Dissection:** [per-cent-age]
-- **Meaning:** A proportion in relation to a whole (which is usually the amount per hundred)
-- **Hindi:** Percentage का हिंदी अर्थ
+- **Dissection:** [पर-सेंट-इज] (per-cent-age)
+- **Meaning:** An amount of something, often expressed as a number out of 100.
+- **Hindi:** प्रतिशत / हिस्सा
 - **Examples:**
-  1. He wanted his share in cash.
-  2. A high percentage of secondary school leavers take a gap year.
+  1. A large **percentage** of the earth is covered in deep water.
+  2. What **percentage** of your salary do you save every month?
 
 ## 60: Perception
-- **Dissection:** [per-cep-tion]
-- **Meaning:** The representation of what is perceived; basic component in the formation of a concept
-- **Hindi:** धारणा
+- **Dissection:** [पर-सेप-शन] (per-cep-tion)
+- **Meaning:** The way you understand or think about something, or the ability to notice things.
+- **Hindi:** धारणा / समझ
 - **Examples:**
-  1. Luther had a new perception of the Bible.
-  2. A man admired for the depth of his perception.
+  1. His **perception** of the situation was very different from mine.
+  2. She has a very sharp **perception** and notices small details.
 
 ## 61: Perfect
-- **Dissection:** [per-fect]
-- **Meaning:** A tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
-- **Hindi:** उत्तम
+- **Dissection:** [पर-फ़ेक्ट] (per-fect)
+- **Meaning:** Having no mistakes or flaws; exactly right.
+- **Hindi:** उत्तम / आदर्श
 - **Examples:**
-  1. Perfect your French in Paris!
-  2. A perfect circle.
+  1. She got a **perfect** score of one hundred on her math test.
+  2. Today is a **perfect** day to go for a walk in the park.
 
 ## 62: Perfume
-- **Dissection:** [per-fume]
-- **Meaning:** A distinctive odor that is pleasant
-- **Hindi:** इत्र
+- **Dissection:** [पर-फ़्यूम] (per-fume)
+- **Meaning:** A liquid with a sweet smell that people put on their skin.
+- **Hindi:** इत्र / सुगंध
 - **Examples:**
-  1. Orange blossoms perfumed the air in the garden.
-  2. She perfumes herself every day.
+  1. She wears a beautiful **perfume** that smells like fresh roses.
+  2. The store sells soap, lotion, and expensive French **perfume**.
 
 ## 63: Peril
-- **Dissection:** [per-il]
-- **Meaning:** A source of danger; a possibility of incurring loss or misfortune
-- **Hindi:** ख़तरा
+- **Dissection:** [पेर-इल] (per-il)
+- **Meaning:** Great danger, or something that is very dangerous.
+- **Hindi:** ख़तरा / जोखिम
 - **Examples:**
-  1. Drinking alcohol is a health hazard.
-  2. He saw the rewards but not the risks of crime.
+  1. The brave firefighters put their lives in **peril** to save the child.
+  2. The lost hikers were in great **peril** during the cold snowstorm.
 
 ## 64: Perimeter
-- **Dissection:** [peri-met-er]
-- **Meaning:** The boundary line or the area immediately inside the boundary
-- **Hindi:** परिधि
+- **Dissection:** [प-रिम-इ-टर] (pe-rim-e-ter)
+- **Meaning:** The outside edge or boundary of an area.
+- **Hindi:** परिधि / घेरा
 - **Examples:**
-  1. The security guards patrolled the fence along the outer perimeter of the facility.
-  2. The math teacher showed the students how to calculate the perimeter of a rectangle.
+  1. We built a tall fence around the **perimeter** of the garden.
+  2. The guard walked around the **perimeter** of the large building.
 
 ## 65: Permeate
-- **Dissection:** [per-meate]
-- **Meaning:** Spread or diffuse through
-- **Hindi:** चूना
+- **Dissection:** [पर-मी-एट] (per-me-ate)
+- **Meaning:** To spread through every part of something.
+- **Hindi:** फैल जाना / रिसना
 - **Examples:**
-  1. An atmosphere of distrust has permeated this administration.
-  2. Music penetrated the entire building.
+  1. The smell of fresh coffee will soon **permeate** the whole house.
+  2. Rainwater can easily **permeate** through the soft, dry sand.
 
 ## 66: Permit
-- **Dissection:** [per-mit]
-- **Meaning:** A legal document giving official permission to do something
-- **Hindi:** आज्ञा देना
+- **Dissection:** [पर-मिट] (per-mit)
+- **Meaning:** To allow someone to do something, or an official paper that allows you to do something.
+- **Hindi:** अनुमति देना / परमिट
 - **Examples:**
-  1. She permitted her son to visit her estranged husband.
-  2. I won't let the police search her basement.
+  1. Please **permit** me to help you carry those heavy bags.
+  2. You need a special **permit** to park your car here.
 
 ## 67: Perpetual
-- **Dissection:** [per-petu-al]
-- **Meaning:** Continuing forever or indefinitely
-- **Hindi:** लगातार
+- **Dissection:** [पर-पेच-यु-अल] (per-pet-u-al)
+- **Meaning:** Continuing forever or for a very long time without stopping.
+- **Hindi:** लगातार / चिरस्थायी
 - **Examples:**
-  1. The ageless themes of love and revenge.
-  2. Eternal truths.
+  1. The small boy seems to have a **perpetual** smile on his face.
+  2. The high mountain peaks are covered in **perpetual** snow.
 
 ## 68: Persist
-- **Dissection:** [per-sist]
-- **Meaning:** Continue to exist
-- **Hindi:** दृढ़ रहना
+- **Dissection:** [पर-सिस्ट] (per-sist)
+- **Meaning:** To continue doing something even when it is difficult.
+- **Hindi:** डटे रहना / दृढ़ रहना
 - **Examples:**
-  1. These stories die hard.
-  2. The legend of Elvis endures.
+  1. If you **persist** with your studies, you will surely pass the exam.
+  2. The heavy rain will **persist** throughout the whole night.
 
 ## 69: Personnel
-- **Dissection:** [per-son-nel]
-- **Meaning:** Group of people willing to obey orders
-- **Hindi:** कार्मिक
+- **Dissection:** [पर-सन-एल] (per-son-nel)
+- **Meaning:** The people who work for an organization or one of the armed forces.
+- **Hindi:** कर्मचारी / कार्मिक
 - **Examples:**
-  1. After 18 years in the personnel office, she has taken a disability pension on advice of her doctors.
-  2. In the first place there is the obvious problem of recruiting high caliber personnel.
+  1. All hospital **personnel** must wash their hands carefully.
+  2. The new manager wants to hire more sales **personnel** this year.
 
 ## 70: Perspective
-- **Dissection:** [per-spect-ive]
-- **Meaning:** A way of regarding situations or topics etc.
-- **Hindi:** परिप्रेक्ष्य
+- **Dissection:** [पर-स्पेक-टिव] (per-spec-tive)
+- **Meaning:** A way of thinking about and understanding something.
+- **Hindi:** परिप्रेक्ष्य / दृष्टिकोण
 - **Examples:**
-  1. Consider what follows from the positivist view.
-  2. A perspective drawing.
+  1. From a child's **perspective**, a year seems like a very long time.
+  2. Traveling to different countries gives you a new **perspective** on life.
 
 ## 71: Persuade
-- **Dissection:** [per-suade]
-- **Meaning:** To successfully convince (someone) to agree to, accept, or do something, usually through reasoning and verbal influence.
-- **Hindi:** राज़ी करना
+- **Dissection:** [पर-स्वेड] (per-suade)
+- **Meaning:** To make someone agree to do something by giving them good reasons.
+- **Hindi:** राज़ी करना / मनाना
 - **Examples:**
-  1. That salesman was able to persuade me into buying this bottle of lotion.
-  2. Advertisements try to persuade consumers to buy products they may not need.
+  1. I will try to **persuade** my father to buy me a new bicycle.
+  2. The clever salesman can **persuade** anyone to buy his goods.
 
 ## 72: Pessimistic
-- **Dissection:** [pess-im-ist-ic]
-- **Meaning:** Expecting the worst possible outcome
+- **Dissection:** [पेस-इ-मिस-टिक] (pes-si-mis-tic)
+- **Meaning:** Always thinking that bad things are going to happen.
 - **Hindi:** निराशावादी
 - **Examples:**
-  1. A pessimistic view of the future.
-  2. A pessimistic estimate.
+  1. He is very **pessimistic** and never expects to win the game.
+  2. Do not be so **pessimistic** about your future; things will get better.
 
 ## 73: Pest
-- **Dissection:** [pest]
-- **Meaning:** A serious (sometimes fatal) infection of rodents caused by Yersinia pestis and accidentally transmitted to humans by the bite of a flea that has bitten an infected animal
-- **Hindi:** कीट
+- **Dissection:** [पेस्ट] (pest - एक बार में बोलें)
+- **Meaning:** An insect or small animal that damages plants or food.
+- **Hindi:** हानिकारक कीट / तंग करने वाला
 - **Examples:**
-  1. He sprayed the garden to get rid of pests.
-  2. Many pests have developed resistance to the common pesticides.
+  1. A small green **pest** is eating all the leaves on my tomato plants.
+  2. The farmer uses chemicals to kill any **pest** in his fields.
 
 ## 74: Petition
-- **Dissection:** [pe-ti-tion]
-- **Meaning:** A formal message requesting something that is submitted to an authority
-- **Hindi:** याचिका
+- **Dissection:** [प-टिश-अन] (pe-ti-tion)
+- **Meaning:** A written request signed by many people asking someone in authority to change something.
+- **Hindi:** याचिका / अर्ज़ी
 - **Examples:**
-  1. His petition charged mental cruelty.
-  2. The petition listed the mayor's occupation as `` attorney '' and his age as 71.
+  1. We signed a **petition** to stop them from cutting down the old trees.
+  2. The students gave a **petition** to the principal asking for better food.
 
 ## 75: Petrol
-- **Dissection:** [pet-rol]
-- **Meaning:** A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines
+- **Dissection:** [पेट-्रल] (pet-rol)
+- **Meaning:** A liquid used as fuel for cars and other vehicles (called 'gasoline' in American English).
 - **Hindi:** पेट्रोल
 - **Examples:**
-  1. ESSO RAISES SINGAPORE PETROL PUMP PRICES Esso Singapore Pte Ltd said it raised pump prices of petrol from today.
-  2. In February petrol prices increased but winter clothing prices stayed low and vegetable prices fell.
+  1. We need to stop at the station to put more **petrol** in the car.
+  2. The price of **petrol** has gone up again this week.
 
 ## 76: Phase
-- **Dissection:** [phase]
-- **Meaning:** Any distinct time period in a sequence of events
-- **Hindi:** चरण
+- **Dissection:** [फ़ेज़] (phase - एक बार में बोलें)
+- **Meaning:** A stage or period in a process of change or development.
+- **Hindi:** चरण / अवस्था
 - **Examples:**
-  1. We are in a transitional stage in which many former ideas must be revised or rejected.
-  2. The reaction occurs in the liquid phase of the system.
+  1. The baby is going through a **phase** where he cries a lot.
+  2. We have successfully completed the first **phase** of the building project.
 
 ## 77: Phenomenon
-- **Dissection:** [phe-nomen-on]
-- **Meaning:** Any state or process known through the senses rather than by intuition or reasoning
-- **Hindi:** घटना
+- **Dissection:** [फ़-नॉम-इ-नन] (phe-nom-e-non)
+- **Meaning:** Something that happens or exists in society, science, or nature, especially something unusual or interesting.
+- **Hindi:** घटना / अजूबा
 - **Examples:**
-  1. An electromagnetic phenomenon.
-  2. A volcanic eruption is an impressive phenomenon.
+  1. A solar eclipse is a very rare and beautiful natural **phenomenon**.
+  2. The sudden popularity of the toy was an unusual **phenomenon**.
 
 ## 78: Philosopher
-- **Dissection:** [philo-soph-er]
-- **Meaning:** A specialist in philosophy
+- **Dissection:** [फ़िल-ऑस-अ-फ़र] (phi-los-o-pher)
+- **Meaning:** A person who studies ideas about knowledge, truth, the nature and meaning of life, etc.
 - **Hindi:** दार्शनिक
 - **Examples:**
-  1. I am not a philosopher.
-  2. Only the philosopher knows the truth.
+  1. The old **philosopher** spent his life thinking about the meaning of happiness.
+  2. He read a book written by a famous Greek **philosopher**.
 
 ## 79: Philosophy
-- **Dissection:** [philo-sophy]
-- **Meaning:** A belief (or system of beliefs) accepted as authoritative by some group or school
-- **Hindi:** दर्शन
+- **Dissection:** [फ़िल-ऑस-अ-फ़ी] (phi-los-o-phy)
+- **Meaning:** The study of the basic ideas about knowledge, right and wrong, reasoning, and the value of things.
+- **Hindi:** दर्शन / जीवन-दृष्टि
 - **Examples:**
-  1. Self-indulgence was his only philosophy.
-  2. My father's philosophy of child-rearing was to let mother do it.
+  1. Her main **philosophy** in life is to always be kind to others.
+  2. The professor taught a class on ancient Greek **philosophy**.
 
 ## 80: Photograph
-- **Dissection:** [pho-to-graph]
-- **Meaning:** A representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material
-- **Hindi:** फोटो
+- **Dissection:** [फ़ो-ट-ग्राफ़] (pho-to-graph)
+- **Meaning:** A picture made by a camera.
+- **Hindi:** फोटो / तस्वीर
 - **Examples:**
-  1. I photographed the scene of the accident.
-  2. She snapped a picture of the President.
+  1. She took a beautiful **photograph** of the mountains at sunset.
+  2. I keep a small **photograph** of my family in my wallet.
 
 ## 81: Phrase
-- **Dissection:** [phrase]
-- **Meaning:** An expression consisting of one or more words forming a grammatical constituent of a sentence
-- **Hindi:** वाक्यांश
+- **Dissection:** [फ़्रेज़] (phrase - एक बार में बोलें)
+- **Meaning:** A short group of words that are used together and have a particular meaning.
+- **Hindi:** वाक्यांश / मुहावरा
 - **Examples:**
-  1. He formulated his concerns to the board of trustees.
-  2. Phrase a musical passage.
+  1. "Once upon a time" is a common **phrase** used to start a fairy tale.
+  2. The student asked the teacher to explain the difficult **phrase**.
 
 ## 82: Physician
-- **Dissection:** [phys-i-cian]
-- **Meaning:** A licensed medical practitioner
-- **Hindi:** चिकित्सक
+- **Dissection:** [फ़िज़-इश-अन] (phy-si-cian)
+- **Meaning:** A doctor, especially one who treats diseases using medicine rather than surgery.
+- **Hindi:** चिकित्सक / वैद्य
 - **Examples:**
-  1. Mr. Pezza was taken to a nearby Johnston physician, Dr. Allan A. DiSimone, who treated him.
-  2. First of all, the admitting physician in the VA hospital gets the patient as a new patient.
+  1. The family **physician** came to the house to check on the sick child.
+  2. She is studying hard at the university to become a **physician**.
 
 ## 83: Physicist
-- **Dissection:** [phys-i-cist]
-- **Meaning:** A scientist trained in physics
+- **Dissection:** [फ़िज़-इस-इस्ट] (phys-i-cist)
+- **Meaning:** A scientist who studies physics (matter, energy, space, and time).
 - **Hindi:** भौतिक विज्ञानी
 - **Examples:**
-  1. The theoretical physicist published a paper on the behavior of subatomic particles.
-  2. She worked as a research physicist at the national nuclear laboratory.
+  1. Albert Einstein was a very famous and smart **physicist**.
+  2. The young **physicist** discovered a new kind of star in the sky.
 
 ## 84: Physics
-- **Dissection:** [phys-ics]
-- **Meaning:** The science of matter and energy and their interactions
+- **Dissection:** [फ़िज़-इक्स] (phys-ics)
+- **Meaning:** The scientific study of matter, energy, force, and movement.
 - **Hindi:** भौतिक विज्ञान
 - **Examples:**
-  1. His favorite subject was physics.
-  2. He studied the physics of radiation.
+  1. We learned about gravity and light in our high school **physics** class.
+  2. He enjoys reading books about math and **physics**.
 
 ## 85: Pierce
-- **Dissection:** [pierce]
-- **Meaning:** 14th President of the United States (1804-1869)
-- **Hindi:** प्रवेश करना
+- **Dissection:** [पी-अर्स] (pierce)
+- **Meaning:** To make a small hole in something using a sharp point.
+- **Hindi:** छेदना / बींधना
 - **Examples:**
-  1. The knife cut through the flesh.
-  2. The path pierced the jungle.
+  1. The sharp needle will easily **pierce** the thick cloth.
+  2. She decided to **pierce** her ears so she could wear earrings.
 
 ## 86: Pigeon
-- **Dissection:** [pi-geon]
-- **Meaning:** Wild and domesticated birds having a heavy body and short legs
+- **Dissection:** [पिज-इन] (pi-geon)
+- **Meaning:** A gray bird that is often seen in cities and towns.
 - **Hindi:** कबूतर
 - **Examples:**
-  1. Handley lived further on, at Pigeon Cove.
-  2. Said the Pigeon in a tone of the deepest contempt.
+  1. The small boy fed bread to the **pigeon** in the park.
+  2. A gray **pigeon** flew down and sat on the roof of the house.
 
 ## 87: Pile
-- **Dissection:** [pile]
-- **Meaning:** A collection of objects laid on top of each other
+- **Dissection:** [पायल] (pile - एक बार में बोलें)
+- **Meaning:** Things laid on top of each other, or a large amount of something.
 - **Hindi:** ढेर
 - **Examples:**
-  1. A batch of letters.
-  2. A deal of trouble.
+  1. He left a large **pile** of dirty clothes on the bedroom floor.
+  2. We collected dry wood and made a **pile** for the fire.
 
 ## 88: Pilgrim
-- **Dissection:** [pil-grim]
-- **Meaning:** Someone who journeys in foreign lands
-- **Hindi:** यात्री
+- **Dissection:** [पिल-ग्रिम] (pil-grim)
+- **Meaning:** A person who travels to a holy place for religious reasons.
+- **Hindi:** तीर्थयात्री
 - **Examples:**
-  1. Recently I visited the very remarkable Pilgrim School for retarded children.
-  2. Everything must wait upon this mission, this sentimental duty of a pilgrim whose nature avoided graveyards.
+  1. The tired **pilgrim** walked for many days to reach the holy temple.
+  2. Many a **pilgrim** comes to this quiet mountain to pray every year.
 
 ## 89: Pill
-- **Dissection:** [pill]
-- **Meaning:** Something that resembles a tablet of medicine in shape or size
-- **Hindi:** गोली
+- **Dissection:** [पिल] (pill - एक बार में बोलें)
+- **Meaning:** A small, hard piece of medicine that you swallow whole.
+- **Hindi:** गोली / दवा
 - **Examples:**
-  1. His competitor's success was a bitter pill to take.
-  2. Jane went on the pill when she left for college.
+  1. The doctor told her to take one blue **pill** every morning.
+  2. You should drink water when you swallow a dry **pill**.
 
 ## 90: Pillar
-- **Dissection:** [pil-lar]
-- **Meaning:** A fundamental principle or practice
-- **Hindi:** स्तंभ
+- **Dissection:** [पिल-अर] (pil-lar)
+- **Meaning:** A tall, solid piece of stone or wood used to support a building.
+- **Hindi:** खंभा / स्तंभ
 - **Examples:**
-  1. Science eroded the pillars of superstition.
-  2. The test tube held a column of white powder.
+  1. The old temple was supported by a huge stone **pillar**.
+  2. He stood quietly hiding behind the thick wooden **pillar**.
 
 ## 91: Pillow
-- **Dissection:** [pil-low]
-- **Meaning:** A cushion to support the head of a sleeping person
+- **Dissection:** [पिल-ओ] (pil-low)
+- **Meaning:** A soft object that you rest your head on when you are in bed.
 - **Hindi:** तकिया
 - **Examples:**
-  1. He preferred sleeping in bed with his head on a pillow.
-  2. Eileen declared she couldn't lift her head from the pillow.
+  1. I like to sleep with a very soft **pillow** under my head.
+  2. She covered the bed with a warm blanket and a white **pillow**.
 
 ## 92: Pilot
-- **Dissection:** [pi-lot]
-- **Meaning:** Someone who is licensed to operate an aircraft in flight
-- **Hindi:** पायलट
+- **Dissection:** [पाइ-लट] (pi-lot)
+- **Meaning:** A person who flies an airplane or helicopter.
+- **Hindi:** पायलट / विमान चालक
 - **Examples:**
-  1. This painting is a copy of the original.
-  2. The pilot flew to Cuba.
+  1. The brave **pilot** landed the airplane safely in the bad storm.
+  2. He is studying very hard to become a commercial airline **pilot**.
 
 ## 93: Pine
-- **Dissection:** [pine]
-- **Meaning:** A coniferous tree
-- **Hindi:** चीड़
+- **Dissection:** [पाइन] (pine - एक बार में बोलें)
+- **Meaning:** A tall tree with long, thin leaves that stay green all year round.
+- **Hindi:** चीड़ का पेड़
 - **Examples:**
-  1. She ached for a cigarette.
-  2. I am pining for my lover.
+  1. The air in the forest smelled strongly of fresh **pine** trees.
+  2. He cut a branch from the **pine** to decorate the house.
 
 ## 94: Pioneer
-- **Dissection:** [pi-on-eer]
-- **Meaning:** Someone who helps to open up a new line of research or technology or art
-- **Hindi:** प्रथम अन्वेषक
+- **Dissection:** [पाइ-अ-नीअर] (pi-o-neer)
+- **Meaning:** One of the first people to do something, discover something, or go to a new place.
+- **Hindi:** मार्गदर्शक / पहला अन्वेषक
 - **Examples:**
-  1. They went west as pioneers with only the possessions they could carry with them.
-  2. She pioneered a graduate program for women students.
+  1. He was a **pioneer** in the field of computer science many years ago.
+  2. The brave **pioneer** traveled across the country in a covered wagon.
 
 ## 95: Pipe
-- **Dissection:** [pipe]
-- **Meaning:** A tube with a small bowl at one end; used for smoking tobacco
-- **Hindi:** पाइप
+- **Dissection:** [पाइप] (pipe - एक बार में बोलें)
+- **Meaning:** A tube through which water or gas flows, or a small object used for smoking tobacco.
+- **Hindi:** पाइप / नली
 - **Examples:**
-  1. Pipe oil, water, and gas into the desert.
-  2. Pipe a tune.
+  1. The plumber fixed the broken water **pipe** under the sink.
+  2. The old man sat in his chair and smoked a wooden **pipe**.
 
 ## 96: Pirate
-- **Dissection:** [pir-ate]
-- **Meaning:** Someone who uses another person's words or ideas as if they were his own
+- **Dissection:** [पाइ-रट] (pi-rate)
+- **Meaning:** A person who attacks and steals from ships at sea.
 - **Hindi:** समुद्री डाकू
 - **Examples:**
-  1. The Cubans commandeered the plane and flew it to Miami.
-  2. You should be cautious due to the Somali pirates.
+  1. The cruel **pirate** stole gold and silver from the rich ship.
+  2. He dressed up as a scary **pirate** for the costume party.
 
 ## 97: Pistol
-- **Dissection:** [pis-tol]
-- **Meaning:** A firearm that is held and fired with one hand
+- **Dissection:** [पिस-टल] (pis-tol)
+- **Meaning:** A small gun that you can hold and fire with one hand.
 - **Hindi:** पिस्तौल
 - **Examples:**
-  1. Ordinary Carey Williams, armed with a pistol, stood by at the polls to insure order.
-  2. The elder Bearden had one pistol in his hand, the other in a hip pocket.
+  1. The police officer carried a black **pistol** on his belt.
+  2. He locked the dangerous **pistol** safely inside the metal box.
 
 ## 98: Pity
-- **Dissection:** [pity]
-- **Meaning:** A feeling of sympathy and sorrow for the misfortunes of others
-- **Hindi:** दया
+- **Dissection:** [पिट-ई] (pit-y)
+- **Meaning:** A feeling of sadness or sympathy for someone who is unhappy or hurting.
+- **Hindi:** दया / तरस
 - **Examples:**
-  1. The blind are too often objects of pity.
-  2. It's a pity he couldn't do it.
+  1. She felt great **pity** for the poor, hungry dog on the street.
+  2. It is a **pity** that it rained on the day of the picnic.
 
 ## 99: Plague
-- **Dissection:** [plague]
-- **Meaning:** A serious (sometimes fatal) infection of rodents caused by Yersinia pestis and accidentally transmitted to humans by the bite of a flea that has bitten an infected animal
-- **Hindi:** प्लेग
+- **Dissection:** [प्लेग] (plague - एक बार में बोलें)
+- **Meaning:** A serious disease that spreads quickly and kills many people.
+- **Hindi:** महामारी / प्लेग
 - **Examples:**
-  1. A plague of grasshoppers.
-  2. Those children are a damn plague.
+  1. The terrible **plague** killed thousands of people in the city long ago.
+  2. The doctors worked hard to stop the spread of the deadly **plague**.
 
 ## 100: Plain
-- **Dissection:** [plain]
-- **Meaning:** Extensive tract of level open land
-- **Hindi:** मैदान
+- **Dissection:** [प्लेन] (plain - एक बार में बोलें)
+- **Meaning:** Simple, without any extra marks or decorations; or a large area of flat land.
+- **Hindi:** सादा / मैदान
 - **Examples:**
-  1. They emerged from the woods onto a vast open plain.
-  2. He longed for the fields of his youth.
+  1. She wore a very **plain** white dress with no pretty flowers on it.
+  2. The wild horses ran freely across the wide, green **plain**.
 
 ## 101: Planet
-- **Dissection:** [plan-et]
-- **Meaning:** (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction
+- **Dissection:** [प्लान-इट] (plan-et)
+- **Meaning:** A large, round object in space that moves around the sun or another star.
 - **Hindi:** ग्रह
 - **Examples:**
-  1. `` But did the expedition find any records of the Forerunner having been on this planet??
-  2. `` How can a planet with so many neighbors be so lonely ''??
+  1. The Earth is a beautiful blue **planet** filled with life.
+  2. Mars is known as the red **planet** because of its color.
 
 ## 102: Plasma
-- **Dissection:** [plasma]
-- **Meaning:** The colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are suspended
-- **Hindi:** प्लाज्मा
+- **Dissection:** [प्लाज़-म] (plas-ma)
+- **Meaning:** The clear, yellowish liquid part of blood that carries cells.
+- **Hindi:** रक्त-प्लाज्मा
 - **Examples:**
-  1. In plasma generators the superimposed forced convection may modify the picture somewhat.
-  2. The gas flow through a plasma generator will modify these conditions;;.
+  1. The hospital needs people to donate their blood **plasma**.
+  2. The doctor tested the patient's **plasma** to check for illness.
 
 ## 103: Plaster
-- **Dissection:** [plaster]
-- **Meaning:** A mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings
+- **Dissection:** [प्लास-टर] (plas-ter)
+- **Meaning:** A white powder mixed with water that becomes hard, used for covering walls or a broken bone.
 - **Hindi:** प्लास्टर
 - **Examples:**
-  1. There were cracks in the plaster.
-  2. The demonstrators plastered the hallways with posters.
+  1. He wore a hard white **plaster** cast on his broken arm for a month.
+  2. They spread fresh **plaster** on the walls to make them smooth.
 
 ## 104: Plot
-- **Dissection:** [plot]
-- **Meaning:** A secret scheme to do something (especially something underhand or illegal)
-- **Hindi:** कथानक
+- **Dissection:** [प्लॉट] (plot - एक बार में बोलें)
+- **Meaning:** A secret plan to do something bad, or the story of a book or movie.
+- **Hindi:** कथानक / साज़िश
 - **Examples:**
-  1. They concocted a plot to discredit the governor.
-  2. I saw through his little game from the start.
+  1. The police discovered a secret **plot** to rob the large bank.
+  2. The movie had a very exciting **plot** that kept me guessing.
 
 ## 105: Plow
-- **Dissection:** [plow]
-- **Meaning:** A farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing
+- **Dissection:** [प्लाउ] (plow - एक बार में बोलें)
+- **Meaning:** A large farm tool used to cut and turn over the soil before planting seeds.
 - **Hindi:** हल
 - **Examples:**
-  1. Farmer Jones plowed his east field last week.
-  2. Turn the earth in the Spring.
+  1. The farmer uses a tractor to pull the heavy iron **plow**.
+  2. It took him all day to **plow** the large field for the new crop.
 
 ## 106: Plug
-- **Dissection:** [plug]
-- **Meaning:** Blockage consisting of an object designed to fill a hole tightly
-- **Hindi:** प्लग
+- **Dissection:** [प्लग] (plug - एक बार में बोलें)
+- **Meaning:** A plastic object with metal pins used to connect a machine to electricity, or to fill a hole.
+- **Hindi:** प्लग / डाट
 - **Examples:**
-  1. Plug the hole.
-  2. Stop up the leak.
+  1. Please put the **plug** in the wall to turn on the lamp.
+  2. She pulled the **plug** out of the bathtub to let the water out.
 
 ## 107: Plunge
-- **Dissection:** [plunge]
-- **Meaning:** A brief swim in water
-- **Hindi:** डुबकी
+- **Dissection:** [प्लंज] (plunge - एक बार में बोलें)
+- **Meaning:** To fall or jump suddenly downwards, often into water.
+- **Hindi:** डुबकी / छलांग
 - **Examples:**
-  1. Immerse yourself in hot water.
-  2. The stock market plunged.
+  1. He watched the brave diver take a **plunge** into the deep pool.
+  2. The boy decided to **plunge** his hands into the cold, snowy water.
 
 ## 108: Plural
-- **Dissection:** [plur-al]
-- **Meaning:** The form of a word that is used to denote more than one
+- **Dissection:** [प्लुर-अल] (plur-al)
+- **Meaning:** A word or form used to show that there is more than one person or thing.
 - **Hindi:** बहुवचन
 - **Examples:**
-  1. The teacher showed the class how to form the plural version of irregular nouns.
-  2. The word 'children' is the plural form of the singular noun 'child'.
+  1. The **plural** of the word "child" is "children".
+  2. You must add an 's' to make the noun **plural**.
 
 ## 109: Plus
-- **Dissection:** [plus]
-- **Meaning:** A useful or valuable quality
-- **Hindi:** प्लस
+- **Dissection:** [प्लस] (plus - एक बार में बोलें)
+- **Meaning:** Added to; used in math to show addition.
+- **Hindi:** जोड़ / धनात्मक
 - **Examples:**
-  1. The summation of four and three gives seven.
-  2. Four plus three equals seven.
+  1. In math class, we learned that two **plus** two equals four.
+  2. She wore a warm coat, **plus** a hat and gloves, because it was cold.
 
 ## 110: Plywood
-- **Dissection:** [ply-wood]
-- **Meaning:** A laminate made of thin layers of wood
+- **Dissection:** [प्लाइ-वुड] (ply-wood)
+- **Meaning:** A strong board made by gluing thin layers of wood together.
 - **Hindi:** प्लाईवुड
 - **Examples:**
-  1. After the hurricane there was a severe regional shortage of plywood, especially exterior plywood.
-  2. We stock exterior plywoods, interior plywoods, and furniture plywoods.
+  1. We used thick **plywood** to build a strong floor for the new house.
+  2. He bought a large sheet of **plywood** to make a simple table.
 
 ## 111: Pneumonia
-- **Dissection:** [pneu-mo-nia]
-- **Meaning:** Respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants
-- **Hindi:** न्यूमोनिया
+- **Dissection:** [न्यु-मो-नी-अ] (pneu-mo-nia)
+- **Meaning:** A serious illness in the lungs that makes it hard to breathe.
+- **Hindi:** निमोनिया / फेफड़ों की सूजन
 - **Examples:**
-  1. In these damp circumstances, he was an odds-on bet to develop pneumonia.
-  2. MTA employee: So I had a touch of pneumonia, and they had to remove part of my lung.
+  1. The old man went to the hospital because he had bad **pneumonia**.
+  2. You must stay warm in the winter so you do not catch **pneumonia**.
 
 ## 112: Poetry
-- **Dissection:** [po-etry]
-- **Meaning:** Literature in metrical form
-- **Hindi:** कविता
+- **Dissection:** [पो-इ-ट्री] (po-et-ry)
+- **Meaning:** Poems in general, or the art of writing poems.
+- **Hindi:** काव्य / कविता
 - **Examples:**
-  1. In tradition and in poetry, the marriage bed is a place of unity and harmony.
-  2. Poetry for a Persian is nothing less than truth and beauty.
+  1. He enjoys reading old English **poetry** quietly in his room.
+  2. The teacher asked the students to write their own piece of **poetry**.
 
 ## 113: Polar
-- **Dissection:** [po-lar]
-- **Meaning:** Having a pair of equal and opposite charges
+- **Dissection:** [पो-लर] (po-lar)
+- **Meaning:** Connected with the areas near the North or South Pole.
 - **Hindi:** ध्रुवीय
 - **Examples:**
-  1. In diametric contradiction to his claims.
-  2. Diametrical (or opposite) points of view.
+  1. The large white **polar** bear lives in the cold ice and snow.
+  2. The scientists studied the cold weather in the **polar** region.
 
 ## 114: Pole
-- **Dissection:** [pole]
-- **Meaning:** A long (usually round) rod of wood or metal or plastic
-- **Hindi:** पोल
+- **Dissection:** [पोल] (pole - एक बार में बोलें)
+- **Meaning:** A long, thin stick made of wood or metal.
+- **Hindi:** खंभा
 - **Examples:**
-  1. They are at opposite poles.
-  2. They are poles apart.
+  1. He tied the flag tightly to the tall wooden **pole**.
+  2. The bird sat high up on the metal telephone **pole**.
 
 ## 115: Poll
-- **Dissection:** [poll]
-- **Meaning:** An inquiry into public opinion conducted by interviewing a random sample of people
-- **Hindi:** मतदान
+- **Dissection:** [पोल] (poll - एक बार में बोलें)
+- **Meaning:** A study in which people are asked for their opinions, or an election.
+- **Hindi:** मतदान / सर्वेक्षण
 - **Examples:**
-  1. Pollard trees.
-  2. The student council had a poll to see what people want served in the cafeteria.
+  1. A recent **poll** shows that most people want to protect the trees.
+  2. They went to the **poll** to vote for the new town leader.
 
 ## 116: Pollute
-- **Dissection:** [pol-lute]
-- **Meaning:** Make impure
-- **Hindi:** नापाक किया हुआ
+- **Dissection:** [प-लूट] (pol-lute)
+- **Meaning:** To make air, water, or land dirty and dangerous to use.
+- **Hindi:** प्रदूषित करना
 - **Examples:**
-  1. The industrial wastes polluted the lake.
-  2. The factory polluted the river when it cleaned its tanks.
+  1. Factories should not **pollute** the clean river water with harmful chemicals.
+  2. Cars and trucks **pollute** the air we breathe every day.
 
 ## 117: Pond
-- **Dissection:** [pond]
-- **Meaning:** A small lake
+- **Dissection:** [पॉन्ड] (pond - एक बार में बोलें)
+- **Meaning:** A small area of still water.
 - **Hindi:** तालाब
 - **Examples:**
-  1. The pond was too small for sailing.
-  2. I haven't been back home across the pond in twenty years.
+  1. The small green frogs jump and swim in the garden **pond**.
+  2. We sat by the **pond** and watched the little fish swim around.
 
 ## 118: Ponder
-- **Dissection:** [pon-der]
-- **Meaning:** Reflect deeply on a subject
-- **Hindi:** विचार करें
+- **Dissection:** [पॉन-डर] (pon-der)
+- **Meaning:** To think carefully about something for a long time.
+- **Hindi:** विचार करना
 - **Examples:**
-  1. I mulled over the events of the afternoon.
-  2. Philosophers have speculated on the question of God for thousands of years.
+  1. He sat alone to **ponder** over the difficult problem.
+  2. She will **ponder** your interesting offer before giving an answer.
 
 ## 119: Pony
-- **Dissection:** [pony]
-- **Meaning:** A range horse of the western United States
+- **Dissection:** [पो-नी] (po-ny)
+- **Meaning:** A small type of horse.
 - **Hindi:** टट्टू
 - **Examples:**
-  1. He liked to bet on the ponies.
-  2. 1879, “Some Queer Interviews: Interview with a Pony of Beer”, Puck, Vol. 5–6, p. 435.
+  1. The little girl learned how to ride on a gentle brown **pony**.
+  2. They kept a small **pony** in the field behind their house.
 
 ## 120: Pope
-- **Dissection:** [pope]
-- **Meaning:** The head of the Roman Catholic Church
+- **Dissection:** [पोप] (pope - एक बार में बोलें)
+- **Meaning:** The leader of the Roman Catholic Church.
 - **Hindi:** पोप
 - **Examples:**
-  1. Equally significant, Pope John has said that Catholics themselves bear some responsibility for Christian disunity.
-  2. Nor can one forget Pope John's unprecedented meeting with the Archbishop of Canterbury.
+  1. The **pope** lives in Rome and travels to meet many people.
+  2. Thousands gathered in the square to see the **pope** speak.
 
 ## 121: Porch
-- **Dissection:** [porch]
-- **Meaning:** A structure attached to the exterior of a building often forming a covered entrance
+- **Dissection:** [पोर्च] (porch - एक बार में बोलें)
+- **Meaning:** A covered structure in front of the entrance to a building.
 - **Hindi:** बरामदा
 - **Examples:**
-  1. In the midst of it all, Mr. Podger came out on the Pod porch, alone.
-  2. Our elders stayed in the dark house or sat fanning on the front porch.
+  1. We sat on the front **porch** to enjoy the cool evening wind.
+  2. He left his wet shoes on the wooden **porch** outside the door.
 
 ## 122: Pore
-- **Dissection:** [pore]
-- **Meaning:** Any tiny hole admitting passage of a liquid (fluid or gas)
-- **Hindi:** ध्यान में लीन होना
+- **Dissection:** [पोर] (pore - एक बार में बोलें)
+- **Meaning:** A very small hole in the skin through which sweat passes.
+- **Hindi:** रोमछिद्र
 - **Examples:**
-  1. This small pore size was required to ensure uniformity of the flow leaving the anode.
-  2. Please focus on your studies and not on your hobbies.
+  1. You sweat through every tiny **pore** on your skin when it is very hot.
+  2. Hot water helps to open each **pore** to clean the face well.
 
 ## 123: Pork
-- **Dissection:** [pork]
-- **Meaning:** Meat from a domestic hog or pig
-- **Hindi:** सुअर का माँस
+- **Dissection:** [पोर्क] (pork - एक बार में बोलें)
+- **Meaning:** Meat from a pig.
+- **Hindi:** सुअर का मांस
 - **Examples:**
-  1. Early in 1822 he was at Fort Garry offering to bring in pork, flour, liquor and tobacco.
-  2. To date, the one meat showing favorable results at sterilization doses is pork.
+  1. They roasted some delicious **pork** for dinner last night.
+  2. The recipe says to use a little salt and pepper on the **pork**.
 
 ## 124: Port
-- **Dissection:** [port]
-- **Meaning:** A place (seaport or airport) where people and merchandise can enter or leave a country
-- **Hindi:** पत्तन
+- **Dissection:** [पोर्ट] (port - एक बार में बोलें)
+- **Meaning:** A town or city with a harbor where ships stop to load or unload goods.
+- **Hindi:** बंदरगाह
 - **Examples:**
-  1. Port the helm.
-  2. The captain ported the ship at night.
+  1. The large ship sailed slowly into the busy **port**.
+  2. Many small fishing boats return to the safe **port** before the storm.
 
 ## 125: Portable
-- **Dissection:** [port-able]
-- **Meaning:** A small light typewriter; usually with a case in which it can be carried
-- **Hindi:** पोर्टेबल
+- **Dissection:** [पोर-ट-बल] (por-ta-ble)
+- **Meaning:** Light and small enough to be easily carried or moved.
+- **Hindi:** ले जाने योग्य / सुवाह्य
 - **Examples:**
-  1. A portable television set.
-  2. A portable outboard motor.
+  1. She brought a small **portable** radio to the beach to listen to music.
+  2. He uses a **portable** computer when he travels for work.
 
 ## 126: Porter
-- **Dissection:** [port-er]
-- **Meaning:** A person employed to carry luggage and supplies
-- **Hindi:** बोझ ढोनेवाला
+- **Dissection:** [पोर-टर] (por-ter)
+- **Meaning:** A person whose job is to carry bags and suitcases at a hotel or train station.
+- **Hindi:** कुली / दरबान
 - **Examples:**
-  1. They portered the food up Mount Kilimanjaro for the tourists.
-  2. By the time I reached the train station I was exhausted, but fortunately there was a porter waiting.
+  1. The kind **porter** helped us carry our heavy bags to our room.
+  2. He works as a **porter** at the busy train station.
 
 ## 127: Portion
-- **Dissection:** [por-tion]
-- **Meaning:** Something determined in relation to something that includes it
-- **Hindi:** भाग
+- **Dissection:** [पोर-शन] (por-tion)
+- **Meaning:** A part or share of something larger, like food.
+- **Hindi:** हिस्सा / भाग
 - **Examples:**
-  1. He wanted to feel a part of something bigger than himself.
-  2. I read a portion of the manuscript.
+  1. She cut the sweet cake and gave everyone a small **portion**.
+  2. He always eats a large **portion** of rice for his dinner.
 
 ## 128: Portrait
-- **Dissection:** [por-trait]
-- **Meaning:** A word picture of a person's appearance and character
-- **Hindi:** चित्र
+- **Dissection:** [पोर-ट्रिट] (por-trait)
+- **Meaning:** A painting, drawing, or photograph of a person, usually showing their face.
+- **Hindi:** चित्र / तस्वीर
 - **Examples:**
-  1. The photographer made excellent portraits.
-  2. The author painted a good portrait of urban life in New York in his latest book.
+  1. The famous artist painted a beautiful **portrait** of the queen.
+  2. He has a large family **portrait** hanging on his living room wall.
 
 ## 129: Pose
-- **Dissection:** [pose]
-- **Meaning:** Affected manners intended to impress others
-- **Hindi:** खड़ा करना
+- **Dissection:** [पोज़] (pose - एक बार में बोलें)
+- **Meaning:** To sit or stand in a particular position to be painted or photographed.
+- **Hindi:** मुद्रा / दिखावा करना
 - **Examples:**
-  1. Don't put on airs with me.
-  2. This poses an interesting question.
+  1. The happy family will **pose** together for a nice picture.
+  2. She learned how to **pose** perfectly like a fashion model.
 
 ## 130: Possess
-- **Dissection:** [pos-sess]
-- **Meaning:** Have as an attribute, knowledge, or skill
-- **Hindi:** काबू करना
+- **Dissection:** [प-ज़ेस] (pos-sess)
+- **Meaning:** To have or own something.
+- **Hindi:** अधिकार में रखना
 - **Examples:**
-  1. He possesses great knowledge about the Middle East.
-  2. He owns three houses in Florida.
+  1. You must **possess** a ticket to enter the movie theater.
+  2. She is lucky to **possess** such a beautiful singing voice.
 
 ## 131: Possession
-- **Dissection:** [pos-ses-sion]
-- **Meaning:** The act of having and controlling property
-- **Hindi:** कब्ज़ा
+- **Dissection:** [प-ज़ेश-अन] (pos-ses-sion)
+- **Meaning:** Something that you own or have with you.
+- **Hindi:** संपत्ति / कब्ज़ा
 - **Examples:**
-  1. They took possession of the ball on their own goal line.
-  2. I would gladly give all of my worldly possessions just to be able to do that.
+  1. Her favorite **possession** is a small silver ring from her grandmother.
+  2. All his worldly **possession** fits inside one small travel bag.
 
 ## 132: Postage
-- **Dissection:** [post-age]
-- **Meaning:** The charge for mailing something
-- **Hindi:** डाक
+- **Dissection:** [पोस-टिज] (post-age)
+- **Meaning:** The money you pay to send a letter or package.
+- **Hindi:** डाक खर्च
 - **Examples:**
-  1. He stuck a stamp on the envelope to pay for the domestic letter postage.
-  2. The online store charged a small fee to cover the cost of postage and handling.
+  1. How much **postage** do I need to send this large letter?
+  2. The price of **postage** stamps has gone up again this year.
 
 ## 133: Poster
-- **Dissection:** [poster]
-- **Meaning:** A sign posted in a public place as an advertisement
-- **Hindi:** पोस्टर
+- **Dissection:** [पोस-टर] (pos-ter)
+- **Meaning:** A large printed picture or notice that you put on a wall.
+- **Hindi:** पोस्टर / विज्ञापन पत्र
 - **Examples:**
-  1. A poster advertised the coming attractions.
-  2. He has posters of his favorite band, sports teams and holiday resorts up.
+  1. She has a large colorful **poster** of her favorite band on her wall.
+  2. We made a big paper **poster** for the school science fair.
 
 ## 134: Postpone
-- **Dissection:** [post-pone]
-- **Meaning:** Hold back to a later time
-- **Hindi:** स्थगित करना
+- **Dissection:** [पोस्ट-पोन] (post-pone)
+- **Meaning:** To change an event to a later time or day.
+- **Hindi:** टालना / स्थगित करना
 - **Examples:**
-  1. It said that further appreciation could then lead manufacturers to postpone their investment plans and thus weaken domestic growth.
-  2. GENCORP ASKS SHAREHOLDERS TO POSTPONE ACTION IN TENDER OFFER.
+  1. We had to **postpone** the picnic because it was raining very hard.
+  2. The teacher will **postpone** the big math test until next Monday.
 
 ## 135: Posture
-- **Dissection:** [pos-ture]
-- **Meaning:** The arrangement of the body and its limbs
-- **Hindi:** आसन
+- **Dissection:** [पॉस-चर] (pos-ture)
+- **Meaning:** The way in which you hold your body when standing or sitting.
+- **Hindi:** आसन / मुद्रा
 - **Examples:**
-  1. He assumed an attitude of surrender.
-  2. Stood with good posture.
+  1. You should try to sit with good **posture** to protect your back.
+  2. Her tall, straight **posture** made her look very confident.
 
 ## 136: Pot
-- **Dissection:** [pot]
-- **Meaning:** Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid
-- **Hindi:** मटका
+- **Dissection:** [पॉट] (pot - एक बार में बोलें)
+- **Meaning:** A deep, round container used for cooking food or growing plants.
+- **Hindi:** बर्तन / गमला
 - **Examples:**
-  1. A batch of letters.
-  2. A deal of trouble.
+  1. She cooked some hot soup in a large iron **pot**.
+  2. We planted a beautiful red flower in the brown clay **pot**.
 
 ## 137: Pottery
-- **Dissection:** [pot-tery]
-- **Meaning:** Ceramic ware made from clay and baked in a kiln
-- **Hindi:** मिट्टी के बर्तनों
+- **Dissection:** [पॉट-अ-री] (pot-ter-y)
+- **Meaning:** Pots, dishes, and other objects made from baked clay.
+- **Hindi:** मिट्टी के बर्तन
 - **Examples:**
-  1. The shelves were lined with pottery of all shapes and sizes.
-  2. I visited the old potteries and saw the pots being made.
+  1. She learned how to make beautiful **pottery** at the art class.
+  2. They sell old, colorful Mexican **pottery** in the market.
 
 ## 138: Poultry
-- **Dissection:** [poultry]
-- **Meaning:** A domesticated gallinaceous bird thought to be descended from the red jungle fowl
-- **Hindi:** मुर्गीपालन
+- **Dissection:** [पोल-ट्री] (poul-try)
+- **Meaning:** Birds kept for their meat or eggs, like chickens and ducks.
+- **Hindi:** मुर्गीपालन / पक्षी का मांस
 - **Examples:**
-  1. The school raises enough poultry, pigs, and beef cattle for most of their needs.
-  2. Most of the grain is fed to swine and dairy cows and lesser amounts to beef cattle and poultry.
+  1. The farmer raises **poultry** and sells fresh eggs every morning.
+  2. You should make sure all **poultry** is cooked very well before eating it.
 
 ## 139: Poverty
-- **Dissection:** [poverty]
-- **Meaning:** The state of having little or no money and few or no material possessions
-- **Hindi:** गरीबी
+- **Dissection:** [पॉव-अर-टी] (pov-er-ty)
+- **Meaning:** The state of being very poor and not having enough money for basic things.
+- **Hindi:** ग़रीबी / निर्धनता
 - **Examples:**
-  1. The first was the commune program, which will ensure agricultural poverty for years.
-  2. He was obsessed by disease and poverty, by the melancholy of old age and the tyranny of lust.
+  1. Many children in that country live in extreme **poverty** and are hungry.
+  2. He worked hard all his life to escape the terrible **poverty**.
 
 ## 140: Practical
-- **Dissection:** [prac-tic-al]
-- **Meaning:** Concerned with actual use or practice
-- **Hindi:** व्यावहारिक
+- **Dissection:** [प्रैक-टिक-अल] (prac-ti-cal)
+- **Meaning:** Useful, sensible, and good for real situations.
+- **Hindi:** व्यावहारिक / काम का
 - **Examples:**
-  1. He is a very practical person.
-  2. The idea had no practical application.
+  1. It is very **practical** to carry an umbrella when it looks like rain.
+  2. The heavy shoes are **practical** for walking in the deep snow.
 
 ## 141: Praise
-- **Dissection:** [praise]
-- **Meaning:** An expression of approval and commendation
-- **Hindi:** प्रशंसा
+- **Dissection:** [प्रेज़] (praise - एक बार में बोलें)
+- **Meaning:** To say that you admire and approve of someone or something.
+- **Hindi:** प्रशंसा / तारीफ
 - **Examples:**
-  1. He always appreciated praise for his work.
-  2. They sang a hymn of praise to God.
+  1. The teacher gave high **praise** to the student for his excellent work.
+  2. They always **praise** their dog when he learns a new trick.
 
 ## 142: Pray
-- **Dissection:** [pray]
-- **Meaning:** Address a deity, a prophet, a saint or an object of worship; say a prayer
+- **Dissection:** [प्रे] (pray - एक बार में बोलें)
+- **Meaning:** To speak to God to give thanks or ask for help.
 - **Hindi:** प्रार्थना करना
 - **Examples:**
-  1. Pray to the Lord.
-  2. I beg you to stop!
+  1. We will **pray** for the safe return of the lost travelers.
+  2. She goes to the quiet church every morning to **pray**.
 
 ## 143: Preach
-- **Dissection:** [preach]
-- **Meaning:** Deliver a sermon
-- **Hindi:** धर्म का उपदेश देना
+- **Dissection:** [प्रीच] (preach - एक बार में बोलें)
+- **Meaning:** To give a religious talk in a public place.
+- **Hindi:** उपदेश देना
 - **Examples:**
-  1. The minister is not preaching this Sunday.
-  2. The doctor advocated a smoking ban in the entire house.
+  1. The kind priest will **preach** about love and peace on Sunday.
+  2. It is easy to **preach** about being good, but hard to actually do it.
 
 ## 144: Precaution
-- **Dissection:** [pre-cau-tion]
-- **Meaning:** A precautionary measure warding off impending danger or damage or injury etc.
-- **Hindi:** एहतियात
+- **Dissection:** [प्रि-कॉ-शन] (pre-cau-tion)
+- **Meaning:** Something you do to stop a bad thing from happening in the future.
+- **Hindi:** एहतियात / सावधानी
 - **Examples:**
-  1. He put an ice pack on the injury as a precaution.
-  2. An insurance policy is a good safeguard.
+  1. Taking an umbrella is a wise **precaution** when the sky is dark.
+  2. Locking the door at night is a simple safety **precaution**.
 
 ## 145: Precede
-- **Dissection:** [pre-cede]
-- **Meaning:** Be earlier in time; go back further
-- **Hindi:** पूर्व में होना
+- **Dissection:** [प्रि-सीड] (pre-cede)
+- **Meaning:** To happen or go before something else in time or order.
+- **Hindi:** पहले आना / पूर्व में होना
 - **Examples:**
-  1. Stone tools precede bronze tools.
-  2. Most English adjectives precede the noun they modify.
+  1. The dark clouds will usually **precede** a heavy rain storm.
+  2. A short introduction will **precede** the main part of the speech.
 
 ## 146: Precious
-- **Dissection:** [pre-cious]
-- **Meaning:** Characterized by feeling or showing fond affection for
-- **Hindi:** कीमती
+- **Dissection:** [प्रेश-अस] (pre-cious)
+- **Meaning:** Very valuable; or loved very much.
+- **Hindi:** कीमती / अनमोल
 - **Examples:**
-  1. A cherished friend.
-  2. Children are precious.
+  1. The queen wore a beautiful crown made of **precious** gold and stones.
+  2. My family is the most **precious** thing in my whole life.
 
 ## 147: Precise
-- **Dissection:** [pre-cise]
-- **Meaning:** Sharply exact or accurate or delimited
-- **Hindi:** सटीक
+- **Dissection:** [प्रि-साइस] (pre-cise)
+- **Meaning:** Exact, clear, and accurate.
+- **Hindi:** सटीक / ठीक-ठीक
 - **Examples:**
-  1. A precise mind.
-  2. Specified a precise amount.
+  1. He gave us **precise** directions to find his new house.
+  2. You must measure the flour with a very **precise** scale.
 
 ## 148: Precision
-- **Dissection:** [pre-ci-sion]
-- **Meaning:** The quality of being reproducible in amount or performance
-- **Hindi:** शुद्धता
+- **Dissection:** [प्रि-सिज़-अन] (pre-ci-sion)
+- **Meaning:** The quality of being exact and accurate.
+- **Hindi:** शुद्धता / सटीकता
 - **Examples:**
-  1. He handled it with the preciseness of an automaton.
-  2. Note the meticulous precision of his measurements.
+  1. The careful watchmaker worked with great **precision** and skill.
+  2. A pilot needs to fly the plane with absolute **precision**.
 
 ## 149: Predict
-- **Dissection:** [pre-dict]
-- **Meaning:** Make a prediction about; tell in advance
+- **Dissection:** [प्रि-डिक्ट] (pre-dict)
+- **Meaning:** To say what will happen in the future.
 - **Hindi:** भविष्यवाणी करना
 - **Examples:**
-  1. Call the outcome of an election.
-  2. These signs bode bad news.
+  1. The weather man will **predict** heavy snow for tomorrow morning.
+  2. It is hard to **predict** who will win the big race.
 
 ## 150: Preface
-- **Dissection:** [pre-face]
-- **Meaning:** A short introductory essay preceding the text of a book
-- **Hindi:** प्रस्तावना
+- **Dissection:** [प्रेफ़-अस] (pref-ace)
+- **Meaning:** An introduction at the beginning of a book or speech.
+- **Hindi:** प्रस्तावना / भूमिका
 - **Examples:**
-  1. She always precedes her lectures with a joke.
-  2. He prefaced his lecture with a critical remark about the institution.
+  1. The author explains why he wrote the book in the short **preface**.
+  2. He read the **preface** before starting the first chapter of the story.
 
 ## 151: Prefer
-- **Dissection:** [prefer]
-- **Meaning:** Like better; value more highly
-- **Hindi:** पसंद करना
+- **Dissection:** [प्रि-फ़र] (pre-fer)
+- **Meaning:** To like one thing or person better than another.
+- **Hindi:** पसंद करना / प्राथमिकता देना
 - **Examples:**
-  1. Some people prefer camping to staying in hotels.
-  2. We prefer sleeping outside.
+  1. I usually **prefer** drinking hot tea instead of cold milk.
+  2. Does he **prefer** to sit in the front or the back of the car?
 
 ## 152: Preference
-- **Dissection:** [pref-er-ence]
-- **Meaning:** A strong liking
-- **Hindi:** वरीयता
+- **Dissection:** [प्रेफ़-रन्स] (pref-er-ence)
+- **Meaning:** A feeling of liking one thing more than another.
+- **Hindi:** पसंद / वरीयता
 - **Examples:**
-  1. My own preference is for good literature.
-  2. The Irish have a penchant for blarney.
+  1. Her color **preference** for clothes is always blue.
+  2. Do you have a **preference** for sweet or spicy food?
 
 ## 153: Pregnant
-- **Dissection:** [preg-nant]
-- **Meaning:** Carrying developing offspring within the body or being about to produce new life
+- **Dissection:** [प्रेग-नंट] (preg-nant)
+- **Meaning:** Having a baby developing inside the body.
 - **Hindi:** गर्भवती
 - **Examples:**
-  1. A meaning look.
-  2. Words fraught with meaning.
+  1. The doctor told her that she was **pregnant** with twins.
+  2. My sister is six months **pregnant** and feels very tired.
 
 ## 154: Prejudice
-- **Dissection:** [pre-ju-dice]
-- **Meaning:** A partiality that prevents objective consideration of an issue or situation
-- **Hindi:** पूर्वाग्रह
+- **Dissection:** [प्रेज-अ-डिस] (prej-u-dice)
+- **Meaning:** An unfair feeling of dislike for a person or group because of race, sex, religion, etc.
+- **Hindi:** पूर्वाग्रह / पक्षपात
 - **Examples:**
-  1. He had no great prejudice against shills;;.
-  2. Will not the old prejudice be too strong?".
+  1. He suffered a lot from racial **prejudice** when he was young.
+  2. You should try to judge people without any **prejudice**.
 
 ## 155: Preliminary
-- **Dissection:** [pre-lim-in-ary]
-- **Meaning:** A minor match preceding the main event
-- **Hindi:** प्रारंभिक
+- **Dissection:** [प्रि-लिम-इ-नेर-ई] (pre-lim-i-nar-y)
+- **Meaning:** Happening before a more important action or event.
+- **Hindi:** प्रारंभिक / शुरुआती
 - **Examples:**
-  1. Training is a necessary preliminary to employment.
-  2. Drinks were the overture to dinner.
+  1. The team had a quick **preliminary** meeting before the big game.
+  2. These are just the **preliminary** results, not the final numbers.
 
 ## 156: Premier
-- **Dissection:** [premi-er]
-- **Meaning:** The person who holds the position of head of the government in the United Kingdom
-- **Hindi:** प्रधान
+- **Dissection:** [प्रि-मी-अर] (pre-mi-er)
+- **Meaning:** Best or most important.
+- **Hindi:** प्रमुख / सर्वोच्च
 - **Examples:**
-  1. We premiered the opera of the young composer and it was a critical success.
-  2. An architect of premier rank.
+  1. She is the **premier** dancer in the entire ballet company.
+  2. This hospital offers the **premier** heart care in the country.
 
 ## 157: Premise
-- **Dissection:** [premise]
-- **Meaning:** A statement that is assumed to be true and from which a conclusion can be drawn
-- **Hindi:** आधार
+- **Dissection:** [प्रेम-इस] (prem-ise)
+- **Meaning:** An idea or statement that a thought or argument is based on.
+- **Hindi:** आधार / पूर्व-कल्पना
 - **Examples:**
-  1. The detective based his theory on the premise that the witness was telling the truth.
-  2. The entire argument is invalid because it is based on a false premise.
+  1. The whole story is built on the **premise** that magic is real.
+  2. His argument is based on a false **premise**.
 
 ## 158: Premium
-- **Dissection:** [premi-um]
-- **Meaning:** Payment for insurance
-- **Hindi:** अधिमूल्य
+- **Dissection:** [प्री-मी-अम] (pre-mi-um)
+- **Meaning:** An extra amount of money that you pay for something better, or for insurance.
+- **Hindi:** अधिमूल्य / किस्त
 - **Examples:**
-  1. They paid a premium for access to water.
-  2. They encouraged customers with a premium for loyal patronage.
+  1. You have to pay a **premium** for a seat right at the front.
+  2. He pays his life insurance **premium** every month.
 
 ## 159: Preparation
-- **Dissection:** [pre-par-a-tion]
-- **Meaning:** The activity of putting or setting in order in advance of some act or purpose
+- **Dissection:** [प्रेप-अ-रे-शन] (prep-a-ra-tion)
+- **Meaning:** The things that you do to get ready for something.
 - **Hindi:** तैयारी
 - **Examples:**
-  1. Preparations for the ceremony had begun.
-  2. The physician prescribed a commercial preparation of the medicine.
+  1. The teacher did a lot of **preparation** before the difficult lesson.
+  2. We painted the walls in **preparation** for the new baby.
 
 ## 160: Prescribe
-- **Dissection:** [pre-scribe]
-- **Meaning:** Issue commands or orders for
-- **Hindi:** लिखो
+- **Dissection:** [प्रि-स्क्राइब] (pre-scribe)
+- **Meaning:** When a doctor writes an order for medicine for a sick person.
+- **Hindi:** दवा लिखना / निर्देश देना
 - **Examples:**
-  1. The doctor prescribed aspirin.
-  2. The property meets the criteria prescribed by the regulations.
+  1. The doctor will **prescribe** some strong pills for your bad cough.
+  2. I need to take exactly what the doctor decided to **prescribe**.
 
 ## 161: Presence
-- **Dissection:** [pres-ence]
-- **Meaning:** The state of being present; current existence
-- **Hindi:** उपस्थिति
+- **Dissection:** [प्रेज़-अन्स] (pres-ence)
+- **Meaning:** The fact of being in a particular place.
+- **Hindi:** उपस्थिति / मौजूदगी
 - **Examples:**
-  1. He tested for the presence of radon.
-  2. She blushed in his presence.
+  1. The quiet **presence** of her mother made the child feel safe.
+  2. He stood up straight in the **presence** of the king.
 
 ## 162: Preserve
-- **Dissection:** [pre-serve]
-- **Meaning:** A domain that seems to be specially reserved for someone
-- **Hindi:** संरक्षित करना
+- **Dissection:** [प्रि-ज़र्व] (pre-serve)
+- **Meaning:** To keep something safe from harm or changing.
+- **Hindi:** सुरक्षित रखना
 - **Examples:**
-  1. Medicine is no longer a male preserve.
-  2. Preserve the peace in the family.
+  1. We must work hard to **preserve** the beautiful old trees.
+  2. The cold ice will **preserve** the fresh meat for a long time.
 
 ## 163: Preset
-- **Dissection:** [pre-set]
-- **Meaning:** Set in advance
-- **Hindi:** प्रीसेट
+- **Dissection:** [प्री-सेट] (pre-set)
+- **Meaning:** To prepare a machine so it will work at a later time.
+- **Hindi:** पहले से तय करना / प्रीसेट
 - **Examples:**
-  1. A preset plan of action.
-  2. At a predetermined time.
+  1. I will **preset** the oven to turn on at four o'clock.
+  2. The radio is **preset** to my favorite music station.
 
 ## 164: Prestigious
-- **Dissection:** [pres-ti-gi-ous]
-- **Meaning:** Having an illustrious reputation; respected
-- **Hindi:** प्रतिष्ठित
+- **Dissection:** [प्रेस-टिज-अस] (pres-ti-gious)
+- **Meaning:** Highly respected and admired by people.
+- **Hindi:** प्रतिष्ठित / ख्यातिप्राप्त
 - **Examples:**
-  1. Our esteemed leader.
-  2. A prestigious author.
+  1. He was very happy to win the **prestigious** award for his writing.
+  2. She was accepted into a very **prestigious** university.
 
 ## 165: Presume
-- **Dissection:** [pre-sume]
-- **Meaning:** Take to be the case or to be true; accept without verification or proof
-- **Hindi:** अनुमान
+- **Dissection:** [प्रि-ज़्यूम] (pre-sume)
+- **Meaning:** To think that something is true without being certain.
+- **Hindi:** मान लेना / अनुमान लगाना
 - **Examples:**
-  1. I assume his train was late.
-  2. How dare you call my lawyer?
+  1. I **presume** you are hungry since you have not eaten all day.
+  2. It is not fair to **presume** he is guilty before the trial.
 
 ## 166: Pretend
-- **Dissection:** [pre-tend]
-- **Meaning:** The enactment of a pretense
-- **Hindi:** बहाना करना
+- **Dissection:** [प्रि-टेंड] (pre-tend)
+- **Meaning:** To behave as if something is true when it is not.
+- **Hindi:** नाटक करना / बहाना करना
 - **Examples:**
-  1. It was just pretend.
-  2. He feigned that he was ill.
+  1. The children like to **pretend** that they are brave lions.
+  2. You cannot just **pretend** that the problem does not exist.
 
 ## 167: Prevail
-- **Dissection:** [pre-vail]
-- **Meaning:** Be larger in number, quantity, power, status or importance
-- **Hindi:** प्रचलित होना
+- **Dissection:** [प्रि-वेल] (pre-vail)
+- **Meaning:** To win or be accepted after a struggle.
+- **Hindi:** जीतना / प्रबल होना
 - **Examples:**
-  1. Money reigns supreme here.
-  2. Hispanics predominate in this neighborhood.
+  1. The good team will finally **prevail** in the long game.
+  2. We hope that peace and love will **prevail** in the world.
 
 ## 168: Prevent
-- **Dissection:** [pre-vent]
-- **Meaning:** Keep from happening or arising; make impossible
-- **Hindi:** रोकना
+- **Dissection:** [प्रि-वेंट] (pre-vent)
+- **Meaning:** To stop something from happening or someone from doing something.
+- **Hindi:** रोकना / बचाव करना
 - **Examples:**
-  1. My sense of tact forbids an honest answer.
-  2. Your role in the projects precludes your involvement in the competitive project.
+  1. The loud noise will **prevent** the baby from sleeping.
+  2. Good medicine can **prevent** many serious diseases.
 
 ## 169: Previous
-- **Dissection:** [pre-vi-ous]
-- **Meaning:** Just preceding something else in time or order
-- **Hindi:** पहले का
+- **Dissection:** [प्री-वी-अस] (pre-vi-ous)
+- **Meaning:** Happening or existing before the one that you are talking about.
+- **Hindi:** पिछला / पूर्व
 - **Examples:**
-  1. The previous owner.
-  2. My old house was larger.
+  1. I liked the **previous** owner of this house very much.
+  2. She could not remember anything from the **previous** night.
 
 ## 170: Prey
-- **Dissection:** [prey]
-- **Meaning:** A person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence
+- **Dissection:** [प्रे] (prey - एक बार में बोलें)
+- **Meaning:** An animal that is hunted and killed by another for food.
 - **Hindi:** शिकार
 - **Examples:**
-  1. He fell prey to muggers.
-  2. Everyone was fair game.
+  1. The quick rabbit was easy **prey** for the hungry wolf.
+  2. The eagle flew high in the sky looking for its **prey**.
 
 ## 171: Primary
-- **Dissection:** [primary]
-- **Meaning:** A preliminary election where delegates or nominees are chosen
-- **Hindi:** प्राथमिक
+- **Dissection:** [प्राइ-मेर-ई] (pri-ma-ry)
+- **Meaning:** Most important, or happening first.
+- **Hindi:** प्राथमिक / मुख्य
 - **Examples:**
-  1. Current through the primary coil induces current in the secondary coil.
-  2. Primary goals.
+  1. Her **primary** goal right now is to finish reading the book.
+  2. Small children usually go to a **primary** school to learn.
 
 ## 172: Prime
-- **Dissection:** [prime]
-- **Meaning:** A number that has no factor but itself and 1
-- **Hindi:** मुख्य
+- **Dissection:** [प्राइम] (prime - एक बार में बोलें)
+- **Meaning:** Main or most important; or of the best quality.
+- **Hindi:** मुख्य / सर्वोत्तम
 - **Examples:**
-  1. Prime a cannon.
-  2. Prime a mine.
+  1. The **prime** reason he moved was to find a better job.
+  2. This old house is a **prime** example of fine building.
 
 ## 173: Primitive
-- **Dissection:** [prim-it-ive]
-- **Meaning:** A person who belongs to an early stage of civilization
-- **Hindi:** प्राचीन
+- **Dissection:** [प्रिम-अ-टिव] (prim-i-tive)
+- **Meaning:** Belonging to a very early stage of development; simple and basic.
+- **Hindi:** प्राचीन / आदिम
 - **Examples:**
-  1. `pick' is the primitive from which `picket' is derived.
-  2. The crude weapons and rude agricultural implements of early man.
+  1. The museum shows how **primitive** man used stone tools.
+  2. They lived in a very **primitive** hut made of dry mud.
 
 ## 174: Principal
-- **Dissection:** [prin-cip-al]
-- **Meaning:** The original amount of a debt on which interest is calculated
-- **Hindi:** प्रधानाचार्य
+- **Dissection:** [प्रिन-स-पल] (prin-ci-pal)
+- **Meaning:** The person in charge of a school; or the most important thing.
+- **Hindi:** प्रधानाचार्य / मुख्य
 - **Examples:**
-  1. She sent unruly pupils to see the principal.
-  2. The chief aim of living.
+  1. The school **principal** spoke to all the students in the morning.
+  2. The **principal** reason I came here is to help you.
 
 ## 175: Principle
-- **Dissection:** [prin-ciple]
-- **Meaning:** A basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct
-- **Hindi:** सिद्धांत
+- **Dissection:** [प्रिन-स-पल] (prin-ci-ple)
+- **Meaning:** A basic rule or belief about what is right and wrong.
+- **Hindi:** सिद्धांत / उसूल
 - **Examples:**
-  1. Their principles of composition characterized all their works.
-  2. A man of principle.
+  1. She is a woman of high moral **principle** and never lies.
+  2. The basic **principle** of the game is very easy to understand.
 
 ## 176: Prior
-- **Dissection:** [pri-or]
-- **Meaning:** The head of a religious order; in an abbey the prior is next below the abbot
-- **Hindi:** पूर्व
+- **Dissection:** [प्राइ-अर] (pri-or)
+- **Meaning:** Happening or existing before something else.
+- **Hindi:** पूर्व / पहले का
 - **Examples:**
-  1. I had no prior knowledge you were coming.
-  2. His prior residence was smaller than his current one.
+  1. I had a **prior** meeting, so I could not come early.
+  2. You need to get **prior** approval before taking a holiday.
 
 ## 177: Priority
-- **Dissection:** [pri-or-ity]
-- **Meaning:** Status established in order of importance or urgency
+- **Dissection:** [प्राइ-ऑर-अ-टी] (pri-or-i-ty)
+- **Meaning:** Something that is very important and must be dealt with before other things.
 - **Hindi:** प्राथमिकता
 - **Examples:**
-  1. ...its precedence as the world's leading manufacturer of pharmaceuticals.
-  2. National independence takes priority over class struggle.
+  1. His first **priority** is to make sure his family is safe.
+  2. Fixing the broken roof is our top **priority** today.
 
 ## 178: Privilege
-- **Dissection:** [priv-ilege]
-- **Meaning:** A special advantage or immunity or benefit not enjoyed by all
+- **Dissection:** [प्रिव-अ-लिज] (priv-i-lege)
+- **Meaning:** A special advantage or right that only one person or group has.
 - **Hindi:** विशेषाधिकार
 - **Examples:**
-  1. Suffrage was the prerogative of white adult males.
-  2. All first-year professors here must teach four courses a term, yet you're only teaching one! What entitled you to such a privilege?
+  1. It is a great **privilege** to meet the famous scientist.
+  2. Having a car is a **privilege**, not a basic right.
 
 ## 179: Probe
-- **Dissection:** [probe]
-- **Meaning:** An inquiry into unfamiliar or questionable activities
-- **Hindi:** जांच
+- **Dissection:** [प्रोब] (probe - एक बार में बोलें)
+- **Meaning:** To ask questions or explore carefully to find out information.
+- **Hindi:** जांच करना
 - **Examples:**
-  1. There was a congressional probe into the scandal.
-  2. Probe an anthill.
+  1. The police will **probe** deeply into the mysterious robbery.
+  2. He tried to **probe** for more details about her new job.
 
 ## 180: Procedure
-- **Dissection:** [pro-ced-ure]
-- **Meaning:** A particular course of action intended to achieve a result
+- **Dissection:** [प्र-सी-जर] (pro-ce-dure)
+- **Meaning:** The correct or normal way of doing something.
 - **Hindi:** प्रक्रिया
 - **Examples:**
-  1. The procedure of obtaining a driver's license.
-  2. It was a process of trial and error.
+  1. The nurse explained the medical **procedure** to the patient.
+  2. What is the usual **procedure** for opening a bank account?
 
 ## 181: Proceed
-- **Dissection:** [pro-ceed]
-- **Meaning:** Continue talking;  he continued,
+- **Dissection:** [प्र-सीड] (pro-ceed)
+- **Meaning:** To continue to do something, or to go forward.
 - **Hindi:** आगे बढ़ना
 - **Examples:**
-  1. I know it's hard,.
-  2. But there is no choice.
+  1. After you eat breakfast, you may **proceed** to your classroom.
+  2. The event will **proceed** as planned despite the rain.
 
 ## 182: Proclaim
-- **Dissection:** [pro-claim]
-- **Meaning:** Declare formally; declare someone to be something; of titles
-- **Hindi:** प्रोक्लेम
+- **Dissection:** [प्र-क्लेम] (pro-claim)
+- **Meaning:** To announce something publicly or officially.
+- **Hindi:** घोषणा करना
 - **Examples:**
-  1. He was proclaimed King.
-  2. `I am not a Communist,' he exclaimed.
+  1. The king will **proclaim** a new law tomorrow morning.
+  2. He stood on the chair to loudly **proclaim** his love.
 
 ## 183: Profile
-- **Dissection:** [pro-file]
-- **Meaning:** An analysis (often in graphical form) representing the extent to which something exhibits various characteristics
-- **Hindi:** प्रोफ़ाइल
+- **Dissection:** [प्रो-फ़ाइल] (pro-file)
+- **Meaning:** Information about a person's life, work, and interests; or the side view of a face.
+- **Hindi:** प्रोफ़ाइल / रूपरेखा
 - **Examples:**
-  1. A biochemical profile of blood.
-  2. A psychological profile of serial killers.
+  1. You should add a nice picture to your online **profile**.
+  2. The artist drew a beautiful **profile** of the young woman.
 
 ## 184: Profit
-- **Dissection:** [profit]
-- **Meaning:** The excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)
-- **Hindi:** लाभ
+- **Dissection:** [प्रॉफ़-इट] (prof-it)
+- **Meaning:** Money that is made in a business after all costs are paid.
+- **Hindi:** लाभ / मुनाफ़ा
 - **Examples:**
-  1. She profited from his vast experience.
-  2. The company has not profited from the merger.
+  1. The small shop made a good **profit** during the holiday season.
+  2. He sold his old car and made a small **profit**.
 
 ## 185: Profound
-- **Dissection:** [pro-found]
-- **Meaning:** The deep; the sea; the ocean.
-- **Hindi:** गहरा
+- **Dissection:** [प्र-फ़ाउन्ड] (pro-found)
+- **Meaning:** Very great, strong, or deeply felt.
+- **Hindi:** गहरा / अत्यंत
 - **Examples:**
-  1. A profound investigation
-  2. The sudden loss of his mentor left him in a state of profound sadness.
+  1. The sad movie had a **profound** effect on her feelings.
+  2. He has a **profound** understanding of human history.
 
 ## 186: Progress
-- **Dissection:** [pro-gress]
-- **Meaning:** Gradual improvement or growth or development
-- **Hindi:** प्रगति
+- **Dissection:** [प्रॉग्-रेस] (prog-ress)
+- **Meaning:** The process of getting better at doing something, or moving closer to a goal.
+- **Hindi:** प्रगति / उन्नति
 - **Examples:**
-  1. Advancement of knowledge.
-  2. Great progress in the arts.
+  1. She is making good **progress** in learning how to swim.
+  2. Slow **progress** is still better than completely stopping.
 
 ## 187: Prohibit
-- **Dissection:** [pro-hib-it]
-- **Meaning:** Command against
-- **Hindi:** निषेध
+- **Dissection:** [प्र-हिब-इट] (pro-hib-it)
+- **Meaning:** To officially stop something from being done by making a rule.
+- **Hindi:** निषेध करना / मना करना
 - **Examples:**
-  1. I forbid you to call me late at night.
-  2. Mother vetoed the trip to the chocolate store.
+  1. The school rules **prohibit** students from running in the halls.
+  2. They will **prohibit** parking on this busy street.
 
 ## 188: Prominent
-- **Dissection:** [prom-in-ent]
-- **Meaning:** Having a quality that thrusts itself into attention
-- **Hindi:** प्रमुख
+- **Dissection:** [प्रॉम-अ-नंट] (prom-i-nent)
+- **Meaning:** Very well known and important.
+- **Hindi:** प्रमुख / प्रसिद्ध
 - **Examples:**
-  1. An outstanding fact of our time is that nations poisoned by anti semitism proved less fortunate in regard to their own freedom.
-  2. A new theory is the most prominent feature of the book.
+  1. He is a **prominent** doctor in the local hospital.
+  2. The church has a **prominent** position on top of the hill.
 
 ## 189: Promote
-- **Dissection:** [pro-mote]
-- **Meaning:** Contribute to the progress or growth of
-- **Hindi:** पदोन्नति करना
+- **Dissection:** [प्र-मोट] (pro-mote)
+- **Meaning:** To give someone a higher or more important job; or to help something happen.
+- **Hindi:** पदोन्नति करना / बढ़ावा देना
 - **Examples:**
-  1. I am promoting the use of computers in the classroom.
-  2. John was kicked upstairs when a replacement was hired.
+  1. The boss will **promote** him to manager next month.
+  2. Eating fresh vegetables will **promote** good health.
 
 ## 190: Prompt
-- **Dissection:** [prompt]
-- **Meaning:** A cue given to a performer (usually the beginning of the next line to be spoken)
-- **Hindi:** तत्पर
+- **Dissection:** [प्रॉम्प्ट] (prompt - एक बार में बोलें)
+- **Meaning:** Done quickly and without delay.
+- **Hindi:** तत्पर / तुरंत
 - **Examples:**
-  1. The audience could hear his prompting.
-  2. This moved me to sacrifice my career.
+  1. Thank you for your **prompt** reply to my email.
+  2. She was very **prompt** and arrived exactly on time.
 
 ## 191: Pronounce
-- **Dissection:** [pro-nounce]
-- **Meaning:** Speak, pronounce, or utter in a certain way
-- **Hindi:** उच्चारण
+- **Dissection:** [प्र-नाउन्स] (pro-nounce)
+- **Meaning:** To make the sound of a word or letter.
+- **Hindi:** उच्चारण करना
 - **Examples:**
-  1. She pronounces French words in a funny way.
-  2. I cannot say `zip wire'.
+  1. Can you teach me how to **pronounce** your beautiful name?
+  2. The teacher asked the student to **pronounce** the word clearly.
 
 ## 192: Proportion
-- **Dissection:** [pro-por-tion]
-- **Meaning:** The quotient obtained when the magnitude of a part is divided by the magnitude of the whole
-- **Hindi:** अनुपात
+- **Dissection:** [प्र-पोर-शन] (pro-por-tion)
+- **Meaning:** A part or share of a whole thing.
+- **Hindi:** अनुपात / हिस्सा
 - **Examples:**
-  1. A building of vast proportions.
-  2. An inordinate proportion of the book is given over to quotations.
+  1. A large **proportion** of the students passed the difficult test.
+  2. You must mix the flour and sugar in the right **proportion**.
 
 ## 193: Propose
-- **Dissection:** [pro-pose]
-- **Meaning:** Make a proposal, declare a plan for something
-- **Hindi:** का प्रस्ताव
+- **Dissection:** [प्र-पोज़] (pro-pose)
+- **Meaning:** To suggest a plan or idea; or to ask someone to marry you.
+- **Hindi:** प्रस्ताव रखना
 - **Examples:**
-  1. The senator proposed to abolish the sales tax.
-  2. He proposed a new plan for dealing with terrorism.
+  1. I **propose** that we take a short break to eat lunch.
+  2. He bought a ring and will **propose** to his girlfriend tonight.
 
 ## 194: Prospect
-- **Dissection:** [pro-spect]
-- **Meaning:** The possibility of future success
+- **Dissection:** [प्रॉस-पेक्ट] (pros-pect)
+- **Meaning:** The possibility or chance that something good will happen in the future.
 - **Hindi:** संभावना
 - **Examples:**
-  1. His prospects as a writer are excellent.
-  2. The most desirable feature of the park are the beautiful views.
+  1. She is excited about the **prospect** of traveling to Japan.
+  2. There is very little **prospect** that the weather will improve today.
 
 ## 195: Prosper
-- **Dissection:** [prosper]
-- **Meaning:** Make steady progress; be at the high point in one's career or reach a high point in historical significance or importance
-- **Hindi:** प्रोस्पर
+- **Dissection:** [प्रॉस-पर] (pros-per)
+- **Meaning:** To be successful, usually by making a lot of money.
+- **Hindi:** सफल होना / समृद्ध होना
 - **Examples:**
-  1. " We hope we can survive and prosper through diversification," he said.
-  2. But it shall not prosper.
+  1. The new business will grow and **prosper** in the big city.
+  2. We hope that your family will always be happy and **prosper**.
 
 ## 196: Protein
-- **Dissection:** [pro-tein]
-- **Meaning:** Any of a large group of nitrogenous organic compounds that are essential constituents of living cells; consist of polymers of amino acids; essential in the diet of animals for growth and for repair of tissues; can be obtained from meat and eggs and milk and legumes
+- **Dissection:** [प्रो-टीन] (pro-tein)
+- **Meaning:** A substance found in food like meat, milk, and beans that helps your body grow and stay healthy.
 - **Hindi:** प्रोटीन
 - **Examples:**
-  1. `` It contains large amounts of protein, vitamins and minerals.
-  2. Drug is added to either a protein or mineral supplement for a period of 7 or 14 days.
+  1. You should eat foods with high **protein** to build strong muscles.
+  2. Chicken and fish are both very good sources of **protein**.
 
 ## 197: Protest
-- **Dissection:** [protest]
-- **Meaning:** A formal and solemn declaration of objection
-- **Hindi:** विरोध
+- **Dissection:** [प्रो-टेस्ट] (pro-test)
+- **Meaning:** To say or show strongly that you do not agree with something.
+- **Hindi:** विरोध करना
 - **Examples:**
-  1. They finished the game under protest to the league president.
-  2. The senator rose to register his protest.
+  1. The students will **protest** against the new school rules today.
+  2. They held a peaceful **protest** in the park to save the trees.
 
 ## 198: Protocol
-- **Dissection:** [pro-tocol]
-- **Meaning:** (computer science) rules determining the format and transmission of data
-- **Hindi:** शिष्टाचार
+- **Dissection:** [प्रो-ट-कॉल] (pro-to-col)
+- **Meaning:** A system of rules about the correct way to behave or do something.
+- **Hindi:** नियमों का समूह / शिष्टाचार
 - **Examples:**
-  1. Safety protocols.
-  2. Academic protocol.
+  1. The doctors must follow strict safety **protocol** in the hospital.
+  2. We must learn the proper **protocol** for meeting the president.
 
 ## 199: Prototype
-- **Dissection:** [pro-to-type]
-- **Meaning:** A standard or typical example
-- **Hindi:** प्रोटोटाइप
+- **Dissection:** [प्रो-ट-टाइप] (pro-to-type)
+- **Meaning:** The first model or example of something new that is used to test it.
+- **Hindi:** मूल रूप / प्रोटोटाइप
 - **Examples:**
-  1. He is the prototype of good breeding.
-  2. He provided America with an image of the good father.
+  1. They built a working **prototype** of the new flying car.
+  2. The first **prototype** worked well, so they will make more.
 
 ## 200: Province
-- **Dissection:** [province]
-- **Meaning:** The territory occupied by one of the constituent administrative districts of a nation
-- **Hindi:** प्रांत
+- **Dissection:** [प्रॉव-इन्स] (prov-ince)
+- **Meaning:** A large section of a country, like a state.
+- **Hindi:** प्रांत / राज्य
 - **Examples:**
-  1. His state is in the deep south.
-  2. It was his province to take care of himself.
+  1. He lives in a beautiful **province** in the north of Canada.
+  2. Each **province** has its own local laws and government.
 
 ## 201: Provision
-- **Dissection:** [pro-vi-sion]
-- **Meaning:** A stipulated condition
-- **Hindi:** प्रावधान
+- **Dissection:** [प्र-विज़-अन] (pro-vi-sion)
+- **Meaning:** The act of providing something that someone needs; or a rule in a legal document.
+- **Hindi:** प्रावधान / व्यवस्था
 - **Examples:**
-  1. He accepted subject to one provision.
-  2. His planning for retirement was hindered by several uncertainties.
+  1. The government made a **provision** to give free food to the poor.
+  2. There is a special **provision** in the contract for extra holiday time.
 
 ## 202: Provoke
-- **Dissection:** [pro-voke]
-- **Meaning:** Call forth (emotions, feelings, and responses)
-- **Hindi:** उकसाना
+- **Dissection:** [प्र-वोक] (pro-voke)
+- **Meaning:** To do something that makes someone angry or causes a strong reaction.
+- **Hindi:** उकसाना / भड़काना
 - **Examples:**
-  1. Arouse pity.
-  2. Raise a smile.
+  1. Do not poke the sleeping dog or you will **provoke** it to bite.
+  2. His rude words were meant to **provoke** a fight with his brother.
 
 ## 203: Psychology
-- **Dissection:** [psy-cho-logy]
-- **Meaning:** The science of mental life
+- **Dissection:** [साइ-कॉल-अ-जी] (psy-chol-o-gy)
+- **Meaning:** The scientific study of the human mind and how people behave.
 - **Hindi:** मनोविज्ञान
 - **Examples:**
-  1. East Meadow has philosophy, psychology, and religion;;.
-  2. Is the future of psychology akin to the rich future of physics at the time of Newton??
+  1. She is studying **psychology** at the university to understand the brain.
+  2. Good teachers use child **psychology** to help kids learn better.
 
 ## 204: Publish
-- **Dissection:** [pub-lish]
-- **Meaning:** Put into print
+- **Dissection:** [पब-लिश] (pub-lish)
+- **Meaning:** To print a book, magazine, or newspaper and sell it to the public.
 - **Hindi:** प्रकाशित करना
 - **Examples:**
-  1. The newspaper published the news of the royal couple's divorce.
-  2. These news should not be printed.
+  1. The company will **publish** her new storybook next month.
+  2. They want to **publish** a magazine about healthy eating.
 
 ## 205: Pulse
-- **Dissection:** [pulse]
-- **Meaning:** (electronics) a sharp transient wave in the normal electrical state (or a series of such transients)
-- **Hindi:** नाड़ी
+- **Dissection:** [पल्स] (pulse - एक बार में बोलें)
+- **Meaning:** The regular beating of blood through your body that you can feel in your wrist or neck.
+- **Hindi:** नाड़ी / नब्ज़
 - **Examples:**
-  1. The pulsations seemed to be coming from a star.
-  2. He could feel the beat of her heart.
+  1. The doctor held her wrist to feel her fast **pulse**.
+  2. After running the long race, his **pulse** was very high.
 
 ## 206: Punch
-- **Dissection:** [punch]
-- **Meaning:** (boxing) a blow with the fist
-- **Hindi:** मुक्का
+- **Dissection:** [पंच] (punch - एक बार में बोलें)
+- **Meaning:** To hit someone or something hard with your closed hand.
+- **Hindi:** मुक्का मारना
 - **Examples:**
-  1. I gave him a clout on his nose.
-  2. He punched me in the stomach.
+  1. He was so angry that he wanted to **punch** the wall.
+  2. The boxer threw a strong **punch** during the big fight.
 
 ## 207: Punctual
-- **Dissection:** [punc-tu-al]
-- **Meaning:** Acting or arriving or performed exactly at the time appointed
-- **Hindi:** समयनिष्ठ
+- **Dissection:** [पंक-चु-अल] (punc-tu-al)
+- **Meaning:** Arriving or doing something exactly at the correct time; never late.
+- **Hindi:** समयनिष्ठ / पाबंद
 - **Examples:**
-  1. She expected guests to be punctual at meals.
-  2. He is not a particularly punctual person.
+  1. Please be **punctual** for your important meeting tomorrow morning.
+  2. The trains in this city are always very clean and **punctual**.
 
 ## 208: Purchase
-- **Dissection:** [pur-chase]
-- **Meaning:** The acquisition of something for payment
-- **Hindi:** खरीदना
+- **Dissection:** [पर-चिस] (pur-chase)
+- **Meaning:** To buy something by paying money for it.
+- **Hindi:** खरीदना / ख़रीदारी
 - **Examples:**
-  1. They closed the purchase with a handshake.
-  2. He could get no purchase on the situation.
+  1. I need to **purchase** a new pair of shoes for the winter.
+  2. She saved her money to **purchase** a small red car.
 
 ## 209: Pure
-- **Dissection:** [pure]
-- **Meaning:** Free of extraneous elements of any kind
-- **Hindi:** शुद्ध
+- **Dissection:** [प्योर] (pure - एक बार में बोलें)
+- **Meaning:** Not mixed with anything else; completely clean.
+- **Hindi:** शुद्ध / साफ़
 - **Examples:**
-  1. Pure air and water.
-  2. Pure gold.
+  1. This beautiful ring is made of solid, **pure** gold.
+  2. We drank **pure** water fresh from the mountain spring.
 
 ## 210: Purify
-- **Dissection:** [puri-fy]
-- **Meaning:** Remove impurities from, increase the concentration of, and separate through the process of distillation
-- **Hindi:** शुद्ध
+- **Dissection:** [प्योर-अ-फ़ाइ] (pu-ri-fy)
+- **Meaning:** To make something clean by removing dirt or bad things.
+- **Hindi:** शुद्ध करना
 - **Examples:**
-  1. Purify the water.
-  2. He left the monastery purified.
+  1. We must use a filter to **purify** the dirty water before drinking.
+  2. The plants help to **purify** the air in our small house.
 
 ## 211: Pursue
-- **Dissection:** [pur-sue]
-- **Meaning:** Carry out or participate in an activity; be involved in
-- **Hindi:** पाने की कोशिश करना
+- **Dissection:** [पर-सू] (pur-sue)
+- **Meaning:** To follow someone or something in order to catch them; or to try hard to achieve a goal.
+- **Hindi:** पीछा करना / लक्ष्य पाना
 - **Examples:**
-  1. She pursued many activities.
-  2. They engaged in a discussion.
+  1. The police dog will **pursue** the bad man through the dark woods.
+  2. She moved to the city to **pursue** a career in acting.
 
 ## 212: Pursuit
-- **Dissection:** [pur-suit]
-- **Meaning:** The act of pursuing in an effort to overtake or capture
-- **Hindi:** काम
+- **Dissection:** [पर-सूट] (pur-suit)
+- **Meaning:** The act of following or chasing someone or something; or an activity you spend time doing.
+- **Hindi:** पीछा / शौक
 - **Examples:**
-  1. The culprit started to run and the cop took off in pursuit.
-  2. The pursuit of love.
+  1. The fast police cars are in hot **pursuit** of the stolen truck.
+  2. Painting beautiful pictures is her favorite weekend **pursuit**.
 
 ## 213: Puzzle
-- **Dissection:** [puzzle]
-- **Meaning:** A particularly baffling problem that is said to have a correct solution
+- **Dissection:** [पज़-अल] (puz-zle)
+- **Meaning:** A game or toy with many pieces that you have to put together; or a difficult question.
 - **Hindi:** पहेली
 - **Examples:**
-  1. He loved to solve chessmate puzzles.
-  2. That's a real puzzler.
+  1. The children sat on the floor to build a large picture **puzzle**.
+  2. How the thief opened the locked door is still a big **puzzle**.
 
 ## 214: Pyramid
-- **Dissection:** [pyr-am-id]
-- **Meaning:** A polyhedron having a polygonal base and triangular sides with a common vertex
+- **Dissection:** [पिर-अ-मिड] (pyr-a-mid)
+- **Meaning:** A large shape or building with a flat square bottom and four sides that meet at a point at the top.
 - **Hindi:** पिरामिड
 - **Examples:**
-  1. Ahab seemed a pyramid, and I, like a blazing fool, kept kicking at it.
-  2. Don' t you see that pyramid?'.
+  1. We went to Egypt to see the famous ancient **pyramid**.
+  2. She built a tall **pyramid** out of wooden toy blocks.
 

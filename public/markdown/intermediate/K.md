@@ -1,88 +1,88 @@
 ## 1: Keen
-- **Dissection:** [keen]
-- **Meaning:** To make cold, to sharpen.
-- **Hindi:** उत्सुक
+- **Dissection:** [कीन] (keen - एक बार में बोलें)
+- **Meaning:** Very interested, eager, or wanting to do something very much.
+- **Hindi:** उत्सुक / तेज़
 - **Examples:**
-  1. I’m keen on computers.
-  2. This boy has a keen appetite.
+  1. He is very **keen** to learn how to play the guitar.
+  2. The smart dog has a very **keen** sense of smell.
 
 ## 2: Kettle
-- **Dissection:** [kettle]
-- **Meaning:** A metal pot for stewing or boiling; usually has a lid
+- **Dissection:** [केट-अल] (ket-tle)
+- **Meaning:** A metal or plastic container used for boiling water.
 - **Hindi:** केतली
 - **Examples:**
-  1. There's a hot kettle of soup on the stove.
-  2. Stick the kettle on and we'll have a nice cup of tea.
+  1. She filled the **kettle** with water to make some hot tea.
+  2. The **kettle** started to whistle when the water was boiling.
 
 ## 3: Keyboard
-- **Dissection:** [key-board]
-- **Meaning:** Device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like
-- **Hindi:** कीबोर्ड
+- **Dissection:** [की-बोर्ड] (key-board)
+- **Meaning:** The set of keys on a computer or piano that you press with your fingers.
+- **Hindi:** कीबोर्ड / कुंजीपटल
 - **Examples:**
-  1. Turning to the more modern versions, Curzon's ( London ) offers the most sophisticated keyboard work.
-  2. ( Babin has acquired some of Schnabel's keyboard manner, but his playing is of limited insight.
+  1. He types very fast on his computer **keyboard**.
+  2. She played a beautiful song on the piano **keyboard**.
 
 ## 4: Kidney
-- **Dissection:** [kid-ney]
-- **Meaning:** Either of two bean-shaped excretory organs that filter wastes (especially urea) from the blood and excrete them and water in urine
-- **Hindi:** किडनी
+- **Dissection:** [किड-नी] (kid-ney)
+- **Meaning:** One of the two organs in your body that clean your blood and make urine.
+- **Hindi:** गुर्दा
 - **Examples:**
-  1. She had -- he informed her -- kidney trouble, liver trouble, and a severe female disorder.
-  2. These changes were more marked in the atrophic right kidney than in the left.
+  1. Drinking plenty of water is good for your **kidney** health.
+  2. The doctor checked his **kidney** during the hospital visit.
 
 ## 5: Kilometer
-- **Dissection:** [kilo-met-er]
-- **Meaning:** A metric unit of length equal to 1000 meters (or 0.621371 miles)
+- **Dissection:** [कि-लॉम-इ-टर] (ki-lom-e-ter)
+- **Meaning:** A measure of distance equal to 1,000 meters.
 - **Hindi:** किलोमीटर
 - **Examples:**
-  1. The signs along the highway indicated that the nearest city was fifty kilometers away.
-  2. He ran a five-kilometer race to raise money for a local animal shelter.
+  1. The next town is about ten **kilometers** away from here.
+  2. He runs one **kilometer** every morning before breakfast.
 
 ## 6: Kingdom
-- **Dissection:** [king-dom]
-- **Meaning:** A domain in which something is dominant
-- **Hindi:** साम्राज्य
+- **Dissection:** [किंग-डम] (king-dom)
+- **Meaning:** A country ruled by a king or queen.
+- **Hindi:** राज्य / साम्राज्य
 - **Examples:**
-  1. The untroubled kingdom of reason.
-  2. A land of make-believe.
+  1. The old king ruled his large **kingdom** with a kind heart.
+  2. The fairy tale is about a beautiful magic **kingdom**.
 
 ## 7: Kite
-- **Dissection:** [kite]
-- **Meaning:** A bank check that has been fraudulently altered to increase its face value
+- **Dissection:** [काइट] (kite - एक बार में बोलें)
+- **Meaning:** A toy made of a light frame and paper or cloth, flown in the wind on a long string.
 - **Hindi:** पतंग
 - **Examples:**
-  1. He kited many checks.
-  2. The businessman kited millions of dollars.
+  1. The little boy loves to fly his red **kite** in the park.
+  2. You need a windy day to make the **kite** go high.
 
 ## 8: Kitten
-- **Dissection:** [kit-ten]
-- **Meaning:** Young domestic cat
+- **Dissection:** [किट-अन] (kit-ten)
+- **Meaning:** A young cat.
 - **Hindi:** बिल्ली का बच्चा
 - **Examples:**
-  1. Honest, kitten, that's all it is -- I don't even like Lucille much ''.
-  2. `` I will, kitten ''!!
+  1. The small white **kitten** likes to play with a ball of yarn.
+  2. She found a hungry **kitten** crying outside her door.
 
 ## 9: Kneel
-- **Dissection:** [kneel]
-- **Meaning:** Supporting yourself on your knees
-- **Hindi:** घुटने
+- **Dissection:** [नील] (kneel - एक बार में बोलें)
+- **Meaning:** To go down on your knees, or to rest on your knees.
+- **Hindi:** घुटने टेकना
 - **Examples:**
-  1. In church you have to kneel during parts of the service.
-  2. She knelt the doll to fit it into the box.
+  1. He had to **kneel** on the floor to look under the bed.
+  2. People often **kneel** when they pray in the church.
 
 ## 10: Knit
-- **Dissection:** [knit]
-- **Meaning:** A fabric made by knitting
-- **Hindi:** Knit का हिंदी अर्थ
+- **Dissection:** [निट] (knit - एक बार में बोलें)
+- **Meaning:** To make clothes like sweaters using thick wool yarn and two long needles.
+- **Hindi:** बुनना
 - **Examples:**
-  1. Knit a scarf.
-  2. She puckered her lips.
+  1. My grandmother likes to **knit** warm socks for the winter.
+  2. She learned how to **knit** a soft scarf for her baby.
 
 ## 11: Knot
-- **Dissection:** [knot]
-- **Meaning:** A tight cluster of people or things
+- **Dissection:** [नॉट] (knot - एक बार में बोलें)
+- **Meaning:** A place where two pieces of string or rope are tied tightly together.
 - **Hindi:** गांठ
 - **Examples:**
-  1. A small knot of women listened to his sermon.
-  2. The bird had a knot of feathers forming a crest.
+  1. Make sure to tie a strong **knot** so the boat does not float away.
+  2. He cannot untie the tight **knot** in his shoelace.
 

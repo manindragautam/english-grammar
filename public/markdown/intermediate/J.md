@@ -1,144 +1,144 @@
 ## 1: Jail
-- **Dissection:** [jail]
-- **Meaning:** A correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)
-- **Hindi:** जेल
+- **Dissection:** [जेल] (jail - एक बार में बोलें)
+- **Meaning:** A place where criminals are kept as a punishment.
+- **Hindi:** जेल / कारागार
 - **Examples:**
-  1. The suspects were imprisoned without trial.
-  2. The murderer was incarcerated for the rest of his life.
+  1. The thief was sent to **jail** for stealing the money.
+  2. He spent two years in **jail** before he was freed.
 
 ## 2: Jam
-- **Dissection:** [jam]
-- **Meaning:** Preserve of crushed fruit
-- **Hindi:** जाम
+- **Dissection:** [जैम] (jam - एक बार में बोलें)
+- **Meaning:** A sweet food made from fruit and sugar, usually spread on bread.
+- **Hindi:** मुरब्बा / जैम
 - **Examples:**
-  1. He got into a terrible fix.
-  2. He made a muddle of his marriage.
+  1. She put strawberry **jam** on her toast for breakfast.
+  2. I like to eat bread with butter and **jam**.
 
 ## 3: Jar
-- **Dissection:** [jar]
-- **Meaning:** A vessel (usually cylindrical) with a wide mouth and without handles
-- **Hindi:** जार
+- **Dissection:** [जार] (jar - एक बार में बोलें)
+- **Meaning:** A glass container with a wide opening, used for storing food.
+- **Hindi:** जार / मर्तबान
 - **Examples:**
-  1. He drank a jar of beer.
-  2. The door closed with a jolt.
+  1. He opened a new **jar** of honey.
+  2. Please put the empty glass **jar** in the kitchen.
 
 ## 4: Jaw
-- **Dissection:** [jaw]
-- **Meaning:** The part of the skull of a vertebrate that frames the mouth and holds the teeth
+- **Dissection:** [जॉ] (jaw - एक बार में बोलें)
+- **Meaning:** The lower part of your face that moves when you talk or eat.
 - **Hindi:** जबड़ा
 - **Examples:**
-  1. The men were sitting in the cafe and shooting the breeze.
-  2. He jawed his bubble gum.
+  1. The hard punch hit him right on the **jaw**.
+  2. She has a strong, square **jaw**.
 
 ## 5: Jealous
-- **Dissection:** [jeal-ous]
-- **Meaning:** Showing extreme cupidity; painfully desirous of another's advantages
-- **Hindi:** ईर्ष्या
+- **Dissection:** [जेल-अस] (jeal-ous)
+- **Meaning:** Feeling angry or sad because you want what someone else has, or because you fear losing someone you love.
+- **Hindi:** ईर्ष्यालु / जलने वाला
 - **Examples:**
-  1. He was never covetous before he met her.
-  2. Jealous of his success and covetous of his possessions.
+  1. He became very **jealous** when he saw his friend's new car.
+  2. She was **jealous** of her sister's beautiful dress.
 
 ## 6: Jeans
-- **Dissection:** [jeans]
-- **Meaning:** (usually plural) close-fitting trousers of heavy denim for manual work or casual wear
+- **Dissection:** [जींस] (jeans - एक बार में बोलें)
+- **Meaning:** Trousers made of strong blue cotton cloth.
 - **Hindi:** जींस
 - **Examples:**
-  1. She wore a tattered jean jacket.
-  2. Traditionally most jeans are dyed dark blue.
+  1. He likes to wear a t-shirt and blue **jeans** on weekends.
+  2. I need to buy a new pair of **jeans** because these are old.
 
 ## 7: Jelly
-- **Dissection:** [jelly]
-- **Meaning:** An edible jelly (sweet or pungent) made with gelatin and used as a dessert or salad base or a coating for foods
+- **Dissection:** [जेल-ई] (jel-ly)
+- **Meaning:** A soft, sweet food made from fruit juice, sugar, and a setting agent.
 - **Hindi:** जेली
 - **Examples:**
-  1. Jellify a liquid.
-  2. Calf's-foot jelly.
+  1. The children loved the red strawberry **jelly**.
+  2. She made a sandwich with peanut butter and **jelly**.
 
 ## 8: Jet
-- **Dissection:** [jet]
-- **Meaning:** An airplane powered by one or more jet engines
-- **Hindi:** जेट
+- **Dissection:** [जेट] (jet - एक बार में बोलें)
+- **Meaning:** A fast airplane with powerful engines.
+- **Hindi:** जेट विमान
 - **Examples:**
-  1. Water jetted forth.
-  2. Flames were jetting out of the building.
+  1. The large **jet** flew high above the white clouds.
+  2. We took a private **jet** to travel across the sea.
 
 ## 9: Jewel
-- **Dissection:** [jew-el]
-- **Meaning:** A precious or semiprecious stone incorporated into a piece of jewelry
-- **Hindi:** गहना
+- **Dissection:** [जू-अल] (jew-el)
+- **Meaning:** A valuable stone, like a diamond, used to make beautiful jewelry.
+- **Hindi:** रत्न / आभूषण
 - **Examples:**
-  1. Jeweled dresses.
-  2. Galveston was the jewel of Texas prior to the hurricane.
+  1. The queen's crown was covered in many a bright **jewel**.
+  2. He bought her a beautiful red **jewel** for her birthday.
 
 ## 10: Joint
-- **Dissection:** [joint]
-- **Meaning:** (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)
-- **Hindi:** संयुक्त
+- **Dissection:** [जॉइंट] (joint - एक बार में बोलें)
+- **Meaning:** A place in your body where two bones meet, allowing you to bend.
+- **Hindi:** जोड़
 - **Examples:**
-  1. The boards fit neatly.
-  2. The carpenter jointed two pieces of wood.
+  1. My knee **joint** hurts when it is cold outside.
+  2. He injured a **joint** in his finger while playing ball.
 
 ## 11: Journal
-- **Dissection:** [journ-al]
-- **Meaning:** A daily written record of (usually personal) experiences and observations
-- **Hindi:** पत्रिका
+- **Dissection:** [जर-नल] (jour-nal)
+- **Meaning:** A book where you write down what happens to you every day, or a serious magazine for a specific subject.
+- **Hindi:** पत्रिका / रोजनामचा
 - **Examples:**
-  1. He reads the medical journals.
-  2. The university's biology department subscribes to half a dozen academic journals.
+  1. She writes her thoughts in a private **journal** every night.
+  2. The doctor read an article in a medical **journal**.
 
 ## 12: Journalist
-- **Dissection:** [journ-al-ist]
-- **Meaning:** A writer for newspapers and magazines
+- **Dissection:** [जर-न-लिस्ट] (jour-nal-ist)
+- **Meaning:** A person whose job is to write news for a newspaper, magazine, or TV.
 - **Hindi:** पत्रकार
 - **Examples:**
-  1. Poehl was born in 1929 and worked as a financial journalist in the 1960s before starting his ministerial career.
-  2. I am a journalist, and I know.
+  1. The brave **journalist** went to the war zone to get the story.
+  2. She wants to be a sports **journalist** when she grows up.
 
 ## 13: Journey
-- **Dissection:** [jour-ney]
-- **Meaning:** The act of traveling from one place to another
-- **Hindi:** यात्रा
+- **Dissection:** [जर-नी] (jour-ney)
+- **Meaning:** The act of traveling from one place to another, especially a long distance.
+- **Hindi:** यात्रा / सफ़र
 - **Examples:**
-  1. Travel the oceans.
-  2. My journey of dealing with grief.
+  1. The long train **journey** took three days.
+  2. We started our **journey** early in the morning before the sun rose.
 
 ## 14: Judgment
-- **Dissection:** [judg-ment]
-- **Meaning:** An opinion formed by judging something
-- **Hindi:** प्रलय
+- **Dissection:** [जज-मंट] (judg-ment)
+- **Meaning:** An opinion or decision made after thinking carefully.
+- **Hindi:** निर्णय / फ़ैसला
 - **Examples:**
-  1. He was reluctant to make his judgment known.
-  2. She changed her mind.
+  1. It is hard to make a fair **judgment** without knowing all the facts.
+  2. I trust my doctor's good **judgment** about my health.
 
 ## 15: Jug
-- **Dissection:** [jug]
-- **Meaning:** A large bottle with a narrow mouth
-- **Hindi:** सुराही
+- **Dissection:** [जग] (jug - एक बार में बोलें)
+- **Meaning:** A container with a handle and a lip, used for holding and pouring liquids.
+- **Hindi:** जग / सुराही
 - **Examples:**
-  1. The suspects were imprisoned without trial.
-  2. The murderer was incarcerated for the rest of his life.
+  1. Please pour a glass of water from the plastic **jug**.
+  2. She filled the large **jug** with fresh milk.
 
 ## 16: Jury
-- **Dissection:** [jury]
-- **Meaning:** A body of citizens sworn to give a true verdict according to the evidence presented in a court of law
-- **Hindi:** जूरी
+- **Dissection:** [जू-री] (ju-ry)
+- **Meaning:** A group of people chosen to listen to the facts in a court and decide if someone is guilty.
+- **Hindi:** जूरी / पंचायत
 - **Examples:**
-  1. Implementation of Georgia's automobile title law was also recommended by the outgoing jury.
-  2. On other matters, the jury recommended that: ( 1 ).
+  1. The **jury** found the man guilty of stealing the car.
+  2. She was asked to serve on a **jury** at the local courthouse.
 
 ## 17: Justice
-- **Dissection:** [justice]
-- **Meaning:** The quality of being just or fair
+- **Dissection:** [जस-टिस] (jus-tice)
+- **Meaning:** Fairness in the way people are treated, often using the law.
 - **Hindi:** न्याय
 - **Examples:**
-  1. The justice of a description.
-  2. Justice was served.
+  1. The people want fair **justice** for the victims of the crime.
+  2. It is the job of the police and courts to bring **justice**.
 
 ## 18: Justify
-- **Dissection:** [jus-ti-fy]
-- **Meaning:** To provide an acceptable explanation for.
-- **Hindi:** औचित्य
+- **Dissection:** [जस-टि-फ़ाइ] (jus-ti-fy)
+- **Meaning:** To give a good or acceptable reason for doing something.
+- **Hindi:** सही ठहराना / औचित्य सिद्ध करना
 - **Examples:**
-  1. How can you justify spending so much money on clothes?
-  2. Nothing can justify your rude behaviour last night.
+  1. How can you **justify** being so late for work again?
+  2. He tried to **justify** his bad behavior by saying he was tired.
 

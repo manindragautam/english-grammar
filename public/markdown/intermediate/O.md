@@ -1,568 +1,568 @@
 ## 1: Oak
-- **Dissection:** [oak]
-- **Meaning:** The hard durable wood of any oak; used especially for furniture and flooring
-- **Hindi:** बलूत
+- **Dissection:** [ओक] (oak - एक बार में बोलें)
+- **Meaning:** A large tree that produces hard wood and small nuts called acorns.
+- **Hindi:** बलूत का पेड़
 - **Examples:**
-  1. Great oaks grow from little acorns.
-  2. An oak table, oak beam, etc.
+  1. The old **oak** tree provides a lot of shade in the summer.
+  2. He built a strong table out of heavy **oak** wood.
 
 ## 2: Oar
-- **Dissection:** [oar]
-- **Meaning:** An implement used to propel or steer a boat
+- **Dissection:** [ओर] (oar - एक बार में बोलें)
+- **Meaning:** A long pole with a flat blade at one end, used for rowing a boat.
 - **Hindi:** चप्पू
 - **Examples:**
-  1. Why weary, and palsy the arm at the oar, and the iron, and the lance?
-  2. He is a good oar.
+  1. He used a wooden **oar** to push the small boat across the lake.
+  2. The boat will not move quickly if you lose an **oar** in the water.
 
 ## 3: Oasis
-- **Dissection:** [oas-is]
-- **Meaning:** A fertile tract in a desert (where the water table approaches the surface)
-- **Hindi:** शाद्वल
+- **Dissection:** [ओ-एस-इस] (o-a-sis)
+- **Meaning:** A place in a desert where there is water and plants growing.
+- **Hindi:** मरुद्यान / रेगिस्तान में हरा-भरा स्थान
 - **Examples:**
-  1. The park was an oasis in the middle of the busy city.
-  2. We were never meant to be an oasis of liberty and abundance in a worldwide desert of disappointed dreams.
+  1. The thirsty travelers were happy to find an **oasis** in the hot sand.
+  2. We rested under the palm trees at the beautiful green **oasis**.
 
 ## 4: Oath
-- **Dissection:** [oath]
-- **Meaning:** Profane or obscene expression usually of surprise or anger
-- **Hindi:** शपथ
+- **Dissection:** [ओथ] (oath - एक बार में बोलें)
+- **Meaning:** A serious and formal promise to tell the truth or do something.
+- **Hindi:** शपथ / कसम
 - **Examples:**
-  1. Expletives were deleted.
-  2. They took an oath of allegiance.
+  1. The doctor took an **oath** to always help sick people.
+  2. He made an **oath** in court that he would only tell the truth.
 
 ## 5: Obedient
-- **Dissection:** [obed-i-ent]
-- **Meaning:** Dutifully complying with the commands or instructions of those in authority; ; ; ; - Edmund Burke
+- **Dissection:** [ओ-बीड-इ-अंट] (o-be-di-ent)
+- **Meaning:** Always doing what you are told to do by rules or by a person in charge.
 - **Hindi:** आज्ञाकारी
 - **Examples:**
-  1. An obedient soldier.
-  2. Obedient children.
+  1. The **obedient** dog sat down quickly when its owner told it to.
+  2. She was an **obedient** student who always followed the teacher's rules.
 
 ## 6: Obey
-- **Dissection:** [obey]
-- **Meaning:** Be obedient to
+- **Dissection:** [ओ-बे] (o-bey)
+- **Meaning:** To do what you are told to do by a rule or a leader.
 - **Hindi:** आज्ञा का पालन करना
 - **Examples:**
-  1. For she did not obey when as yet she was a virgin.
-  2. To obey the moral law is just ordinary common sense, applied to a neglected field.
+  1. Drivers must **obey** the traffic lights to stay safe.
+  2. Children should learn to **obey** their parents and teachers.
 
 ## 7: Objective
-- **Dissection:** [ob-ject-ive]
-- **Meaning:** The goal intended to be attained (and which is believed to be attainable)
-- **Hindi:** उद्देश्य
+- **Dissection:** [अब-जेक-टिव] (ob-jec-tive)
+- **Meaning:** Something that you are trying hard to achieve; a goal.
+- **Hindi:** उद्देश्य / लक्ष्य
 - **Examples:**
-  1. The sole object of her trip was to see her children.
-  2. An objective appraisal.
+  1. His main **objective** is to pass the difficult math test.
+  2. The primary **objective** of the game is to score the most points.
 
 ## 8: Oblige
-- **Dissection:** [ob-lige]
-- **Meaning:** Force somebody to do something
-- **Hindi:** मजबूर करना
+- **Dissection:** [अ-ब्लाइज] (o-blige)
+- **Meaning:** To force someone to do something, or to help someone by doing what they ask.
+- **Hindi:** मजबूर करना / उपकार करना
 - **Examples:**
-  1. We compel all students to fill out this form.
-  2. He's held by a contract.
+  1. The bad weather will **oblige** us to stay inside the house today.
+  2. I would be happy to **oblige** if you need my help moving the sofa.
 
 ## 9: Obscure
-- **Dissection:** [ob-scure]
-- **Meaning:** Make less visible or unclear
-- **Hindi:** अस्पष्ट
+- **Dissection:** [अब-स्क्युर] (ob-scure)
+- **Meaning:** Not known by many people, or difficult to see or understand.
+- **Hindi:** अस्पष्ट / अज्ञात
 - **Examples:**
-  1. The stars are obscured by the clouds.
-  2. The big elm tree obscures our view of the valley.
+  1. He found an **obscure** little restaurant hidden down a dark street.
+  2. The clouds will soon **obscure** the bright moon in the night sky.
 
 ## 10: Observe
-- **Dissection:** [ob-serve]
-- **Meaning:** Discover or determine the existence, presence, or fact of
-- **Hindi:** निरीक्षण
+- **Dissection:** [अब-ज़र्व] (ob-serve)
+- **Meaning:** To watch someone or something carefully.
+- **Hindi:** निरीक्षण करना / ध्यान से देखना
 - **Examples:**
-  1. She detected high levels of lead in her drinking water.
-  2. We found traces of lead in the paint.
+  1. The scientist used a telescope to **observe** the stars at night.
+  2. Please quietly **observe** how the baker makes the fresh bread.
 
 ## 11: Obsession
-- **Dissection:** [ob-ses-sion]
-- **Meaning:** An irrational motive for performing trivial or repetitive actions, even against your will
-- **Hindi:** जुनून
+- **Dissection:** [अब-सैश-अन] (ob-ses-sion)
+- **Meaning:** Thinking about someone or something all the time in a way that is not normal.
+- **Hindi:** जुनून / धुन
 - **Examples:**
-  1. In Great Expectations the hands become almost an obsession.
-  2. Her compulsion to wash her hands repeatedly.
+  1. His love for playing video games has become an unhealthy **obsession**.
+  2. She has a real **obsession** with keeping her house perfectly clean.
 
 ## 12: Obstacle
-- **Dissection:** [obstacle]
-- **Meaning:** Something immaterial that stands in the way and must be circumvented or surmounted
-- **Hindi:** बाधा
+- **Dissection:** [ऑब-स्ट-कल] (ob-sta-cle)
+- **Meaning:** Something that blocks your way or makes it difficult to do something.
+- **Hindi:** बाधा / रुकावट
 - **Examples:**
-  1. Lack of imagination is an obstacle to one's advancement.
-  2. The poverty of a district is an obstacle to good education.
+  1. A large fallen tree was an **obstacle** on the dark road.
+  2. Lack of money is a major **obstacle** to buying a new car.
 
 ## 13: Obtain
-- **Dissection:** [ob-tain]
-- **Meaning:** Come into possession of
-- **Hindi:** प्राप्त
+- **Dissection:** [अब-टेन] (ob-tain)
+- **Meaning:** To get something that you want or need.
+- **Hindi:** प्राप्त करना
 - **Examples:**
-  1. How did you obtain the visa?
-  2. These aspects of civilization do not find expression or receive an interpretation.
+  1. You must study hard to **obtain** a good grade in school.
+  2. He had to show his passport to **obtain** a ticket for the train.
 
 ## 14: Obvious
-- **Dissection:** [ob-vi-ous]
-- **Meaning:** Easily perceived by the senses or grasped by the mind
-- **Hindi:** ज़ाहिर
+- **Dissection:** [ऑब-वी-अस] (ob-vi-ous)
+- **Meaning:** Easy to see, understand, or realize.
+- **Hindi:** ज़ाहिर / स्पष्ट
 - **Examples:**
-  1. It was the season's first night game and an obvious refocusing of the lights are in order.
-  2. There are more obvious nymphomaniacs on any private-eye series.
+  1. It was **obvious** that she was crying because her eyes were red.
+  2. There is an **obvious** difference between a cat and a dog.
 
 ## 15: Occasion
-- **Dissection:** [oc-ca-sion]
-- **Meaning:** An event that occurs at a critical time
-- **Hindi:** अवसर
+- **Dissection:** [अ-के-ज़न] (oc-ca-sion)
+- **Meaning:** A special event, time, or celebration.
+- **Hindi:** अवसर / मौका
 - **Examples:**
-  1. At such junctures he always had an impulse to leave.
-  2. It was needed only on special occasions.
+  1. My sister's wedding will be a very happy **occasion**.
+  2. I bought a beautiful new dress for this special **occasion**.
 
 ## 16: Occupation
-- **Dissection:** [oc-cu-pa-tion]
-- **Meaning:** The principal activity in your life that you do to earn money
-- **Hindi:** पेशा
+- **Dissection:** [ऑक-यु-पे-शन] (oc-cu-pa-tion)
+- **Meaning:** A person's job or regular work.
+- **Hindi:** पेशा / व्यवसाय
 - **Examples:**
-  1. He's not in my line of business.
-  2. He missed the bell in his occupation with the computer game.
+  1. Please write your name, address, and current **occupation** on this form.
+  2. Being a doctor is a very hard but important **occupation**.
 
 ## 17: Occupy
-- **Dissection:** [oc-cupy]
-- **Meaning:** Keep busy with
-- **Hindi:** पर कब्जा
+- **Dissection:** [ऑक-यु-पाइ] (oc-cu-py)
+- **Meaning:** To fill a space, amount of time, or keep yourself busy.
+- **Hindi:** घेरना / कब्ज़ा करना
 - **Examples:**
-  1. She busies herself with her butterfly collection.
-  2. She resides in Princeton.
+  1. The large bed will **occupy** most of the space in this small room.
+  2. He likes to **occupy** his free time by reading history books.
 
 ## 18: Odd
-- **Dissection:** [odd]
-- **Meaning:** Not divisible by two
-- **Hindi:** विषम
+- **Dissection:** [ऑड] (odd - एक बार में बोलें)
+- **Meaning:** Strange or unusual, or a number that cannot be divided by two.
+- **Hindi:** अजीब / विषम
 - **Examples:**
-  1. It is odd that his name is never mentioned.
-  2. Invited 30-odd guests.
+  1. It is very **odd** that he is wearing a winter coat in the hot summer.
+  2. Three, five, and seven are examples of an **odd** number.
 
 ## 19: Odor
-- **Dissection:** [odor]
-- **Meaning:** Any property detected by the olfactory system
-- **Hindi:** गंध
+- **Dissection:** [ओ-डर] (o-dor)
+- **Meaning:** A smell, especially a bad one.
+- **Hindi:** गंध / महक
 - **Examples:**
-  1. It is said that fear in human beings produces an odor that provokes animals to attack.
-  2. The odor here was more powerful than that which surrounded the town aborigines.
+  1. There is a terrible **odor** coming from the old garbage can.
+  2. The sweet **odor** of fresh flowers filled the entire room.
 
 ## 20: Offend
-- **Dissection:** [of-fend]
-- **Meaning:** Cause to feel resentment or indignation
-- **Hindi:** कष्ट पहुंचाना
+- **Dissection:** [अ-फेंड] (of-fend)
+- **Meaning:** To make someone feel upset, angry, or hurt by what you say or do.
+- **Hindi:** नाराज़ करना / ठेस पहुंचाना
 - **Examples:**
-  1. Her tactless remark offended me.
-  2. Offend all laws of humanity.
+  1. I did not mean to **offend** you with my silly joke.
+  2. His rude words will **offend** many people in the office.
 
 ## 21: Offset
-- **Dissection:** [off-set]
-- **Meaning:** The time at which something is supposed to begin
-- **Hindi:** ओफ़्सेट
+- **Dissection:** [ऑफ़-सेट] (off-set)
+- **Meaning:** To balance one effect against another effect, usually a bad one against a good one.
+- **Hindi:** भरपाई करना / संतुलन बनाना
 - **Examples:**
-  1. They got an early start.
-  2. She knew from the get-go that he was the man for her.
+  1. The extra money will help to **offset** the high cost of travel.
+  2. We planted new trees to **offset** the damage to the forest.
 
 ## 22: Omit
-- **Dissection:** [omit]
-- **Meaning:** Prevent from being included or considered or accepted
-- **Hindi:** न आना
+- **Dissection:** [ओ-मिट] (o-mit)
+- **Meaning:** To fail to include someone or something, either by mistake or on purpose.
+- **Hindi:** छोड़ देना / शामिल न करना
 - **Examples:**
-  1. The bad results were excluded from the report.
-  2. Leave off the top piece.
+  1. Please do not **omit** any important details when you tell the story.
+  2. You can **omit** the salt from the recipe if you want it to be healthier.
 
 ## 23: Onion
-- **Dissection:** [onion]
-- **Meaning:** The bulb of an onion plant
+- **Dissection:** [अन-यन] (on-ion)
+- **Meaning:** A round vegetable with a strong smell and taste that makes you cry when you cut it.
 - **Hindi:** प्याज
 - **Examples:**
-  1. Add enough warmed cream, seasoned to taste with onion juice, to about half cover the chicken breasts.
-  2. Contribute also an onion, a peeled tomato and two pickled gherkins, and a mashed lime.
+  1. She chopped a large white **onion** to put into the hot soup.
+  2. I do not like the taste of raw **onion** on my hamburger.
 
 ## 24: Opera
-- **Dissection:** [op-era]
-- **Meaning:** A drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes
-- **Hindi:** ओपेरा
+- **Dissection:** [ऑप-र-अ] (op-er-a)
+- **Meaning:** A musical play where all the words are sung by the actors.
+- **Hindi:** ओपेरा / संगीत नाटक
 - **Examples:**
-  1. Beethoven's opus eighteen quartets are considered by many to be the beginning of the Romantic era.
-  2. The painter's last opus was a dedication to all things living, in a surprising contrast to all of his prior work.
+  1. They dressed in nice clothes to watch the famous Italian **opera**.
+  2. She has a very loud, beautiful voice and sings in the **opera**.
 
 ## 25: Operate
-- **Dissection:** [op-er-ate]
-- **Meaning:** Direct or control; projects, businesses, etc.
-- **Hindi:** प्रचालन
+- **Dissection:** [ऑप-अर-एट] (op-er-ate)
+- **Meaning:** To make a machine work, or to cut into someone's body to fix a medical problem.
+- **Hindi:** चलाना / ऑपरेशन करना
 - **Examples:**
-  1. She is running a relief operation in the Sudan.
-  2. The washing machine won't go unless it's plugged in.
+  1. He learned how to **operate** the large tractor on the farm.
+  2. The doctor will **operate** on my knee tomorrow morning.
 
 ## 26: Operator
-- **Dissection:** [op-er-at-or]
-- **Meaning:** (mathematics) a symbol or function representing a mathematical operation
-- **Hindi:** संचालिका
+- **Dissection:** [ऑप-अर-ए-टर] (op-er-a-tor)
+- **Meaning:** A person who uses and controls a machine, or someone who answers telephone calls.
+- **Hindi:** संचालक / ऑपरेटर
 - **Examples:**
-  1. The operator of the switchboard.
-  2. Who is the operator of this franchise?
+  1. The train **operator** made sure all the doors were closed safely.
+  2. He asked the telephone **operator** to connect him to the police.
 
 ## 27: Opponent
-- **Dissection:** [op-pon-ent]
-- **Meaning:** A contestant that you are matched against
-- **Hindi:** प्रतिद्वंद्वी
+- **Dissection:** [अ-पो-नंट] (op-po-nent)
+- **Meaning:** A person who plays or fights against you in a game or argument.
+- **Hindi:** प्रतिद्वंद्वी / विरोधी
 - **Examples:**
-  1. Opponent (or opposing) armies.
-  2. During the crackdown, many opponents of the regime were arrested.
+  1. She shook hands with her **opponent** after winning the tennis match.
+  2. He is a very strong **opponent** in the boxing ring.
 
 ## 28: Oppose
-- **Dissection:** [op-pose]
-- **Meaning:** Be against; express opposition to
-- **Hindi:** विरोध
+- **Dissection:** [अ-पोज़] (op-pose)
+- **Meaning:** To disagree with a plan or idea and try to stop it.
+- **Hindi:** विरोध करना
 - **Examples:**
-  1. We oppose the ban on abortion.
-  2. The senator said he would oppose the bill.
+  1. Many people **oppose** building a new factory near the river.
+  2. I strongly **oppose** the idea of changing the school rules.
 
 ## 29: Opt
-- **Dissection:** [opt]
-- **Meaning:** Select as an alternative over another
-- **Hindi:** चुनना
+- **Dissection:** [ऑप्ट] (opt - एक बार में बोलें)
+- **Meaning:** To make a choice or decision from a list of options.
+- **Hindi:** चुनना / विकल्प लेना
 - **Examples:**
-  1. I always choose the fish over the meat courses in this restaurant.
-  2. She opted for the job on the East coast.
+  1. I will **opt** for the chocolate cake instead of the fruit salad.
+  2. They may **opt** to travel by train because it is cheaper.
 
 ## 30: Optical
-- **Dissection:** [op-tic-al]
-- **Meaning:** Of or relating to or involving light or optics
-- **Hindi:** ऑप्टिकल
+- **Dissection:** [ऑप-टिक-अल] (op-ti-cal)
+- **Meaning:** Connected with light or the eyes and seeing.
+- **Hindi:** दृष्टि-संबंधी / प्रकाशिक
 - **Examples:**
-  1. Optical supplies.
-  2. Ocular inspection.
+  1. An **optical** illusion is a picture that tricks your eyes.
+  2. He uses an **optical** microscope to look at tiny cells.
 
 ## 31: Optimal
-- **Dissection:** [op-tim-al]
-- **Meaning:** Most desirable possible under a restriction expressed or implied
-- **Hindi:** इष्टतम
+- **Dissection:** [ऑप-टिम-अल] (op-ti-mal)
+- **Meaning:** The best or most effective possible in a particular situation.
+- **Hindi:** इष्टतम / सबसे अच्छा
 - **Examples:**
-  1. An optimum return on capital.
-  2. Optimal concentration of a drug.
+  1. This temperature is **optimal** for growing healthy tomato plants.
+  2. The coach chose the **optimal** team to win the final game.
 
 ## 32: Optimistic
-- **Dissection:** [op-tim-ist-ic]
-- **Meaning:** Expecting the best in all possible ways.
+- **Dissection:** [ऑप-टिम-इस-टिक] (op-ti-mis-tic)
+- **Meaning:** Hoping or believing that good things will happen in the future.
 - **Hindi:** आशावादी
 - **Examples:**
-  1. In an optimistic mood
-  2. Optimistic concurrency
+  1. She is very **optimistic** that she will get the new job.
+  2. Try to stay **optimistic** even when things are difficult.
 
 ## 33: Optimum
-- **Dissection:** [op-tim-um]
-- **Meaning:** Most favorable conditions or greatest degree or amount possible under given circumstances
-- **Hindi:** अनुकूलतम
+- **Dissection:** [ऑप-टिम-अम] (op-ti-mum)
+- **Meaning:** The best or most favorable situation or level for something.
+- **Hindi:** अनुकूलतम / सर्वश्रेष्ठ
 - **Examples:**
-  1. An optimum return on capital.
-  2. Optimal concentration of a drug.
+  1. The seeds need the **optimum** amount of water to grow fast.
+  2. You should eat healthy food to reach your **optimum** weight.
 
 ## 34: Oral
-- **Dissection:** [or-al]
-- **Meaning:** An examination conducted by spoken communication
-- **Hindi:** मौखिक
+- **Dissection:** [ओर-अल] (o-ral)
+- **Meaning:** Spoken rather than written, or connected with the mouth.
+- **Hindi:** मौखिक / मुंह से संबंधित
 - **Examples:**
-  1. An oral tradition.
-  2. An oral agreement.
+  1. The doctor checked her **oral** health by looking at her teeth.
+  2. We have to give an **oral** presentation in class tomorrow.
 
 ## 35: Orbit
-- **Dissection:** [or-bit]
-- **Meaning:** The (usually elliptical) path described by one celestial body in its revolution about another
-- **Hindi:** कक्षा
+- **Dissection:** [ऑर-बिट] (or-bit)
+- **Meaning:** The curved path that a planet or satellite takes around a star or another planet.
+- **Hindi:** कक्षा / परिक्रमा करना
 - **Examples:**
-  1. He plotted the orbit of the moon.
-  2. His social sphere is limited.
+  1. The Earth travels in an **orbit** around the sun once a year.
+  2. The satellite was sent into **orbit** to help with weather maps.
 
 ## 36: Orchard
-- **Dissection:** [orch-ard]
-- **Meaning:** Garden consisting of a small cultivated wood without undergrowth
-- **Hindi:** ऑर्चर्ड
+- **Dissection:** [ऑर-चर्ड] (or-chard)
+- **Meaning:** A piece of land where fruit trees are grown.
+- **Hindi:** फलों का बगीचा
 - **Examples:**
-  1. The water was there, so much of it that it spread all through the dead orchard.
-  2. My mother says the orchard was always famous in her younger days.
+  1. We picked sweet red apples from the trees in the **orchard**.
+  2. The farmer walked through the peach **orchard** in the morning.
 
 ## 37: Orchestra
-- **Dissection:** [or-ches-tra]
-- **Meaning:** A musical organization consisting of a group of instrumentalists including string players
-- **Hindi:** ऑर्केस्ट्रा
+- **Dissection:** [ऑर-केस-ट्र-अ] (or-ches-tra)
+- **Meaning:** A large group of musicians playing different instruments together.
+- **Hindi:** वाद्यवृंद / ऑर्केस्ट्रा
 - **Examples:**
-  1. Beginning July 4, there will be an orchestra playing nightly except Sunday and Monday for the summer season.
-  2. Performers include a company of 46 dancers and a symphony orchestra.
+  1. The **orchestra** played beautiful classical music at the concert.
+  2. He plays the violin in the city's symphony **orchestra**.
 
 ## 38: Ordinary
-- **Dissection:** [or-din-ary]
-- **Meaning:** A judge of a probate court
-- **Hindi:** साधारण
+- **Dissection:** [ऑर-डिन-एरी] (or-di-nar-y)
+- **Meaning:** Normal, not special or different in any way.
+- **Hindi:** साधारण / सामान्य
 - **Examples:**
-  1. Not out of the ordinary.
-  2. Ordinary everyday objects.
+  1. It was just an **ordinary** day with nothing special happening.
+  2. He wore **ordinary** clothes instead of a suit and tie.
 
 ## 39: Organ
-- **Dissection:** [or-gan]
-- **Meaning:** A fully differentiated structural and functional unit in an animal that is specialized for some particular function
-- **Hindi:** अंग
+- **Dissection:** [ऑर-गन] (or-gan)
+- **Meaning:** A part of the body, like the heart or liver, that does a specific job; or a large musical instrument.
+- **Hindi:** अंग / ऑर्गन बाजा
 - **Examples:**
-  1. The Census Bureau is an organ of the Commerce Department.
-  2. The organ of the communist party.
+  1. The heart is a very important **organ** that pumps blood.
+  2. She played a beautiful song on the church **organ**.
 
 ## 40: Organic
-- **Dissection:** [or-gan-ic]
-- **Meaning:** A fertilizer that is derived from animal or vegetable matter
-- **Hindi:** जैविक
+- **Dissection:** [ऑर-गैन-इक] (or-gan-ic)
+- **Meaning:** Grown or made without the use of artificial chemicals.
+- **Hindi:** जैविक / प्राकृतिक
 - **Examples:**
-  1. Hydrocarbons are organic compounds.
-  2. Organic life.
+  1. They buy **organic** vegetables from the local farm market.
+  2. **Organic** farming is much better for the soil and the environment.
 
 ## 41: Organism
-- **Dissection:** [or-gan-ism]
-- **Meaning:** A living thing that has (or can develop) the ability to act or function independently
-- **Hindi:** जीव
+- **Dissection:** [ऑर-गन-इज़-अम] (or-gan-ism)
+- **Meaning:** A single living plant, animal, or living cell.
+- **Hindi:** जीव / प्राणी
 - **Examples:**
-  1. Any organism that falters or misperceives the signals or weakens is done.
-  2. The social organism.
+  1. The amoeba is a tiny **organism** made of just one cell.
+  2. Every living **organism** on Earth needs water to survive.
 
 ## 42: Orient
-- **Dissection:** [ori-ent]
-- **Meaning:** The countries of Asia
-- **Hindi:** पूरब
+- **Dissection:** [ओर-ई-एंट] (o-ri-ent)
+- **Meaning:** To find your direction, or to become familiar with a new situation.
+- **Hindi:** दिशा खोजना / अनुकूल बनाना
 - **Examples:**
-  1. The weather vane points North.
-  2. The dancers toes pointed outward.
+  1. It took me a few days to **orient** myself in the new city.
+  2. Use the bright sun to **orient** the map before we walk.
 
 ## 43: Origin
-- **Dissection:** [ori-gin]
-- **Meaning:** The place where something begins, where it springs into being
-- **Hindi:** मूल
+- **Dissection:** [ऑर-इ-जिन] (or-i-gin)
+- **Meaning:** The place or moment where something begins to exist.
+- **Hindi:** मूल / उद्गम
 - **Examples:**
-  1. The Italian beginning of the Renaissance.
-  2. Jupiter was the origin of the radiation.
+  1. The scientists are studying the **origin** of the universe.
+  2. He proudly told us about his family's Irish **origin**.
 
 ## 44: Original
-- **Dissection:** [ori-gin-al]
-- **Meaning:** An original creation (i.e., an audio recording) from which copies can be made
-- **Hindi:** मूल
+- **Dissection:** [अ-रिज-इन-अल] (o-rig-i-nal)
+- **Meaning:** Existing from the beginning; new and not copied from something else.
+- **Hindi:** मूल / असली
 - **Examples:**
-  1. This painting is a copy of the original.
-  2. The original inhabitants of the Americas.
+  1. The painting in the museum is the real, **original** work of art.
+  2. This is my **original** idea, so please do not steal it.
 
 ## 45: Ornament
-- **Dissection:** [or-na-ment]
-- **Meaning:** Something used to beautify
-- **Hindi:** आभूषण
+- **Dissection:** [ऑर-न-मंट] (or-na-ment)
+- **Meaning:** A small object used to make something look more beautiful.
+- **Hindi:** आभूषण / सजावट
 - **Examples:**
-  1. Decorate the room for the party.
-  2. Beautify yourself for the special day.
+  1. She hung a shiny glass **ornament** on the Christmas tree.
+  2. The silver box was used purely as a table **ornament**.
 
 ## 46: Orphan
-- **Dissection:** [orphan]
-- **Meaning:** A child who has lost both parents
+- **Dissection:** [ऑर-फ़न] (or-phan)
+- **Meaning:** A child whose parents are both dead.
 - **Hindi:** अनाथ
 - **Examples:**
-  1. What do you do when you come across two orphaned polar bear cubs?
-  2. Removing categories orphans pages from the main category tree.
+  1. The poor boy became an **orphan** when he was very young.
+  2. The kind family decided to adopt the **orphan** from the shelter.
 
 ## 47: Orthodox
-- **Dissection:** [or-tho-dox]
-- **Meaning:** Of or pertaining to or characteristic of Judaism
-- **Hindi:** रूढ़िवादी
+- **Dissection:** [ऑर-थ-डॉक्स] (or-tho-dox)
+- **Meaning:** Following traditional, accepted beliefs and ways of doing things, especially in religion.
+- **Hindi:** रूढ़िवादी / पारंपरिक
 - **Examples:**
-  1. Orthodox Judaism.
-  2. An orthodox view of the world.
+  1. They had a very **orthodox** wedding in the old church.
+  2. His medicine uses **orthodox** methods that all doctors trust.
 
 ## 48: Ounce
-- **Dissection:** [ounce]
-- **Meaning:** A unit of apothecary weight equal to 480 grains or one twelfth of a pound
-- **Hindi:** औंस
+- **Dissection:** [आउंस] (ounce - एक बार में बोलें)
+- **Meaning:** A unit used to measure weight; a very small amount of something.
+- **Hindi:** औंस / थोड़ी सी मात्रा
 - **Examples:**
-  1. I tell you, it took every ounce of control I had to be able to speak.
-  2. IN 1986, company earnings were based an average market price for gold of 368 dlrs an ounce.
+  1. There is not an **ounce** of truth in the story he told.
+  2. Add one **ounce** of chocolate to the hot milk mixture.
 
 ## 49: Outcome
-- **Dissection:** [out-come]
-- **Meaning:** Something that results
-- **Hindi:** नतीजा
+- **Dissection:** [आउट-कम] (out-come)
+- **Meaning:** The final result of an action or event.
+- **Hindi:** नतीजा / परिणाम
 - **Examples:**
-  1. He listened for the results on the radio.
-  2. The magnetic effect was greater when the rod was lengthwise.
+  1. We are waiting to hear the final **outcome** of the election.
+  2. The successful **outcome** of the meeting made everyone happy.
 
 ## 50: Outdoors
-- **Dissection:** [out-doors]
-- **Meaning:** Where the air is unconfined
-- **Hindi:** सड़क पर
+- **Dissection:** [आउट-डोर्ज़] (out-doors)
+- **Meaning:** Outside a building; in the open air.
+- **Hindi:** बाहर / खुले में
 - **Examples:**
-  1. He wanted to get outdoors a little.
-  2. The concert was held in the open air.
+  1. The children love to play **outdoors** in the warm sunshine.
+  2. If it does not rain, we will eat our dinner **outdoors**.
 
 ## 51: Outer
-- **Dissection:** [out-er]
-- **Meaning:** Being on the outside or further from a center
-- **Hindi:** आउटर
+- **Dissection:** [आउट-अर] (out-er)
+- **Meaning:** On the outside, or far from the center.
+- **Hindi:** बाहरी
 - **Examples:**
-  1. Spent hours adorning the outer man.
-  2. The outer suburbs.
+  1. You must remove the hard **outer** shell before eating the nut.
+  2. Earth is closer to the sun than the **outer** planets like Jupiter.
 
 ## 52: Outfit
-- **Dissection:** [out-fit]
-- **Meaning:** Any cohesive unit such as a military company
+- **Dissection:** [आउट-फ़िट] (out-fit)
+- **Meaning:** A set of clothes worn together for a particular occasion or activity.
 - **Hindi:** पोशाक
 - **Examples:**
-  1. His getup was exceedingly elegant.
-  2. The expedition was equipped with proper clothing, food, and other necessities.
+  1. She bought a beautiful new **outfit** for the party.
+  2. He wore a special **outfit** to go scuba diving in the ocean.
 
 ## 53: Outline
-- **Dissection:** [out-line]
-- **Meaning:** The line that appears to bound an object
+- **Dissection:** [आउट-लायन] (out-line)
+- **Meaning:** A line that shows the shape of something, or a short description of the main ideas.
 - **Hindi:** रूपरेखा
 - **Examples:**
-  1. Sketch the outline of the book.
-  2. Outline his ideas.
+  1. You can see the **outline** of the mountains against the evening sky.
+  2. The teacher asked us to write an **outline** before starting the essay.
 
 ## 54: Outlook
-- **Dissection:** [out-look]
-- **Meaning:** A habitual or characteristic mental attitude that determines how you will interpret and respond to situations
-- **Hindi:** आउटलुक
+- **Dissection:** [आउट-लुक] (out-look)
+- **Meaning:** The way a person thinks about their life or the future.
+- **Hindi:** दृष्टिकोण / नज़रिया
 - **Examples:**
-  1. Perched on the edge of the cliff was a hidden outlook.
-  2. He has a positive outlook on life.
+  1. He has a very positive **outlook** and always smiles.
+  2. The weather **outlook** for tomorrow is sunny and warm.
 
 ## 55: Output
-- **Dissection:** [out-put]
-- **Meaning:** Final product; the things produced
+- **Dissection:** [आउट-पुट] (out-put)
+- **Meaning:** The amount of something produced by a person, machine, or company.
 - **Hindi:** उत्पादन
 - **Examples:**
-  1. Production was up in the second quarter.
-  2. The computer is outputting the data from the job I'm running.
+  1. The factory increased its **output** of cars this year.
+  2. The computer's **output** is printed on this paper.
 
 ## 56: Outrage
-- **Dissection:** [out-rage]
-- **Meaning:** A feeling of righteous anger
-- **Hindi:** उल्लंघन
+- **Dissection:** [आउट-रेज] (out-rage)
+- **Meaning:** A strong feeling of anger or shock because of something bad or unfair.
+- **Hindi:** आक्रोश / बहुत गुस्सा
 - **Examples:**
-  1. The scandalous behavior of this married woman shocked her friends.
-  2. Desecrate a cemetery.
+  1. The news of the stolen money caused public **outrage**.
+  2. She felt a deep sense of **outrage** when they lied to her.
 
 ## 57: Outset
-- **Dissection:** [out-set]
-- **Meaning:** The time at which something is supposed to begin
-- **Hindi:** शुरू
+- **Dissection:** [आउट-सेट] (out-set)
+- **Meaning:** The beginning or start of something.
+- **Hindi:** शुरुआत / आरंभ
 - **Examples:**
-  1. They got an early start.
-  2. She knew from the get-go that he was the man for her.
+  1. I knew from the very **outset** that it was a bad idea.
+  2. We decided to work together right from the **outset** of the project.
 
 ## 58: Outstanding
-- **Dissection:** [out-stand-ing]
-- **Meaning:** Distinguished from others in excellence
-- **Hindi:** असाधारण
+- **Dissection:** [आउट-स्टैंड-इंग] (out-stand-ing)
+- **Meaning:** Extremely good or excellent.
+- **Hindi:** उत्कृष्ट / असाधारण
 - **Examples:**
-  1. Did outstanding work in human relations.
-  2. An outstanding war record.
+  1. He won a prize for his **outstanding** performance in the play.
+  2. She is an **outstanding** student who always gets top grades.
 
 ## 59: Oval
-- **Dissection:** [oval]
-- **Meaning:** A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it
+- **Dissection:** [ओ-वल] (o-val)
+- **Meaning:** Shaped like an egg.
 - **Hindi:** अंडाकार
 - **Examples:**
-  1. The sums of the distances from the foci to any point on an ellipse is constant.
-  2. Oval conceptions.
+  1. The dining room has a large **oval** table in the center.
+  2. An egg has a smooth, **oval** shape.
 
 ## 60: Overall
-- **Dissection:** [over-all]
-- **Meaning:** (usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)
+- **Dissection:** [ओ-वर-ऑल] (o-ver-all)
+- **Meaning:** In general; considering everything.
 - **Hindi:** कुल मिलाकर
 - **Examples:**
-  1. The overall pattern of his life.
-  2. The overall cost.
+  1. **Overall**, I think the new plan is a very good idea.
+  2. The **overall** cost of the trip will be five hundred dollars.
 
 ## 61: Overcome
-- **Dissection:** [over-come]
-- **Meaning:** Win a victory over
-- **Hindi:** पर काबू पाने
+- **Dissection:** [ओ-वर-कम] (o-ver-come)
+- **Meaning:** To succeed in controlling or dealing with a problem.
+- **Hindi:** काबू पाना / जीतना
 - **Examples:**
-  1. You must overcome all difficulties.
-  2. Defeat your enemies.
+  1. She had to **overcome** her fear of heights to climb the mountain.
+  2. With hard work, you can **overcome** any difficulty.
 
 ## 62: Overlap
-- **Dissection:** [over-lap]
-- **Meaning:** A representation of common ground between theories or phenomena
-- **Hindi:** ओवरलैप
+- **Dissection:** [ओ-वर-लैप] (o-ver-lap)
+- **Meaning:** When two things cover part of the same space or happen at the same time.
+- **Hindi:** एक दूसरे पर चढ़ना / अतिव्यापन
 - **Examples:**
-  1. There was no overlap between their proposals.
-  2. The lap of the shingles should be at least ten inches.
+  1. The two meetings will **overlap**, so I cannot go to both.
+  2. Ensure the tiles **overlap** properly so rain cannot get through the roof.
 
 ## 63: Overlook
-- **Dissection:** [over-look]
-- **Meaning:** A high place affording a good view
-- **Hindi:** ओवरलुक
+- **Dissection:** [ओ-वर-लुक] (o-ver-look)
+- **Meaning:** To fail to notice something, or to have a view from above.
+- **Hindi:** अनदेखा करना / ऊपर से देखना
 - **Examples:**
-  1. The house looks out on a tennis court.
-  2. The apartment overlooks the Hudson.
+  1. Please do not **overlook** the small mistakes in this report.
+  2. Our hotel room has a balcony that will **overlook** the sea.
 
 ## 64: Overseas
-- **Dissection:** [over-seas]
-- **Meaning:** In a foreign country
-- **Hindi:** प्रवासी
+- **Dissection:** [ओ-वर-सीज़] (o-ver-seas)
+- **Meaning:** In, from, or to countries that are across the sea.
+- **Hindi:** विदेश में / समुद्र पार
 - **Examples:**
-  1. Markets abroad.
-  2. Overseas markets.
+  1. He travels **overseas** a lot for his business meetings.
+  2. She sent a package to her family living **overseas**.
 
 ## 65: Overtake
-- **Dissection:** [over-take]
-- **Meaning:** Catch up with and possibly overtake
-- **Hindi:** आगे बढ़ो
+- **Dissection:** [ओ-वर-टेक] (o-ver-take)
+- **Meaning:** To go past a moving vehicle or person ahead of you because you are moving faster.
+- **Hindi:** आगे निकल जाना
 - **Examples:**
-  1. The Rolls Royce caught us near the exit ramp.
-  2. The sports car passed all the trucks.
+  1. It is dangerous to **overtake** another car on a narrow road.
+  2. The runner ran fast to **overtake** the leader in the final lap.
 
 ## 66: Overthrow
-- **Dissection:** [over-throw]
-- **Meaning:** The termination of a ruler or institution (especially by force)
-- **Hindi:** पराभव
+- **Dissection:** [ओ-वर-थ्रो] (o-ver-throw)
+- **Meaning:** To force a leader or government out of power.
+- **Hindi:** सत्ता पलटना / उखाड़ फेंकना
 - **Examples:**
-  1. His carelessness could have caused an ecological upset.
-  2. She was unprepared for this sudden overthrow of their normal way of living.
+  1. The angry people tried to **overthrow** the cruel king.
+  2. The army helped to **overthrow** the old government.
 
 ## 67: Overturn
-- **Dissection:** [over-turn]
-- **Meaning:** The act of upsetting something
-- **Hindi:** उलट
+- **Dissection:** [ओ-वर-टर्न] (o-ver-turn)
+- **Meaning:** To turn over completely, or to change a legal decision.
+- **Hindi:** उलटना / पलटना
 - **Examples:**
-  1. He was badly bruised by the upset of his sled at a high speed.
-  2. The biggest upset since David beat Goliath.
+  1. The heavy waves caused the small boat to **overturn**.
+  2. The judge may decide to **overturn** the old ruling.
 
 ## 68: Overwhelm
-- **Dissection:** [over-whelm]
-- **Meaning:** Overcome, as with emotions or perceptual stimuli
-- **Hindi:** डूब
+- **Dissection:** [ओ-वर-व्हेल्म] (o-ver-whelm)
+- **Meaning:** To affect someone very strongly, often so they do not know how to react.
+- **Hindi:** अभिभूत करना / हावी होना
 - **Examples:**
-  1. I was drowned in work.
-  2. The noise drowned out her speech.
+  1. The loud noise and bright lights will sometimes **overwhelm** the baby.
+  2. She felt a deep sadness **overwhelm** her when she heard the news.
 
 ## 69: Owe
-- **Dissection:** [owe]
-- **Meaning:** Be obliged to pay or repay
-- **Hindi:** ऋृणी होना
+- **Dissection:** [ओ] (owe - एक बार में बोलें)
+- **Meaning:** To need to pay or give something to someone because they lent it to you or did something for you.
+- **Hindi:** ऋणी होना / देना बाकी होना
 - **Examples:**
-  1. This new theory owes much to Einstein's Relativity Theory.
-  2. She owes me $200.
+  1. I still **owe** my brother ten dollars for the movie ticket.
+  2. We **owe** our parents a lot of thanks for their help.
 
 ## 70: Owl
-- **Dissection:** [owl]
-- **Meaning:** Nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes
+- **Dissection:** [आउल] (owl - एक बार में बोलें)
+- **Meaning:** A bird with large eyes that hunts for small animals at night.
 - **Hindi:** उल्लू
 - **Examples:**
-  1. Wasn't the owl her symbol ''??
-  2. " Oh, you' re as drunk as an owl!".
+  1. We heard a loud **owl** hooting in the dark forest.
+  2. The brown **owl** sat quietly on the branch of the tree.
 
 ## 71: Oxygen
-- **Dissection:** [oxy-gen]
-- **Meaning:** A nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust
+- **Dissection:** [ऑक-सि-जन] (ox-y-gen)
+- **Meaning:** A gas in the air that all plants and animals need to live.
 - **Hindi:** ऑक्सीजन
 - **Examples:**
-  1. Metabolic responses to reduced oxygen tension;;.
-  2. A wall-stabilized high-current arc source was constructed and used to study transition probabilities of atomic hydrogen and oxygen.
+  1. Humans need to breathe **oxygen** to stay alive.
+  2. Plants take in carbon dioxide and release fresh **oxygen**.
 
