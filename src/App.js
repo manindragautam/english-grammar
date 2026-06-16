@@ -320,12 +320,12 @@ function parseMarkdownToEntries(md) {
     const word = header.replace(/^[0-9]+:\s*/g, "").replace(/^Word:\s*/i, "").trim();
     const obj = { word, dissection: "", meaning: "", hindi: "", examples: [] };
     for (const line of lines.slice(1)) {
-      if (line.startsWith("- **Dissection:**")) {
-        obj.dissection = line.replace("- **Dissection:**", "").trim();
-      } else if (line.startsWith("- **Meaning:**")) {
-        obj.meaning = line.replace("- **Meaning:**", "").trim();
-      } else if (line.startsWith("- **Hindi:**")) {
-        obj.hindi = line.replace("- **Hindi:**", "").trim();
+      if (/^[-*]\s*\*\*Dissection:\*\*/i.test(line)) {
+        obj.dissection = line.replace(/^[-*]\s*\*\*Dissection:\*\*/i, "").trim();
+      } else if (/^[-*]\s*\*\*Meaning:\*\*/i.test(line)) {
+        obj.meaning = line.replace(/^[-*]\s*\*\*Meaning:\*\*/i, "").trim();
+      } else if (/^[-*]\s*\*\*Hindi:\*\*/i.test(line)) {
+        obj.hindi = line.replace(/^[-*]\s*\*\*Hindi:\*\*/i, "").trim();
       } else if (/^\d+\./.test(line)) {
         obj.examples.push(line.replace(/^\d+\.\s*/, "").trim());
       }

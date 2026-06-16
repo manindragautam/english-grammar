@@ -1,88 +1,87 @@
 ## 1: Valley
 - **Dissection:** [val-ley]
-- **Meaning:** A long depression in the surface of the land that usually contains a river
+- **Meaning:** A low area of land between hills or mountains, typically with a river flowing through it.
 - **Hindi:** घाटी
 - **Examples:**
-  1. Look to Coosa Valley for industrial progress.
-  2. Philadelphia with its historic buildings and nearby Valley Forge;;.
+  1. The village is located in a beautiful green valley.
+  2. We drove through the valley to admire the tall mountains on both sides.
 
 ## 2: Value
-- **Dissection:** [value]
-- **Meaning:** A numerical quantity measured or assigned or computed
-- **Hindi:** कीमत
+- **Dissection:** [val-ue]
+- **Meaning:** The importance, worth, or usefulness of something.
+- **Hindi:** मूल्य / कीमत
 - **Examples:**
-  1. The value assigned was 16 milliseconds.
-  2. The Shakespearean Shylock is of dubious value in the modern world.
+  1. The value of this old coin is much higher than you think.
+  2. I really value your friendship and support.
 
 ## 3: Various
-- **Dissection:** [vari-ous]
-- **Meaning:** Of many different kinds purposefully arranged but lacking any uniformity
-- **Hindi:** विभिन्न
+- **Dissection:** [var-i-ous]
+- **Meaning:** Many different types of something.
+- **Hindi:** विभिन्न / कई
 - **Examples:**
-  1. Assorted sizes.
-  2. His disguises are many and various.
+  1. There are various ways to solve this math problem.
+  2. The store sells various kinds of fresh fruit and vegetables.
 
 ## 4: Very
-- **Dissection:** [very]
-- **Meaning:** Precisely as stated
+- **Dissection:** [ver-y]
+- **Meaning:** In a high degree; extremely.
 - **Hindi:** बहुत
 - **Examples:**
-  1. The very center of town.
-  2. This is the identical room we stayed in before.
+  1. I am very tired after running the marathon today.
+  2. The soup is very hot, so be careful when you eat it.
 
 ## 5: Victim
 - **Dissection:** [vic-tim]
-- **Meaning:** An unfortunate person who suffers from some adverse circumstance
-- **Hindi:** पीड़ित
+- **Meaning:** A person harmed, injured, or killed as a result of a crime, accident, or other event or action.
+- **Hindi:** पीड़ित / शिकार
 - **Examples:**
-  1. Victim of the accident was Robert Lee Stansbery, 39.
-  2. The victim was beaten when he attempted to stop the bandit.
+  1. The victim of the robbery was quickly taken to the hospital.
+  2. She felt like a victim of bad luck after losing her keys and wallet in one day.
 
 ## 6: View
 - **Dissection:** [view]
-- **Meaning:** A way of regarding situations or topics etc.
-- **Hindi:** देखना
+- **Meaning:** The ability to see something or the scenery that can be seen from a particular place.
+- **Hindi:** नज़ारा / दृष्टिकोण
 - **Examples:**
-  1. Consider what follows from the positivist view.
-  2. The most desirable feature of the park are the beautiful views.
+  1. We have a beautiful view of the ocean from our hotel room.
+  2. His view on the new law is completely different from mine.
 
 ## 7: Village
 - **Dissection:** [vil-lage]
-- **Meaning:** A community of people smaller than a town
+- **Meaning:** A group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.
 - **Hindi:** गाँव
 - **Examples:**
-  1. He said contributions also could be mailed to Post Office Box 553, Warren Village Station.
-  2. At Sturbridge Village, Massachusetts, you'll find a completely-restored New England town.
+  1. He grew up in a small farming village far from the city.
+  2. Everyone in the village knows each other very well.
 
 ## 8: Violence
-- **Dissection:** [vi-ol-ence]
-- **Meaning:** An act of aggression (as one against a person who resists)
+- **Dissection:** [vi-o-lence]
+- **Meaning:** Behavior involving physical force intended to hurt, damage, or kill someone or something.
 - **Hindi:** हिंसा
 - **Examples:**
-  1. He may accomplish by craft in the long run what he cannot do by force and violence in the short one.
-  2. The storm's violence.
+  1. The protest was peaceful and there was absolutely no violence.
+  2. He strongly opposes violence on television programs meant for children.
 
 ## 9: Visit
 - **Dissection:** [vis-it]
-- **Meaning:** The act of going to see some person or place or thing for a short time
-- **Hindi:** मिलने जाना
+- **Meaning:** To go to see and spend time with someone socially.
+- **Hindi:** मिलने जाना / यात्रा करना
 - **Examples:**
-  1. He dropped by for a visit.
-  2. He scheduled a visit to the dentist.
+  1. We plan to visit our grandparents during the summer holidays.
+  2. This museum is a wonderful place to visit if you love history.
 
 ## 10: Voice
 - **Dissection:** [voice]
-- **Meaning:** The distinctive quality or pitch or condition of a person's speech
+- **Meaning:** The sound produced in a person's larynx and uttered through the mouth, as speech or song.
 - **Hindi:** आवाज़
 - **Examples:**
-  1. A shrill voice sounded behind us.
-  2. A singer takes good care of his voice.
+  1. She has a beautiful singing voice and sings in the choir.
+  2. Please lower your voice when you are in the library.
 
 ## 11: Vote
 - **Dissection:** [vote]
-- **Meaning:** A choice that is made by counting the number of people in favor of each alternative
-- **Hindi:** वोट
+- **Meaning:** A formal indication of a choice between two or more candidates or courses of action.
+- **Hindi:** मतदान / वोट
 - **Examples:**
-  1. There were only 17 votes in favor of the motion.
-  2. They allowed just one vote per person.
-
+  1. Everyone should remember to vote in the upcoming election.
+  2. We need a majority vote to pass this new rule.

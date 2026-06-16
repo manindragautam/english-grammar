@@ -1,16 +1,15 @@
 ## 1: Zero
-- **Dissection:** [zero]
-- **Meaning:** A quantity of no importance
+- **Dissection:** [ze-ro]
+- **Meaning:** The numerical value 0; nothing or none.
 - **Hindi:** शून्य
 - **Examples:**
-  1. It looked like nothing I had ever seen before.
-  2. Reduced to nil all the work we had done.
+  1. There is zero chance of rain today.
+  2. I have exactly zero dollars left in my wallet.
 
 ## 2: Zone
 - **Dissection:** [zone]
-- **Meaning:** A locally circumscribed place characterized by some distinctive features
-- **Hindi:** जोन
+- **Meaning:** An area that has a specific characteristic, purpose, or use.
+- **Hindi:** क्षेत्र (Zone)
 - **Examples:**
-  1. Partition a room off.
-  2. Files in the Internet zone are blocked by default, as a security measure.
-
+  1. This is a tow-away zone, so you can't park your car here.
+  2. We need to stay out of the danger zone during the construction.

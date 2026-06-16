@@ -1,312 +1,311 @@
 ## 1: Ice
 - **Dissection:** [ice]
-- **Meaning:** Water frozen in the solid state
+- **Meaning:** Frozen water, a brittle transparent crystalline solid.
 - **Hindi:** बर्फ़
 - **Examples:**
-  1. Americans like ice in their drinks.
-  2. Look at the ice on that dame!
+  1. Please put some ice in my drink to make it cold.
+  2. Be careful driving, there is black ice on the roads.
 
 ## 2: Idea
-- **Dissection:** [idea]
-- **Meaning:** The content of cognition; the main thing you are thinking about
-- **Hindi:** विचार
+- **Dissection:** [i-de-a]
+- **Meaning:** A thought or suggestion as to a possible course of action.
+- **Hindi:** विचार / उपाय
 - **Examples:**
-  1. It was not a good idea.
-  2. The thought never entered my mind.
+  1. That is a brilliant idea for our science project.
+  2. I have no idea where I left my car keys.
 
 ## 3: Identify
-- **Dissection:** [identi-fy]
-- **Meaning:** Recognize as being; establish the identity of someone or something
-- **Hindi:** पहचान करना
+- **Dissection:** [i-den-ti-fy]
+- **Meaning:** To establish or indicate who or what someone or something is.
+- **Hindi:** पहचानना
 - **Examples:**
-  1. She identified the man on the 'wanted' poster.
-  2. Many senators were named in connection with the scandal.
+  1. Can you identify the man who stole your purse?
+  2. Scientists are trying to identify the rare species of bird.
 
 ## 4: If
 - **Dissection:** [if]
-- **Meaning:** An uncertainty, possibility, condition, doubt etc.
-- **Hindi:** अगर
+- **Meaning:** Introducing a conditional clause; on the condition or supposition that.
+- **Hindi:** अगर / यदि
 - **Examples:**
-  1. If it rains, I shall get wet.
-  2. If A, then B, else C.
+  1. We will go to the park if the weather is nice.
+  2. Please let me know if you need any help with your homework.
 
 ## 5: Ill
 - **Dissection:** [ill]
-- **Meaning:** An often persistent bodily disorder or disease; a cause for complaining
+- **Meaning:** Suffering from an illness or disease or feeling unwell.
 - **Hindi:** बीमार
 - **Examples:**
-  1. Ill from the monotony of his suffering.
-  2. Ill effects.
+  1. He called in sick to work because he was feeling very ill.
+  2. The food was so bad it made several customers ill.
 
 ## 6: Image
 - **Dissection:** [im-age]
-- **Meaning:** An iconic mental representation
-- **Hindi:** छवि
+- **Meaning:** A representation of the external form of a person or thing in art.
+- **Hindi:** छवि / तस्वीर
 - **Examples:**
-  1. Her imagination forced images upon her too awful to contemplate.
-  2. A public image is as fragile as Humpty Dumpty.
+  1. The telescope captured a beautiful image of the distant galaxy.
+  2. The company wants to improve its public image to attract more customers.
 
 ## 7: Imagine
-- **Dissection:** [ima-gine]
-- **Meaning:** Form a mental image of something that is not present or that is not the case
+- **Dissection:** [im-a-gine]
+- **Meaning:** To form a mental image or concept of.
 - **Hindi:** कल्पना करना
 - **Examples:**
-  1. Can you conceive of him as the president?
-  2. I imagine she earned a lot of money with her new novel.
+  1. Just imagine how wonderful it would be to travel the world.
+  2. I can't even imagine living in a world without electricity.
 
 ## 8: Impact
 - **Dissection:** [im-pact]
-- **Meaning:** The striking of one body against another
-- **Hindi:** प्रभाव
+- **Meaning:** The action of one object coming forcibly into contact with another, or a strong effect or influence.
+- **Hindi:** प्रभाव / असर
 - **Examples:**
-  1. The book had an important impact on my thinking.
-  2. The book packs a wallop.
+  1. The car crash had a huge impact on his physical health.
+  2. Pollution has a negative impact on the local environment.
 
 ## 9: Important
-- **Dissection:** [im-port-ant]
-- **Meaning:** Of great significance or value
-- **Hindi:** महत्वपूर्ण
+- **Dissection:** [im-por-tant]
+- **Meaning:** Of great significance or value; likely to have a profound effect on success, survival, or well-being.
+- **Hindi:** महत्वपूर्ण / ज़रूरी
 - **Examples:**
-  1. Important people.
-  2. The important questions of the day.
+  1. It is very important to brush your teeth every single day.
+  2. She made an important discovery during her research.
 
 ## 10: Improve
 - **Dissection:** [im-prove]
-- **Meaning:** To make better
-- **Hindi:** सुधार
+- **Meaning:** To make or become better.
+- **Hindi:** सुधारना
 - **Examples:**
-  1. The editor improved the manuscript with his changes.
-  2. The weather improved toward evening.
+  1. If you practice playing the piano every day, you will definitely improve.
+  2. The city council wants to improve the quality of public transportation.
 
 ## 11: In
 - **Dissection:** [in]
-- **Meaning:** A unit of length equal to one twelfth of a foot
-- **Hindi:** में
+- **Meaning:** Expressing the situation of something that is or appears to be enclosed or surrounded by something else.
+- **Hindi:** अंदर / में
 - **Examples:**
-  1. The in party.
-  2. Took the in bus.
+  1. She placed the flowers inside a vase filled with water in the kitchen.
+  2. I left my wallet in the car by accident.
 
 ## 12: Include
 - **Dissection:** [in-clude]
-- **Meaning:** Have as a part, be made up out of
+- **Meaning:** To comprise or contain as part of a whole.
 - **Hindi:** शामिल करना
 - **Examples:**
-  1. The list includes the names of many famous writers.
-  2. I include you in the list of culprits.
+  1. The price of the hotel room will include a free breakfast.
+  2. Please make sure to include everyone in the game.
 
 ## 13: Including
 - **Dissection:** [in-clud-ing]
-- **Meaning:** Have as a part, be made up out of
-- **Hindi:** शामिल
+- **Meaning:** Containing as part of the whole being considered.
+- **Hindi:** सहित / शामिल
 - **Examples:**
-  1. The list includes the names of many famous writers.
-  2. I include you in the list of culprits.
+  1. All of the students, including John, passed the final exam.
+  2. The ticket covers everything, including tax and tip.
 
 ## 14: Increase
 - **Dissection:** [in-crease]
-- **Meaning:** A quantity that is added
-- **Hindi:** बढ़ोतरी
+- **Meaning:** To become or make greater in size, amount, intensity, or degree.
+- **Hindi:** बढ़ाना / वृद्धि
 - **Examples:**
-  1. There was an addition to property taxes this year.
-  2. They recorded the cattle's gain in weight over a period of weeks.
+  1. The store had to increase its prices due to inflation.
+  2. Doing daily exercises will help increase your overall strength.
 
 ## 15: Indeed
 - **Dissection:** [in-deed]
-- **Meaning:** In truth (often tends to intensify)
-- **Hindi:** वास्तव में
+- **Meaning:** Used to emphasize a statement or response confirming something already suggested.
+- **Hindi:** वास्तव में / सचमुच
 - **Examples:**
-  1. They said the car would break down and indeed it did.
-  2. It is very cold indeed.
+  1. It was a very good meal indeed.
+  2. "Is she a talented musician?" "She is indeed."
 
 ## 16: Indicate
-- **Dissection:** [in-dic-ate]
-- **Meaning:** Be a signal for or a symptom of
-- **Hindi:** संकेत देना
+- **Dissection:** [in-di-cate]
+- **Meaning:** To point out or show something.
+- **Hindi:** संकेत देना / बताना
 - **Examples:**
-  1. These symptoms indicate a serious illness.
-  2. Her behavior points to a severe neurosis.
+  1. The dark clouds indicate that a storm is approaching.
+  2. Please indicate your preference on the menu by checking a box.
 
 ## 17: Individual
-- **Dissection:** [in-di-vidu-al]
-- **Meaning:** A human being
-- **Hindi:** व्यक्ति
+- **Dissection:** [in-di-vid-u-al]
+- **Meaning:** Single; separate; relating to one particular person.
+- **Hindi:** व्यक्ति / व्यक्तिगत
 - **Examples:**
-  1. There was too much for one person to do.
-  2. Individual drops of rain.
+  1. Each individual student must submit their own report.
+  2. We must respect the rights of every individual in society.
 
 ## 18: Industry
-- **Dissection:** [in-dustry]
-- **Meaning:** The people or companies engaged in a particular kind of commercial enterprise
+- **Dissection:** [in-dus-try]
+- **Meaning:** Economic activity concerned with the processing of raw materials and manufacture of goods in factories.
 - **Hindi:** उद्योग
 - **Examples:**
-  1. Each industry has its own trade publications.
-  2. American industry is making increased use of computers to control production.
+  1. The automotive industry employs thousands of people in this town.
+  2. Technological advancements have completely changed the music industry.
 
 ## 19: Information
-- **Dissection:** [in-form-a-tion]
-- **Meaning:** A message received and understood
-- **Hindi:** जानकारी
+- **Dissection:** [in-for-ma-tion]
+- **Meaning:** Facts provided or learned about something or someone.
+- **Hindi:** जानकारी / सूचना
 - **Examples:**
-  1. Statistical data.
-  2. The signal contained thousands of bits of information.
+  1. You can find more information about the museum on their website.
+  2. The detective gathered valuable information from the witnesses.
 
 ## 20: Inside
 - **Dissection:** [in-side]
-- **Meaning:** The region that is inside of something
+- **Meaning:** The inner side or surface of something.
 - **Hindi:** अंदर
 - **Examples:**
-  1. He reached into his inside jacket pocket.
-  2. Inside out.
+  1. It started to rain, so we all went inside the house.
+  2. The inside of the ancient cave was dark and cold.
 
 ## 21: Instead
 - **Dissection:** [in-stead]
-- **Meaning:** In place of, or as an alternative to
-- **Hindi:** बजाय
+- **Meaning:** As an alternative or substitute.
+- **Hindi:** के बजाय
 - **Examples:**
-  1. Felix became a herpetologist instead.
-  2. Alternatively we could buy a used car.
+  1. I didn't want coffee, so I drank tea instead.
+  2. If you don't want to go to the park, we can watch a movie instead.
 
 ## 22: Institution
 - **Dissection:** [in-sti-tu-tion]
-- **Meaning:** An organization founded and united for a specific purpose
-- **Hindi:** संस्था
+- **Meaning:** An organization founded for a religious, educational, professional, or social purpose.
+- **Hindi:** संस्था / संस्थान
 - **Examples:**
-  1. The institution of marriage.
-  2. The institution of slavery.
+  1. The university is a highly respected academic institution.
+  2. This banking institution has branches all over the world.
 
 ## 23: Interest
-- **Dissection:** [in-terest]
-- **Meaning:** A sense of concern with and curiosity about someone or something
-- **Hindi:** दिलचस्पी
+- **Dissection:** [in-ter-est]
+- **Meaning:** The feeling of wanting to know or learn about something or someone.
+- **Hindi:** रुचि / दिलचस्पी
 - **Examples:**
-  1. An interest in music.
-  2. For your sake.
+  1. She has a deep interest in ancient Roman history.
+  2. My son showed no interest in playing baseball.
 
 ## 24: Interesting
 - **Dissection:** [in-ter-est-ing]
-- **Meaning:** Excite the curiosity of; engage the interest of
-- **Hindi:** दिलचस्प
+- **Meaning:** Arousing curiosity or interest; holding or catching the attention.
+- **Hindi:** दिलचस्प / रोचक
 - **Examples:**
-  1. I worry about the second Germanic consonant shift.
-  2. This matters to me!
+  1. That is a very interesting book about space exploration.
+  2. We had an interesting conversation about politics over dinner.
 
 ## 25: International
 - **Dissection:** [in-ter-na-tion-al]
-- **Meaning:** Any of several international socialist organizations
+- **Meaning:** Existing, occurring, or carried on between two or more nations.
 - **Hindi:** अंतरराष्ट्रीय
 - **Examples:**
-  1. International affairs.
-  2. An international agreement.
+  1. She works for a large international bank with offices in Europe and Asia.
+  2. The airport serves many international flights every day.
 
 ## 26: Interview
 - **Dissection:** [in-ter-view]
-- **Meaning:** The questioning of a person (or a conversation in which information is elicited); often conducted by journalists
+- **Meaning:** A formal meeting in which one or more persons question, consult, or evaluate another person.
 - **Hindi:** साक्षात्कार
 - **Examples:**
-  1. My interviews with teenagers revealed a weakening of religious bonds.
-  2. He had a consultation with the judge.
+  1. I am nervous about my job interview tomorrow morning.
+  2. The journalist conducted an exclusive interview with the famous actor.
 
 ## 27: Into
 - **Dissection:** [in-to]
-- **Meaning:** To or towards the inside of.
-- **Hindi:** में
+- **Meaning:** Expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else.
+- **Hindi:** के अंदर
 - **Examples:**
-  1. Mary danced into the house.
-  2. The eagle flew off into the wide blue sky.
+  1. The brave firefighter ran into the burning building.
+  2. She poured the hot tea into a beautiful ceramic mug.
 
 ## 28: Introduce
 - **Dissection:** [in-tro-duce]
-- **Meaning:** Cause to come to know personally
-- **Hindi:** परिचय देना
+- **Meaning:** To bring something into use or operation for the first time, or to make someone known by name to another.
+- **Hindi:** परिचय कराना
 - **Examples:**
-  1. Permit me to acquaint you with my son.
-  2. Introduce the new neighbors to the community.
+  1. Please allow me to introduce my friend, Sarah, to you.
+  2. The company plans to introduce a new smartphone model next month.
 
 ## 29: Invest
 - **Dissection:** [in-vest]
-- **Meaning:** Make an investment
+- **Meaning:** To expend money with the expectation of achieving a profit or material result.
 - **Hindi:** निवेश करना
 - **Examples:**
-  1. Put money into bonds.
-  2. They vested the council with special rights.
+  1. It is a smart idea to invest your savings in the stock market.
+  2. The city decided to invest heavily in public transportation.
 
 ## 30: Investment
 - **Dissection:** [in-vest-ment]
-- **Meaning:** The act of investing; laying out money or capital in an enterprise with the expectation of profit
+- **Meaning:** The action or process of investing money for profit or material result.
 - **Hindi:** निवेश
 - **Examples:**
-  1. This job calls for the investment of some hard thinking.
-  2. He made an emotional investment in the work.
+  1. Buying a house is usually a very good long-term investment.
+  2. The business requires a large initial investment to get started.
 
 ## 31: Invite
 - **Dissection:** [in-vite]
-- **Meaning:** A colloquial expression for invitation
-- **Hindi:** आमंत्रित करना
+- **Meaning:** To make a polite, formal, or friendly request to someone to go somewhere or to do something.
+- **Hindi:** आमंत्रित करना / बुलावा देना
 - **Examples:**
-  1. He didn't get no invite to the party.
-  2. Ask for trouble.
+  1. We decided to invite all our neighbors to the barbecue.
+  2. Did they invite you to their wedding ceremony?
 
 ## 32: Involve
 - **Dissection:** [in-volve]
-- **Meaning:** Connect closely and often incriminatingly
-- **Hindi:** शामिल होना
+- **Meaning:** To have or include something as a necessary or integral part or result.
+- **Hindi:** शामिल करना
 - **Examples:**
-  1. This new ruling affects your business.
-  2. Don't involve me in your family affairs!
+  1. This new project will involve a lot of hard work and dedication.
+  2. Try not to involve the kids in our personal arguments.
 
 ## 33: Iron
-- **Dissection:** [iron]
-- **Meaning:** A heavy ductile magnetic metallic element; is silver-white in pure form but readily rusts; used in construction and tools and armament; plays a role in the transport of oxygen by the blood
-- **Hindi:** लोहा
+- **Dissection:** [i-ron]
+- **Meaning:** A strong, hard magnetic silvery-gray metal. Also, an appliance used to press clothes.
+- **Hindi:** लोहा / इस्त्री
 - **Examples:**
-  1. Press your shirts.
-  2. She stood there ironing.
+  1. The blacksmith shaped the hot piece of iron with his hammer.
+  2. I need to iron my shirt before going to the formal dinner.
 
 ## 34: Island
 - **Dissection:** [is-land]
-- **Meaning:** A land mass (smaller than a continent) that is surrounded by water
+- **Meaning:** A piece of land surrounded by water.
 - **Hindi:** द्वीप
 - **Examples:**
-  1. An island of colors on a butterfly's wing.
-  2. The island in the middle of a roundabout.
+  1. We spent our vacation relaxing on a beautiful tropical island.
+  2. The island is only accessible by boat or airplane.
 
 ## 35: Issue
 - **Dissection:** [is-sue]
-- **Meaning:** An important question that is in dispute and must be settled
+- **Meaning:** An important topic or problem for debate or discussion.
 - **Hindi:** मुद्दा
 - **Examples:**
-  1. The issue could be settled by requiring public education for everyone.
-  2. Politicians never discuss the real issues.
+  1. Climate change is a critical global issue today.
+  2. We need to resolve this issue before moving forward with the plan.
 
 ## 36: It
 - **Dissection:** [it]
-- **Meaning:** The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information
+- **Meaning:** Used to refer to a thing previously mentioned or easily identified.
 - **Hindi:** यह
 - **Examples:**
-  1. In the next game, Adam and Tom will be it….
-  2. Let's play it at breaktime.
+  1. I bought a new car, and I love driving it to work.
+  2. Where is my book? I left it right here on the table.
 
 ## 37: Item
-- **Dissection:** [item]
-- **Meaning:** A distinct part that can be specified separately in a group of things that could be enumerated on a list
-- **Hindi:** वस्तु
+- **Dissection:** [i-tem]
+- **Meaning:** An individual article or unit, especially one that is part of a list, collection, or set.
+- **Hindi:** वस्तु / चीज़
 - **Examples:**
-  1. He noticed an item in the New York Times.
-  2. She had several items on her shopping list.
+  1. She checked off every item on her grocery shopping list.
+  2. The most expensive item in the store was locked in a glass case.
 
 ## 38: Its
 - **Dissection:** [its]
-- **Meaning:** The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information
-- **Hindi:** इसका
+- **Meaning:** Belonging to or associated with a thing previously mentioned or easily identified.
+- **Hindi:** इसका / उसकी
 - **Examples:**
-  1. In the next game, Adam and Tom will be it….
-  2. Let's play it at breaktime.
+  1. The dog happily wagged its tail when the owner returned.
+  2. The company celebrated its tenth anniversary this year.
 
 ## 39: Itself
 - **Dissection:** [it-self]
-- **Meaning:** (reflexive pronoun) it; A thing as the object of a verb or preposition that also appears as the subject
-- **Hindi:** स्वयं
+- **Meaning:** Used to emphasize a particular thing or animal mentioned.
+- **Hindi:** स्वयं / अपने आप
 - **Examples:**
-  1. The door closed by itself.
-  2. The door itself is quite heavy.
-
+  1. The cat washed itself after eating breakfast.
+  2. The building itself is very old, but the interior was recently renovated.

@@ -1,104 +1,103 @@
 ## 1: Ugly
-- **Dissection:** [ugly]
-- **Meaning:** Displeasing to the senses
-- **Hindi:** कुरूप
+- **Dissection:** [ug-ly]
+- **Meaning:** Unpleasant or unattractive to look at.
+- **Hindi:** बदसूरत / कुरूप
 - **Examples:**
-  1. An ugly face.
-  2. Ugly furniture.
+  1. That is a very ugly building in the middle of town.
+  2. The argument between them turned into an ugly situation.
 
 ## 2: Uncle
-- **Dissection:** [uncle]
-- **Meaning:** The brother of your father or mother; the husband of your aunt
-- **Hindi:** चाचा
+- **Dissection:** [un-cle]
+- **Meaning:** The brother of one's father or mother.
+- **Hindi:** चाचा / मामा
 - **Examples:**
-  1. Uncle Sam would then accuse them of creating a monopoly by `` unfair competition ''.
-  2. In the spacious hunting grounds of `` Uncle Sam '';;.
+  1. My uncle bought me a new bicycle for my birthday.
+  2. We are going to visit my uncle in California next week.
 
 ## 3: Under
 - **Dissection:** [un-der]
-- **Meaning:** Located below or beneath something else
-- **Hindi:** अंतर्गत
+- **Meaning:** Below or beneath something else.
+- **Hindi:** नीचे
 - **Examples:**
-  1. Nether garments.
-  2. The under parts of a machine.
+  1. The dog is sleeping under the kitchen table.
+  2. Make sure you look under the bed for your missing shoes.
 
 ## 4: Understand
 - **Dissection:** [un-der-stand]
-- **Meaning:** Know and comprehend the nature or meaning of
+- **Meaning:** To grasp the meaning of something; to comprehend.
 - **Hindi:** समझना
 - **Examples:**
-  1. She did not understand her husband.
-  2. I understand what she means.
+  1. I don't understand the instructions for this assignment.
+  2. Do you understand why she was so upset yesterday?
 
 ## 5: Unit
-- **Dissection:** [unit]
-- **Meaning:** Any division of quantity accepted as a standard of measurement or exchange
+- **Dissection:** [u-nit]
+- **Meaning:** An individual thing or person regarded as single and complete.
 - **Hindi:** इकाई
 - **Examples:**
-  1. The dollar is the United States unit of currency.
-  2. A unit of wheat is a bushel.
+  1. The apartment building has thirty separate housing units.
+  2. A centimeter is a standard unit of measurement.
 
 ## 6: Until
 - **Dissection:** [un-til]
-- **Meaning:** Up to the time of (something happening).
+- **Meaning:** Up to the point in time or the event mentioned.
 - **Hindi:** जब तक
 - **Examples:**
-  1. If you can wait until after my meeting with her, we'll talk then.
-  2. Keep walking until the second set of traffic lights, then turn left.
+  1. We have to wait here until the rain stops.
+  2. You can't open your presents until tomorrow morning.
 
 ## 7: Up
 - **Dissection:** [up]
-- **Meaning:** Raise
+- **Meaning:** Toward a higher place or position.
 - **Hindi:** ऊपर
 - **Examples:**
-  1. Up the ante.
-  2. The anchor is up.
+  1. Please look up at the ceiling to see the beautiful painting.
+  2. The prices of groceries have gone up significantly this year.
 
 ## 8: Upon
-- **Dissection:** [upon]
-- **Meaning:** Being the target of an action.
-- **Hindi:** ऊपर
+- **Dissection:** [u-pon]
+- **Meaning:** A more formal term for 'on'.
+- **Hindi:** ऊपर / पर
 - **Examples:**
-  1. He was set upon by the agitated dogs.
-  2. Place the book upon the table.
+  1. The knight rode out upon a beautiful white horse.
+  2. Once upon a time, there was a princess who lived in a castle.
 
 ## 9: Upper
 - **Dissection:** [up-per]
-- **Meaning:** The higher of two berths
-- **Hindi:** अपर
+- **Meaning:** Located above another or others of the same kind.
+- **Hindi:** ऊपरी
 - **Examples:**
-  1. Uppers come in many styles.
-  2. The upper bunk.
+  1. The upper shelf in the kitchen is too high for me to reach.
+  2. She broke a bone in her upper arm during the basketball game.
 
 ## 10: Us
 - **Dissection:** [us]
-- **Meaning:** North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776
-- **Hindi:** हम
+- **Meaning:** Used by a speaker to refer to themselves and one or more other people.
+- **Hindi:** हमें
 - **Examples:**
-  1. Give us a look at your paper.
-  2. We'll have to throw us food out.
+  1. Would you like to come to the movies with us?
+  2. The teacher gave us a lot of homework to do this weekend.
 
 ## 11: Use
 - **Dissection:** [use]
-- **Meaning:** The act of using
-- **Hindi:** उपयोग
+- **Meaning:** To put something into service or action to achieve a purpose.
+- **Hindi:** उपयोग करना
 - **Examples:**
-  1. He warned against the use of narcotic drugs.
-  2. Skilled in the utilization of computers.
+  1. You can use my pen to write down the phone number.
+  2. How often do you use the computer for your schoolwork?
 
 ## 12: Useful
 - **Dissection:** [use-ful]
-- **Meaning:** Being of use or service
+- **Meaning:** Able to be used for a practical purpose or in several ways.
 - **Hindi:** उपयोगी
 - **Examples:**
-  1. The girl felt motherly and useful.
-  2. A useful job.
+  1. This dictionary is a very useful tool for learning new words.
+  2. He gave me some useful advice about buying a new car.
 
 ## 13: Usually
-- **Dissection:** [usu-ally]
-- **Meaning:** Under normal conditions
+- **Dissection:** [u-su-al-ly]
+- **Meaning:** Under normal conditions; generally.
 - **Hindi:** आम तौर पर
 - **Examples:**
-  1. Usually she was late.
-  2. Except for one or two days a year, he usually walks to work.
-
+  1. I usually wake up at seven o'clock every morning.
+  2. She usually takes the bus to work, but today she drove.

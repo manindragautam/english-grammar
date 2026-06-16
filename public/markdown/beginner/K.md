@@ -1,112 +1,111 @@
 ## 1: Keep
 - **Dissection:** [keep]
-- **Meaning:** The financial means whereby one lives
+- **Meaning:** To continue to have or retain possession of.
 - **Hindi:** रखना
 - **Examples:**
-  1. Each child was expected to pay for their keep.
-  2. He applied to the state for support.
+  1. You can keep the pen if you need it.
+  2. I always keep a spare tire in the trunk of my car.
 
 ## 2: Key
 - **Dissection:** [key]
-- **Meaning:** Metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated
+- **Meaning:** A small piece of shaped metal used for opening a lock or starting a car.
 - **Hindi:** चाबी
 - **Examples:**
-  1. The key to development is economic integration.
-  2. He spoke in a low key.
+  1. I can't find my car key anywhere in the house.
+  2. Hard work is the key to achieving success in life.
 
 ## 3: Kick
 - **Dissection:** [kick]
-- **Meaning:** The act of delivering a blow with the foot
+- **Meaning:** To strike or propel forcibly with the foot.
 - **Hindi:** लात मारना
 - **Examples:**
-  1. He gave the ball a powerful kick.
-  2. The team's kicking was excellent.
+  1. The child likes to kick the ball around the yard.
+  2. Try not to kick the seat in front of you on the airplane.
 
 ## 4: Kid
 - **Dissection:** [kid]
-- **Meaning:** A young person of either sex
+- **Meaning:** A child or young person.
 - **Hindi:** बच्चा
 - **Examples:**
-  1. She writes books for children.
-  2. They're just kids.
+  1. He is just a little kid and doesn't know any better.
+  2. As a kid, I loved to play hide and seek in the park.
 
 ## 5: Kill
 - **Dissection:** [kill]
-- **Meaning:** The act of terminating a life
+- **Meaning:** To cause the death of a person, animal, or other living thing.
 - **Hindi:** मारना
 - **Examples:**
-  1. The pilot reported two kills during the mission.
-  2. This man killed several people when he tried to rob a bank.
+  1. The poison is designed to kill rats and mice.
+  2. Don't let your careless mistakes kill the project entirely.
 
 ## 6: Kind
 - **Dissection:** [kind]
-- **Meaning:** A category of things distinguished by some common characteristic or quality
-- **Hindi:** दयालु
+- **Meaning:** A group of people or things having similar characteristics; also means friendly or generous.
+- **Hindi:** प्रकार / दयालु
 - **Examples:**
-  1. Sculpture is a form of art.
-  2. What kinds of desserts are there?
+  1. What kind of music do you like to listen to?
+  2. It was very kind of you to help the old lady cross the street.
 
 ## 7: King
 - **Dissection:** [king]
-- **Meaning:** A male sovereign; ruler of a kingdom
+- **Meaning:** The male ruler of an independent state, especially one who inherits the position by right of birth.
 - **Hindi:** राजा
 - **Examples:**
-  1. An oil baron.
-  2. The lion is the king of beasts.
+  1. The king ruled his country with fairness and justice.
+  2. In chess, you must protect the king from being captured.
 
 ## 8: Kiss
 - **Dissection:** [kiss]
-- **Meaning:** The act of caressing with the lips (or an instance thereof)
+- **Meaning:** To touch with the lips as a sign of love, affection, or greeting.
 - **Hindi:** चुंबन
 - **Examples:**
-  1. There was a brief kiss of their hands in passing.
-  2. The newly married couple kissed.
+  1. She gave her baby a gentle kiss on the forehead.
+  2. They shared a romantic kiss under the stars.
 
 ## 9: Kitchen
 - **Dissection:** [kit-chen]
-- **Meaning:** A room equipped for preparing meals
+- **Meaning:** A room or area where food is prepared and cooked.
 - **Hindi:** रसोईघर
 - **Examples:**
-  1. Her husband was lying on the kitchen floor, police said.
-  2. This happens on the grocer's shelf or in your kitchen.
+  1. My mother is baking cookies in the kitchen right now.
+  2. We just bought a new refrigerator for the kitchen.
 
 ## 10: Knee
 - **Dissection:** [knee]
-- **Meaning:** Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella
+- **Meaning:** The joint between the thigh and the lower leg in humans.
 - **Hindi:** घुटना
 - **Examples:**
-  1. Penny was wearing a miniskirt, so she skinned her exposed knees when she fell.
-  2. To make a knee.
+  1. He scraped his knee when he fell off the skateboard.
+  2. I need to bend my knee to pick up the box from the floor.
 
 ## 11: Knife
 - **Dissection:** [knife]
-- **Meaning:** Edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle
+- **Meaning:** An instrument composed of a blade fixed into a handle, used for cutting.
 - **Hindi:** चाकू
 - **Examples:**
-  1. Tongues of flame licked at the walls.
-  2. Rifles exploded quick knives of fire into the dark.
+  1. You need a sharp knife to cut this piece of meat.
+  2. Be careful not to cut your finger with the kitchen knife.
 
 ## 12: Knock
 - **Dissection:** [knock]
-- **Meaning:** The sound of knocking (as on a door or in an engine or bearing)
-- **Hindi:** दस्तक
+- **Meaning:** To strike a surface noisily to attract attention, especially when waiting to be let in through a door.
+- **Hindi:** दस्तक देना / खटखटाना
 - **Examples:**
-  1. The knocking grew louder.
-  2. The sudden knock floored him.
+  1. Please knock on the door before you enter my room.
+  2. I heard a loud knock coming from the window outside.
 
 ## 13: Know
 - **Dissection:** [know]
-- **Meaning:** The fact of being aware of information that is known to few people
+- **Meaning:** To be aware of through observation, inquiry, or information.
 - **Hindi:** जानना
 - **Examples:**
-  1. He is always in the know.
-  2. I know that the President lied to the people.
+  1. I know that he is telling the truth about the incident.
+  2. Do you know how to fix a broken bicycle chain?
 
 ## 14: Knowledge
 - **Dissection:** [know-ledge]
-- **Meaning:** The psychological result of perception and learning and reasoning
+- **Meaning:** Facts, information, and skills acquired by a person through experience or education.
 - **Hindi:** ज्ञान
 - **Examples:**
-  1. His knowledge of Iceland was limited to what he'd seen on the Travel Channel.
-  2. Knowledge consists in recognizing the difference between good and bad decisions.
-
+  1. Reading books is a great way to expand your general knowledge.
+  2. The teacher passed her extensive knowledge onto her students.
