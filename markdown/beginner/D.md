@@ -1,560 +1,559 @@
 ## 1: Damage
 - **Dissection:** [dam-age]
-- **Meaning:** The occurrence of a change for the worse
-- **Hindi:** हानि
+- **Meaning:** Physical harm caused to something in such a way as to impair its value, usefulness, or normal function.
+- **Hindi:** नुकसान / हानि
 - **Examples:**
-  1. The price of gasoline.
-  2. He got his new car on excellent terms.
+  1. The strong storm caused a lot of damage to the roof of our house.
+  2. Be careful not to damage the fragile glass vase.
 
 ## 2: Dance
 - **Dissection:** [dance]
-- **Meaning:** An artistic form of nonverbal communication
-- **Hindi:** नृत्य
+- **Meaning:** To move rhythmically to music, typically following a set sequence of steps.
+- **Hindi:** नृत्य / नाचना
 - **Examples:**
-  1. The young girl danced into the room.
-  2. My husband and I like to dance at home to the radio.
+  1. They loved to dance together at every party.
+  2. The little girl is taking a ballet dance class.
 
 ## 3: Danger
-- **Dissection:** [danger]
-- **Meaning:** The condition of being susceptible to harm or injury
+- **Dissection:** [dan-ger]
+- **Meaning:** The possibility of suffering harm or injury.
 - **Hindi:** खतरा
 - **Examples:**
-  1. You are in no danger.
-  2. There was widespread danger of disease.
+  1. The sign warned people about the danger of swimming in the deep river.
+  2. The brave firefighter saved the cat from danger.
 
 ## 4: Dark
 - **Dissection:** [dark]
-- **Meaning:** Absence of light or illumination
+- **Meaning:** With little or no light.
 - **Hindi:** अँधेरा
 - **Examples:**
-  1. The powers of darkness.
-  2. He moved off into the darkness.
+  1. It gets very dark outside after the sun goes down.
+  2. The young boy was afraid to sleep in the dark room.
 
 ## 5: Data
-- **Dissection:** [data]
-- **Meaning:** A collection of facts from which conclusions may be drawn
-- **Hindi:** डेटा
+- **Dissection:** [da-ta]
+- **Meaning:** Facts and statistics collected together for reference or analysis.
+- **Hindi:** डेटा / जानकारी
 - **Examples:**
-  1. The bank installed a magnetic tape electronic data processing system to handle things.
-  2. So you yourself must seek these objective data, and come to your own conclusions.
+  1. The scientist collected data from the experiment to write her report.
+  2. We need to analyze all the sales data from last year.
 
 ## 6: Daughter
 - **Dissection:** [daugh-ter]
-- **Meaning:** A female human offspring
+- **Meaning:** A girl or woman in relation to her parents.
 - **Hindi:** बेटी
 - **Examples:**
-  1. Her daughter cared for her in her old age.
-  2. I already have a son, so I would like to have a daughter.
+  1. Their eldest daughter is studying medicine at the university.
+  2. The father was very proud of his young daughter.
 
 ## 7: Day
 - **Dissection:** [day]
-- **Meaning:** Time for Earth to make a complete rotation on its axis
+- **Meaning:** A period of twenty-four hours as a unit of time.
 - **Hindi:** दिन
 - **Examples:**
-  1. Two days later they left.
-  2. They put on two performances every day.
+  1. There are seven days in a week.
+  2. What a beautiful, sunny day to go for a walk in the park!
 
 ## 8: Dead
 - **Dissection:** [dead]
-- **Meaning:** People who are no longer living
-- **Hindi:** मृत
+- **Meaning:** No longer alive.
+- **Hindi:** मृत / मरा हुआ
 - **Examples:**
-  1. They buried the dead.
-  2. The dead of winter.
+  1. The plants in the garden were completely dead because it hadn't rained in weeks.
+  2. He found a dead bird on the sidewalk.
 
 ## 9: Deal
 - **Dissection:** [deal]
-- **Meaning:** A particular instance of buying or selling
+- **Meaning:** An agreement entered into by two or more parties for their mutual benefit.
 - **Hindi:** सौदा
 - **Examples:**
-  1. It was a package deal.
-  2. I had no further trade with him.
+  1. They made a great business deal that will help both companies.
+  2. Getting a free dessert with your meal is a really good deal.
 
 ## 10: Dear
 - **Dissection:** [dear]
-- **Meaning:** A beloved person; used as terms of endearment
+- **Meaning:** Regarded with deep affection.
 - **Hindi:** प्रिय
 - **Examples:**
-  1. A good friend.
-  2. My sisters and brothers are near and dear.
+  1. She wrote a letter that started with "My dear friend".
+  2. His grandmother was very dear to his heart.
 
 ## 11: Death
 - **Dissection:** [death]
-- **Meaning:** The event of dying or departure from life
-- **Hindi:** मौत
+- **Meaning:** The action or fact of dying or being killed; the end of the life of a person or organism.
+- **Hindi:** मौत / मृत्यु
 - **Examples:**
-  1. Her death came as a terrible shock.
-  2. Upon your decease the capital will pass to your grandchildren.
+  1. The tragic death of the king saddened the entire country.
+  2. She was very afraid of sickness and death.
 
 ## 12: Debate
 - **Dissection:** [de-bate]
-- **Meaning:** A discussion in which reasons are advanced for and against some proposition or proposal
-- **Hindi:** बहस
+- **Meaning:** A formal discussion on a particular topic in a public meeting or legislative assembly.
+- **Hindi:** बहस / वाद-विवाद
 - **Examples:**
-  1. The argument over foreign aid goes on and on.
-  2. We debated the question of abortion.
+  1. The politicians had a heated debate about the new tax laws.
+  2. We watched the presidential debate on television last night.
 
 ## 13: Decade
 - **Dissection:** [dec-ade]
-- **Meaning:** A period of 10 years
+- **Meaning:** A period of ten years.
 - **Hindi:** दशक
 - **Examples:**
-  1. A decade of soldiers.
-  2. There are decades between 1.8 and 18, between 25 and 250 and between 0.03 and 0.003.
+  1. The famous band has been playing music together for over a decade.
+  2. Life was very different a decade ago before smartphones were popular.
 
 ## 14: Decide
 - **Dissection:** [de-cide]
-- **Meaning:** Reach, make, or come to a decision about something
-- **Hindi:** तय करना
+- **Meaning:** To come or bring to a resolution in the mind as a result of consideration.
+- **Hindi:** तय करना / निर्णय लेना
 - **Examples:**
-  1. We finally decided after lengthy deliberations.
-  2. The case was decided.
+  1. I need to decide what to wear to the formal dinner tonight.
+  2. They decided to go to the beach instead of the mountains.
 
 ## 15: Decision
-- **Dissection:** [de-cision]
-- **Meaning:** The act of making up your mind about something
-- **Hindi:** फ़ैसला
+- **Dissection:** [de-ci-sion]
+- **Meaning:** A conclusion or resolution reached after consideration.
+- **Hindi:** फ़ैसला / निर्णय
 - **Examples:**
-  1. The burden of decision was his.
-  2. He drew his conclusions quickly.
+  1. Buying a new house is a very important financial decision.
+  2. He made the difficult decision to quit his job and travel the world.
 
 ## 16: Deep
 - **Dissection:** [deep]
-- **Meaning:** The central and most intense or profound part
+- **Meaning:** Extending far down from the top or surface.
 - **Hindi:** गहरा
 - **Examples:**
-  1. In the deep of night.
-  2. In the deep of winter.
+  1. The children were warned not to swim in the deep end of the pool.
+  2. They found a hidden treasure buried deep inside the cave.
 
 ## 17: Defend
 - **Dissection:** [de-fend]
-- **Meaning:** Argue or speak in defense of
-- **Hindi:** रक्षा करना
+- **Meaning:** To resist an attack made on someone or something; protect from harm or danger.
+- **Hindi:** रक्षा करना / बचाव करना
 - **Examples:**
-  1. She supported the motion to strike.
-  2. Hold that position behind the trees!
+  1. The brave soldiers fought hard to defend their country from the invaders.
+  2. A good lawyer will vigorously defend their client in court.
 
 ## 18: Defense
 - **Dissection:** [de-fense]
-- **Meaning:** (military) military action or resources protecting a country against potential enemies
-- **Hindi:** रक्षा
+- **Meaning:** The action of defending from or resisting attack.
+- **Hindi:** रक्षा / बचाव
 - **Examples:**
-  1. They died in the defense of Stalingrad.
-  2. They were developed for the defense program.
+  1. The team played excellent defense and won the championship game.
+  2. The city built a large wall as a defense against floods.
 
 ## 19: Degree
 - **Dissection:** [de-gree]
-- **Meaning:** A position on a scale of intensity or amount or quality
-- **Hindi:** डिग्री
+- **Meaning:** The amount, level, or extent to which something happens or is present. Also, an academic rank.
+- **Hindi:** डिग्री / स्तर
 - **Examples:**
-  1. A moderate grade of intelligence.
-  2. A high level of care is required.
+  1. Water boils at 100 degrees Celsius.
+  2. She worked very hard to earn her medical degree from the university.
 
 ## 20: Delay
-- **Dissection:** [delay]
-- **Meaning:** Time during which some action is awaited
-- **Hindi:** देरी
+- **Dissection:** [de-lay]
+- **Meaning:** Make someone or something late or slow.
+- **Hindi:** देरी / विलंब
 - **Examples:**
-  1. Instant replay caused too long a delay.
-  2. He ordered a hold in the action.
+  1. The heavy snow caused a long delay at the airport.
+  2. Please don't delay in sending your application, as the deadline is tomorrow.
 
 ## 21: Demand
 - **Dissection:** [de-mand]
-- **Meaning:** An urgent or peremptory request
+- **Meaning:** An insistent and peremptory request, made as if by right.
 - **Hindi:** माँग
 - **Examples:**
-  1. His demands for attention were unceasing.
-  2. The automobile reduced the demand for buggywhips.
+  1. The workers went on strike to demand higher wages and better conditions.
+  2. There is a high demand for electric cars in the current market.
 
 ## 22: Democrat
-- **Dissection:** [demo-crat]
-- **Meaning:** A member of the Democratic Party
+- **Dissection:** [dem-o-crat]
+- **Meaning:** An advocate or supporter of democracy. Also a member of the Democratic Party in the US.
 - **Hindi:** प्रजातंत्रवादी
 - **Examples:**
-  1. The principal speaker will be Senator Stuart Symington, Democrat of Missouri.
-  2. Sam Rayburn was a good man, a good American, and, third, a good Democrat.
+  1. He has been a loyal Democrat for his entire political career.
+  2. The Democrat candidate won the election by a large margin.
 
 ## 23: Democratic
-- **Dissection:** [demo-crat-ic]
-- **Meaning:** Characterized by or advocating or based upon the principles of democracy or social equality; ; ; - George du Maurier
+- **Dissection:** [dem-o-crat-ic]
+- **Meaning:** Relating to or supporting democracy or its principles.
 - **Hindi:** लोकतांत्रिक
 - **Examples:**
-  1. Democratic government.
-  2. A democratic country.
+  1. Voting is an essential part of the democratic process.
+  2. They are fighting to establish a truly democratic society.
 
 ## 24: Dentist
-- **Dissection:** [dent-ist]
-- **Meaning:** A person qualified to practice dentistry
+- **Dissection:** [den-tist]
+- **Meaning:** A person qualified to treat the diseases and conditions that affect the teeth and gums.
 - **Hindi:** दाँतों का डॉक्टर
 - **Examples:**
-  1. During these visits the dentist will adjust the braces to increase the pressure on her teeth.
-  2. Now a dentist can recommend extraction immediately.
+  1. You should visit the dentist at least twice a year for a checkup.
+  2. The dentist told me that I have a small cavity in my back tooth.
 
 ## 25: Depend
 - **Dissection:** [de-pend]
-- **Meaning:** Be contingent upon (something that is elided)
-- **Hindi:** निर्भर करना
+- **Meaning:** To be controlled or determined by. To rely on.
+- **Hindi:** निर्भर होना
 - **Examples:**
-  1. That depends.
-  2. You can count on me to help you any time.
+  1. Whether we go to the park will depend entirely on the weather.
+  2. Children depend on their parents for food, shelter, and love.
 
 ## 26: Depth
 - **Dissection:** [depth]
-- **Meaning:** The extent downward or backward or inward
+- **Meaning:** The distance from the top or surface to the bottom of something.
 - **Hindi:** गहराई
 - **Examples:**
-  1. The depth of the water.
-  2. Depth of a shelf.
+  1. The submarine traveled to a great depth in the ocean.
+  2. We need to measure the depth of the swimming pool.
 
 ## 27: Describe
 - **Dissection:** [de-scribe]
-- **Meaning:** Give a description of
+- **Meaning:** To give an account in words of someone or something, including all the relevant characteristics, qualities, or events.
 - **Hindi:** वर्णन करना
 - **Examples:**
-  1. He drew an elaborate plan of attack.
-  2. Discreet Italian police described it in a manner typically continental.
+  1. Can you describe what the missing man looked like to the police officer?
+  2. The author uses beautiful words to describe the sunset over the mountains.
 
 ## 28: Desert
-- **Dissection:** [desert]
-- **Meaning:** Arid land with little or no vegetation
+- **Dissection:** [des-ert]
+- **Meaning:** A barren area of landscape where little precipitation occurs and living conditions are hostile for plant and animal life.
 - **Hindi:** रेगिस्तान
 - **Examples:**
-  1. The mother deserted her children.
-  2. If soldiers deserted Hitler's army, they were shot.
+  1. The Sahara is the largest hot desert in the world.
+  2. Camels are well adapted to survive in the dry desert climate.
 
 ## 29: Design
-- **Dissection:** [design]
-- **Meaning:** The act of working out the form of something (as by making a sketch or outline or plan)
-- **Hindi:** डिज़ाइन
+- **Dissection:** [de-sign]
+- **Meaning:** A plan or drawing produced to show the look and function or workings of a building, garment, or other object before it is built or made.
+- **Hindi:** डिज़ाइन / रूपरेखा
 - **Examples:**
-  1. He contributed to the design of a new instrument.
-  2. The awkward design of the keyboard made operation difficult.
+  1. She created a beautiful design for her new fashion collection.
+  2. The architect submitted a new design for the city library.
 
 ## 30: Desk
 - **Dissection:** [desk]
-- **Meaning:** A piece of furniture with a writing surface and usually drawers or other compartments
+- **Meaning:** A piece of furniture with a flat or sloped surface and typically with drawers, at which one can read, write, or do other work.
 - **Hindi:** मेज़
 - **Examples:**
-  1. A fascinating letter has just reached this desk from a correspondent who likes to receive so-called junk mail.
-  2. In addition Rep. Frelinghuysen's brother Harry was on the Korean desk of the State Department in World War 2.
+  1. The student sat at his desk to finish his homework.
+  2. She keeps all her important papers in the top drawer of her office desk.
 
 ## 31: Despite
-- **Dissection:** [des-pite]
-- **Meaning:** Lack of respect accompanied by a feeling of intense dislike
-- **Hindi:** इसके बावजूद
+- **Dissection:** [de-spite]
+- **Meaning:** Without being affected by; in spite of.
+- **Hindi:** के बावजूद
 - **Examples:**
-  1. He was held in contempt.
-  2. The despite in which outsiders were held is legendary.
+  1. Despite the heavy rain, they still decided to go for a run.
+  2. He managed to pass the exam despite not studying very much.
 
 ## 32: Detail
 - **Dissection:** [de-tail]
-- **Meaning:** An isolated fact that is considered separately from the whole
-- **Hindi:** विवरण
+- **Meaning:** An individual feature, fact, or item.
+- **Hindi:** विवरण / बारीकी
 - **Examples:**
-  1. Several of the details are similar.
-  2. A point of information.
+  1. The painter paid close attention to every small detail in his portrait.
+  2. She explained the entire plan in great detail so everyone understood.
 
 ## 33: Determine
-- **Dissection:** [de-term-ine]
-- **Meaning:** Establish after a calculation, investigation, experiment, survey, or study
-- **Hindi:** ठानना
+- **Dissection:** [de-ter-mine]
+- **Meaning:** To cause something to occur in a particular way; be the decisive factor in.
+- **Hindi:** ठानना / निर्धारित करना
 - **Examples:**
-  1. Find the product of two numbers.
-  2. The physicist who found the elusive particle won the Nobel Prize.
+  1. The amount of effort you put in will determine your final grade.
+  2. The doctors are trying to determine the exact cause of his illness.
 
 ## 34: Develop
 - **Dissection:** [de-vel-op]
-- **Meaning:** Make something new, such as a product or a mental or artistic creation
-- **Hindi:** विकास करना
+- **Meaning:** To grow or cause to grow and become more mature, advanced, or elaborate.
+- **Hindi:** विकसित करना
 - **Examples:**
-  1. Her company developed a new kind of building material that withstands all kinds of weather.
-  2. They developed a new technique.
+  1. It takes a lot of time and money to develop a new medicine.
+  2. Children develop their language skills very quickly.
 
 ## 35: Development
 - **Dissection:** [de-vel-op-ment]
-- **Meaning:** Act of improving by expanding or enlarging or refining
+- **Meaning:** The process of developing or being developed.
 - **Hindi:** विकास
 - **Examples:**
-  1. He congratulated them on their development of a plan to meet the emergency.
-  2. They funded research and development.
+  1. Proper nutrition is essential for a child's healthy physical development.
+  2. The new housing development brought many new families to our small town.
 
 ## 36: Dictionary
-- **Dissection:** [dic-tion-ary]
-- **Meaning:** A reference book containing an alphabetical list of words with information about them
+- **Dissection:** [dic-tion-ar-y]
+- **Meaning:** A book or electronic resource that lists the words of a language and gives their meaning.
 - **Hindi:** शब्दकोष
 - **Examples:**
-  1. Also you can spell, without consulting a dictionary for every other word.
-  2. The logical scheme used to accomplish the former influences the placement of information in the dictionary file.
+  1. If you don't know the meaning of a word, you should look it up in a dictionary.
+  2. I bought a Spanish-English dictionary to help me with my translation homework.
 
 ## 37: Die
 - **Dissection:** [die]
-- **Meaning:** A small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers
+- **Meaning:** To stop living.
 - **Hindi:** मरना
 - **Examples:**
-  1. She died from cancer.
-  2. The children perished in the fire.
+  1. Plants will die if they do not get enough sunlight and water.
+  2. Sadly, his pet fish died yesterday.
 
 ## 38: Difference
 - **Dissection:** [dif-fer-ence]
-- **Meaning:** The quality of being unlike or dissimilar
-- **Hindi:** अंतर
+- **Meaning:** A point or way in which people or things are not the same.
+- **Hindi:** अंतर / फ़र्क
 - **Examples:**
-  1. There are many differences between jazz and rock.
-  2. The deviation from the mean.
+  1. What is the difference between a crocodile and an alligator?
+  2. Wearing comfortable shoes makes a huge difference when you are walking all day.
 
 ## 39: Different
 - **Dissection:** [dif-fer-ent]
-- **Meaning:** Unlike in nature or quality or form or degree
-- **Hindi:** अलग
+- **Meaning:** Not the same as another or each other.
+- **Hindi:** अलग / भिन्न
 - **Examples:**
-  1. Took different approaches to the problem.
-  2. Came to a different conclusion.
+  1. My brother and I have completely different personalities.
+  2. We tried three different flavors of ice cream at the shop.
 
 ## 40: Difficult
 - **Dissection:** [dif-fi-cult]
-- **Meaning:** Not easy; requiring great physical or mental effort to accomplish or comprehend or endure
-- **Hindi:** कठिन
+- **Meaning:** Needing much effort or skill to accomplish, deal with, or understand.
+- **Hindi:** कठिन / मुश्किल
 - **Examples:**
-  1. A difficult task.
-  2. Nesting places on the cliffs are difficult of access.
+  1. Learning to play the guitar can be very difficult at first.
+  2. It was a difficult decision, but I finally chose to change my career.
 
 ## 41: Dig
 - **Dissection:** [dig]
-- **Meaning:** The site of an archeological exploration
+- **Meaning:** To break up and move earth with a tool or machine, or with hands, paws, snout, etc.
 - **Hindi:** खोदना
 - **Examples:**
-  1. They set up camp next to the dig.
-  2. His parting shot was `drop dead'.
+  1. We had to dig a deep hole in the garden to plant the new tree.
+  2. The dog loves to dig in the dirt to find his buried bone.
 
 ## 42: Dinner
 - **Dissection:** [din-ner]
-- **Meaning:** The main meal of the day served in the evening or at midday
+- **Meaning:** The main meal of the day, taken either around midday or in the evening.
 - **Hindi:** रात का खाना
 - **Examples:**
-  1. Dinner will be at 8.
-  2. On Sundays they had a large dinner when they returned from church.
+  1. What time would you like to eat dinner tonight?
+  2. We had a lovely chicken dinner with our friends on Friday.
 
 ## 43: Direct
-- **Dissection:** [dir-ect]
-- **Meaning:** Command with authority
-- **Hindi:** प्रत्यक्ष
+- **Dissection:** [di-rect]
+- **Meaning:** Extending or moving from one place to another without changing direction or stopping.
+- **Hindi:** सीधा / प्रत्यक्ष
 - **Examples:**
-  1. He directed the children to do their homework.
-  2. He aimed his fists towards his opponent's face.
+  1. Is there a direct flight from New York to London?
+  2. She gave me direct instructions on how to bake the chocolate cake.
 
 ## 44: Direction
-- **Dissection:** [dir-ec-tion]
-- **Meaning:** A line leading to a place or point
+- **Dissection:** [di-rec-tion]
+- **Meaning:** A course along which someone or something moves.
 - **Hindi:** दिशा
 - **Examples:**
-  1. He looked the other direction.
-  2. Didn't know the way home.
+  1. The compass will always point in a northern direction.
+  2. You are walking in the wrong direction; the store is the other way!
 
 ## 45: Director
-- **Dissection:** [dir-ect-or]
-- **Meaning:** Someone who controls resources and expenditures
+- **Dissection:** [di-rec-tor]
+- **Meaning:** A person who is in charge of an activity, department, or organization.
 - **Hindi:** निदेशक
 - **Examples:**
-  1. He is not interested in being named a full-time director.
-  2. R. Sargent Shriver Jr., director of the corps, is certain that they can.
+  1. The director of the hospital held a meeting with all the doctors.
+  2. The famous film director won an award for his amazing new movie.
 
 ## 46: Dirt
 - **Dissection:** [dirt]
-- **Meaning:** The part of the earth's surface consisting of humus and disintegrated rock
-- **Hindi:** गंध
+- **Meaning:** A substance, such as mud or dust, that soils someone or something.
+- **Hindi:** मिट्टी / गंदगी
 - **Examples:**
-  1. Catcher Frank House's throw in an effort to nab Throneberry was wide and in the dirt.
-  2. Be sure the bugs and dirt are blown out of the radiator fins.
+  1. Wash your hands before dinner; they are covered in dirt from playing outside.
+  2. We need to buy some rich dirt to grow our vegetable plants.
 
 ## 47: Dirty
-- **Dissection:** [dirty]
-- **Meaning:** Make soiled, filthy, or dirty
+- **Dissection:** [dir-ty]
+- **Meaning:** Covered or marked with an unclean substance.
 - **Hindi:** गंदा
 - **Examples:**
-  1. Don't soil your clothes when you play outside!
-  2. Dirty unswept sidewalks.
+  1. Please put your dirty clothes in the laundry basket.
+  2. The dog ran through the mud and now its paws are very dirty.
 
 ## 48: Discover
 - **Dissection:** [dis-cov-er]
-- **Meaning:** Discover or determine the existence, presence, or fact of
-- **Hindi:** खोज करना
+- **Meaning:** To find something or someone unexpectedly or in the course of a search.
+- **Hindi:** खोजना / पता लगाना
 - **Examples:**
-  1. She detected high levels of lead in her drinking water.
-  2. We found traces of lead in the paint.
+  1. Christopher Columbus is known as the man who discovered America.
+  2. Scientists recently discovered a new species of frog in the rainforest.
 
 ## 49: Discuss
 - **Dissection:** [dis-cuss]
-- **Meaning:** An athletic competition in which a disk-shaped object is thrown as far as possible
+- **Meaning:** To talk about something with another person or group of people.
 - **Hindi:** चर्चा करना
 - **Examples:**
-  1. The author talks about the different aspects of this question.
-  2. The class discussed Dante's `Inferno'.
+  1. We need to sit down and discuss our plans for the upcoming vacation.
+  2. The teacher asked the students to discuss the book they just read.
 
 ## 50: Discussion
 - **Dissection:** [dis-cus-sion]
-- **Meaning:** An extended communication (often interactive) dealing with some particular topic
-- **Hindi:** बहस
+- **Meaning:** The action or process of talking about something, typically in order to reach a decision or to exchange ideas.
+- **Hindi:** बातचीत / चर्चा
 - **Examples:**
-  1. The book contains an excellent discussion of modal logic.
-  2. His treatment of the race question is badly biased.
+  1. We had a very interesting discussion about politics over dinner.
+  2. After a long discussion, the team finally agreed on a new strategy.
 
 ## 51: Disease
 - **Dissection:** [dis-ease]
-- **Meaning:** An impairment of health or a condition of abnormal functioning
-- **Hindi:** बीमारी
+- **Meaning:** A disorder of structure or function in a human, animal, or plant, especially one that produces specific signs or symptoms.
+- **Hindi:** बीमारी / रोग
 - **Examples:**
-  1. He was obsessed by disease and poverty, by the melancholy of old age and the tyranny of lust.
-  2. And extra weight increases the risk of cancer, diabetes, artery disease and heart attack.
+  1. The doctor diagnosed him with a rare heart disease.
+  2. Washing your hands regularly helps prevent the spread of disease.
 
 ## 52: Dish
 - **Dissection:** [dish]
-- **Meaning:** A piece of dishware normally used as a container for holding or serving food
-- **Hindi:** व्यंजन
+- **Meaning:** A shallow, flat-bottomed container for cooking or serving food.
+- **Hindi:** बर्तन / व्यंजन
 - **Examples:**
-  1. We gave them a set of dishes for a wedding present.
-  2. She prepared a special dish for dinner.
+  1. Please put the dirty dish in the sink so I can wash it.
+  2. Chicken curry is my favorite Indian dish.
 
 ## 53: Distance
 - **Dissection:** [dis-tance]
-- **Meaning:** The property created by the space between two objects or points
+- **Meaning:** An amount of space between two things or people.
 - **Hindi:** दूरी
 - **Examples:**
-  1. I could see it in the distance.
-  2. The distance from New York to Chicago.
+  1. The distance between my house and the school is about two miles.
+  2. You should keep a safe distance from the wild animals at the zoo.
 
 ## 54: Divide
 - **Dissection:** [di-vide]
-- **Meaning:** A serious disagreement between two groups of people (typically producing tension or hostility)
-- **Hindi:** विभाजित करना
+- **Meaning:** To separate or be separated into parts.
+- **Hindi:** विभाजित करना / बाँटना
 - **Examples:**
-  1. Divide the cake into three equal parts.
-  2. The British carved up the Ottoman Empire after World War I.
+  1. Please divide the pizza equally into eight pieces.
+  2. The river divides the city into a north and a south section.
 
 ## 55: Do
 - **Dissection:** [do]
-- **Meaning:** An uproarious party
+- **Meaning:** To perform an action, the precise nature of which is often unspecified.
 - **Hindi:** करना
 - **Examples:**
-  1. Make love, not war.
-  2. Make an effort.
+  1. I have to do my homework before I can play video games.
+  2. What do you want to do on your birthday this year?
 
 ## 56: Doctor
 - **Dissection:** [doc-tor]
-- **Meaning:** A licensed medical practitioner
-- **Hindi:** चिकित्सक
+- **Meaning:** A qualified practitioner of medicine; a physician.
+- **Hindi:** डॉक्टर / चिकित्सक
 - **Examples:**
-  1. I felt so bad I went to see my doctor.
-  2. The Doctors of the Church greatly influenced Christian thought down to the late Middle Ages.
+  1. If your fever does not go away, you should visit a doctor.
+  2. The doctor prescribed some medicine for her bad cough.
 
 ## 57: Dog
 - **Dissection:** [dog]
-- **Meaning:** A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+- **Meaning:** A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking voice.
 - **Hindi:** कुत्ता
 - **Examples:**
-  1. The dog barked all night.
-  2. She got a reputation as a frump.
+  1. My pet dog loves to chase after tennis balls in the park.
+  2. The police use a specially trained dog to find missing people.
 
 ## 58: Door
 - **Dissection:** [door]
-- **Meaning:** A swinging or sliding barrier that will close the entrance to a room or building or vehicle
-- **Hindi:** दरवाजा
+- **Meaning:** A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle.
+- **Hindi:** दरवाज़ा
 - **Examples:**
-  1. He knocked on the door.
-  2. He slammed the door as he left.
+  1. Please remember to lock the front door when you leave the house.
+  2. Someone is knocking at the door; can you see who it is?
 
 ## 59: Double
-- **Dissection:** [double]
-- **Meaning:** A base hit on which the batter stops safely at second base
-- **Hindi:** दोहरा
+- **Dissection:** [dou-ble]
+- **Meaning:** Consisting of two equal, identical, or similar parts or things.
+- **Hindi:** दोहरा / दुगना
 - **Examples:**
-  1. He hit a double to deep centerfield.
-  2. His first job in Hollywood was as a double for Clark Gable.
+  1. I ordered a double cheeseburger with extra fries for lunch.
+  2. The recipe says to double the amount of sugar if you want it sweeter.
 
 ## 60: Down
 - **Dissection:** [down]
-- **Meaning:** Soft fine feathers
+- **Meaning:** Toward or in a lower place or position, especially to or on the ground or another surface.
 - **Hindi:** नीचे
 - **Examples:**
-  1. You have four downs to gain ten yards.
-  2. He downed three martinis before dinner.
+  1. The cat climbed the tall tree but didn't know how to get down.
+  2. Please put down the heavy box before you hurt your back.
 
 ## 61: Draw
 - **Dissection:** [draw]
-- **Meaning:** A gully that is shallower than a ravine
-- **Hindi:** खींचना
+- **Meaning:** To produce a picture or diagram by making lines and marks, especially with a pen or pencil, on paper.
+- **Hindi:** चित्र बनाना / खींचना
 - **Examples:**
-  1. He was the biggest drawing card they had.
-  2. The game ended in a draw.
+  1. The talented artist can draw a beautiful portrait in just five minutes.
+  2. Can you draw a map to show me how to get to your house?
 
 ## 62: Dream
 - **Dissection:** [dream]
-- **Meaning:** A series of mental images and emotions occurring during sleep
+- **Meaning:** A series of thoughts, images, and sensations occurring in a person's mind during sleep.
 - **Hindi:** सपना
 - **Examples:**
-  1. I had a dream about you last night.
-  2. He lives in a dream that has nothing to do with reality.
+  1. I had a very strange dream last night about flying through the sky.
+  2. Her ultimate dream is to become a successful actress in Hollywood.
 
 ## 63: Dress
 - **Dissection:** [dress]
-- **Meaning:** A one-piece garment for a woman; has skirt and bodice
-- **Hindi:** पोशाक
+- **Meaning:** A one-piece garment for a woman or girl that covers the body and extends down over the legs. Also, to put on clothes.
+- **Hindi:** पोशाक / कपड़े पहनना
 - **Examples:**
-  1. Formal attire.
-  2. Battle dress.
+  1. She wore a beautiful red dress to the formal graduation party.
+  2. It is cold outside, so make sure you dress warmly.
 
 ## 64: Drink
 - **Dissection:** [drink]
-- **Meaning:** A single serving of a beverage
+- **Meaning:** To take a liquid into the mouth and swallow it.
 - **Hindi:** पीना
 - **Examples:**
-  1. I asked for a hot drink.
-  2. Likes a drink before dinner.
+  1. It is important to drink plenty of water when you exercise.
+  2. I always drink a hot cup of coffee when I wake up in the morning.
 
 ## 65: Drive
 - **Dissection:** [drive]
-- **Meaning:** The act of applying force to propel something
+- **Meaning:** To operate and control the direction and speed of a motor vehicle.
 - **Hindi:** गाड़ी चलाना
 - **Examples:**
-  1. After reaching the desired velocity the drive is cut off.
-  2. A variable speed drive permitted operation through a range of speeds.
+  1. He is finally learning how to drive a manual transmission car.
+  2. We had to drive for six hours to reach the vacation cabin.
 
 ## 66: Drop
 - **Dissection:** [drop]
-- **Meaning:** A shape that is spherical and small
-- **Hindi:** बूँद
+- **Meaning:** To let or make something fall vertically. Also, a small round or pear-shaped portion of liquid.
+- **Hindi:** गिराना / बूँद
 - **Examples:**
-  1. He studied the shapes of low-viscosity drops.
-  2. Beads of sweat on his forehead.
+  1. Be careful not to drop your phone on the hard concrete floor.
+  2. A single drop of rain fell on my forehead, signaling the start of the storm.
 
 ## 67: Drug
 - **Dissection:** [drug]
-- **Meaning:** A substance that is used as a medicine or narcotic
-- **Hindi:** दवाई
+- **Meaning:** A medicine or other substance which has a physiological effect when ingested or otherwise introduced into the body.
+- **Hindi:** दवा / औषधि
 - **Examples:**
-  1. They drugged the kidnapped tourist.
-  2. Aspirin is a drug that reduces pain, acts against inflammation and lowers body temperature.
+  1. The scientist discovered a new drug that helps lower blood pressure.
+  2. You should never take a prescription drug that belongs to someone else.
 
 ## 68: Dry
 - **Dissection:** [dry]
-- **Meaning:** A reformer who opposes the use of intoxicating beverages
+- **Meaning:** Free from moisture or liquid; not wet or moist.
 - **Hindi:** सूखा
 - **Examples:**
-  1. Dry clothes.
-  2. Dry hair.
+  1. I hung my wet clothes outside on the line to dry in the sun.
+  2. The desert is a very hot and dry environment.
 
 ## 69: During
 - **Dissection:** [dur-ing]
-- **Meaning:** To last, continue, endure.
-- **Hindi:** दौरान
+- **Meaning:** Throughout the course or duration of a period of time.
+- **Hindi:** के दौरान
 - **Examples:**
-  1. I lived with my parents during the 1970s.
-  2. I lived with my parents at several points during the 1980s.
+  1. Please turn off your mobile phones during the movie.
+  2. Many people sleep during the night and work during the day.
 
 ## 70: Dust
 - **Dissection:** [dust]
-- **Meaning:** Fine powdery material such as dry earth or pollen that can be blown about in the air
+- **Meaning:** Fine, dry powder consisting of tiny particles of earth or waste matter lying on the ground or on surfaces.
 - **Hindi:** धूल
 - **Examples:**
-  1. The furniture was covered with dust.
-  2. Astronomers say that the empty space between planets actually contains measurable amounts of dust.
-
+  1. The old abandoned house was covered in a thick layer of dust.
+  2. I need to wipe the dust off all the bookshelves in my room.

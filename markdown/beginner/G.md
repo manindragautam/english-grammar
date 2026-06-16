@@ -1,272 +1,271 @@
 ## 1: Game
 - **Dissection:** [game]
-- **Meaning:** A contest with rules to determine a winner
+- **Meaning:** An activity or sport played for fun, usually with rules.
 - **Hindi:** खेल
 - **Examples:**
-  1. You need four people to play this game.
-  2. The game lasted two hours.
+  1. Let's play a fun board game after dinner tonight.
+  2. The children invented a new game to play during recess.
 
 ## 2: Garage
-- **Dissection:** [gar-age]
-- **Meaning:** An outbuilding (or part of a building) for housing automobiles
+- **Dissection:** [ga-rage]
+- **Meaning:** A building or indoor space where you park a car.
 - **Hindi:** गैरेज
 - **Examples:**
-  1. We don't garage our car.
-  2. We garaged the convertible during the monsoon months.
+  1. I parked the car inside the garage to keep it out of the rain.
+  2. Our house has a large garage that can fit two vehicles.
 
 ## 3: Garden
-- **Dissection:** [garden]
-- **Meaning:** A plot of ground where plants are cultivated
+- **Dissection:** [gar-den]
+- **Meaning:** A piece of land used for growing flowers, fruit, or vegetables.
 - **Hindi:** बगीचा
 - **Examples:**
-  1. My hobby is gardening.
-  2. A vegetable garden a flower garden.
+  1. My mother loves planting colorful flowers in her garden.
+  2. We grow our own tomatoes and cucumbers in the vegetable garden.
 
 ## 4: Gas
 - **Dissection:** [gas]
-- **Meaning:** The state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container
+- **Meaning:** Fuel used for cooking, heating, or driving a vehicle.
 - **Hindi:** गैस
 - **Examples:**
-  1. He stepped on the gas.
-  2. The despot gassed the rebellious tribes.
+  1. I need to stop at the station to get some gas for my car.
+  2. Did you remember to turn off the gas after cooking?
 
 ## 5: Gate
 - **Dissection:** [gate]
-- **Meaning:** A movable barrier in a fence or wall
-- **Hindi:** दरवाज़ा
+- **Meaning:** A hinged barrier used to close an opening in a wall or fence.
+- **Hindi:** दरवाज़ा / फाटक
 - **Examples:**
-  1. The house was gated.
-  2. The gate in front of the railroad crossing went up after the train had passed.
+  1. Please make sure to close the front gate so the dog doesn't run away.
+  2. We painted the wooden gate white to match the fence.
 
 ## 6: General
 - **Dissection:** [gen-er-al]
-- **Meaning:** A general officer of the highest rank
+- **Meaning:** Affecting or concerning all or most people or things; widespread.
 - **Hindi:** सामान्य
 - **Examples:**
-  1. He discussed the general but neglected the particular.
-  2. We are generaled by an incompetent!
+  1. There is a general feeling of excitement in the city right now.
+  2. The manager gave us a general overview of the new project.
 
 ## 7: Generation
 - **Dissection:** [gen-er-a-tion]
-- **Meaning:** All the people living at the same time or of approximately the same age
+- **Meaning:** All the people born and living at about the same time.
 - **Hindi:** पीढ़ी
 - **Examples:**
-  1. They had to wait a generation for that prejudice to fade.
-  2. The third generation of computers.
+  1. My grandfather belongs to an older, more traditional generation.
+  2. This new technology will change the world for the next generation.
 
 ## 8: Gentle
-- **Dissection:** [gentle]
-- **Meaning:** Cause to be more favorably inclined; gain the good will of
-- **Hindi:** कोमल
+- **Dissection:** [gen-tle]
+- **Meaning:** Having or showing a mild, kind, or tender temperament or character.
+- **Hindi:** कोमल / सज्जन
 - **Examples:**
-  1. She managed to mollify the angry customer.
-  2. A gentle reprimand.
+  1. You have to be very gentle when holding a newborn baby.
+  2. The gentle breeze felt nice on a hot summer afternoon.
 
 ## 9: Get
 - **Dissection:** [get]
-- **Meaning:** A return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent
-- **Hindi:** पाना
+- **Meaning:** To come to have or hold something; receive.
+- **Hindi:** पाना / मिलना
 - **Examples:**
-  1. She got a lot of paintings from her uncle.
-  2. They acquired a new pet.
+  1. I hope to get a good grade on my final exam.
+  2. Can you please get me a glass of water from the kitchen?
 
 ## 10: Gift
 - **Dissection:** [gift]
-- **Meaning:** Something acquired without compensation
-- **Hindi:** उपहार
+- **Meaning:** A thing given willingly to someone without payment; a present.
+- **Hindi:** उपहार / तोहफा
 - **Examples:**
-  1. What will you give her for her birthday?
-  2. She had a gift for playing the flute.
+  1. He bought his sister a beautiful necklace as a birthday gift.
+  2. The teacher gave each student a small gift at the end of the year.
 
 ## 11: Girl
 - **Dissection:** [girl]
-- **Meaning:** A young woman
+- **Meaning:** A female child or young woman.
 - **Hindi:** लड़की
 - **Examples:**
-  1. A young lady of 18.
-  2. The baby was a girl.
+  1. The little girl was playing happily with her dolls in the living room.
+  2. That girl is the smartest student in my math class.
 
 ## 12: Give
 - **Dissection:** [give]
-- **Meaning:** The elasticity of something that can be stretched and returns to its original length
+- **Meaning:** To freely transfer the possession of something to someone.
 - **Hindi:** देना
 - **Examples:**
-  1. She gave him a black eye.
-  2. The draft gave me a cold.
+  1. Please give me the book when you are finished reading it.
+  2. I want to give my mother some flowers for her birthday.
 
 ## 13: Glad
 - **Dissection:** [glad]
-- **Meaning:** Any of numerous plants of the genus Gladiolus native chiefly to tropical and South Africa having sword-shaped leaves and one-sided spikes of brightly colored funnel-shaped flowers; widely cultivated
-- **Hindi:** खुश
+- **Meaning:** Feeling pleasure, joy, or delight.
+- **Hindi:** खुश / प्रसन्न
 - **Examples:**
-  1. Glad you are here.
-  2. Glad that they succeeded.
+  1. I am so glad that you were able to come to the party.
+  2. She was very glad to hear the good news about her job.
 
 ## 14: Glass
 - **Dissection:** [glass]
-- **Meaning:** A brittle transparent solid with irregular atomic structure
-- **Hindi:** काँच
+- **Meaning:** A hard, brittle, transparent solid material used to make windows, bottles, etc.
+- **Hindi:** काँच / गिलास
 - **Examples:**
-  1. She collected old glass.
-  2. Glass the windows.
+  1. Be careful not to drop that beautiful glass vase.
+  2. I would like a tall glass of cold water, please.
 
 ## 15: Go
 - **Dissection:** [go]
-- **Meaning:** A time for working (after which you will be relieved by someone else)
+- **Meaning:** To move from one place to another; travel.
 - **Hindi:** जाना
 - **Examples:**
-  1. It's my go.
-  2. A spell of work.
+  1. We should go to the grocery store before it closes.
+  2. Are you ready to go home now?
 
 ## 16: Goal
 - **Dissection:** [goal]
-- **Meaning:** The state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it
+- **Meaning:** The object of a person's ambition or effort; an aim or desired result.
 - **Hindi:** लक्ष्य
 - **Examples:**
-  1. The ends justify the means.
-  2. A crowd assembled at the finish.
+  1. Her main goal in life is to become a successful doctor.
+  2. Our team scored the winning goal in the final minute of the match.
 
 ## 17: God
 - **Dissection:** [god]
-- **Meaning:** The supernatural being conceived as the perfect and omnipotent and omniscient originator and ruler of the universe; the object of worship in monotheistic religions
-- **Hindi:** ईश्वर
+- **Meaning:** The creator and ruler of the universe in many religions.
+- **Hindi:** ईश्वर / भगवान
 - **Examples:**
-  1. He was a god among men.
-  2. Thou shalt not make unto thee any graven image.
+  1. They go to church every Sunday to pray to God.
+  2. Do you believe that God created the entire universe?
 
 ## 18: Gold
 - **Dissection:** [gold]
-- **Meaning:** Coins made of gold
+- **Meaning:** A yellow precious metal used especially in jewelry and decoration.
 - **Hindi:** सोना
 - **Examples:**
-  1. An amber light illuminated the room.
-  2. He admired the gold of her hair.
+  1. She wears a beautiful gold ring on her finger.
+  2. The pirate buried a heavy chest full of gold coins.
 
 ## 19: Good
 - **Dissection:** [good]
-- **Meaning:** Benefit
+- **Meaning:** To be desired or approved of; having the required qualities.
 - **Hindi:** अच्छा
 - **Examples:**
-  1. For your own good.
-  2. What's the good of worrying?
+  1. Eating fruits and vegetables is good for your health.
+  2. The movie we watched last night was surprisingly good.
 
 ## 20: Government
 - **Dissection:** [gov-ern-ment]
-- **Meaning:** The organization that is the governing authority of a political unit
+- **Meaning:** The group of people with the authority to govern a country or state.
 - **Hindi:** सरकार
 - **Examples:**
-  1. The government reduced taxes.
-  2. The matter was referred to higher authorities.
+  1. The government recently passed a new law regarding taxes.
+  2. Many people disagree with the policies of the current government.
 
 ## 21: Grandfather
-- **Dissection:** [grand-fath-er]
-- **Meaning:** The father of your father or mother
-- **Hindi:** दादा
+- **Dissection:** [grand-fa-ther]
+- **Meaning:** The father of one's father or mother.
+- **Hindi:** दादा / नाना
 - **Examples:**
-  1. My grandfather had been stoned because of his editorials.
-  2. That is in the continuance of the `` grandfather clauses '' in their membership requirements.
+  1. My grandfather always tells the best stories about his youth.
+  2. We are visiting my grandfather at his farm this weekend.
 
 ## 22: Grandmother
-- **Dissection:** [grand-moth-er]
-- **Meaning:** The mother of your father or mother
-- **Hindi:** दादी
+- **Dissection:** [grand-mo-ther]
+- **Meaning:** The mother of one's father or mother.
+- **Hindi:** दादी / नानी
 - **Examples:**
-  1. Do, pray, dear grandmother, try us for one day -- to- morrow, will you?".
-  2. Let us count the halfpence, and carry them home now to grandmother.".
+  1. My grandmother baked a delicious apple pie for us.
+  2. I love spending time knitting with my grandmother.
 
 ## 23: Grass
 - **Dissection:** [grass]
-- **Meaning:** Narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay
+- **Meaning:** Vegetation consisting of typically short plants with long, narrow leaves.
 - **Hindi:** घास
 - **Examples:**
-  1. The owners decided to grass their property.
-  2. He told on his classmate who had cheated on the exam.
+  1. The children ran barefoot through the soft green grass.
+  2. It's my turn to cut the grass in the backyard today.
 
 ## 24: Great
 - **Dissection:** [great]
-- **Meaning:** A person who has achieved distinction and honor in some field
-- **Hindi:** महान
+- **Meaning:** Of an extent, amount, or intensity considerably above the normal or average.
+- **Hindi:** महान / बहुत अच्छा
 - **Examples:**
-  1. He is one of the greats of American music.
-  2. A great juicy steak.
+  1. She did a great job organizing the charity event.
+  2. It was a great honor to meet the famous author.
 
 ## 25: Green
 - **Dissection:** [green]
-- **Meaning:** Green color or pigment; resembling the color of growing grass
+- **Meaning:** The color between blue and yellow in the spectrum; colored like grass.
 - **Hindi:** हरा
 - **Examples:**
-  1. They went for a walk in the park.
-  2. The ball rolled across the green and into the bunker.
+  1. He painted his old bicycle a bright shade of green.
+  2. The trees are covered in beautiful green leaves during the summer.
 
 ## 26: Ground
 - **Dissection:** [ground]
-- **Meaning:** The solid part of the earth's surface
-- **Hindi:** मैदान
+- **Meaning:** The solid surface of the earth.
+- **Hindi:** ज़मीन / मैदान
 - **Examples:**
-  1. The plane turned away from the sea and moved back over land.
-  2. The earth shook for several minutes.
+  1. The apple fell from the tree and hit the ground.
+  2. We sat on the ground and enjoyed a wonderful picnic.
 
 ## 27: Group
 - **Dissection:** [group]
-- **Meaning:** Any number of entities (members) considered as a unit
+- **Meaning:** A number of people or things that are located close together or are considered together.
 - **Hindi:** समूह
 - **Examples:**
-  1. Can you group these shapes together?
-  2. A group of people gathered in front of the Parliament to demonstrate against the Prime Minister's proposals.
+  1. A large group of tourists gathered around the famous monument.
+  2. The teacher divided the class into small working groups.
 
 ## 28: Grow
 - **Dissection:** [grow]
-- **Meaning:** Pass into a condition gradually, take on a specific property or attribute; become
-- **Hindi:** बढ़ना
+- **Meaning:** To undergo natural development by increasing in size and changing physically.
+- **Hindi:** बढ़ना / उगना
 - **Examples:**
-  1. The weather turned nasty.
-  2. She grew angry.
+  1. Plants need plenty of sunlight and water to grow.
+  2. Children grow so fast that they constantly need new clothes.
 
 ## 29: Growth
 - **Dissection:** [growth]
-- **Meaning:** (biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level
-- **Hindi:** विकास
+- **Meaning:** The process of increasing in physical size or development.
+- **Hindi:** विकास / वृद्धि
 - **Examples:**
-  1. He proposed an indicator of osseous development in children.
-  2. The growth of culture.
+  1. The rapid economic growth of the city brought many new jobs.
+  2. Parents closely monitor the healthy growth of their young children.
 
 ## 30: Guess
 - **Dissection:** [guess]
-- **Meaning:** A message expressing an opinion based on incomplete evidence
-- **Hindi:** अनुमान
+- **Meaning:** To estimate or suppose something without sufficient information to be sure of being correct.
+- **Hindi:** अनुमान लगाना
 - **Examples:**
-  1. I imagine she earned a lot of money with her new novel.
-  2. I thought to find her in a bad state.
+  1. Try to guess how many candies are inside this glass jar.
+  2. I can only guess what time the train will arrive.
 
 ## 31: Guest
 - **Dissection:** [guest]
-- **Meaning:** A visitor to whom hospitality is extended
-- **Hindi:** अतिथि
+- **Meaning:** A person who is invited to visit someone's home or attend a particular social occasion.
+- **Hindi:** अतिथि / मेहमान
 - **Examples:**
-  1. The guests were let in by the butler.
-  2. Guests must vacate their rooms by 10 o'clock on their day of departure.
+  1. We are expecting a special guest for dinner tonight.
+  2. Make sure you treat every guest with respect and kindness.
 
 ## 32: Guide
 - **Dissection:** [guide]
-- **Meaning:** Someone employed to conduct others
-- **Hindi:** मार्गदर्शक
+- **Meaning:** A person who shows the way to others, especially one employed to show tourists around places of interest.
+- **Hindi:** मार्गदर्शक / गाइड
 - **Examples:**
-  1. We lead him to our chief.
-  2. Can you take me to the main entrance?
+  1. Our tour guide showed us all the historical landmarks in the city.
+  2. This book is a helpful guide for beginners learning how to cook.
 
 ## 33: Gun
 - **Dissection:** [gun]
-- **Meaning:** A weapon that discharges a missile at high velocity (especially from a metal tube or barrel)
+- **Meaning:** A weapon incorporating a metal tube from which bullets or shells are fired by explosive force.
 - **Hindi:** बंदूक
 - **Examples:**
-  1. He stepped on the gas.
-  2. Two runners started before the gun.
+  1. The police officer carried a loaded gun for protection.
+  2. They heard a loud gun shot echo through the quiet forest.
 
 ## 34: Guy
 - **Dissection:** [guy]
-- **Meaning:** An informal term for a youth or man
-- **Hindi:** लड़का
+- **Meaning:** An informal term for a man or a boy.
+- **Hindi:** आदमी / लड़का
 - **Examples:**
-  1. A nice guy.
-  2. The guy's only doing it for some doll.
-
+  1. That guy standing near the door is my older brother.
+  2. He seems like a really nice guy once you get to know him.

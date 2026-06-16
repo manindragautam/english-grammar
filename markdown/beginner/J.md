@@ -1,72 +1,71 @@
 ## 1: Jacket
 - **Dissection:** [jack-et]
-- **Meaning:** A short coat
+- **Meaning:** An outer piece of clothing with sleeves, typically worn outdoors.
 - **Hindi:** जैकेट
 - **Examples:**
-  1. Phonograph records were sold in cardboard jackets.
-  2. Tomorrow my dentist will fit me for a crown.
+  1. You should wear a warm jacket because it is freezing outside.
+  2. I bought a new leather jacket from the mall yesterday.
 
 ## 2: Job
 - **Dissection:** [job]
-- **Meaning:** The principal activity in your life that you do to earn money
-- **Hindi:** काम
+- **Meaning:** The regular work that a person does to earn money.
+- **Hindi:** नौकरी / काम
 - **Examples:**
-  1. He's not in my line of business.
-  2. Estimates of the city's loss on that job ranged as high as a million dollars.
+  1. He is currently looking for a new job in the city.
+  2. She did a fantastic job organizing the entire event.
 
 ## 3: Join
 - **Dissection:** [join]
-- **Meaning:** The shape or manner in which things come together and a connection is made
-- **Hindi:** जोड़ना
+- **Meaning:** To connect or link two or more things together, or to become a member of a group.
+- **Hindi:** जुड़ना / शामिल होना
 - **Examples:**
-  1. Let C be the union of the sets A and B.
-  2. He joined the Communist Party as a young man.
+  1. Would you like to join us for dinner tonight?
+  2. I plan to join the local gym to get back in shape.
 
 ## 4: Joke
 - **Dissection:** [joke]
-- **Meaning:** A humorous anecdote or remark intended to provoke laughter
+- **Meaning:** Something said or done to provoke laughter.
 - **Hindi:** चुटकुला
 - **Examples:**
-  1. He told a very funny joke.
-  2. He knows a million gags.
+  1. My dad always tells a funny joke when we are having dinner.
+  2. It was just a harmless joke, so please don't be upset.
 
 ## 5: Joy
 - **Dissection:** [joy]
-- **Meaning:** The emotion of great happiness
-- **Hindi:** आनंद
+- **Meaning:** A feeling of great pleasure and happiness.
+- **Hindi:** आनंद / खुशी
 - **Examples:**
-  1. A joy to behold.
-  2. The pleasure of his company.
+  1. The little boy jumped with joy when he saw the new toy.
+  2. Watching my children grow up brings me so much joy.
 
 ## 6: Judge
 - **Dissection:** [judge]
-- **Meaning:** A public official authorized to decide questions brought before a court of justice
-- **Hindi:** न्यायाधीश
+- **Meaning:** A public official appointed to decide cases in a court of law, or to form an opinion about something.
+- **Hindi:** न्यायाधीश / राय बनाना
 - **Examples:**
-  1. I cannot judge some works of modern art.
-  2. How do you evaluate this grant proposal?
+  1. The judge sentenced the thief to two years in prison.
+  2. You shouldn't judge a book by its cover.
 
 ## 7: Juice
 - **Dissection:** [juice]
-- **Meaning:** The liquid part that can be extracted from plant or animal tissue by squeezing or cooking
+- **Meaning:** The liquid extracted from plants or fruits.
 - **Hindi:** रस
 - **Examples:**
-  1. Her creative juices were flowing.
-  2. When the wiring was finished they turned on the juice.
+  1. I like to drink a glass of orange juice every morning.
+  2. Can you please pour me some apple juice with breakfast?
 
 ## 8: Jump
 - **Dissection:** [jump]
-- **Meaning:** A sudden and decisive increase
+- **Meaning:** To push oneself off a surface and into the air by using the muscles in one's legs and feet.
 - **Hindi:** कूदना
 - **Examples:**
-  1. A jump in attendance.
-  2. A successful leap from college to the major leagues.
+  1. The cat can jump all the way up onto the high shelf.
+  2. We watched the children jump over the puddles in the street.
 
 ## 9: Just
 - **Dissection:** [just]
-- **Meaning:** Used especially of what is legally or ethically right or proper or fitting; - A.Lincoln
-- **Hindi:** अभी
+- **Meaning:** Very recently; exactly or simply.
+- **Hindi:** अभी / बस
 - **Examples:**
-  1. A just and lasting peace.
-  2. A kind and just man.
-
+  1. I just finished eating my lunch a few minutes ago.
+  2. It was just an accident, so don't worry about it too much.

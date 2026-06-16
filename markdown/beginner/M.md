@@ -1,608 +1,607 @@
 ## 1: Machine
 - **Dissection:** [ma-chine]
-- **Meaning:** Any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks
-- **Hindi:** मशीन
+- **Meaning:** An apparatus using or applying mechanical power and having several parts, each with a definite function and together performing a particular task.
+- **Hindi:** मशीन / यंत्र
 - **Examples:**
-  1. The boxer was a magnificent fighting machine.
-  2. The war machine.
+  1. The washing machine makes cleaning dirty clothes much easier and faster.
+  2. The factory uses a large machine to package the food products.
 
 ## 2: Magazine
-- **Dissection:** [magazine]
-- **Meaning:** A periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it
-- **Hindi:** पत्रिका
+- **Dissection:** [mag-a-zine]
+- **Meaning:** A periodical publication containing articles and illustrations, typically covering a particular subject or area of interest.
+- **Hindi:** पत्रिका / मैगज़ीन
 - **Examples:**
-  1. It takes several years before a magazine starts to break even or make money.
-  2. Tripped over a pile of magazines.
+  1. She loves to read a fashion magazine while waiting at the dentist.
+  2. He bought a sports magazine from the small store at the train station.
 
 ## 3: Mail
 - **Dissection:** [mail]
-- **Meaning:** The bags of letters and packages that are transported by the postal service
-- **Hindi:** मेल
+- **Meaning:** Letters and packages conveyed by the postal system.
+- **Hindi:** डाक
 - **Examples:**
-  1. The mail handles billions of items every day.
-  2. He works for the United States mail service.
+  1. Did we receive any important mail in the post office box today?
+  2. I need to go to the post office to mail this package to my friend.
 
 ## 4: Main
 - **Dissection:** [main]
-- **Meaning:** Any very large body of (salt) water
+- **Meaning:** Chief in size or importance.
 - **Hindi:** मुख्य
 - **Examples:**
-  1. The chief aim of living.
-  2. The main doors were of solid glass.
+  1. The main reason I exercise is to stay healthy and strong.
+  2. The guests entered the hotel through the large main entrance.
 
 ## 5: Maintain
 - **Dissection:** [main-tain]
-- **Meaning:** Keep in a certain state, position, or activity; e.g.,
-- **Hindi:** बनाए रखना
+- **Meaning:** To cause or enable a condition or state of affairs to continue.
+- **Hindi:** बनाए रखना / क़ायम रखना
 - **Examples:**
-  1. Keep clean.
-  2. Hold in place.
+  1. It is important to maintain a healthy diet by eating lots of vegetables.
+  2. The mechanic helps to maintain my car so it runs smoothly.
 
 ## 6: Major
 - **Dissection:** [ma-jor]
-- **Meaning:** A commissioned military officer in the United States Army or Air Force or Marines; below lieutenant colonel and above captain
-- **Hindi:** प्रमुख
+- **Meaning:** Important, serious, or significant.
+- **Hindi:** प्रमुख / बड़ा
 - **Examples:**
-  1. She is a linguistics major.
-  2. Her major is linguistics.
+  1. Climate change is a major problem that affects the entire world.
+  2. She made a major decision when she chose to move to a new country.
 
 ## 7: Majority
-- **Dissection:** [ma-jor-ity]
-- **Meaning:** The property resulting from being or relating to the greater in number of two parts; the main part
-- **Hindi:** बहुमत
+- **Dissection:** [ma-jor-i-ty]
+- **Meaning:** The greater number or part.
+- **Hindi:** बहुमत / अधिकांश
 - **Examples:**
-  1. The majority of his customers prefer it.
-  2. The bulk of the work is finished.
+  1. The vast majority of the students passed the difficult final exam.
+  2. A majority of the voters supported the new law during the election.
 
 ## 8: Make
 - **Dissection:** [make]
-- **Meaning:** A recognizable kind
+- **Meaning:** To form something by putting parts together or combining substances; construct; create.
 - **Hindi:** बनाना
 - **Examples:**
-  1. There's a new brand of hero in the movies now.
-  2. What make of car is that?
+  1. I am going to make a delicious chocolate cake for my brother's birthday.
+  2. Hard work and dedication will make you successful in the future.
 
 ## 9: Male
 - **Dissection:** [male]
-- **Meaning:** An animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)
-- **Hindi:** पुरुष
+- **Meaning:** Of or denoting the sex that produces small, typically motile gametes, especially spermatozoa, with which a female may be fertilized or inseminated to produce offspring.
+- **Hindi:** पुरुष / नर
 - **Examples:**
-  1. A male infant.
-  2. A male holly tree.
+  1. The peacock is a male bird known for its beautiful, colorful tail feathers.
+  2. There is a male nurse working in the hospital ward today.
 
 ## 10: Man
 - **Dissection:** [man]
-- **Meaning:** An adult person who is male (as opposed to a woman)
+- **Meaning:** An adult human male.
 - **Hindi:** आदमी
 - **Examples:**
-  1. There were two women and six men on the bus.
-  2. Two men stood sentry duty.
+  1. The tall man wearing the black hat is my uncle.
+  2. A kind young man helped the elderly lady carry her groceries.
 
 ## 11: Manage
 - **Dissection:** [man-age]
-- **Meaning:** Be successful; achieve a goal
-- **Hindi:** प्रबंधित करना
+- **Meaning:** To be in charge of (a company, establishment, or undertaking); administer; run.
+- **Hindi:** प्रबंध करना / सँभालना
 - **Examples:**
-  1. She succeeded in persuading us all.
-  2. I managed to carry the box upstairs.
+  1. She was hired to manage the new restaurant downtown.
+  2. How do you manage to work full time and study for your degree?
 
 ## 12: Management
 - **Dissection:** [man-age-ment]
-- **Meaning:** The act of managing something
-- **Hindi:** प्रबंध
+- **Meaning:** The process of dealing with or controlling things or people.
+- **Hindi:** प्रबंधन
 - **Examples:**
-  1. He was given overall management of the program.
-  2. Is the direction of the economy a function of government?
+  1. The company's management decided to hire fifty new employees this year.
+  2. Time management is a very important skill for busy college students.
 
 ## 13: Manager
-- **Dissection:** [man-ager]
-- **Meaning:** Someone who controls resources and expenditures
-- **Hindi:** प्रबंधक
+- **Dissection:** [man-ag-er]
+- **Meaning:** A person responsible for controlling or administering all or part of a company or similar organization.
+- **Hindi:** प्रबंधक / मैनेजर
 - **Examples:**
-  1. Pirate Manager Danny Murtaugh said he hadn't decided between Mizell and Vern Law for Wednesday's game.
-  2. Terry Barnes has been named manager.
+  1. The store manager kindly helped the customer find the correct shoe size.
+  2. I would like to speak to the manager about this broken product.
 
 ## 14: Many
-- **Dissection:** [many]
-- **Meaning:** A quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number
-- **Hindi:** अनेक
+- **Dissection:** [man-y]
+- **Meaning:** A large number of.
+- **Hindi:** कई / बहुत से
 - **Examples:**
-  1. Many temptations.
-  2. The temptations are many.
+  1. There are many different types of beautiful flowers in the garden.
+  2. How many apples do you want me to buy at the supermarket?
 
 ## 15: Map
 - **Dissection:** [map]
-- **Meaning:** A diagrammatic representation of the earth's surface (or part of it)
-- **Hindi:** मानचित्र
+- **Meaning:** A diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.
+- **Hindi:** नक़्शा
 - **Examples:**
-  1. Map the surface of Venus.
-  2. We haven't even begun to map the many galaxies that we know exist.
+  1. We looked at the paper map to find the best route to the beach.
+  2. The teacher hung a large map of the world on the classroom wall.
 
 ## 16: Mark
 - **Dissection:** [mark]
-- **Meaning:** A number or letter indicating quality (especially of a student's performance)
-- **Hindi:** निशान
+- **Meaning:** A small area on a surface having a different color from its surroundings, typically one caused by accident or damage. Also, a grade given for academic work.
+- **Hindi:** निशान / अंक
 - **Examples:**
-  1. She made good marks in algebra.
-  2. Grade A milk.
+  1. Be careful not to leave a dirty mark on the clean white carpet.
+  2. She got a very high mark on her final math test.
 
 ## 17: Market
 - **Dissection:** [mar-ket]
-- **Meaning:** The world of commercial activity where goods and services are bought and sold
+- **Meaning:** A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.
 - **Hindi:** बाज़ार
 - **Examples:**
-  1. Without competition there would be no market.
-  2. They were driven from the marketplace.
+  1. We went to the busy farmer's market to buy fresh vegetables and fruit.
+  2. There is a huge demand for electric cars in the current market.
 
 ## 18: Marriage
 - **Dissection:** [mar-riage]
-- **Meaning:** The state of being a married couple voluntarily joined for life (or until divorce)
-- **Hindi:** शादी
+- **Meaning:** The legally or formally recognized union of two people as partners in a personal relationship.
+- **Hindi:** शादी / विवाह
 - **Examples:**
-  1. A long and happy marriage.
-  2. God bless this union.
+  1. They celebrated their fiftieth year of happy marriage with a big party.
+  2. The beautiful marriage ceremony took place in an old church.
 
 ## 19: Marry
-- **Dissection:** [marry]
-- **Meaning:** Take in marriage
-- **Hindi:** शादी करो
+- **Dissection:** [mar-ry]
+- **Meaning:** To join in marriage.
+- **Hindi:** शादी करना
 - **Examples:**
-  1. The minister married us on Saturday.
-  2. We were wed the following week.
+  1. They are going to marry next summer in a beautiful ceremony by the beach.
+  2. Will you marry me and spend the rest of your life with me?
 
 ## 20: Match
 - **Dissection:** [match]
-- **Meaning:** Lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction
-- **Hindi:** मिलान
+- **Meaning:** A contest in which people or teams compete against each other in a particular sport. Or, a small stick used for lighting a fire.
+- **Hindi:** मुक़ाबला / माचिस / मेल खाना
 - **Examples:**
-  1. He always carries matches to light his pipe.
-  2. As long you've a lucifer to light your fag.
+  1. We went to the stadium to watch the exciting football match.
+  2. He used a match to light the candles on the birthday cake.
 
 ## 21: Material
-- **Dissection:** [ma-ter-i-al]
-- **Meaning:** The tangible substance that goes into the makeup of a physical object
-- **Hindi:** सामग्री
+- **Dissection:** [ma-te-ri-al]
+- **Meaning:** The matter from which a thing is or can be made.
+- **Hindi:** सामग्री / पदार्थ
 - **Examples:**
-  1. Coal is a hard black material.
-  2. Wheat is the stuff they use to make bread.
+  1. The builder needs more raw material, like wood and bricks, to finish the house.
+  2. Her beautiful dress is made of a very soft, silk material.
 
 ## 22: Matter
 - **Dissection:** [mat-ter]
-- **Meaning:** A vaguely specified concern
-- **Hindi:** मामला
+- **Meaning:** Physical substance in general. Or, an affair or situation under consideration; a topic.
+- **Hindi:** बात / मामला / पदार्थ
 - **Examples:**
-  1. Several matters to attend to.
-  2. It is none of your affair.
+  1. We need to discuss an urgent matter during today's meeting.
+  2. It does not matter what color shirt you wear to the casual party.
 
 ## 23: May
 - **Dissection:** [may]
-- **Meaning:** The month following April and preceding June
-- **Hindi:** मई
+- **Meaning:** Expressing possibility. Also, the fifth month of the year.
+- **Hindi:** सकना / मई
 - **Examples:**
-  1. You may smoke outside; may I sit there?
-  2. He may be lying; Schrödinger's cat may or may not be in the box.
+  1. It may rain later today, so you should definitely bring an umbrella.
+  2. Her birthday is in the month of May.
 
 ## 24: Maybe
-- **Dissection:** [maybe]
-- **Meaning:** By chance
+- **Dissection:** [may-be]
+- **Meaning:** Perhaps; possibly.
 - **Hindi:** शायद
 - **Examples:**
-  1. Perhaps she will call tomorrow.
-  2. We may possibly run into them at the concert.
+  1. Maybe we can go to the cinema tomorrow if we have enough free time.
+  2. If I study hard, maybe I will pass the difficult exam.
 
 ## 25: Me
 - **Dissection:** [me]
-- **Meaning:** A state in New England
+- **Meaning:** Used by a speaker to refer to himself or herself as the object of a verb or preposition.
 - **Hindi:** मुझे
 - **Examples:**
-  1. Can you hear me?
-  2. Come with me.
+  1. Could you please pass the salt to me?
+  2. My friend called me on the phone last night to talk about the movie.
 
 ## 26: Meal
 - **Dissection:** [meal]
-- **Meaning:** The food served and eaten at one time
-- **Hindi:** खाना
+- **Meaning:** Any of the regular occasions in a day when a reasonably large amount of food is eaten, such as breakfast, lunch, or dinner.
+- **Hindi:** भोजन
 - **Examples:**
-  1. I put a little scoop of pulverized phosphate rock or steamed bone meal into each hole with the plant.
-  2. After the meal, he and his guests went out to inspect the rig;;.
+  1. Dinner is usually the largest and most important meal of the day for my family.
+  2. We enjoyed a delicious three-course meal at the fancy new restaurant.
 
 ## 27: Mean
 - **Dissection:** [mean]
-- **Meaning:** An average of n numbers computed by adding some function of the numbers and dividing by some function of n
-- **Hindi:** अर्थ
+- **Meaning:** To intend to convey, indicate, or refer to. Or, unkind, spiteful, or unfair.
+- **Hindi:** मतलब होना / मतलबी
 - **Examples:**
-  1. You never understand what I mean!
-  2. What do his words intend?
+  1. What exactly does this strange word mean in English?
+  2. It is very mean to tease the new student at school.
 
 ## 28: Measure
 - **Dissection:** [meas-ure]
-- **Meaning:** Any maneuver made as part of progress toward a goal
-- **Hindi:** उपाय
+- **Meaning:** To ascertain the size, amount, or degree of something by using an instrument or device marked in standard units.
+- **Hindi:** मापना / उपाय
 - **Examples:**
-  1. The situation called for strong measures.
-  2. The police took steps to reduce crime.
+  1. The tailor used a tape to measure my arms before making the custom suit.
+  2. The government took strict measures to prevent the spread of the virus.
 
 ## 29: Meat
 - **Dissection:** [meat]
-- **Meaning:** The flesh of animals (including fishes and birds and snails) used as food
-- **Hindi:** मांस
+- **Meaning:** The flesh of an animal (especially a mammal) as food.
+- **Hindi:** माँस
 - **Examples:**
-  1. Black walnut kernels are difficult to get out of the shell.
-  2. The gist of the prosecutor's argument.
+  1. Some people choose not to eat meat and follow a vegetarian diet instead.
+  2. The restaurant serves the best grilled meat in the entire city.
 
 ## 30: Media
-- **Dissection:** [me-dia]
-- **Meaning:** A means or instrumentality for storing or communicating information
-- **Hindi:** मिडिया
+- **Dissection:** [me-di-a]
+- **Meaning:** The main means of mass communication (broadcasting, publishing, and the internet) regarded collectively.
+- **Hindi:** मीडिया / संचार माध्यम
 - **Examples:**
-  1. Fish require an aqueous medium.
-  2. The dissolving medium is called a solvent.
+  1. The news was quickly spread all over the world by the social media.
+  2. Politicians often use the media to communicate their message to the voters.
 
 ## 31: Medical
-- **Dissection:** [med-ic-al]
-- **Meaning:** A thorough physical examination; includes a variety of tests depending on the age and sex and health of the person
-- **Hindi:** चिकित्सा
+- **Dissection:** [med-i-cal]
+- **Meaning:** Relating to the science or practice of medicine.
+- **Hindi:** चिकित्सा-संबंधी
 - **Examples:**
-  1. The medical profession.
-  2. A medical student.
+  1. He missed a week of school for serious medical reasons.
+  2. The hospital uses advanced medical equipment to treat patients quickly.
 
 ## 32: Medicine
-- **Dissection:** [medi-cine]
-- **Meaning:** The branches of medical science that deal with nonsurgical techniques
-- **Hindi:** दवा
+- **Dissection:** [med-i-cine]
+- **Meaning:** The science or practice of the diagnosis, treatment, and prevention of disease. Also, a drug or other preparation for the treatment or prevention of disease.
+- **Hindi:** दवा / औषधि
 - **Examples:**
-  1. He studied medicine at Harvard.
-  2. You have to face the music.
+  1. The doctor prescribed a strong medicine to cure her painful cough.
+  2. Modern medicine has completely eradicated many dangerous diseases from the world.
 
 ## 33: Meet
 - **Dissection:** [meet]
-- **Meaning:** A meeting at which a number of athletic contests are held
-- **Hindi:** मिलो
+- **Meaning:** To arrange or happen to come into the presence or company of someone.
+- **Hindi:** मिलना
 - **Examples:**
-  1. I'll probably see you at the meeting.
-  2. How nice to see you again!
+  1. I am going to meet my friends at the coffee shop this afternoon.
+  2. It was very nice to finally meet your parents at the party.
 
 ## 34: Meeting
 - **Dissection:** [meet-ing]
-- **Meaning:** A formally arranged gathering
-- **Hindi:** बैठक
+- **Meaning:** An assembly of people, especially the members of a society or committee, for discussion or entertainment.
+- **Hindi:** बैठक / सभा
 - **Examples:**
-  1. Next year the meeting will be in Chicago.
-  2. The meeting elected a chairperson.
+  1. The manager called an urgent meeting to discuss the new project details.
+  2. The teachers had a long meeting after school to plan the curriculum.
 
 ## 35: Member
 - **Dissection:** [mem-ber]
-- **Meaning:** One of the persons who compose a social group (especially individuals who have joined and participate in a group organization)
+- **Meaning:** An individual belonging to a group such as a society or team.
 - **Hindi:** सदस्य
 - **Examples:**
-  1. Only members will be admitted.
-  2. A member of the faculty.
+  1. He is a very active member of the local sports club.
+  2. Every member of the family helped to clean the house on Sunday.
 
 ## 36: Memory
-- **Dissection:** [memory]
-- **Meaning:** Something that is remembered
-- **Hindi:** याद
+- **Dissection:** [mem-o-ry]
+- **Meaning:** The faculty by which the mind stores and remembers information. Also, something remembered from the past.
+- **Hindi:** याद / स्मृति
 - **Examples:**
-  1. Search as he would, the memory was lost.
-  2. He can do it from memory.
+  1. The old man has an excellent memory and can recall his childhood clearly.
+  2. Our trip to Paris is a beautiful memory that I will cherish forever.
 
 ## 37: Mention
 - **Dissection:** [men-tion]
-- **Meaning:** A remark that calls attention to something or someone
-- **Hindi:** उल्लेख
+- **Meaning:** To refer to something briefly and without going into detail.
+- **Hindi:** ज़िक्र करना
 - **Examples:**
-  1. She made frequent mention of her promotion.
-  2. There was no mention of it.
+  1. Did he mention what time the train is supposed to arrive?
+  2. She completely forgot to mention that her brother was coming to visit.
 
 ## 38: Message
 - **Dissection:** [mes-sage]
-- **Meaning:** A communication (usually brief) that is written or spoken or signaled
+- **Meaning:** A verbal, written, or recorded communication sent to or left for a recipient who cannot be contacted directly.
 - **Hindi:** संदेश
 - **Examples:**
-  1. He sent a three-word message.
-  2. She messaged the committee.
+  1. If I don't answer the phone, please leave a brief message after the beep.
+  2. He quickly typed a text message to let me know he was running late.
 
 ## 39: Metal
 - **Dissection:** [met-al]
-- **Meaning:** Any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.
+- **Meaning:** A solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity.
 - **Hindi:** धातु
 - **Examples:**
-  1. Brass is an alloy of zinc and copper.
-  2. A metallic compound.
+  1. Iron, gold, and silver are all different types of useful metal.
+  2. The heavy door was made of strong, solid metal to prevent robberies.
 
 ## 40: Method
 - **Dissection:** [meth-od]
-- **Meaning:** A way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)
-- **Hindi:** तरीका
+- **Meaning:** A particular form of procedure for accomplishing or approaching something, especially a systematic or established one.
+- **Hindi:** तरीक़ा / विधि
 - **Examples:**
-  1. If one method doesn't work, you should ask a friend to help you.
-  2. The company employs extensive use of 3D modelling combined with solidification simulation to ensure that critical castings are properly methoded.
+  1. The teacher has a very effective method for helping students learn English fast.
+  2. Swimming is an excellent method of keeping your whole body fit and healthy.
 
 ## 41: Middle
-- **Dissection:** [middle]
-- **Meaning:** An area that is approximately central within some larger region
-- **Hindi:** मध्य
+- **Dissection:** [mid-dle]
+- **Meaning:** The point or position at an equal distance from the sides, edges, or ends of something.
+- **Hindi:** बीच
 - **Examples:**
-  1. It is in the center of town.
-  2. They ran forward into the heart of the struggle.
+  1. Please draw a large circle right in the middle of the paper.
+  2. He woke up suddenly in the middle of the night because of a loud noise.
 
 ## 42: Might
 - **Dissection:** [might]
-- **Meaning:** Physical strength
-- **Hindi:** हो सकता है
+- **Meaning:** Expressing a possibility based on a condition or expressing permission. Also, great and impressive power or strength.
+- **Hindi:** शायद / शक्ति
 - **Examples:**
-  1. He pushed with all his might, but still it would not move.
-  2. You may smoke outside; may I sit there?
+  1. It might rain later this evening, so you should bring an umbrella.
+  2. The soldier fought with all his might to defend his country.
 
 ## 43: Mile
 - **Dissection:** [mile]
-- **Meaning:** A unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters
+- **Meaning:** A unit of linear measure equal to 1,760 yards (approximately 1.609 kilometers).
 - **Hindi:** मील
 - **Examples:**
-  1. He missed by a mile.
-  2. He holds the record in the mile.
+  1. We had to walk more than a mile to reach the nearest gas station.
+  2. The fast runner completed the one-mile race in just four minutes.
 
 ## 44: Military
-- **Dissection:** [mil-it-ary]
-- **Meaning:** The military forces of a nation
-- **Hindi:** सैन्य
+- **Dissection:** [mil-i-tar-y]
+- **Meaning:** The armed forces of a country.
+- **Hindi:** सैन्य / फ़ौज
 - **Examples:**
-  1. Their military is the largest in the region.
-  2. The military machine is the same one we faced in 1991 but now it is weaker.
+  1. He proudly served in the military for over twenty years before retiring.
+  2. The country increased its military spending to build stronger defenses.
 
 ## 45: Milk
 - **Dissection:** [milk]
-- **Meaning:** A white nutritious liquid secreted by mammals and used as food by human beings
+- **Meaning:** An opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.
 - **Hindi:** दूध
 - **Examples:**
-  1. Cows need to be milked every morning.
-  2. I am milking this for all it's worth.
+  1. You should drink a cold glass of milk every morning for strong bones.
+  2. Would you like me to pour some fresh milk into your hot coffee?
 
 ## 46: Million
 - **Dissection:** [mil-lion]
-- **Meaning:** The number that is represented as a one followed by 6 zeros
+- **Meaning:** The number equivalent to the product of a thousand and a thousand; 1,000,000.
 - **Hindi:** दस लाख
 - **Examples:**
-  1. There were millions of flies.
-  2. I can think of millions of reasons not to go.
+  1. A million people gathered in the huge city square for the celebration.
+  2. The famous actor bought a new house that cost two million dollars.
 
 ## 47: Mind
 - **Dissection:** [mind]
-- **Meaning:** That which is responsible for one's thoughts and feelings; the seat of the faculty of reason
-- **Hindi:** दिमाग
+- **Meaning:** The element of a person that enables them to be aware of the world and their experiences, to think, and to feel. Or, to be distressed, annoyed, or worried by.
+- **Hindi:** दिमाग़ / ऐतराज़ करना
 - **Examples:**
-  1. His mind wandered.
-  2. I couldn't get his words out of my head.
+  1. She has a very sharp mind and can solve complex math problems quickly.
+  2. Do you mind if I open the window to let in some fresh air?
 
 ## 48: Minute
-- **Dissection:** [minute]
-- **Meaning:** A unit of time equal to 60 seconds or 1/60th of an hour
+- **Dissection:** [min-ute]
+- **Meaning:** A period of time equal to sixty seconds or a sixtieth of an hour.
 - **Hindi:** मिनट
 - **Examples:**
-  1. He ran a 4 minute mile.
-  2. Wait just a moment.
+  1. The delicious pizza will be fully baked and ready in just one minute.
+  2. It takes about twenty minutes to walk from my house to the train station.
 
 ## 49: Mirror
 - **Dissection:** [mir-ror]
-- **Meaning:** Polished surface that forms images by reflecting light
-- **Hindi:** आईना
+- **Meaning:** A reflective surface, now typically of glass coated with a metal amalgam, that reflects a clear image.
+- **Hindi:** आईना / दर्पण
 - **Examples:**
-  1. The best mirror is an old friend.
-  2. The smallest pond at night mirrors the firmament above.
+  1. She looked closely at her reflection in the bathroom mirror to fix her hair.
+  2. Please wipe the dirty mirror so that it is shiny and clean again.
 
 ## 50: Miss
 - **Dissection:** [miss]
-- **Meaning:** A young woman
-- **Hindi:** याद
+- **Meaning:** To fail to hit, reach, or come into contact with something. Or, to feel regret or sadness at no longer being able to enjoy the presence of someone or something.
+- **Hindi:** चूकना / याद करना
 - **Examples:**
-  1. A young lady of 18.
-  2. I missed that remark.
+  1. If you don't hurry up, you will definitely miss the morning school bus.
+  2. I miss my family very much when I travel away from home for work.
 
 ## 51: Mission
 - **Dissection:** [mis-sion]
-- **Meaning:** An organization of missionaries in a foreign land sent to carry on religious work
-- **Hindi:** उद्देश्य
+- **Meaning:** An important assignment carried out for political, religious, or commercial purposes, typically involving travel.
+- **Hindi:** मिशन / लक्ष्य
 - **Examples:**
-  1. The planes were on a bombing mission.
-  2. A confidential mission to London.
+  1. The brave astronauts successfully completed their dangerous mission to the moon.
+  2. Her personal mission in life is to help homeless animals find a good family.
 
 ## 52: Mistake
 - **Dissection:** [mis-take]
-- **Meaning:** A wrong action attributable to bad judgment or ignorance or inattention
-- **Hindi:** गलती
+- **Meaning:** An action or judgment that is misguided or wrong.
+- **Hindi:** ग़लती
 - **Examples:**
-  1. He made a bad mistake.
-  2. She was quick to point out my errors.
+  1. It is perfectly okay to make a mistake, as long as you learn from it.
+  2. I accidentally made a spelling mistake on my important job application.
 
 ## 53: Model
 - **Dissection:** [mod-el]
-- **Meaning:** A hypothetical description of a complex entity or process
-- **Hindi:** नमूना
+- **Meaning:** A three-dimensional representation of a person or thing or of a proposed structure, typically on a smaller scale. Also, a person employed to display clothes.
+- **Hindi:** मॉडल / नमूना
 - **Examples:**
-  1. The computer program was based on a model of the circulatory and respiratory systems.
-  2. His car was an old model.
+  1. The architect built a small wooden model to show what the new hospital would look like.
+  2. She works as a fashion model and travels all over the world for photo shoots.
 
 ## 54: Modern
 - **Dissection:** [mod-ern]
-- **Meaning:** A contemporary person
+- **Meaning:** Relating to the present or recent times as opposed to the remote past.
 - **Hindi:** आधुनिक
 - **Examples:**
-  1. Modern art.
-  2. Modern furniture.
+  1. Computers and smartphones are essential tools in our modern world.
+  2. The city has a beautiful mix of old historic buildings and tall modern skyscrapers.
 
 ## 55: Moment
 - **Dissection:** [mo-ment]
-- **Meaning:** A particular point in time
+- **Meaning:** A very brief period of time.
 - **Hindi:** पल
 - **Examples:**
-  1. The moment he arrived the party began.
-  2. Wait just a moment.
+  1. Please wait here for just one moment while I go find the manager.
+  2. The exact moment he saw the surprise gift, a huge smile appeared on his face.
 
 ## 56: Money
-- **Dissection:** [money]
-- **Meaning:** The most common medium of exchange; functions as legal tender
-- **Hindi:** धन
+- **Dissection:** [mon-ey]
+- **Meaning:** A current medium of exchange in the form of coins and banknotes; coins and banknotes collectively.
+- **Hindi:** पैसा / धन
 - **Examples:**
-  1. We tried to collect the money he owed us.
-  2. All his money is in real estate.
+  1. You will need to save a lot of money to buy that expensive new sports car.
+  2. He always carries some cash money in his wallet just in case of an emergency.
 
 ## 57: Monkey
 - **Dissection:** [mon-key]
-- **Meaning:** Any of various long-tailed primates (excluding the prosimians)
+- **Meaning:** A small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries.
 - **Hindi:** बंदर
 - **Examples:**
-  1. Someone tampered with the documents on my desk.
-  2. The reporter fiddle with the facts.
+  1. We watched the playful monkey skillfully swing from branch to branch at the zoo.
+  2. The mischievous little monkey quickly stole the bright yellow banana from the tourist.
 
 ## 58: Month
 - **Dissection:** [month]
-- **Meaning:** One of the twelve divisions of the calendar year
+- **Meaning:** Each of the twelve named periods into which a year is divided.
 - **Hindi:** महीना
 - **Examples:**
-  1. He paid the bill last month.
-  2. He was given a month to pay the bill.
+  1. January is the very first month of the long calendar year.
+  2. We are planning to travel to beautiful Hawaii next month for a relaxing vacation.
 
 ## 59: Moon
 - **Dissection:** [moon]
-- **Meaning:** The natural satellite of the Earth
-- **Hindi:** चंद्रमा
+- **Meaning:** The natural satellite of the earth, visible (chiefly at night) by reflected light from the sun.
+- **Hindi:** चाँद / चंद्रमा
 - **Examples:**
-  1. The average distance to the Moon is 384,400 kilometers.
-  2. Men first stepped on the moon in 1969.
+  1. The bright full moon shone clearly in the dark, starry night sky.
+  2. In 1969, an astronaut became the first person to walk on the surface of the moon.
 
 ## 60: More
 - **Dissection:** [more]
-- **Meaning:** English statesman who opposed Henry VIII's divorce from Catherine of Aragon and was imprisoned and beheaded; recalled for his concept of Utopia, the ideal state
-- **Hindi:** अधिक
+- **Meaning:** A greater or additional amount or degree of.
+- **Hindi:** और / अधिक
 - **Examples:**
-  1. More land.
-  2. More support.
+  1. I am still very hungry; could I please have some more rice?
+  2. We need to do much more research before we can solve this complex problem.
 
 ## 61: Morning
 - **Dissection:** [morn-ing]
-- **Meaning:** The time period between dawn and noon
+- **Meaning:** The period of time between midnight and noon, especially from sunrise to noon.
 - **Hindi:** सुबह
 - **Examples:**
-  1. I spent the morning running errands.
-  2. We got up before dawn.
+  1. I always enjoy drinking a hot cup of strong coffee early in the morning.
+  2. The loud birds start singing outside my window every morning right at sunrise.
 
 ## 62: Most
 - **Dissection:** [most]
-- **Meaning:** (superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number
-- **Hindi:** अधिकांश
+- **Meaning:** Greatest in amount, quantity, or degree.
+- **Hindi:** सबसे अधिक
 - **Examples:**
-  1. Who has the most apples?
-  2. Most people like eggs.
+  1. Of all the fruits in the bowl, the red apple is the most delicious.
+  2. Most people agree that getting enough sleep is very important for your health.
 
 ## 63: Mother
 - **Dissection:** [moth-er]
-- **Meaning:** A woman who has given birth to a child (also used as a term of address to your mother)
+- **Meaning:** A woman in relation to her child or children.
 - **Hindi:** माँ
 - **Examples:**
-  1. The mother of three children.
-  2. Necessity is the mother of invention.
+  1. My mother lovingly baked a wonderful, sweet cake for my tenth birthday party.
+  2. A mother will always do whatever she can to protect her precious children.
 
 ## 64: Mountain
 - **Dissection:** [moun-tain]
-- **Meaning:** A land mass that projects well above its surroundings; higher than a hill
-- **Hindi:** पर्वत
+- **Meaning:** A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.
+- **Hindi:** पहाड़ / पर्वत
 - **Examples:**
-  1. A batch of letters.
-  2. A deal of trouble.
+  1. Mount Everest is famously known as the tallest mountain in the entire world.
+  2. We plan to climb the steep snowy mountain during our exciting winter vacation.
 
 ## 65: Mouse
 - **Dissection:** [mouse]
-- **Meaning:** Any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails
-- **Hindi:** चूहा
+- **Meaning:** A small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail. Also, a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad.
+- **Hindi:** चूहा / माउस (कंप्यूटर)
 - **Examples:**
-  1. A mouse takes much more room than a trackball.
-  2. ..stead of sneaking around spying on the neighbor's house.
+  1. The little gray mouse quickly ran across the kitchen floor and hid under the stove.
+  2. Use the computer mouse to easily click on the blue link on the screen.
 
 ## 66: Mouth
 - **Dissection:** [mouth]
-- **Meaning:** The opening through which food is taken in and vocalizations emerge
+- **Meaning:** The opening in the lower part of the human face, surrounded by the lips, through which food is taken in and from which speech and other sounds are emitted.
 - **Hindi:** मुँह
 - **Examples:**
-  1. He stuffed his mouth with candy.
-  2. She wiped lipstick from her mouth.
+  1. Please remember to chew your food slowly with your mouth completely closed.
+  2. The dentist asked the patient to open his mouth wide so she could see his teeth.
 
 ## 67: Move
 - **Dissection:** [move]
-- **Meaning:** The act of deciding to do something
-- **Hindi:** कदम
+- **Meaning:** To go in a specified direction or manner; change position.
+- **Hindi:** हिलना / खिसकना
 - **Examples:**
-  1. He didn't make a move to help.
-  2. His first move was to hire a lawyer.
+  1. Could you please move your chair a little bit closer to the round table?
+  2. We are going to move to a brand new house in the city next month.
 
 ## 68: Movement
 - **Dissection:** [move-ment]
-- **Meaning:** A change of position that does not entail a change of location
-- **Hindi:** आंदोलन
+- **Meaning:** An act of changing physical location or position or of having this changed.
+- **Hindi:** आंदोलन / हलचल
 - **Examples:**
-  1. The reflex motion of his eyebrows revealed his surprise.
-  2. Movement is a sign of life.
+  1. The sudden movement in the dark bushes frightened the small timid rabbit.
+  2. Regular physical movement is very essential for maintaining a healthy and strong body.
 
 ## 69: Movie
-- **Dissection:** [movie]
-- **Meaning:** A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement
-- **Hindi:** चलचित्र
+- **Dissection:** [mov-ie]
+- **Meaning:** A story or event recorded by a camera as a set of moving images and shown in a theater or on television; a motion picture.
+- **Hindi:** फ़िल्म / सिनेमा
 - **Examples:**
-  1. They went to a movie every Saturday night.
-  2. The film was shot on location.
+  1. We bought popcorn and soda before sitting down to watch the exciting action movie.
+  2. The new comedy movie was incredibly funny and made everyone in the theater laugh.
 
 ## 70: Mr
-- **Dissection:** [mr]
-- **Meaning:** A form of address for a man
-- **Hindi:** श्री
+- **Dissection:** [mis-ter]
+- **Meaning:** A title used before a surname or full name to address or refer to a man without a higher or honorific or professional title.
+- **Hindi:** श्री / मिस्टर
 - **Examples:**
-  1. " With this move Mr. Reagan has committed a big mistake and has definitely increased his problems...
-  2. " Mr. Ichan still apparently has 11. 4 pct.
+  1. Mr. Smith is our excellent new science teacher at the high school this year.
+  2. Please hand this important envelope directly to Mr. Johnson when you see him.
 
 ## 71: Mrs
-- **Dissection:** [mrs]
-- **Meaning:** A form of address for a married woman
-- **Hindi:** श्रीमती
+- **Dissection:** [mis-iz]
+- **Meaning:** A title used before a surname or full name to address or refer to a married woman without a higher or honorific or professional title.
+- **Hindi:** श्रीमती / मिसेज़
 - **Examples:**
-  1. " Mrs. Bates, let me propose your venturing on one of these eggs.
-  2. Mrs. Goddard, what say you to _half_ a glass of wine?
+  1. Mrs. Brown kindly baked delicious chocolate chip cookies for all the neighborhood children.
+  2. We went to visit Mrs. Davis because she has been very sick lately.
 
 ## 72: Much
 - **Dissection:** [much]
-- **Meaning:** A great amount or extent
-- **Hindi:** अधिकता
+- **Meaning:** A great amount or quantity of.
+- **Hindi:** बहुत
 - **Examples:**
-  1. They did much for humanity.
-  2. Not much rain.
+  1. Thank you very much for your wonderful help with this difficult math project!
+  2. There is not much milk left in the plastic jug in the refrigerator.
 
 ## 73: Music
 - **Dissection:** [mu-sic]
-- **Meaning:** An artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner
+- **Meaning:** Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.
 - **Hindi:** संगीत
 - **Examples:**
-  1. He fell asleep to the music of the wind chimes.
-  2. His music was his central interest.
+  1. I love to listen to relaxing classical music while I am studying for my exams.
+  2. The loud music playing at the late party kept the entire neighborhood awake.
 
 ## 74: Must
 - **Dissection:** [must]
-- **Meaning:** A necessary or essential thing
-- **Hindi:** अवश्य
+- **Meaning:** To be obliged to; should (expressing necessity).
+- **Hindi:** चाहिए / ज़रूरी
 - **Examples:**
-  1. Seat belts are an absolute must.
-  2. A book that is must reading.
+  1. You must wear a strong helmet when you ride your fast bicycle on the road.
+  2. We must definitely leave the house right now if we want to catch the train.
 
 ## 75: My
 - **Dissection:** [my]
-- **Meaning:** Used to express surprise, shock or amazement.
+- **Meaning:** Belonging to or associated with the speaker.
 - **Hindi:** मेरा
 - **Examples:**
-  1. I'm willing to stake my political career on it ''.
-  2. `` The statements may be highly prejudicial to my client '', Bellows told the court.
+  1. My favorite bright color is blue, and I wear it almost every single day.
+  2. I completely forgot to bring my warm jacket, and now I feel very cold.
 
 ## 76: Myself
 - **Dissection:** [my-self]
-- **Meaning:** (reflexive pronoun) Me, as direct or indirect object the speaker as the object of a verb or preposition, when the speaker is also the subject.
-- **Hindi:** खुद
+- **Meaning:** Used by a speaker to refer to himself or herself as the object of a verb or preposition when he or she is the subject of the clause.
+- **Hindi:** मैं ख़ुद / स्वयं
 - **Examples:**
-  1. I taught myself.
-  2. I feel like myself.
-
+  1. I made this delicious dinner completely by myself without any help from anyone.
+  2. I accidentally cut myself with the sharp kitchen knife while chopping the vegetables.

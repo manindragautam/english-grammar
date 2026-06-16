@@ -1,448 +1,447 @@
 ## 1: Lake
 - **Dissection:** [lake]
-- **Meaning:** A body of (usually fresh) water surrounded by land
+- **Meaning:** A large body of water surrounded by land.
 - **Hindi:** झील
 - **Examples:**
-  1. Mr. Wendell and his bride will live in his Lake Forest house.
-  2. The Beadles formerly lived in Lake Forest.
+  1. We rented a small cabin near the lake for our summer vacation.
+  2. The water in the lake is so clear that you can see the fish swimming.
 
 ## 2: Land
 - **Dissection:** [land]
-- **Meaning:** The land on which real estate is located
-- **Hindi:** भूमि
+- **Meaning:** The part of the earth's surface that is not covered by water.
+- **Hindi:** ज़मीन / भूमि
 - **Examples:**
-  1. He built the house on land leased from the city.
-  2. The land had never been plowed.
+  1. After weeks at sea, the sailors were very happy to finally see land.
+  2. They bought a large piece of land to build their new house.
 
 ## 3: Language
 - **Dissection:** [lan-guage]
-- **Meaning:** A systematic means of communicating by the use of sounds or conventional symbols
+- **Meaning:** The method of human communication, either spoken or written.
 - **Hindi:** भाषा
 - **Examples:**
-  1. He taught foreign languages.
-  2. The language introduced is standard throughout the text.
+  1. English is a very useful language to know when traveling around the world.
+  2. How many different languages can you speak fluently?
 
 ## 4: Large
 - **Dissection:** [large]
-- **Meaning:** A garment size for a large person
+- **Meaning:** Of considerable or relatively great size, extent, or capacity.
 - **Hindi:** बड़ा
 - **Examples:**
-  1. A large city.
-  2. Set out for the big city.
+  1. The elephant is a very large and heavy animal.
+  2. We ordered a large pizza with extra cheese for dinner tonight.
 
 ## 5: Last
 - **Dissection:** [last]
-- **Meaning:** The temporal end; the concluding time
-- **Hindi:** अंतिम
+- **Meaning:** Coming after all others in time or order; final.
+- **Hindi:** आख़िरी / पिछला
 - **Examples:**
-  1. The stopping point of each round was signaled by a bell.
-  2. The market was up at the finish.
+  1. He was the last person to leave the dark office building.
+  2. Where did you go for your summer holiday last year?
 
 ## 6: Late
 - **Dissection:** [late]
-- **Meaning:** Being or occurring at an advanced period of time or after a usual or expected time
-- **Hindi:** देर
+- **Meaning:** Doing something or taking place after the expected, proper, or usual time.
+- **Hindi:** देर से
 - **Examples:**
-  1. Late evening.
-  2. Late 18th century.
+  1. Please hurry up, or we will be late for the movie.
+  2. He stayed up very late last night studying for his math exam.
 
 ## 7: Later
-- **Dissection:** [later]
-- **Meaning:** Coming at a subsequent time or stage
+- **Dissection:** [la-ter]
+- **Meaning:** At a time in the near future; afterward.
 - **Hindi:** बाद में
 - **Examples:**
-  1. Without ulterior argument.
-  2. The mood posterior to.
+  1. I am busy right now, but I will call you back later.
+  2. Let's go to the park first and eat lunch later.
 
 ## 8: Laugh
 - **Dissection:** [laugh]
-- **Meaning:** The sound of laughing
+- **Meaning:** To make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement.
 - **Hindi:** हँसना
 - **Examples:**
-  1. His face wrinkled in a silent laugh of derision.
-  2. He told a very funny joke.
+  1. The funny clown made all the children laugh out loud.
+  2. I couldn't stop laughing at the hilarious joke he told me.
 
 ## 9: Law
 - **Dissection:** [law]
-- **Meaning:** The collection of rules imposed by authority
-- **Hindi:** कानून
+- **Meaning:** The system of rules which a particular country or community recognizes as regulating the actions of its members.
+- **Hindi:** क़ानून
 - **Examples:**
-  1. Civilization presupposes respect for the law.
-  2. The great problem for jurisprudence to allow freedom while enforcing order.
+  1. Stealing someone else's property is against the law.
+  2. You must obey the speed limit laws when driving on the highway.
 
 ## 10: Lawyer
 - **Dissection:** [law-yer]
-- **Meaning:** A professional person authorized to practice law; conducts lawsuits or gives legal advice
+- **Meaning:** A person who practices or studies law; an attorney.
 - **Hindi:** वकील
 - **Examples:**
-  1. A lawyer's time and advice are his stock in trade. - aphorism often credited to Abraham Lincoln, but without attestation.
-  2. You've been lawyered!
+  1. She hired a good lawyer to help her with the legal paperwork.
+  2. My brother is studying hard because he wants to become a successful lawyer.
 
 ## 11: Lay
 - **Dissection:** [lay]
-- **Meaning:** A narrative song with a recurrent refrain
-- **Hindi:** बिछाना
+- **Meaning:** To put down, especially gently or carefully.
+- **Hindi:** रखना / लिटाना
 - **Examples:**
-  1. Put your things here.
-  2. Set the tray down.
+  1. Please lay the baby gently in her crib so she can sleep.
+  2. He will lay his coat on the chair before sitting down.
 
 ## 12: Lead
 - **Dissection:** [lead]
-- **Meaning:** An advantage held by a competitor in a race
-- **Hindi:** नेतृत्व करना
+- **Meaning:** To show someone the way to a destination by going in front of or beside them.
+- **Hindi:** नेतृत्व करना / रास्ता दिखाना
 - **Examples:**
-  1. He took the lead at the last turn.
-  2. The children were playing with lead soldiers.
+  1. The tour guide will lead the group through the ancient museum.
+  2. A good manager should lead their team by setting a positive example.
 
 ## 13: Leader
 - **Dissection:** [lead-er]
-- **Meaning:** A person who rules or guides or inspires others
-- **Hindi:** नेता
+- **Meaning:** The person who leads or commands a group, organization, or country.
+- **Hindi:** नेता / लीडर
 - **Examples:**
-  1. The conservation leader said other mistakes in spraying had caused serious damage in Ohio and Wyoming.
-  2. They came together in the huge, high-ceilinged Council Chamber to hear the late leader eulogized.
+  1. The country chose a new political leader during the recent election.
+  2. She is the team leader for our science project.
 
 ## 14: Leaf
 - **Dissection:** [leaf]
-- **Meaning:** The main organ of photosynthesis and transpiration in higher plants
+- **Meaning:** A flattened structure of a higher plant, typically green and bladelike, that is attached to a stem.
 - **Hindi:** पत्ता
 - **Examples:**
-  1. He thumbed through the report.
-  2. She leafed through the volume.
+  1. In autumn, a red leaf slowly fell from the tall tree to the ground.
+  2. The caterpillar happily chewed a large hole in the green leaf.
 
 ## 15: Learn
 - **Dissection:** [learn]
-- **Meaning:** Gain knowledge or skills
+- **Meaning:** To gain or acquire knowledge of or skill in something by study, experience, or being taught.
 - **Hindi:** सीखना
 - **Examples:**
-  1. She learned dancing from her sister.
-  2. I learned Sanskrit.
+  1. It takes a lot of time and practice to learn how to play the piano.
+  2. Children go to school to learn reading, writing, and math.
 
 ## 16: Least
 - **Dissection:** [least]
-- **Meaning:** Something that is of no importance
-- **Hindi:** कम से कम
+- **Meaning:** Smallest in amount, extent, or significance.
+- **Hindi:** सबसे कम
 - **Examples:**
-  1. It is the least I can do.
-  2. That is the least of my concerns.
+  1. That is the least of my worries right now.
+  2. He chose the cheapest shirt because it cost the least amount of money.
 
 ## 17: Leather
 - **Dissection:** [leath-er]
-- **Meaning:** An animal skin made smooth and flexible by removing the hair and then tanning
+- **Meaning:** A material made from the skin of an animal by tanning or a similar process.
 - **Hindi:** चमड़ा
 - **Examples:**
-  1. With a foreign car you must wear a cap -- it has a leather band in the back.
-  2. At right is a casual style in a crushed unlined white leather.
+  1. He bought a new black leather jacket for the winter.
+  2. These brown leather shoes are very comfortable and stylish.
 
 ## 18: Leave
 - **Dissection:** [leave]
-- **Meaning:** The period of time during which you are absent from work or duty
-- **Hindi:** छुट्टी
+- **Meaning:** To go away from.
+- **Hindi:** छोड़ना / प्रस्थान करना
 - **Examples:**
-  1. A ten day's leave to visit his mother.
-  2. She was granted leave to speak.
+  1. What time does the train leave the station for New York?
+  2. Please don't leave your bags unattended at the busy airport.
 
 ## 19: Left
 - **Dissection:** [left]
-- **Meaning:** Location near or direction toward the left side; i.e. the side to the north when a person or object faces east
-- **Hindi:** बाएं
+- **Meaning:** On, toward, or relating to the side of a human body or of a thing that is to the west when the person or thing is facing north.
+- **Hindi:** बायाँ
 - **Examples:**
-  1. She stood on the left.
-  2. Jab with your left.
+  1. Turn left at the next traffic light to reach the hospital.
+  2. She writes with her left hand instead of her right hand.
 
 ## 20: Leg
 - **Dissection:** [leg]
-- **Meaning:** A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle
-- **Hindi:** टांग
+- **Meaning:** Each of the limbs on which a person or animal walks and stands.
+- **Hindi:** पैर / टाँग
 - **Examples:**
-  1. He broke off one of the branches.
-  2. Then we embarked on the second stage of our Caribbean cruise.
+  1. He unfortunately broke his leg while skiing down the steep mountain.
+  2. The tired dog limped slowly on its sore back leg.
 
 ## 21: Legal
-- **Dissection:** [leg-al]
-- **Meaning:** Established by or founded upon law or official or accepted rules
+- **Dissection:** [le-gal]
+- **Meaning:** Relating to the law; permitted by law.
 - **Hindi:** कानूनी
 - **Examples:**
-  1. Legal loophole.
-  2. A sound title to the property.
+  1. You must be eighteen years old for it to be legal to vote.
+  2. They sought legal advice from an attorney before signing the contract.
 
 ## 22: Lemon
 - **Dissection:** [lem-on]
-- **Meaning:** Yellow oval fruit with juicy acidic flesh
+- **Meaning:** A pale yellow oval citrus fruit with thick skin and fragrant, acidic juice.
 - **Hindi:** नींबू
 - **Examples:**
-  1. He didn’t realise until he’d paid for it that the car was a lemon.
-  2. A thousand quid for that motor? Do me a lemon, I could get it for half that.
+  1. She squeezed some fresh lemon over her baked fish for extra flavor.
+  2. We made a cold pitcher of sweet lemon iced tea.
 
 ## 23: Length
 - **Dissection:** [length]
-- **Meaning:** The linear extent in space from one end to the other; the longest dimension of something that is fixed in place
+- **Meaning:** The measurement or extent of something from end to end.
 - **Hindi:** लंबाई
 - **Examples:**
-  1. The length of the table was 5 feet.
-  2. The ceremony was of short duration.
+  1. We need to measure the exact length of the room before buying a rug.
+  2. The swimming pool has a total length of fifty meters.
 
 ## 24: Less
 - **Dissection:** [less]
-- **Meaning:** (comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree
+- **Meaning:** A smaller amount of; not as much.
 - **Hindi:** कम
 - **Examples:**
-  1. Of less importance.
-  2. Less time to spend with the family.
+  1. Try to eat less sugar if you want to be healthier.
+  2. The journey will take less time if we travel by airplane instead of driving.
 
 ## 25: Lesson
 - **Dissection:** [les-son]
-- **Meaning:** A unit of instruction
-- **Hindi:** पाठ
+- **Meaning:** An amount of teaching given at one time; a period of learning or teaching.
+- **Hindi:** पाठ / सबक
 - **Examples:**
-  1. He took driving lessons.
-  2. They decided to make an example of him.
+  1. Pay attention to the teacher during the math lesson today.
+  2. The mistakes he made served as a valuable life lesson.
 
 ## 26: Let
 - **Dissection:** [let]
-- **Meaning:** A brutal terrorist group active in Kashmir; fights against India with the goal of restoring Islamic rule of India
-- **Hindi:** होने देना
+- **Meaning:** To allow or permit.
+- **Hindi:** करने देना / अनुमति देना
 - **Examples:**
-  1. Lashkar-e-Toiba has committed mass murders of civilian Hindus.
-  2. This permits the water to rush in.
+  1. My parents will not let me go to the party on a school night.
+  2. Please let the dog out into the yard so he can run.
 
 ## 27: Letter
 - **Dissection:** [let-ter]
-- **Meaning:** A written message addressed to a person or organization
-- **Hindi:** पत्र
+- **Meaning:** A written, typed, or printed communication, sent in an envelope by post or messenger. Also, a character of the alphabet.
+- **Hindi:** पत्र / अक्षर
 - **Examples:**
-  1. Mailed an indignant letter to the editor.
-  2. His grandmother taught him his letters.
+  1. She wrote a long, heartfelt letter to her grandmother.
+  2. 'A' is the first letter of the English alphabet.
 
 ## 28: Level
-- **Dissection:** [level]
-- **Meaning:** A position on a scale of intensity or amount or quality
+- **Dissection:** [lev-el]
+- **Meaning:** A horizontal plane or line with respect to the distance above or below a given point. Also, a position on a scale of amount, quantity, or extent.
 - **Hindi:** स्तर
 - **Examples:**
-  1. A moderate grade of intelligence.
-  2. A high level of care is required.
+  1. The water level in the river rose dangerously high after the heavy rain.
+  2. This video game has many different levels of difficulty.
 
 ## 29: Library
-- **Dissection:** [lib-rary]
-- **Meaning:** A room where books are kept
+- **Dissection:** [li-brar-y]
+- **Meaning:** A building or room containing collections of books, periodicals, and sometimes films and recorded music for use or borrowing by the public.
 - **Hindi:** पुस्तकालय
 - **Examples:**
-  1. Anyone interested in attending the meeting may have reservations with Mrs. John Whelan at the Hollywood Public Library.
-  2. Most library budgets are hopelessly inadequate.
+  1. I went to the local library to borrow some books for my research project.
+  2. You must remain very quiet while studying in the library.
 
 ## 30: Lie
 - **Dissection:** [lie]
-- **Meaning:** A statement that deviates from or perverts the truth
-- **Hindi:** झूठ
+- **Meaning:** An intentionally false statement. Or, to rest flat on a surface.
+- **Hindi:** झूठ / लेटना
 - **Examples:**
-  1. The sick man lay in bed all day.
-  2. The books are lying on the shelf.
+  1. He told a terrible lie to his parents to avoid getting into trouble.
+  2. If you feel sick, you should lie down on the bed and rest.
 
 ## 31: Life
 - **Dissection:** [life]
-- **Meaning:** A characteristic state or mode of living
-- **Hindi:** ज़िंदगी
+- **Meaning:** The condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.
+- **Hindi:** जीवन
 - **Examples:**
-  1. Social life.
-  2. City life.
+  1. Regular exercise and a good diet are important for a healthy life.
+  2. Reading books helps you experience life from different perspectives.
 
 ## 32: Lift
 - **Dissection:** [lift]
-- **Meaning:** The act of giving temporary assistance
+- **Meaning:** To raise to a higher position or level.
 - **Hindi:** उठाना
 - **Examples:**
-  1. An elevation of the temperature in the afternoon.
-  2. A raising of the land resulting from volcanic activity.
+  1. Can you help me lift this heavy box onto the high shelf?
+  2. The thick fog began to lift slowly as the warm morning sun came out.
 
 ## 33: Light
 - **Dissection:** [light]
-- **Meaning:** (physics) electromagnetic radiation that can produce a visual sensation
-- **Hindi:** रोशनी
+- **Meaning:** The natural agent that stimulates sight and makes things visible. Or, having little weight.
+- **Hindi:** प्रकाश / हल्का
 - **Examples:**
-  1. The light was filtered through a soft glass window.
-  2. He stopped the car and turned off the lights.
+  1. The bright sunlight streamed through the open window in the morning.
+  2. This empty plastic box is very light and easy to carry.
 
 ## 34: Like
 - **Dissection:** [like]
-- **Meaning:** A similar kind; ,
-- **Hindi:** पसंद
+- **Meaning:** Having the same characteristics or qualities as; similar to. Or, to find agreeable, enjoyable, or satisfactory.
+- **Hindi:** पसंद करना / के जैसा
 - **Examples:**
-  1. Dogs, foxes, and the like.
-  2. We don't want the likes of you around here.
+  1. I really like eating chocolate ice cream for dessert.
+  2. Her new house looks just like a beautiful castle.
 
 ## 35: Likely
-- **Dissection:** [likely]
-- **Meaning:** Has a good chance of being the case or of coming about
-- **Hindi:** संभावित
+- **Dissection:** [like-ly]
+- **Meaning:** Such as well might happen or be true; probable.
+- **Hindi:** संभावित / मुमकिन
 - **Examples:**
-  1. These services are likely to be available to us all before long.
-  2. She is likely to forget.
+  1. It is very likely that it will rain tomorrow, so bring your umbrella.
+  2. She is the most likely candidate to win the singing competition.
 
 ## 36: Limit
 - **Dissection:** [lim-it]
-- **Meaning:** The greatest possible degree of something
-- **Hindi:** Limit का हिंदी अर्थ
+- **Meaning:** A point or level beyond which something does not or may not extend or pass.
+- **Hindi:** सीमा / हद
 - **Examples:**
-  1. What he did was beyond the bounds of acceptable behavior.
-  2. To the limit of his ability.
+  1. You must not drive faster than the speed limit on this road.
+  2. There is a limit to how much heavy luggage you can bring on the airplane.
 
 ## 37: Line
 - **Dissection:** [line]
-- **Meaning:** A formation of people or things one beside another
-- **Hindi:** रेखा
+- **Meaning:** A long, narrow mark or band. Also, a queue of people or things.
+- **Hindi:** रेखा / कतार
 - **Examples:**
-  1. The line of soldiers advanced with their bayonets fixed.
-  2. They were arrayed in line of battle.
+  1. The teacher asked the young students to form a straight line.
+  2. Use a ruler if you want to draw a perfectly straight line on the paper.
 
 ## 38: Lip
 - **Dissection:** [lip]
-- **Meaning:** Either of two fleshy folds of tissue that surround the mouth and play a role in speaking
-- **Hindi:** ओंठ
+- **Meaning:** Either of the two fleshy parts which form the upper and lower edges of the opening of the mouth.
+- **Hindi:** होंठ
 - **Examples:**
-  1. Don't give me any of your sass.
-  2. Don’t give me any lip!
+  1. She applied some pink lipstick to her bottom lip.
+  2. His bottom lip began to tremble when he felt sad.
 
 ## 39: Liquid
-- **Dissection:** [li-quid]
-- **Meaning:** A substance that is liquid at room temperature and pressure
+- **Dissection:** [liq-uid]
+- **Meaning:** A substance that flows freely but is of constant volume, having a consistency like that of water or oil.
 - **Hindi:** तरल
 - **Examples:**
-  1. Water and milk and blood are liquid substances.
-  2. Swimming eyes.
+  1. Water, milk, and juice are all examples of a liquid.
+  2. Be careful not to spill the hot liquid from the bowl.
 
 ## 40: List
 - **Dissection:** [list]
-- **Meaning:** A database containing an ordered array of items (names or topics)
+- **Meaning:** A number of connected items or names written or printed consecutively, typically one below the other.
 - **Hindi:** सूची
 - **Examples:**
-  1. The tower had a pronounced tilt.
-  2. The ship developed a list to starboard.
+  1. Make a shopping list so we don't forget to buy milk and eggs.
+  2. Her name was at the very top of the guest list for the party.
 
 ## 41: Listen
-- **Dissection:** [listen]
-- **Meaning:** Hear with intention
+- **Dissection:** [lis-ten]
+- **Meaning:** To give one's attention to a sound.
 - **Hindi:** सुनना
 - **Examples:**
-  1. Listen to the sound of this cello.
-  2. Listen to your father.
+  1. Please listen carefully to the instructions the teacher is giving.
+  2. I love to listen to relaxing music when I am driving my car.
 
 ## 42: Little
-- **Dissection:** [little]
-- **Meaning:** A small amount or duration
-- **Hindi:** थोड़ा
+- **Dissection:** [lit-tle]
+- **Meaning:** Small in size, amount, or degree.
+- **Hindi:** छोटा / थोड़ा
 - **Examples:**
-  1. He accepted the little they gave him.
-  2. A little dining room.
+  1. The little kitten was scared of the loud thunder.
+  2. Could you please give me just a little bit of sugar for my tea?
 
 ## 43: Live
 - **Dissection:** [live]
-- **Meaning:** Inhabit or live in; be an inhabitant of
-- **Hindi:** रहना
+- **Meaning:** To remain alive. Or, to make one's home in a particular place.
+- **Hindi:** जीना / रहना
 - **Examples:**
-  1. People lived in Africa millions of years ago.
-  2. The people inhabited the islands that are now deserted.
+  1. Many different types of fish live in the deep ocean.
+  2. I live in a small apartment located in the center of the city.
 
 ## 44: Local
-- **Dissection:** [loc-al]
-- **Meaning:** Public transport consisting of a bus or train that stops at all stations or stops
+- **Dissection:** [lo-cal]
+- **Meaning:** Belonging or relating to a particular area or neighborhood.
 - **Hindi:** स्थानीय
 - **Examples:**
-  1. The local seemed to take forever to get to New York.
-  2. Local taxes.
+  1. We buy our fresh vegetables from the local farmer's market.
+  2. The local news channel reported on the town festival.
 
 ## 45: Lock
 - **Dissection:** [lock]
-- **Meaning:** A fastener fitted to a door or drawer to keep it firmly closed
-- **Hindi:** ताला
+- **Meaning:** A mechanism for keeping a door, lid, etc., fastened, typically operated only by a key of a particular form.
+- **Hindi:** ताला / ताला लगाना
 - **Examples:**
-  1. Lock the bike to the fence.
-  2. Engaged the gears.
+  1. Remember to lock the front door when you leave for work.
+  2. He lost the key to his bicycle lock and couldn't open it.
 
 ## 46: Long
 - **Dissection:** [long]
-- **Meaning:** Desire strongly or persistently
+- **Meaning:** Measuring a great distance from end to end.
 - **Hindi:** लंबा
 - **Examples:**
-  1. A long life.
-  2. A long boring speech.
+  1. She has beautiful, long brown hair that reaches her waist.
+  2. It takes a long time to drive from New York to California.
 
 ## 47: Look
 - **Dissection:** [look]
-- **Meaning:** The feelings expressed on a person's face
+- **Meaning:** To direct one's gaze in a specified direction.
 - **Hindi:** देखना
 - **Examples:**
-  1. A sad expression.
-  2. A look of triumph.
+  1. Look at that beautiful bird sitting high up in the tree!
+  2. You should always look both ways before crossing the busy street.
 
 ## 48: Loose
 - **Dissection:** [loose]
-- **Meaning:** Grant freedom to; free from confinement
+- **Meaning:** Not firmly or tightly fixed in place; detached or able to be detached.
 - **Hindi:** ढीला
 - **Examples:**
-  1. Let loose mines.
-  2. Loose terrible plagues upon humanity.
+  1. The young boy has a loose tooth that will probably fall out soon.
+  2. These old pants are way too loose on me now.
 
 ## 49: Lose
 - **Dissection:** [lose]
-- **Meaning:** Fail to keep or to maintain; cease to have, either physically or in an abstract sense
-- **Hindi:** खोना
+- **Meaning:** To be deprived of or cease to have or retain (something). Or, to fail to win a game or contest.
+- **Hindi:** खोना / हारना
 - **Examples:**
-  1. She lost her purse when she left it unattended on her seat.
-  2. We lost the battle but we won the war.
+  1. Be careful not to lose your expensive new mobile phone.
+  2. Our football team played badly and managed to lose the important game.
 
 ## 50: Loss
 - **Dissection:** [loss]
-- **Meaning:** Something that is lost
-- **Hindi:** नुकसान
+- **Meaning:** The fact or process of losing something or someone.
+- **Hindi:** नुक़सान / हानि
 - **Examples:**
-  1. The car was a total loss.
-  2. Loss of livestock left the rancher bankrupt.
+  1. The unexpected fire caused a massive financial loss for the company.
+  2. He was incredibly sad over the tragic loss of his pet dog.
 
 ## 51: Lot
 - **Dissection:** [lot]
-- **Meaning:** (often followed by `of') a large number or amount or extent
+- **Meaning:** A large number or amount; a great deal.
 - **Hindi:** बहुत
 - **Examples:**
-  1. A batch of letters.
-  2. A deal of trouble.
+  1. We had a lot of fun playing games at the birthday party.
+  2. There are a lot of interesting books to read in the town library.
 
 ## 52: Loud
 - **Dissection:** [loud]
-- **Meaning:** Characterized by or producing sound of great volume or intensity
-- **Hindi:** ऊँचा स्वर
+- **Meaning:** Producing or capable of producing much noise; easily audible.
+- **Hindi:** ऊँची आवाज़ / ज़ोर से
 - **Examples:**
-  1. A group of loud children.
-  2. Loud thunder.
+  1. The loud thunder frightened the small children during the storm.
+  2. Please turn down the television; it is playing way too loud!
 
 ## 53: Love
 - **Dissection:** [love]
-- **Meaning:** A strong positive emotion of regard and affection
-- **Hindi:** प्यार
+- **Meaning:** An intense feeling of deep affection.
+- **Hindi:** प्यार / प्रेम
 - **Examples:**
-  1. His love for his work.
-  2. Children need a lot of love.
+  1. A mother has unconditional love for her children.
+  2. I absolutely love eating hot pizza on a Friday night.
 
 ## 54: Low
 - **Dissection:** [low]
-- **Meaning:** An air mass of lower pressure; often brings precipitation
-- **Hindi:** कम
+- **Meaning:** Of less than average height from top to bottom or to the top from the ground. Also, below average in amount, extent, or intensity.
+- **Hindi:** कम / नीचा
 - **Examples:**
-  1. A low moved in over night bringing sleet and snow.
-  2. The stock market fell to a new low.
+  1. The airplane flew very low over the tops of the tall trees.
+  2. We need to buy more gas because the fuel tank is running low.
 
 ## 55: Luck
 - **Dissection:** [luck]
-- **Meaning:** Your overall circumstances or condition in life (including everything that happens to you)
-- **Hindi:** भाग्य
+- **Meaning:** Success or failure apparently brought by chance rather than through one's own actions.
+- **Hindi:** भाग्य / क़िस्मत
 - **Examples:**
-  1. Whatever my fortune may be.
-  2. Deserved a better fate.
+  1. He wished her good luck right before she walked onto the stage.
+  2. Winning the lottery requires an incredible amount of good luck.
 
 ## 56: Lunch
 - **Dissection:** [lunch]
-- **Meaning:** A midday meal
-- **Hindi:** दिन का खाना
+- **Meaning:** A meal eaten in the middle of the day, typically one that is lighter or less formal than an evening meal.
+- **Hindi:** दोपहर का भोजन
 - **Examples:**
-  1. At what time are you lunching?
-  2. She lunched us well.
-
+  1. Let's go to the new cafe to eat sandwiches for lunch today.
+  2. I packed an apple and a sandwich in my bag for school lunch.

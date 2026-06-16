@@ -1,664 +1,832 @@
 ## 1: Baby
-- **Dissection:** [baby]
-- **Meaning:** A very young child (birth to 1 year) who has not yet begun to walk or talk
-- **Hindi:** बच्चा
+- **Dissection:** [ba-by]
+- **Meaning:** A very young child, especially one newly or recently born.
+- **Hindi:** बच्चा / शिशु
 - **Examples:**
-  1. The baby began to cry again.
-  2. She held the baby in her arms.
+  1. The completely exhausted mother gently rocked the softly crying baby closely in her arms.
+  2. The cute, tiny baby peacefully slept through the incredibly loud thunderstorm last night.
 
 ## 2: Back
 - **Dissection:** [back]
-- **Meaning:** The posterior part of a human (or animal) body from the neck to the end of the spine
-- **Hindi:** पीछे
+- **Meaning:** The rear surface of the human body from the shoulders to the hips. Or, towards the rear.
+- **Hindi:** पीठ / वापस
 - **Examples:**
-  1. His back was nicely tanned.
-  2. He wrote the date on the back of the photograph.
+  1. He sadly hurt his lower back terribly while heavily lifting the massive, wooden box.
+  2. We definitely need to carefully walk back home before the dark, cold night begins.
 
 ## 3: Bad
 - **Dissection:** [bad]
-- **Meaning:** That which is below standard or expectations as of ethics or decency
-- **Hindi:** खराब
+- **Meaning:** Of poor quality or a low standard.
+- **Hindi:** बुरा / ख़राब
 - **Examples:**
-  1. Take the bad with the good.
-  2. A bad report card.
+  1. Eating entirely too much sugary candy is definitely very bad for your teeth.
+  2. The weather was extremely bad, with heavy, freezing rain and incredibly strong winds.
 
 ## 4: Bag
 - **Dissection:** [bag]
-- **Meaning:** A flexible container with a single opening
+- **Meaning:** A flexible container with an opening at the top, used for carrying things.
 - **Hindi:** थैला
 - **Examples:**
-  1. He stuffed his laundry into a large bag.
-  2. His bag included two deer.
+  1. She carefully packed all her heavy, thick books into a large, sturdy backpack bag.
+  2. He suddenly realized he had entirely forgotten his green grocery bag at the store.
 
 ## 5: Bake
 - **Dissection:** [bake]
-- **Meaning:** Cook and make edible by putting in a hot oven
-- **Hindi:** सेंकना
+- **Meaning:** To cook food, especially bread and cakes, in an oven.
+- **Hindi:** सेंकना / पकाना
 - **Examples:**
-  1. Bake the potatoes.
-  2. Bake a cake.
+  1. My sweet grandmother loves to bake delicious, warm chocolate chip cookies on weekends.
+  2. We need to bake the birthday cake for exactly forty-five minutes in the hot oven.
 
 ## 6: Ball
 - **Dissection:** [ball]
-- **Meaning:** Round object that is hit or thrown or kicked in games
+- **Meaning:** A solid or hollow spherical object used in games and sports.
 - **Hindi:** गेंद
 - **Examples:**
-  1. The ball travelled 90 mph on his serve.
-  2. The mayor threw out the first ball.
+  1. The energetic dog happily chased the bright red rubber ball across the green park.
+  2. He kicked the soccer ball incredibly hard straight into the white goal net.
 
 ## 7: Bank
 - **Dissection:** [bank]
-- **Meaning:** Sloping land (especially the slope beside a body of water)
-- **Hindi:** किनारा
+- **Meaning:** A financial establishment that invests money deposited by customers, pays it out when required, makes loans at interest, and exchanges currency.
+- **Hindi:** बैंक
 - **Examples:**
-  1. They pulled the canoe up on the bank.
-  2. He sat on the bank of the river and watched the currents.
+  1. I need to briefly visit the local bank today to quickly deposit my weekly paycheck.
+  2. The large, secure bank strongly refused to happily grant him a huge business loan.
 
 ## 8: Bar
 - **Dissection:** [bar]
-- **Meaning:** A room or establishment where alcoholic drinks are served over a counter
-- **Hindi:** छड़
+- **Meaning:** A long rigid piece of wood, metal, or similar material. Or a counter where alcoholic drinks are served.
+- **Hindi:** छड़ / शराबखाना
 - **Examples:**
-  1. He drowned his sorrows in whiskey at the bar.
-  2. He bought a hot dog and a coke at the bar.
+  1. The prisoner furiously shook the heavy iron bar of his dark, cold jail cell.
+  2. They happily met their good friends at the local bar for some cold, refreshing drinks.
 
 ## 9: Base
 - **Dissection:** [base]
-- **Meaning:** Installation from which a military force initiates operations
+- **Meaning:** The lowest part or edge of something, especially the part on which it rests or is supported.
 - **Hindi:** आधार
 - **Examples:**
-  1. The attack wiped out our forward bases.
-  2. It was built on a base of solid rock.
+  1. The tall, heavy lamp has a wide, solid brass base to keep it perfectly stable.
+  2. We successfully established a temporary camping base right at the bottom of the mountain.
 
 ## 10: Basic
 - **Dissection:** [ba-sic]
-- **Meaning:** A popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use
+- **Meaning:** Forming an essential foundation or starting point; fundamental.
 - **Hindi:** बुनियादी
 - **Examples:**
-  1. A basic fact.
-  2. The basic ingredients.
+  1. You must absolutely learn the simple, basic rules perfectly before playing the difficult game.
+  2. The tiny hotel room only provided very basic amenities like a bed and a sink.
 
 ## 11: Basket
 - **Dissection:** [bas-ket]
-- **Meaning:** A container that is usually woven and has handles
+- **Meaning:** A container used to hold or carry things, typically made from interwoven strips of cane or wire.
 - **Hindi:** टोकरी
 - **Examples:**
-  1. A basket of fake fruit adorned the table.
-  2. The point guard drove toward the basket.
+  1. She carefully carried a large, woven wicker basket entirely full of fresh, red apples.
+  2. He quickly tossed the crumpled, dirty paper directly into the small plastic waste basket.
 
 ## 12: Bath
 - **Dissection:** [bath]
-- **Meaning:** A vessel containing liquid in which something is immersed (as to process it or to maintain it at a constant temperature or to lubricate it)
-- **Hindi:** नहाना
+- **Meaning:** The act of washing the body by immersing it in water.
+- **Hindi:** स्नान
 - **Examples:**
-  1. She soaked the etching in an acid bath.
-  2. He has a good bath every morning.
+  1. After the long, tiring day, she took a wonderfully warm, relaxing bubble bath.
+  2. The extremely dirty dog definitely desperately needed a good, thorough soapy bath.
 
 ## 13: Bathroom
 - **Dissection:** [bath-room]
-- **Meaning:** A room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet
+- **Meaning:** A room containing a toilet and sink and typically also a bathtub or shower.
 - **Hindi:** स्नानघर
 - **Examples:**
-  1. Set your bathtub before you close in the end of the bathroom.
-  2. I know now why our Japanese friends were surprised when they walked into our bathroom.
+  1. He quickly went straight to the small bathroom to wash his dirty, sticky hands.
+  2. The newly remodeled, modern bathroom has a beautiful, large glass walk-in shower.
 
 ## 14: Be
 - **Dissection:** [be]
-- **Meaning:** A light strong brittle grey toxic bivalent metallic element
+- **Meaning:** Exist, occur, or take place. (Used to indicate the identity or state of a person or thing).
 - **Hindi:** होना
 - **Examples:**
-  1. John is rich.
-  2. This is not a good answer.
+  1. I sincerely want to be a great, successful doctor when I finally grow up.
+  2. You absolutely must be very quiet while the young, tired baby is peacefully sleeping.
 
 ## 15: Beach
 - **Dissection:** [beach]
-- **Meaning:** An area of sand sloping down to the water of a sea or lake
+- **Meaning:** A pebbly or sandy shore, especially by the ocean between high- and low-water marks.
 - **Hindi:** समुद्र तट
 - **Examples:**
-  1. Mrs. Hamm will not come from Vero Beach, Fla., for the wedding.
-  2. It looks more like they are going to play at the beach instead of taking lessons on bettering themselves.
+  1. We spent the entire hot, sunny afternoon happily relaxing on the beautiful, white sandy beach.
+  2. The children excitedly built a massive, intricate sandcastle right there on the crowded beach.
 
 ## 16: Bear
 - **Dissection:** [bear]
-- **Meaning:** Massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws
+- **Meaning:** A large, heavy mammal that walks on the soles of its feet, having thick fur and a very short tail.
 - **Hindi:** भालू
 - **Examples:**
-  1. Bear a resemblance.
-  2. Bear a signature.
+  1. The massive, brown grizzly bear hungrily caught a fresh, silver salmon in the rushing river.
+  2. We were incredibly terrified when we suddenly saw a huge black bear in the deep woods.
 
 ## 17: Beat
 - **Dissection:** [beat]
-- **Meaning:** A regular route for a sentry or policeman
-- **Hindi:** मारो
+- **Meaning:** To strike (a person or an animal) repeatedly and violently. Or to defeat someone in a game.
+- **Hindi:** पीटना / हराना
 - **Examples:**
-  1. In the old days a policeman walked a beat and knew all his people by name.
-  2. He could feel the beat of her heart.
+  1. Our local football team managed to completely beat the defending champions last night.
+  2. You must carefully, rapidly beat the raw eggs perfectly before making the fluffy omelet.
 
 ## 18: Beautiful
 - **Dissection:** [beau-ti-ful]
-- **Meaning:** Delighting the senses or exciting intellectual or emotional admiration
+- **Meaning:** Pleasing the senses or mind aesthetically.
 - **Hindi:** सुंदर
 - **Examples:**
-  1. A beautiful child.
-  2. Beautiful country.
+  1. The bride wore an absolutely stunning, incredibly beautiful white lace wedding dress.
+  2. We paused to silently admire the incredibly bright, beautifully colorful, gorgeous beautiful sunset.
 
 ## 19: Because
 - **Dissection:** [be-cause]
-- **Meaning:** For the reason (that).
+- **Meaning:** For the reason that; since.
 - **Hindi:** क्योंकि
 - **Examples:**
-  1. My life is ruined because of you!
-  2. I hid myself because I was afraid.
+  1. I stayed warmly indoors completely all day entirely because it was raining heavily outside.
+  2. He was terribly sad simply because he entirely lost his favorite, expensive shiny toy.
 
 ## 20: Become
 - **Dissection:** [be-come]
-- **Meaning:** Enter or assume a certain state or condition
+- **Meaning:** To begin to be; grow to be.
 - **Hindi:** बनना
 - **Examples:**
-  1. He became annoyed when he heard the bad news.
-  2. It must be getting more serious.
+  1. The small, green, hungry caterpillar will eventually become a beautifully colorful, flying butterfly.
+  2. If you consistently study hard, you will certainly become extremely incredibly smart.
 
 ## 21: Bed
 - **Dissection:** [bed]
-- **Meaning:** A piece of furniture that provides a place to sleep
+- **Meaning:** A piece of furniture for sleep or rest, typically a framework with a mattress.
 - **Hindi:** बिस्तर
 - **Examples:**
-  1. He sat on the edge of the bed.
-  2. The room had only a bed and chair.
+  1. I was completely exhausted, so I went straight to my warm, cozy comfortable bed.
+  2. The playful cat lazily slept quietly on the incredibly soft, large queen-sized bed.
 
 ## 22: Bedroom
 - **Dissection:** [bed-room]
-- **Meaning:** A room used primarily for sleeping
-- **Hindi:** सोने का कमरा
+- **Meaning:** A room for sleeping in.
+- **Hindi:** शयनकक्ष
 - **Examples:**
-  1. Mantle and Cerv use the twin beds in the bedroom;;.
-  2. Avoid attic placement directly above a bedroom.
+  1. She beautifully painted her entire large, spacious master bedroom a lovely, bright sky blue.
+  2. His messy, cluttered bedroom was entirely covered with scattered, dirty clothes and broken toys.
 
 ## 23: Before
 - **Dissection:** [be-fore]
-- **Meaning:** Earlier in time; previously
+- **Meaning:** During the period of time preceding a particular event, date, or time.
 - **Hindi:** पहले
 - **Examples:**
-  1. I had known her before.
-  2. As I said before.
+  1. You must absolutely carefully wash your dirty hands thoroughly before you start eating dinner.
+  2. Please quickly finish your difficult homework completely before you go outside to play.
 
 ## 24: Begin
 - **Dissection:** [be-gin]
-- **Meaning:** Israeli statesman (born in Russia) who (as prime minister of Israel) negotiated a peace treaty with Anwar Sadat (then the president of Egypt) (1913-1992)
-- **Hindi:** शुरू
+- **Meaning:** Start; perform or undergo the first part of an action or activity.
+- **Hindi:** शुरू करना
 - **Examples:**
-  1. We began working at dawn.
-  2. Who will start?
+  1. The exciting, loud musical concert will officially begin exactly at eight o'clock tonight.
+  2. We must immediately begin our long, tiring journey perfectly early in the cold morning.
 
 ## 25: Behavior
 - **Dissection:** [be-ha-vi-or]
-- **Meaning:** Manner of acting or controlling yourself
+- **Meaning:** The way in which one acts or conducts oneself, especially toward others.
 - **Hindi:** व्यवहार
 - **Examples:**
-  1. The behavior of small particles can be studied in experiments.
-  2. He was on his best behavior when her family visited.
+  1. The teacher highly praised the entirely excellent, polite behavior of the young, quiet student.
+  2. His sudden, inexplicably rude behavior completely surprised absolutely all of his close friends.
 
 ## 26: Behind
 - **Dissection:** [be-hind]
-- **Meaning:** The fleshy part of the human body that you sit on
+- **Meaning:** At or to the far side of (something), typically so as to be hidden by it.
 - **Hindi:** पीछे
 - **Examples:**
-  1. He deserves a good kick in the butt.
-  2. Are you going to sit on your fanny and do nothing?
+  1. The scared, shy little boy quickly hid quietly right behind his tall mother's legs.
+  2. The bright, warm sun completely disappeared perfectly behind the dark, heavy grey clouds.
 
 ## 27: Believe
-- **Dissection:** [be-lieve]
-- **Meaning:** Accept as true; take to be true
-- **Hindi:** विश्वास
-- **Examples:**
-  1. I believed his report.
-  2. We didn't believe his stories from the War.
+
+* **Dissection:** [बि-लीव] (be-lieve)
+* **Meaning:** Accept (something) as true; feel sure of the truth of.
+* **Hindi:** मानना / विश्वास करना
+* **Examples:**
+1. If you truly **believe** in yourself, you can accomplish almost any goal.
+2. I do not **believe** his ridiculous excuse for missing the meeting today.
+
+
 
 ## 28: Below
-- **Dissection:** [be-low]
-- **Meaning:** In or to a place that is lower
-- **Hindi:** नीचे
-- **Examples:**
-  1. See below.
-  2. Vide infra.
+
+* **Dissection:** [बि-लो] (be-low)
+* **Meaning:** At a lower level or layer than.
+* **Hindi:** नीचे
+* **Examples:**
+1. The temperature dropped **below** freezing during the cold winter night.
+2. Please read the instructions written directly **below** this main paragraph.
+
+
 
 ## 29: Benefit
-- **Dissection:** [be-ne-fit]
-- **Meaning:** Financial assistance in time of need
-- **Hindi:** फ़ायदा
-- **Examples:**
-  1. For the benefit of all.
-  2. She profited from his vast experience.
+
+* **Dissection:** [बे-ने-फिट] (be-ne-fit)
+* **Meaning:** An advantage or profit gained from something.
+* **Hindi:** फायदा / लाभ
+* **Examples:**
+1. Regular daily exercise provides a massive health **benefit** for your heart.
+2. The new public park is a wonderful **benefit** for the whole neighborhood.
+
+
 
 ## 30: Best
-- **Dissection:** [best]
-- **Meaning:** The supreme effort one can make
-- **Hindi:** श्रेष्ठ
-- **Examples:**
-  1. They did their best.
-  2. He could beat the best of them.
+
+* **Dissection:** [बेस्ट] (best - एक बार में बोलें)
+* **Meaning:** Of the most excellent, effective, or desirable type or quality.
+* **Hindi:** सर्वश्रेष्ठ / सबसे अच्छा
+* **Examples:**
+1. She is unquestionably the **best** student in our chemistry class.
+2. Homemade warm chocolate cake is easily the **best** dessert ever.
+
+
 
 ## 31: Better
-- **Dissection:** [bet-ter]
-- **Meaning:** Something superior in quality or condition or effect
-- **Hindi:** बेहतर
-- **Examples:**
-  1. A change for the better.
-  2. The common man has been kept in his place by his betters.
+
+* **Dissection:** [बेट-टर] (bet-ter)
+* **Meaning:** Of a more excellent or effective type or quality.
+* **Hindi:** बेहतर
+* **Examples:**
+1. I feel much **better** today after getting a good night's sleep.
+2. You must practice harder to get **better** grades next semester.
+
+
 
 ## 32: Between
-- **Dissection:** [between]
-- **Meaning:** In the interval
-- **Hindi:** बीच में
-- **Examples:**
-  1. Dancing all the dances with little rest between.
-  2. Two houses with a tree between.
+
+* **Dissection:** [बि-ट्वीन] (be-tween)
+* **Meaning:** At, into, or across the space separating (two objects or regions).
+* **Hindi:** के बीच में
+* **Examples:**
+1. The cat fell asleep right **between** the two large pillows.
+2. We need to choose a convenient time **between** noon and three o'clock.
+
+
 
 ## 33: Beyond
-- **Dissection:** [bey-ond]
-- **Meaning:** Farther along in space or time or degree
-- **Hindi:** आगे
-- **Examples:**
-  1. Through the valley and beyond.
-  2. To the eighth grade but not beyond.
+
+* **Dissection:** [बि-याॅन्ड] (be-yond)
+* **Meaning:** At or to the further side of.
+* **Hindi:** के पार / आगे
+* **Examples:**
+1. The beautiful green hills stretch far **beyond** the wide river.
+2. The final cost of the project went **beyond** our budget.
+
+
 
 ## 34: Bicycle
-- **Dissection:** [bi-cycle]
-- **Meaning:** A wheeled vehicle that has two wheels and is moved by foot pedals
-- **Hindi:** साइकिल
-- **Examples:**
-  1. With leather cups fitted in his handlebars, he steered his bicycle.
-  2. Man on bicycle: New York is about freedom!
+
+* **Dissection:** [बाई-सि-कल] (bi-cy-cle)
+* **Meaning:** A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals.
+* **Hindi:** साइकिल
+* **Examples:**
+1. He rode his fast new **bicycle** down the steep hill.
+2. She rides her **bicycle** to work every single morning.
+
+
 
 ## 35: Big
-- **Dissection:** [big]
-- **Meaning:** Above average in size or number or quantity or magnitude or extent
-- **Hindi:** बड़ा
-- **Examples:**
-  1. A large city.
-  2. Set out for the big city.
+
+* **Dissection:** [बिग] (big - एक बार में बोलें)
+* **Meaning:** Of considerable size, extent, or intensity.
+* **Hindi:** बड़ा
+* **Examples:**
+1. They live in a very **big** house near the lake.
+2. Winning the final tournament was a **big** achievement for the team.
+
+
 
 ## 36: Bill
-- **Dissection:** [bill]
-- **Meaning:** A statute in draft before it becomes law
-- **Hindi:** बिल
-- **Examples:**
-  1. They held a public hearing on the bill.
-  2. He paid his bill and left.
+
+* **Dissection:** [बिल] (bill - एक बार में बोलें)
+* **Meaning:** An amount of money owed for goods supplied or services rendered, set out in a printed or written statement of charges.
+* **Hindi:** बिल
+* **Examples:**
+1. The waiter brought our dinner **bill** right after we finished eating.
+2. I forgot to pay the electricity **bill** before the due date.
+
+
 
 ## 37: Bird
-- **Dissection:** [bird]
-- **Meaning:** Warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings
-- **Hindi:** चिड़िया
-- **Examples:**
-  1. Ducks and sparrows are birds.
-  2. Mike went out with his bird last night.
+
+* **Dissection:** [बर्ड] (bird - एक बार में बोलें)
+* **Meaning:** A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak and (typically) by being able to fly.
+* **Hindi:** पक्षी / चिड़िया
+* **Examples:**
+1. A tiny blue **bird** was singing a sweet song in the tree.
+2. The eagle is a powerful predatory **bird** with sharp eyesight.
+
+
 
 ## 38: Birth
-- **Dissection:** [birth]
-- **Meaning:** The time when something begins (especially life)
-- **Hindi:** जन्म
-- **Examples:**
-  1. They divorced after the birth of the child.
-  2. His election signaled the birth of a new age.
+
+* **Dissection:** [बर्थ] (birth - एक बार में बोलें)
+* **Meaning:** The emergence of a baby or other young from the body of its mother; the start of life as a physically separate being.
+* **Hindi:** जन्म
+* **Examples:**
+1. The parents celebrated the healthy **birth** of their twin daughters.
+2. You need an official **birth** certificate to apply for a passport.
+
+
 
 ## 39: Birthday
-- **Dissection:** [birth-day]
-- **Meaning:** An anniversary of the day on which a person was born (or the celebration of it)
-- **Hindi:** जन्मदिन
-- **Examples:**
-  1. For example, the Friday after Thanksgiving can be substituted for Washington's birthday.
-  2. 1543 A.D. is often venerated as the birthday of the scientific revolution.
+
+* **Dissection:** [बर्थ-डे] (birth-day)
+* **Meaning:** The anniversary of the day on which a person was born, typically treated as an occasion for celebration and the giving of gifts.
+* **Hindi:** जन्मदिन
+* **Examples:**
+1. I am planning a surprise party for my sister's **birthday**.
+2. She blew out all the candles on her **birthday** cake.
+
+
 
 ## 40: Bit
-- **Dissection:** [bit]
-- **Meaning:** A small piece or quantity of something
-- **Hindi:** अंश
-- **Examples:**
-  1. A spot of tea.
-  2. A bit of paper.
+
+* **Dissection:** [बिट] (bit - एक बार में बोलें)
+* **Meaning:** A small piece, part, or quantity of something.
+* **Hindi:** थोड़ा / टुकड़ा
+* **Examples:**
+1. I am feeling a **bit** tired after that long drive.
+2. Could you please move a little **bit** to the left?
+
+
 
 ## 41: Bite
-- **Dissection:** [bite]
-- **Meaning:** A wound resulting from biting by an animal or a person
-- **Hindi:** काटना
-- **Examples:**
-  1. All they had left was a bit of bread.
-  2. After fishing for an hour he still had not had a bite.
+
+* **Dissection:** [बाइट] (bite - एक बार में बोलें)
+* **Meaning:** Use the teeth to cut into or through something.
+* **Hindi:** काटना
+* **Examples:**
+1. Be careful or that angry dog might **bite** you.
+2. Take a small **bite** of this apple to see if it is sweet.
+
+
 
 ## 42: Black
-- **Dissection:** [black]
-- **Meaning:** The quality or state of the achromatic color of least lightness (bearing the least resemblance to white)
-- **Hindi:** काला
-- **Examples:**
-  1. They fumbled around in total darkness.
-  2. In the black of night.
+
+* **Dissection:** [ब्लैक] (black - एक बार में बोलें)
+* **Meaning:** Of the very darkest color owing to the absence of or complete absorption of light; the opposite of white.
+* **Hindi:** काला
+* **Examples:**
+1. He wore a sharp **black** suit to the formal dinner.
+2. Without any stars, the night sky was completely **black**.
+
+
 
 ## 43: Blanket
-- **Dissection:** [blanket]
-- **Meaning:** Bedding that keeps a person warm in bed
-- **Hindi:** कंबल
-- **Examples:**
-  1. He pulled the covers over his head and went to sleep.
-  2. There was a blanket of snow.
+
+* **Dissection:** [ब्लैन-केट] (blan-ket)
+* **Meaning:** A large piece of woolen or similar material used as a bed covering or other covering for warmth.
+* **Hindi:** कंबल
+* **Examples:**
+1. I pulled a warm woolen **blanket** over myself to stop shivering.
+2. The soft baby **blanket** kept the infant comfortable all night.
+
+
 
 ## 44: Blind
-- **Dissection:** [blind]
-- **Meaning:** People who have severe visual impairments, considered as a group
-- **Hindi:** अंधा
-- **Examples:**
-  1. He spent hours reading to the blind.
-  2. He waited impatiently in the blind.
+
+* **Dissection:** [ब्लाइंड] (blind - एक बार में बोलें)
+* **Meaning:** Unable to see; lacking the sense of sight.
+* **Hindi:** अंधा
+* **Examples:**
+1. The **blind** man crossed the busy street using a white cane.
+2. A sudden bright flash of light left me temporarily **blind**.
+
+
 
 ## 45: Block
-- **Dissection:** [block]
-- **Meaning:** A solid piece of something (usually having flat rectangular sides)
-- **Hindi:** अवरोध पैदा करना
-- **Examples:**
-  1. The pyramids were built with large stone blocks.
-  2. He lives in the next block.
+
+* **Dissection:** [ब्लॉक] (block - एक बार में बोलें)
+* **Meaning:** A large solid piece of hard material, especially rock, stone, or wood. Or a roughly square area of land bounded by streets.
+* **Hindi:** खंड / टुकड़ा
+* **Examples:**
+1. The child built a toy tower using a wooden **block**.
+2. Our hotel is located just one **block** away from the beach.
+
+
 
 ## 46: Blood
-- **Dissection:** [blood]
-- **Meaning:** The fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets
-- **Hindi:** खून
-- **Examples:**
-  1. Blood carries oxygen and nutrients to the tissues and carries away waste products.
-  2. The ancients believed that blood was the seat of the emotions.
+
+* **Dissection:** [ब्लड] (blood - एक बार में बोलें)
+* **Meaning:** The red liquid that circulates in the arteries and veins of humans and other vertebrate animals.
+* **Hindi:** खून / रक्त
+* **Examples:**
+1. He watched a few drops of **blood** drip from the cut on his finger.
+2. The doctor drew a **blood** sample to test for allergies.
+
+
 
 ## 47: Blue
-- **Dissection:** [blue]
-- **Meaning:** Blue color or pigment; resembling the color of the clear sky in the daytime
-- **Hindi:** नीला
-- **Examples:**
-  1. He had eyes of bright blue.
-  2. She was wearing blue.
+
+* **Dissection:** [ब्लू] (blue - एक बार में बोलें)
+* **Meaning:** Of a color intermediate between green and violet, as of the sky or sea on a sunny day.
+* **Hindi:** नीला
+* **Examples:**
+1. She painted her bedroom walls a beautiful shade of **blue**.
+2. On a cloudless summer day, the ocean looks deep **blue**.
+
+
 
 ## 48: Board
-- **Dissection:** [board]
-- **Meaning:** A committee having supervisory powers
-- **Hindi:** तख़्ता
-- **Examples:**
-  1. The board has seven members.
-  2. He nailed boards across the windows.
+
+* **Dissection:** [बोर्ड] (board - एक बार में बोलें)
+* **Meaning:** A long, thin, flat piece of wood or other hard material, used for floors or other building purposes. Or to get on a vehicle.
+* **Hindi:** तख्ता / सवार होना
+* **Examples:**
+1. The teacher wrote the homework assignment on the chalk**board**.
+2. Passengers are waiting in line to **board** the morning flight.
+
+
 
 ## 49: Boat
-- **Dissection:** [boat]
-- **Meaning:** A small vessel for travel on water
-- **Hindi:** नाव
-- **Examples:**
-  1. A stone boat; a gravy boat.
-  2. To boat goods.
+
+* **Dissection:** [बोट] (boat - एक बार में बोलें)
+* **Meaning:** A small vessel propelled on water by oars, sails, or an engine.
+* **Hindi:** नाव
+* **Examples:**
+1. A small wooden fishing **boat** floated peacefully on the lake.
+2. We rented a motor **boat** for a fun afternoon of fishing.
+
+
 
 ## 50: Bone
-- **Dissection:** [bone]
-- **Meaning:** Rigid connective tissue that makes up the skeleton of vertebrates
-- **Hindi:** हड्डी
-- **Examples:**
-  1. I had to bone up on my Latin verbs before the final exam.
-  2. Bone the turkey before roasting it.
+
+* **Dissection:** [बोन] (bone - एक बार में बोलें)
+* **Meaning:** Any of the pieces of hard, whitish tissue making up the skeleton in humans and other vertebrates.
+* **Hindi:** हड्डी
+* **Examples:**
+1. The excited puppy buried a large **bone** in the backyard.
+2. The doctor confirmed that he broke a small **bone** in his wrist.
+
+
 
 ## 51: Book
-- **Dissection:** [book]
-- **Meaning:** A written work or composition that has been published (printed on pages bound together)
-- **Hindi:** किताब
-- **Examples:**
-  1. I am reading a good book on economics.
-  2. He used a large book as a doorstop.
+
+* **Dissection:** [बुक] (book - एक बार में बोलें)
+* **Meaning:** A written or printed work consisting of pages glued or sewn together along one side and bound in covers.
+* **Hindi:** किताब / पुस्तक
+* **Examples:**
+1. I stayed up late last night reading an interesting mystery **book**.
+2. Don't forget to return that library **book** before Friday.
+
+
 
 ## 52: Border
-- **Dissection:** [bor-der]
-- **Meaning:** A line that indicates a boundary
-- **Hindi:** सीमा
-- **Examples:**
-  1. The rug had a wide blue border.
-  2. The forest surrounds my property.
+
+* **Dissection:** [बोर-डर] (bor-der)
+* **Meaning:** A line separating two political or geographical areas, especially countries.
+* **Hindi:** सीमा
+* **Examples:**
+1. Guards checked our passports as we crossed the international **border**.
+2. A low brick wall marks the northern **border** of the property.
+
+
 
 ## 53: Born
-- **Dissection:** [born]
-- **Meaning:** British nuclear physicist (born in Germany) honored for his contributions to quantum mechanics (1882-1970)
-- **Hindi:** जन्म
-- **Examples:**
-  1. Bear a resemblance.
-  2. Bear a signature.
+
+* **Dissection:** [बॉर्न] (born - एक बार में बोलें)
+* **Meaning:** Existing as a result of birth.
+* **Hindi:** जन्म लिया
+* **Examples:**
+1. The healthy baby boy was **born** early yesterday morning.
+2. He was **born** and raised in a small country town.
+
+
 
 ## 54: Boss
-- **Dissection:** [boss]
-- **Meaning:** A person who exercises control over workers
-- **Hindi:** मालिक
-- **Examples:**
-  1. If you want to leave early you have to ask the foreman.
-  2. The boss hired three more men for the new job.
+
+* **Dissection:** [बॉस] (boss - एक बार में बोलें)
+* **Meaning:** A person in charge of a worker or organization.
+* **Hindi:** मालिक
+* **Examples:**
+1. My **boss** gave me permission to leave work early today.
+2. She is a fair manager, but she can be a demanding **boss**.
+
+
 
 ## 55: Both
-- **Dissection:** [both]
-- **Meaning:** (used with count nouns) two considered together; the two
-- **Hindi:** दोनों
-- **Examples:**
-  1. Both girls are pretty.
-  2. "Did you want this one or that one?" — "Give me both.".
+
+* **Dissection:** [बोथ] (both - एक बार में बोलें)
+* **Meaning:** Used to refer to two people or things, regarded and identified together.
+* **Hindi:** दोनों
+* **Examples:**
+1. **Both** of his brothers are studying engineering at college.
+2. I like **both** options, so it is hard to decide.
+
+
 
 ## 56: Bottle
-- **Dissection:** [bottle]
-- **Meaning:** A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped
-- **Hindi:** बोतल
-- **Examples:**
-  1. Bottle the mineral water.
-  2. Beer is often sold in bottles.
+
+* **Dissection:** [बो-टल] (bot-tle)
+* **Meaning:** A glass or plastic container with a narrow neck, used for storing drinks or other liquids.
+* **Hindi:** बोतल
+* **Examples:**
+1. He drank a cold **bottle** of water after his long run.
+2. Please reuse or recycle that empty glass **bottle**.
+
+
 
 ## 57: Bottom
-- **Dissection:** [bot-tom]
-- **Meaning:** The lower side of anything
-- **Hindi:** तल
-- **Examples:**
-  1. They started at the bottom of the hill.
-  2. He deserves a good kick in the butt.
+
+* **Dissection:** [बो-टम] (bot-tom)
+* **Meaning:** The lowest point or part of something.
+* **Hindi:** निचला भाग / तल
+* **Examples:**
+1. The heavy keys sank directly to the **bottom** of the swimming pool.
+2. You will find the signature line at the very **bottom** of the page.
+
+
 
 ## 58: Bowl
-- **Dissection:** [bowl]
-- **Meaning:** A round vessel that is open at the top; used chiefly for holding food or liquids
-- **Hindi:** कटोरा
-- **Examples:**
-  1. My parents like to bowl on Friday nights.
-  2. You can’t have any more soup – you’ve had three bowls already.
+
+* **Dissection:** [बोल] (bowl - एक बार में बोलें)
+* **Meaning:** A round, deep dish or basin used for food or liquid.
+* **Hindi:** कटोरा
+* **Examples:**
+1. She ate a hot **bowl** of chicken soup to cure her cold.
+2. He poured fresh milk into his cereal **bowl** this morning.
+
+
 
 ## 59: Box
-- **Dissection:** [box]
-- **Meaning:** A (usually rectangular) container; may have a lid
-- **Hindi:** डिब्बा
-- **Examples:**
-  1. He rummaged through a box of spare parts.
-  2. The royal box was empty.
+
+* **Dissection:** [बॉक्स] (box - एक बार में बोलें)
+* **Meaning:** A container with a flat base and sides, typically square or rectangular and having a lid.
+* **Hindi:** डिब्बा / बक्सा
+* **Examples:**
+1. The delivery man dropped off a heavy cardboard **box** at my door.
+2. Keep your old family photos safe inside a wooden **box**.
+
+
 
 ## 60: Boy
-- **Dissection:** [boy]
-- **Meaning:** A youthful male person
-- **Hindi:** लड़का
-- **Examples:**
-  1. The baby was a boy.
-  2. She made the boy brush his teeth every night.
+
+* **Dissection:** [बॉय] (boy - एक बार में बोलें)
+* **Meaning:** A male child or young man.
+* **Hindi:** लड़का
+* **Examples:**
+1. A young **boy** was happily playing with his dog in the park.
+2. He is a very polite and intelligent **boy**.
+
+
 
 ## 61: Brain
-- **Dissection:** [brain]
-- **Meaning:** That part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord
-- **Hindi:** दिमाग
-- **Examples:**
-  1. He's got plenty of brains but no common sense.
-  2. His mind wandered.
+
+* **Dissection:** [ब्रेन] (brain - एक बार में बोलें)
+* **Meaning:** An organ of soft nervous tissue contained in the skull of vertebrates, functioning as the coordinating center of sensation and intellectual and nervous activity.
+* **Hindi:** दिमाग / मस्तिष्क
+* **Examples:**
+1. The human **brain** processes complex information at an incredible speed.
+2. He used his **brain** to solve the difficult mathematical puzzle.
+
+
 
 ## 62: Branch
-- **Dissection:** [branch]
-- **Meaning:** A division of some larger or more complex organization
-- **Hindi:** शाखा
-- **Examples:**
-  1. A branch of Congress.
-  2. Botany is a branch of biology.
+
+* **Dissection:** [ब्रांच] (branch - एक बार में बोलें)
+* **Meaning:** A part of a tree which grows out from the trunk or from a bough. Or a subdivision of a business or organization.
+* **Hindi:** शाखा
+* **Examples:**
+1. A colorful bird sat quietly on a high tree **branch**.
+2. Our local bank is opening a new **branch** downtown next week.
+
+
 
 ## 63: Brave
-- **Dissection:** [brave]
-- **Meaning:** A North American Indian warrior
-- **Hindi:** बहादुर
-- **Examples:**
-  1. The home of the free and the brave.
-  2. She braved the elements.
+
+* **Dissection:** [ब्रेव] (brave - एक बार में बोलें)
+* **Meaning:** Ready to face and endure danger or pain; showing courage.
+* **Hindi:** बहादुर / वीर
+* **Examples:**
+1. The **brave** firefighter ran into the burning house to save the child.
+2. It was a **brave** decision to stand up against unfair treatment.
+
+
 
 ## 64: Bread
-- **Dissection:** [bread]
-- **Meaning:** Food made from dough of flour or meal and usually raised with yeast or baking powder and then baked
-- **Hindi:** रोटी
-- **Examples:**
-  1. The Bible is as obviously and truly food for the spirit as bread is food for the body.
-  2. Limit yourself to good meat and drink, with bread, salad, corn or potatoes as accessories.
+
+* **Dissection:** [ब्रेड] (bread - एक बार में बोलें)
+* **Meaning:** Food made of flour, water, and yeast or another leavening agent, mixed together and baked.
+* **Hindi:** रोटी / ब्रेड
+* **Examples:**
+1. She cut a fresh slice of homemade white **bread** for breakfast.
+2. I bought a warm loaf of crusty **bread** from the local bakery.
+
+
 
 ## 65: Break
-- **Dissection:** [break]
-- **Meaning:** Some abrupt occurrence that interrupts an ongoing activity
-- **Hindi:** तोड़ना
-- **Examples:**
-  1. The telephone is an annoying interruption.
-  2. There was a break in the action when a player was hurt.
+
+* **Dissection:** [ब्रेक] (break - एक बार में बोलें)
+* **Meaning:** Separate or cause to separate into pieces as a result of a blow, shock, or strain. Or a pause in work or during an activity or event.
+* **Hindi:** तोड़ना / विराम
+* **Examples:**
+1. Be careful not to drop that glass vase because it will **break**.
+2. Let's take a short **break** from studying to stretch our legs.
+
+
 
 ## 66: Breakfast
-- **Dissection:** [break-fast]
-- **Meaning:** The first meal of the day (usually in the morning)
-- **Hindi:** नाश्ता
-- **Examples:**
-  1. We breakfast at seven.
-  2. You should put more protein in her breakfast so she will grow.
+
+* **Dissection:** [ब्रेक-फास्ट] (break-fast)
+* **Meaning:** A meal eaten in the morning, the first of the day.
+* **Hindi:** नाश्ता
+* **Examples:**
+1. Eating a healthy **breakfast** gives you energy for the entire day.
+2. We ordered eggs and pancakes for **breakfast** at the restaurant.
+
+
 
 ## 67: Breath
-- **Dissection:** [breath]
-- **Meaning:** The process of taking in and expelling air during breathing
-- **Hindi:** साँस
-- **Examples:**
-  1. He took a deep breath and dived into the pool.
-  2. He was fighting to his last breath.
+
+* **Dissection:** [ब्रेथ] (breath - एक बार में बोलें)
+* **Meaning:** The air taken into or expelled from the lungs.
+* **Hindi:** सांस
+* **Examples:**
+1. Take a deep **breath** to help yourself relax before the interview.
+2. The freezing winter air made my warm **breath** visible.
+
+
 
 ## 68: Bridge
-- **Dissection:** [bridge]
-- **Meaning:** A structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.
-- **Hindi:** पुल
-- **Examples:**
-  1. His letters provided a bridge across the centuries.
-  2. Her glasses left marks on the bridge of her nose.
+
+* **Dissection:** [ब्रिज] (bridge - एक बार में बोलें)
+* **Meaning:** A structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle.
+* **Hindi:** पुल
+* **Examples:**
+1. Cars drove slowly across the old suspension **bridge** during the storm.
+2. An ancient stone **bridge** crosses the calm river.
+
+
 
 ## 69: Bright
-- **Dissection:** [bright]
-- **Meaning:** Emitting or reflecting light readily or in large amounts
-- **Hindi:** चमकदार
-- **Examples:**
-  1. The sun was bright and hot.
-  2. A bright sunlit room.
+
+* **Dissection:** [ब्राइट] (bright - एक बार में बोलें)
+* **Meaning:** Giving out or reflecting a lot of light; shining. Or intelligent and quick-witted.
+* **Hindi:** उज्ज्वल / चमकदार
+* **Examples:**
+1. The **bright** morning sun woke me up through the window blinds.
+2. She is a very **bright** student who always answers correctly.
+
+
 
 ## 70: Bring
-- **Dissection:** [bring]
-- **Meaning:** Take something or somebody with oneself somewhere
-- **Hindi:** लाना
-- **Examples:**
-  1. Bring me the box from the other room.
-  2. Take these letters to the boss.
+
+* **Dissection:** [ब्रिंग] (bring - एक बार में बोलें)
+* **Meaning:** Take or go with (someone or something) to a place.
+* **Hindi:** लाना
+* **Examples:**
+1. Remember to **bring** a heavy jacket because it might rain later.
+2. Could you please **bring** me that book from the shelf?
+
+
 
 ## 71: Brother
-- **Dissection:** [broth-er]
-- **Meaning:** A male with the same parents as someone else
-- **Hindi:** भाई
-- **Examples:**
-  1. My brother still lives with our parents.
-  2. None of his brothers would betray him.
+
+* **Dissection:** [ब्र-दर] (broth-er)
+* **Meaning:** A man or boy in relation to other sons and daughters of his parents.
+* **Hindi:** भाई
+* **Examples:**
+1. My older **brother** is currently studying hard at the university.
+2. She shared her favorite toys with her little **brother**.
+
+
 
 ## 72: Brown
-- **Dissection:** [brown]
-- **Meaning:** An orange of low brightness and saturation
-- **Hindi:** भूरा
-- **Examples:**
-  1. Brown the meat in the pan.
-  2. The draught browned the leaves on the trees in the yard.
+
+* **Dissection:** [ब्राउन] (brown - एक बार में बोलें)
+* **Meaning:** Of a color produced by mixing red, yellow, and blue, as of dark wood or rich soil.
+* **Hindi:** भूरा
+* **Examples:**
+1. A large **brown** bear was spotted walking through the woods.
+2. She has beautiful dark **brown** eyes and long wavy hair.
+
+
 
 ## 73: Brush
-- **Dissection:** [brush]
-- **Meaning:** A dense growth of bushes
-- **Hindi:** ब्रश
-- **Examples:**
-  1. The dentist recommended two brushes a day.
-  2. He gave his hair a quick brush.
+
+* **Dissection:** [ब्रश] (brush - एक बार में बोलें)
+* **Meaning:** An implement with a handle, consisting of bristles, hair, or wire set into a block, used for cleaning or smoothing, grooming the hair, or applying paint.
+* **Hindi:** ब्रश / कूची
+* **Examples:**
+1. Dentists recommend that you **brush** your teeth twice a day.
+2. Use a soft hair**brush** to untangle your hair gently.
+
+
 
 ## 74: Build
-- **Dissection:** [build]
-- **Meaning:** Constitution of the human body
-- **Hindi:** निर्माण
-- **Examples:**
-  1. Leonardo studied the human body.
-  2. He has a strong physique.
+
+* **Dissection:** [बिल्ड] (build - एक बार में बोलें)
+* **Meaning:** Construct (something, typically something large) by putting parts or material together over a period of time.
+* **Hindi:** निर्माण करना
+* **Examples:**
+1. The city plans to **build** a brand new hospital downtown.
+2. The kids want to **build** a sandcastle near the water.
+
+
 
 ## 75: Building
-- **Dissection:** [build-ing]
-- **Meaning:** A structure that has a roof and walls and stands more or less permanently in one place
-- **Hindi:** इमारत
-- **Examples:**
-  1. There was a three-story building on the corner.
-  2. It was an imposing edifice.
+
+* **Dissection:** [बिल्-डिंग] (build-ing)
+* **Meaning:** A structure with a roof and walls, such as a house, school, store, or factory.
+* **Hindi:** इमारत / भवन
+* **Examples:**
+1. That exceptionally tall office **building** dominates the city skyline.
+2. Emergency exits are located on every floor of the **building**.
+
+
 
 ## 76: Burn
-- **Dissection:** [burn]
-- **Meaning:** Pain that feels hot as if it were on fire
-- **Hindi:** जलाना
-- **Examples:**
-  1. They burned the house and his diaries.
-  2. The coals were glowing in the dark.
+
+* **Dissection:** [बर्न] (burn - एक बार में बोलें)
+* **Meaning:** Be on fire. Or to destroy, damage, or injure by heat or fire.
+* **Hindi:** जलना / जलाना
+* **Examples:**
+1. Dry pieces of wood will **burn** quickly in the campfire.
+2. Be careful not to **burn** your fingers on the hot stove.
+
+
 
 ## 77: Bus
-- **Dissection:** [bus]
-- **Meaning:** A vehicle carrying many passengers; used for public transport
-- **Hindi:** बस
-- **Examples:**
-  1. He always rode the bus to work.
-  2. The busbar in this computer can transmit data either way between any two components of the system.
+
+* **Dissection:** [बस] (bus - एक बार में बोलें)
+* **Meaning:** A large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.
+* **Hindi:** बस
+* **Examples:**
+1. I usually catch the morning city **bus** to travel to school.
+2. The tour **bus** took us around all the famous historic sites.
+
+
 
 ## 78: Business
-- **Dissection:** [busi-ness]
-- **Meaning:** A commercial or industrial enterprise and the people who constitute it
-- **Hindi:** व्यापार
-- **Examples:**
-  1. He bought his brother's business.
-  2. A small mom-and-pop business.
+
+* **Dissection:** [बिज-नेस] (busi-ness)
+* **Meaning:** A person's regular occupation, profession, or trade. Or the practice of making one's living by engaging in commerce.
+* **Hindi:** व्यापार / व्यवसाय
+* **Examples:**
+1. He successfully runs his own computer software **business**.
+2. The manager went out of town on an urgent **business** trip.
+
+
 
 ## 79: Busy
-- **Dissection:** [busy]
-- **Meaning:** Keep busy with
-- **Hindi:** व्यस्त
-- **Examples:**
-  1. She busies herself with her butterfly collection.
-  2. Busy with her work.
+
+* **Dissection:** [बि-ज़ी] (bu-sy)
+* **Meaning:** Having a great deal to do.
+* **Hindi:** व्यस्त
+* **Examples:**
+1. I am extremely **busy** preparing for my final exams right now.
+2. This downtown street is always noisy and **busy** during rush hour.
+
+
 
 ## 80: But
-- **Dissection:** [but]
-- **Meaning:** And nothing more
-- **Hindi:** लेकिन
-- **Examples:**
-  1. I was merely asking.
-  2. It is simply a matter of time.
+
+* **Dissection:** [बट] (but - एक बार में बोलें)
+* **Meaning:** Used to introduce a phrase or clause contrasting with what has already been mentioned.
+* **Hindi:** लेकिन / परंतु
+* **Examples:**
+1. I wanted to attend the concert, **but** I was too sick to go.
+2. The smartphone is fast and powerful, **but** it costs too much money.
+
+
 
 ## 81: Butter
-- **Dissection:** [but-ter]
-- **Meaning:** An edible emulsion of fat globules made by churning milk or cream; for cooking and table use
-- **Hindi:** मक्खन
-- **Examples:**
-  1. Butter bread.
-  2. Peanut butter.
+
+* **Dissection:** [बट-टर] (but-ter)
+* **Meaning:** A pale yellow edible fatty substance made by churning cream and used as a spread or in cooking.
+* **Hindi:** मक्खन
+* **Examples:**
+1. I like to spread a little bit of soft **butter** on my warm toast.
+2. Melt the yellow **butter** in a frying pan before adding the eggs.
+
+
 
 ## 82: Buy
-- **Dissection:** [buy]
-- **Meaning:** An advantageous purchase
-- **Hindi:** खरीदना
-- **Examples:**
-  1. She got a bargain at the auction.
-  2. The stock was a real buy at that price.
+
+* **Dissection:** [बाय] (buy - एक बार में बोलें)
+* **Meaning:** Obtain in exchange for payment.
+* **Hindi:** खरीदना
+* **Examples:**
+1. We need to stop by the local grocery store to **buy** some milk.
+2. He saved up enough money to **buy** a used car last week.
+
+
 
 ## 83: By
-- **Dissection:** [by]
-- **Meaning:** So as to pass a given point
-- **Hindi:** द्वारा
-- **Examples:**
-  1. Every hour a train goes past.
-  2. Started setting aside money to buy a car.
 
+* **Dissection:** [बाय] (by - एक बार में बोलें)
+* **Meaning:** Moving past or toward a specific location or point.
+* **Hindi:** के पास से / से होकर
+* **Examples:**
+1. You can see the city park if you walk **by** the train station.
+2. We walked **by** the quiet river on our way back home.

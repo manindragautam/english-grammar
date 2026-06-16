@@ -1,448 +1,447 @@
 ## 1: Each
 - **Dissection:** [each]
-- **Meaning:** (used of count nouns) every one considered individually
-- **Hindi:** प्रत्येक
+- **Meaning:** Every one of two or more people or things, regarded and identified separately.
+- **Hindi:** प्रत्येक / हर एक
 - **Examples:**
-  1. Each person is mortal.
-  2. Each party is welcome.
+  1. Each student must submit their own assignment on Friday.
+  2. The tickets cost ten dollars each.
 
 ## 2: Ear
 - **Dissection:** [ear]
-- **Meaning:** The sense organ for hearing and equilibrium
+- **Meaning:** The organ of hearing and balance in humans and other vertebrates.
 - **Hindi:** कान
 - **Examples:**
-  1. He had a keen ear.
-  2. A good ear for pitch.
+  1. He whispered a secret into her ear.
+  2. My ear hurts because of the loud music at the concert.
 
 ## 3: Early
-- **Dissection:** [early]
-- **Meaning:** At or near the beginning of a period of time or course of events or before the usual or expected time
+- **Dissection:** [ear-ly]
+- **Meaning:** Happening or done before the usual or expected time.
 - **Hindi:** जल्दी
 - **Examples:**
-  1. Early morning.
-  2. An early warning.
+  1. I like to wake up early in the morning to exercise.
+  2. We arrived at the airport early to avoid the long lines.
 
 ## 4: Earn
 - **Dissection:** [earn]
-- **Meaning:** Earn on some commercial or business transaction; earn as salary or wages
+- **Meaning:** To obtain money in return for labor or services.
 - **Hindi:** कमाना
 - **Examples:**
-  1. How much do you make a month in your new job?
-  2. She earns a lot in her new job.
+  1. How much money do you earn at your new job?
+  2. She worked hard to earn the respect of her coworkers.
 
 ## 5: Earth
 - **Dissection:** [earth]
-- **Meaning:** The 3rd planet from the sun; the planet we live on
-- **Hindi:** धरती
+- **Meaning:** The planet on which we live; the world.
+- **Hindi:** पृथ्वी / धरती
 - **Examples:**
-  1. The Earth moves around the sun.
-  2. He sailed around the world.
+  1. The earth revolves around the sun once a year.
+  2. Astronauts can see the beautiful blue earth from space.
 
 ## 6: East
 - **Dissection:** [east]
-- **Meaning:** The cardinal compass point that is at 90 degrees
+- **Meaning:** The direction toward the point of the horizon where the sun rises.
 - **Hindi:** पूर्व
 - **Examples:**
-  1. We travelled east for several miles.
-  2. Located east of Rome.
+  1. The sun always rises in the east.
+  2. We drove east for several hours to reach the beach.
 
 ## 7: Easy
-- **Dissection:** [easy]
-- **Meaning:** Posing no difficulty; requiring little effort
+- **Dissection:** [ea-sy]
+- **Meaning:** Achieved without great effort; presenting few difficulties.
 - **Hindi:** आसान
 - **Examples:**
-  1. An easy job.
-  2. An easy problem.
+  1. The math test was so easy that I finished it in ten minutes.
+  2. It is not easy to learn a new language as an adult.
 
 ## 8: Eat
 - **Dissection:** [eat]
-- **Meaning:** Take in solid food
-- **Hindi:** खाओ
+- **Meaning:** To put food into the mouth and chew and swallow it.
+- **Hindi:** खाना
 - **Examples:**
-  1. She was eating a banana.
-  2. What did you eat for dinner last night?
+  1. I usually eat eggs and toast for breakfast.
+  2. What time do you want to eat dinner tonight?
 
 ## 9: Economic
-- **Dissection:** [eco-nom-ic]
-- **Meaning:** Of or relating to an economy, the system of production and management of material wealth
+- **Dissection:** [ec-o-nom-ic]
+- **Meaning:** Relating to economics or the economy of a country.
 - **Hindi:** आर्थिक
 - **Examples:**
-  1. Economic growth.
-  2. Aspects of social, political, and economical life.
+  1. The country is currently facing a difficult economic crisis.
+  2. The government proposed several new economic policies to create jobs.
 
 ## 10: Economy
-- **Dissection:** [eco-nomy]
-- **Meaning:** The system of production and distribution and consumption
+- **Dissection:** [e-con-o-my]
+- **Meaning:** The wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.
 - **Hindi:** अर्थव्यवस्था
 - **Examples:**
-  1. Economy of effort.
-  2. The Scots are famous for their economy.
+  1. The national economy is growing faster this year than last year.
+  2. A strong economy provides many opportunities for small businesses.
 
 ## 11: Edge
 - **Dissection:** [edge]
-- **Meaning:** The boundary of a surface
+- **Meaning:** The outside limit of an object, area, or surface; a place or part furthest away from the center.
 - **Hindi:** किनारा
 - **Examples:**
-  1. He rounded the edges of the box.
-  2. His voice had an edge to it.
+  1. Do not put the glass near the edge of the table.
+  2. He carefully walked along the edge of the cliff.
 
 ## 12: Education
-- **Dissection:** [edu-ca-tion]
-- **Meaning:** The activities of educating or instructing; activities that impart knowledge or skill
+- **Dissection:** [ed-u-ca-tion]
+- **Meaning:** The process of receiving or giving systematic instruction, especially at a school or university.
 - **Hindi:** शिक्षा
 - **Examples:**
-  1. He received no formal education.
-  2. Our instruction was carefully programmed.
+  1. She believes that a good education is the key to success.
+  2. The government plans to increase funding for public education.
 
 ## 13: Effect
 - **Dissection:** [ef-fect]
-- **Meaning:** A phenomenon that follows and is caused by some previous phenomenon
-- **Hindi:** प्रभाव
+- **Meaning:** A change which is a result or consequence of an action or other cause.
+- **Hindi:** प्रभाव / असर
 - **Examples:**
-  1. The magnetic effect was greater when the rod was lengthwise.
-  2. His decision had depressing consequences for business.
+  1. The medicine had an immediate effect on his headache.
+  2. Scientists are studying the effect of global warming on polar bears.
 
 ## 14: Effort
 - **Dissection:** [ef-fort]
-- **Meaning:** Earnest and conscientious activity intended to do or accomplish something
-- **Hindi:** कोशिश
+- **Meaning:** A vigorous or determined attempt; hard work.
+- **Hindi:** प्रयास / कोशिश
 - **Examples:**
-  1. Made an effort to cover all the reading material.
-  2. Wished him luck in his endeavor.
+  1. It takes a lot of effort to learn how to play the violin.
+  2. He made a huge effort to finish the project before the deadline.
 
 ## 15: Egg
 - **Dissection:** [egg]
-- **Meaning:** Animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds
+- **Meaning:** An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo.
 - **Hindi:** अंडा
 - **Examples:**
-  1. She kicked him in the balls and got away.
-  2. Egg a schnitzel.
+  1. I like to eat a boiled egg for breakfast.
+  2. The bird laid a small blue egg in its nest.
 
 ## 16: Eight
 - **Dissection:** [eight]
-- **Meaning:** The cardinal number that is the sum of seven and one
+- **Meaning:** The number equivalent to the product of two and four; one more than seven.
 - **Hindi:** आठ
 - **Examples:**
-  1. Karns' ruling pertained to eight of the 10 cases.
-  2. He hopes to melt off an additional eight pounds before the Flock breaks camp three weeks hence.
+  1. A spider has eight legs.
+  2. My little brother just turned eight years old.
 
 ## 17: Either
-- **Dissection:** [either]
-- **Meaning:** After a negative statement used as an intensive meaning something like `likewise' or `also'
-- **Hindi:** दोनों में से एक
+- **Dissection:** [ei-ther]
+- **Meaning:** Used before the first of two (or occasionally more) given alternatives (the other being introduced by 'or').
+- **Hindi:** या तो / दोनों में से एक
 - **Examples:**
-  1. He isn't stupid, but he isn't exactly a genius either.
-  2. I don't know either.
+  1. You can either walk to school or take the bus.
+  2. I don't like either of these two shirts.
 
 ## 18: Election
-- **Dissection:** [elec-tion]
-- **Meaning:** A vote to select the winner of a position or political office
+- **Dissection:** [e-lec-tion]
+- **Meaning:** A formal and organized choice by vote of a person for a political office or other position.
 - **Hindi:** चुनाव
 - **Examples:**
-  1. The results of the election will be announced tonight.
-  2. Her election of medicine as a profession.
+  1. The presidential election will take place next month.
+  2. She decided to run for mayor in the upcoming local election.
 
 ## 19: Else
 - **Dissection:** [else]
-- **Meaning:** (used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.
-- **Hindi:** अन्य
+- **Meaning:** In addition; besides; different.
+- **Hindi:** अन्य / और
 - **Examples:**
-  1. The instructor is busy. Can anyone else help me?
-  2. How else (=in what other way) can it be done?
+  1. Is there anything else you need from the grocery store?
+  2. If you don't want to go, we can ask someone else.
 
 ## 20: Empty
-- **Dissection:** [empty]
-- **Meaning:** A container that has been emptied
+- **Dissection:** [emp-ty]
+- **Meaning:** Containing nothing; not filled or occupied.
 - **Hindi:** खाली
 - **Examples:**
-  1. Return all empties to the store.
-  2. Empty the box.
+  1. The water bottle is completely empty.
+  2. The streets were empty early in the morning.
 
 ## 21: End
 - **Dissection:** [end]
-- **Meaning:** Either extremity of something that has length
-- **Hindi:** अंत
+- **Meaning:** The final part of something, such as a period of time, activity, or story.
+- **Hindi:** अंत / समाप्त
 - **Examples:**
-  1. The end of the pier.
-  2. She knotted the end of the thread.
+  1. I didn't like the end of that movie at all.
+  2. We walked all the way to the end of the long road.
 
 ## 22: Enemy
-- **Dissection:** [en-emy]
-- **Meaning:** An opposing military force
-- **Hindi:** दुश्मन
+- **Dissection:** [en-e-my]
+- **Meaning:** A person who is actively opposed or hostile to someone or something.
+- **Hindi:** दुश्मन / शत्रु
 - **Examples:**
-  1. The enemy attacked at dawn.
-  2. A soldier must be prepared to kill his enemies.
+  1. The hero of the story finally defeated his arch enemy.
+  2. Make sure you don't underestimate the strength of your enemy.
 
 ## 23: Energy
-- **Dissection:** [en-ergy]
-- **Meaning:** (physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs
-- **Hindi:** ऊर्जा
+- **Dissection:** [en-er-gy]
+- **Meaning:** The strength and vitality required for sustained physical or mental activity.
+- **Hindi:** ऊर्जा / शक्ति
 - **Examples:**
-  1. Energy can take a wide variety of forms.
-  2. He plays tennis with great energy.
+  1. I don't have the energy to go for a run today.
+  2. Solar panels use the sun's energy to generate electricity.
 
 ## 24: Engine
 - **Dissection:** [en-gine]
-- **Meaning:** Motor that converts thermal energy to mechanical work
+- **Meaning:** A machine with moving parts that converts power into motion.
 - **Hindi:** इंजन
 - **Examples:**
-  1. An engine of change.
-  2. Medieval engines of war.
+  1. The mechanic is trying to fix the broken car engine.
+  2. I heard the loud roar of a jet engine passing overhead.
 
 ## 25: Enjoy
 - **Dissection:** [en-joy]
-- **Meaning:** Derive or receive pleasure from; get enjoyment from; take pleasure in
+- **Meaning:** To take delight or pleasure in an activity or occasion.
 - **Hindi:** आनंद लेना
 - **Examples:**
-  1. She relished her fame and basked in her glory.
-  2. Enjoy privileges.
+  1. I really enjoy reading a good book on a rainy day.
+  2. Did you enjoy the food at the new restaurant?
 
 ## 26: Enough
-- **Dissection:** [enough]
-- **Meaning:** An adequate quantity; a quantity that is large enough to achieve a purpose
-- **Hindi:** पर्याप्त
+- **Dissection:** [e-nough]
+- **Meaning:** As much or as many as required.
+- **Hindi:** पर्याप्त / काफ़ी
 - **Examples:**
-  1. Enough is as good as a feast.
-  2. There is more than a sufficiency of lawyers in this country.
+  1. Make sure you drink enough water during the summer.
+  2. We have enough money to buy the tickets for the concert.
 
 ## 27: Enter
-- **Dissection:** [enter]
-- **Meaning:** To come or go into
+- **Dissection:** [en-ter]
+- **Meaning:** To come or go into a place.
 - **Hindi:** प्रवेश करना
 - **Examples:**
-  1. The boat entered an area of shallow marshes.
-  2. Enter a race.
+  1. Please knock on the door before you enter the room.
+  2. The thief tried to enter the house through a broken window.
 
 ## 28: Entire
 - **Dissection:** [en-tire]
-- **Meaning:** Uncastrated adult male horse
-- **Hindi:** पूरा
+- **Meaning:** With no part left out; whole.
+- **Hindi:** पूरा / संपूर्ण
 - **Examples:**
-  1. An entire town devastated by an earthquake.
-  2. Gave full attention.
+  1. He ate the entire pizza by himself!
+  2. I spent the entire weekend studying for my math exam.
 
 ## 29: Environment
-- **Dissection:** [en-vir-on-ment]
-- **Meaning:** The totality of surrounding conditions
-- **Hindi:** पर्यावरण
+- **Dissection:** [en-vi-ron-ment]
+- **Meaning:** The surroundings or conditions in which a person, animal, or plant lives or operates.
+- **Hindi:** पर्यावरण / माहौल
 - **Examples:**
-  1. He longed for the comfortable environment of his living room.
-  2. The country--the flat agricultural surround.
+  1. We must do our best to protect the natural environment.
+  2. A positive work environment makes employees much happier.
 
 ## 30: Environmental
-- **Dissection:** [en-vir-on-ment-al]
-- **Meaning:** Of or relating to the external conditions or surroundings
-- **Hindi:** पर्यावरण
+- **Dissection:** [en-vi-ron-men-tal]
+- **Meaning:** Relating to the natural world and the impact of human activity on its condition.
+- **Hindi:** पर्यावरण संबंधी
 - **Examples:**
-  1. Environmental factors.
-  2. Environmental pollution.
+  1. Pollution is a major environmental problem in big cities.
+  2. The company was fined for breaking several environmental laws.
 
 ## 31: Equal
-- **Dissection:** [equal]
-- **Meaning:** A person who is of equal standing with another in a group
-- **Hindi:** बराबर
+- **Dissection:** [e-qual]
+- **Meaning:** Being the same in quantity, size, degree, or value.
+- **Hindi:** बराबर / समान
 - **Examples:**
-  1. One dollar equals 1,000 rubles these days!
-  2. Nothing can rival cotton for durability.
+  1. All people should have equal rights and opportunities.
+  2. Cut the cake into four equal pieces so everyone gets the same amount.
 
 ## 32: Escape
 - **Dissection:** [es-cape]
-- **Meaning:** The act of escaping physically
-- **Hindi:** पलायन
+- **Meaning:** To break free from confinement or control.
+- **Hindi:** बचना / भागना
 - **Examples:**
-  1. He made his escape from the mental hospital.
-  2. The canary escaped from its cage.
+  1. The bird managed to escape from its cage.
+  2. We drove to the mountains to escape the heat of the city.
 
 ## 33: Especially
-- **Dissection:** [es-pe-cially]
-- **Meaning:** To a distinctly greater extent or degree than is common
+- **Dissection:** [es-pe-cial-ly]
+- **Meaning:** Used to single out one person, thing, or situation over all others; particularly.
 - **Hindi:** विशेष रूप से
 - **Examples:**
-  1. He was particularly fussy about spelling.
-  2. A particularly gruesome attack.
+  1. I love all fruit, but I especially like fresh strawberries.
+  2. It is especially important to wear a seatbelt while driving.
 
 ## 34: Establish
 - **Dissection:** [es-tab-lish]
-- **Meaning:** Set up or found
+- **Meaning:** To set up on a firm or permanent basis.
 - **Hindi:** स्थापित करना
 - **Examples:**
-  1. She set up a literacy program.
-  2. Establish a new department.
+  1. They plan to establish a new school in the village.
+  2. The doctor was able to establish the cause of the disease.
 
 ## 35: Even
-- **Dissection:** [even]
-- **Meaning:** The latter part of the day (the period of decreasing daylight from late afternoon until nightfall)
-- **Hindi:** यहां तक ​​की
+- **Dissection:** [e-ven]
+- **Meaning:** Flat and smooth; also used to emphasize something surprising or extreme.
+- **Hindi:** सम / यहाँ तक कि
 - **Examples:**
-  1. He enjoyed the evening light across the lake.
-  2. Level the ground.
+  1. Make sure the ground is even before you pitch the tent.
+  2. It was so cold that even the river froze over completely.
 
 ## 36: Evening
-- **Dissection:** [even-ing]
-- **Meaning:** The latter part of the day (the period of decreasing daylight from late afternoon until nightfall)
+- **Dissection:** [eve-ning]
+- **Meaning:** The period of time at the end of the day, usually from about 6 p.m. to bedtime.
 - **Hindi:** शाम
 - **Examples:**
-  1. He enjoyed the evening light across the lake.
-  2. It was the evening of the Roman Empire.
+  1. We usually watch television in the evening after dinner.
+  2. The sunset was beautiful yesterday evening.
 
 ## 37: Event
-- **Dissection:** [event]
-- **Meaning:** Something that happens at a given place and time
-- **Hindi:** आयोजन
+- **Dissection:** [e-vent]
+- **Meaning:** A thing that happens, especially one of importance.
+- **Hindi:** घटना / कार्यक्रम
 - **Examples:**
-  1. In that event, the first possibility is excluded.
-  2. It may rain in which case the picnic will be canceled.
+  1. The Olympics is a major international sporting event.
+  2. Getting married is a very important event in a person's life.
 
 ## 38: Ever
-- **Dissection:** [ever]
-- **Meaning:** At any time
+- **Dissection:** [ev-er]
+- **Meaning:** At any time.
 - **Hindi:** कभी
 - **Examples:**
-  1. Did you ever smoke?
-  2. The best con man of all time.
+  1. Have you ever traveled outside of the country?
+  2. Nothing like this has ever happened to me before.
 
 ## 39: Every
-- **Dissection:** [every]
-- **Meaning:** (used of count nouns) each and all of the members of a group considered singly and without exception
-- **Hindi:** प्रत्येक
+- **Dissection:** [ev-er-y]
+- **Meaning:** Used to refer to all the individual members of a set without exception.
+- **Hindi:** प्रत्येक / हर
 - **Examples:**
-  1. Every person is mortal.
-  2. Every party is welcome.
+  1. I brush my teeth every morning and night.
+  2. Every student in the class passed the final exam.
 
 ## 40: Everybody
-- **Dissection:** [every-body]
-- **Meaning:** All people.
-- **Hindi:** हर कोई
+- **Dissection:** [ev-er-y-bod-y]
+- **Meaning:** Every person.
+- **Hindi:** हर कोई / सब लोग
 - **Examples:**
-  1. Everybody has a different idea on the ethics and morals of driving away neighbors, when and if.
-  2. Everybody had heard of Van Gogh, the French impressionist.
+  1. Everybody was cheering when the team won the championship.
+  2. Please make sure everybody gets a slice of cake.
 
 ## 41: Everyone
-- **Dissection:** [every-one]
+- **Dissection:** [ev-er-y-one]
 - **Meaning:** Every person.
-- **Hindi:** सब लोग
+- **Hindi:** हर एक / सभी लोग
 - **Examples:**
-  1. It is one of the rare public ventures here on which nearly everyone is agreed.
-  2. Does it put the label of un-American or subversive on everyone with whom it disagrees politically??
+  1. Everyone in the office attended the manager's farewell party.
+  2. The teacher asked a question, but everyone remained silent.
 
 ## 42: Everything
-- **Dissection:** [everything]
-- **Meaning:** All the things under discussion.
+- **Dissection:** [ev-er-y-thing]
+- **Meaning:** All things; all the things of a group or class.
 - **Hindi:** सब कुछ
 - **Examples:**
-  1. I checked the list again and everything is done.
-  2. A:What do you want to do at the amusement park? B:Everything!
+  1. She lost absolutely everything in the terrible house fire.
+  2. I promise to tell you everything that happened at the meeting.
 
 ## 43: Evidence
-- **Dissection:** [evid-ence]
-- **Meaning:** Your basis for belief or disbelief; knowledge on which to base belief
-- **Hindi:** प्रमाण
+- **Dissection:** [ev-i-dence]
+- **Meaning:** The available body of facts or information indicating whether a belief or proposition is true or valid.
+- **Hindi:** सबूत / प्रमाण
 - **Examples:**
-  1. The evidence that smoking causes lung cancer is very compelling.
-  2. His trembling was evidence of his fear.
+  1. The police found enough evidence to arrest the suspect.
+  2. Is there any scientific evidence to support your claim?
 
 ## 44: Exactly
-- **Dissection:** [ex-actly]
-- **Meaning:** Indicating exactness or preciseness
-- **Hindi:** बिल्कुल
+- **Dissection:** [ex-act-ly]
+- **Meaning:** In an exact manner; accurately or precisely.
+- **Hindi:** बिल्कुल / सटीक रूप से
 - **Examples:**
-  1. He was doing precisely (or exactly) what she had told him to do.
-  2. It was just as he said--the jewel was gone.
+  1. Follow the recipe exactly if you want the cake to taste good.
+  2. I have exactly twenty dollars left in my bank account.
 
 ## 45: Example
-- **Dissection:** [ex-ample]
-- **Meaning:** An item of information that is typical of a class or group
+- **Dissection:** [ex-am-ple]
+- **Meaning:** A thing characteristic of its kind or illustrating a general rule.
 - **Hindi:** उदाहरण
 - **Examples:**
-  1. This patient provides a typical example of the syndrome.
-  2. There is an example on page 10.
+  1. Can you give me an example of how to use this new word?
+  2. He is a great example of a hardworking and dedicated student.
 
 ## 46: Excellent
 - **Dissection:** [ex-cel-lent]
-- **Meaning:** Very good;of the highest quality
-- **Hindi:** उत्कृष्ट
+- **Meaning:** Extremely good; outstanding.
+- **Hindi:** उत्कृष्ट / बहुत बढ़िया
 - **Examples:**
-  1. Made an excellent speech.
-  2. The school has excellent teachers.
+  1. She did an excellent job on her science presentation.
+  2. The food at that new Italian restaurant is absolutely excellent.
 
 ## 47: Except
 - **Dissection:** [ex-cept]
-- **Meaning:** Take exception to
-- **Hindi:** के अलावा
+- **Meaning:** Not including; other than.
+- **Hindi:** के अलावा / छोड़कर
 - **Examples:**
-  1. He demurred at my suggestion to work on Saturday.
-  2. The bad results were excluded from the report.
+  1. The store is open every day except Sunday.
+  2. Everyone was invited to the party except for Tom.
 
 ## 48: Exercise
 - **Dissection:** [ex-er-cise]
-- **Meaning:** The activity of exerting your muscles in various ways to keep fit
-- **Hindi:** व्यायाम
+- **Meaning:** Activity requiring physical effort, carried out to sustain or improve health and fitness.
+- **Hindi:** व्यायाम / कसरत
 - **Examples:**
-  1. The doctor recommended regular exercise.
-  2. He did some exercising.
+  1. Swimming is a fantastic form of full-body exercise.
+  2. The doctor told him he needs to exercise more often to stay healthy.
 
 ## 49: Exist
 - **Dissection:** [ex-ist]
-- **Meaning:** Have an existence, be extant
-- **Hindi:** अस्तित्व
+- **Meaning:** To have objective reality or being.
+- **Hindi:** अस्तित्व में होना
 - **Examples:**
-  1. Is there a God?
-  2. He could barely exist on such a low wage.
+  1. Do you really believe that ghosts exist?
+  2. Dinosaurs used to exist millions of years ago.
 
 ## 50: Expect
 - **Dissection:** [ex-pect]
-- **Meaning:** Regard something as probable or likely
-- **Hindi:** अपेक्षा करना
+- **Meaning:** To regard something as likely to happen.
+- **Hindi:** उम्मीद करना
 - **Examples:**
-  1. The meteorologists are expecting rain for tomorrow.
-  2. We require our secretary to be on time.
+  1. I expect the package to arrive in the mail tomorrow.
+  2. We didn't expect so many people to show up at the event.
 
 ## 51: Expensive
-- **Dissection:** [ex-pens-ive]
-- **Meaning:** High in price or charging high prices
+- **Dissection:** [ex-pen-sive]
+- **Meaning:** Costing a lot of money.
 - **Hindi:** महँगा
 - **Examples:**
-  1. Expensive clothes.
-  2. An expensive shop.
+  1. He bought his wife an expensive diamond ring for their anniversary.
+  2. Living in the city center is much more expensive than the suburbs.
 
 ## 52: Experience
-- **Dissection:** [ex-per-i-ence]
-- **Meaning:** The accumulation of knowledge or skill that results from direct participation in events or activities
+- **Dissection:** [ex-pe-ri-ence]
+- **Meaning:** Practical contact with and observation of facts or events.
 - **Hindi:** अनुभव
 - **Examples:**
-  1. A man of experience.
-  2. Experience is the best teacher.
+  1. She has a lot of experience working in customer service.
+  2. Traveling to Japan was a wonderful and unforgettable experience.
 
 ## 53: Expert
 - **Dissection:** [ex-pert]
-- **Meaning:** A person with special knowledge or ability who performs skillfully
+- **Meaning:** A person who has a comprehensive and authoritative knowledge of or skill in a particular area.
 - **Hindi:** विशेषज्ञ
 - **Examples:**
-  1. Adept in handicrafts.
-  2. An adept juggler.
+  1. He is an expert in computer programming and software development.
+  2. If you want a good garden, you should ask an expert for advice.
 
 ## 54: Explain
 - **Dissection:** [ex-plain]
-- **Meaning:** Make plain and comprehensible
-- **Hindi:** व्याख्या करना
+- **Meaning:** To make an idea, situation, or problem clear to someone by describing it in more detail.
+- **Hindi:** समझाना
 - **Examples:**
-  1. He explained the laws of physics to his students.
-  2. The committee explained their plan for fund-raising to the Dean.
+  1. Can you please explain the rules of the game to me again?
+  2. The teacher tried to explain the difficult math equation clearly.
 
 ## 55: Extra
 - **Dissection:** [ex-tra]
-- **Meaning:** A minor actor in crowd scenes
+- **Meaning:** Added to an existing or usual amount or number.
 - **Hindi:** अतिरिक्त
 - **Examples:**
-  1. He always carried extras in case of an emergency.
-  2. Trying to lose excess weight.
+  1. We brought some extra blankets in case it gets cold tonight.
+  2. I had to pay an extra fee for checking in a second bag at the airport.
 
 ## 56: Eye
 - **Dissection:** [eye]
-- **Meaning:** The organ of sight
+- **Meaning:** The globular organ of sight in the head of humans and vertebrate animals.
 - **Hindi:** आँख
 - **Examples:**
-  1. She has an eye for fresh talent.
-  2. He has an artist's eye.
-
+  1. She got some dust in her eye and it started to water.
+  2. He opened one eye slowly to look at the bright morning sun.
