@@ -1,616 +1,616 @@
 ## 1: Gadget
-- **Dissection:** [gad-get]
-- **Meaning:** A device or control that is very useful for a particular job
-- **Hindi:** गैजेट
+- **Dissection:** [गै-जट] (gad-get)
+- **Meaning:** A small machine or tool that does a useful job.
+- **Hindi:** गैजेट / मशीन
 - **Examples:**
-  1. The gadget faker operates or sells his phony machines for $5 to $10,000 -- anything the traffic will bear.
-  2. Perhaps one bored holes in the stone with some kind of an electric gadget.
+  1. He bought a new electronic **gadget** for his kitchen.
+  2. This small **gadget** helps to open tight bottles easily.
 
 ## 2: Galaxy
-- **Dissection:** [galaxy]
-- **Meaning:** A splendid assemblage (especially of famous people)
+- **Dissection:** [गै-लक्सी] (gal-axy)
+- **Meaning:** A very large group of stars and planets in space.
 - **Hindi:** आकाशगंगा
 - **Examples:**
-  1. And what a galaxy of those adorns that fair land!!
-  2. Terms were not disclosed and the Galaxy did not identify the buyer.
+  1. Our sun is just one small star in the **galaxy**.
+  2. The telescope showed a beautiful spiral **galaxy** far away.
 
 ## 3: Gallery
-- **Dissection:** [gal-lery]
-- **Meaning:** Spectators at a golf or tennis match
-- **Hindi:** गैलरी
+- **Dissection:** [गै-ल-री] (gal-lery)
+- **Meaning:** A room or building for showing art to people.
+- **Hindi:** गैलरी / कला दीर्घा
 - **Examples:**
-  1. Shooting gallery.
-  2. They dug a drift parallel with the vein.
+  1. We saw beautiful paintings at the new art **gallery**.
+  2. The museum has a special **gallery** for old photographs.
 
 ## 4: Gamble
-- **Dissection:** [gamble]
-- **Meaning:** Money that is risked for possible monetary gain
-- **Hindi:** जुआ
+- **Dissection:** [गैम-बल] (gam-ble)
+- **Meaning:** To risk money or something valuable on a game or uncertain event.
+- **Hindi:** जुआ खेलना / जोखिम लेना
 - **Examples:**
-  1. When you buy these stocks you are gambling.
-  2. I had a gamble on the horses last weekend.
+  1. It is a bad idea to **gamble** all your saved money.
+  2. He took a big **gamble** by starting a new business.
 
 ## 5: Gang
-- **Dissection:** [gang]
-- **Meaning:** An association of criminals
+- **Dissection:** [गैंग] (gang - एक बार में बोलें)
+- **Meaning:** A group of young people who spend time together, often causing trouble.
 - **Hindi:** गिरोह
 - **Examples:**
-  1. Police tried to break up the gang.
-  2. A pack of thieves.
+  1. The police caught the dangerous **gang** of thieves last night.
+  2. A **gang** of angry boys was shouting in the street.
 
 ## 6: Gap
-- **Dissection:** [gap]
-- **Meaning:** A conspicuous disparity or difference as between two figures
-- **Hindi:** अंतर
+- **Dissection:** [गैप] (gap - एक बार में बोलें)
+- **Meaning:** An empty space or hole in the middle of something.
+- **Hindi:** अंतर / फासला
 - **Examples:**
-  1. Gap between income and outgo.
-  2. The spread between lending and borrowing costs.
+  1. The small dog ran through a **gap** in the wooden fence.
+  2. There is a big age **gap** between the two brothers.
 
 ## 7: Garbage
-- **Dissection:** [garbage]
-- **Meaning:** Food that is discarded (as from a kitchen)
+- **Dissection:** [गार-बिज] (gar-bage)
+- **Meaning:** Waste food, paper, or other things that you throw away.
 - **Hindi:** कचरा
 - **Examples:**
-  1. She tossed the moldy bread into the garbage.
-  2. Garbage is collected on Tuesdays; rubbish on Fridays.
+  1. Please put the empty plastic bottles in the **garbage** can.
+  2. The heavy truck collects the **garbage** every Tuesday morning.
 
 ## 8: Garlic
-- **Dissection:** [gar-lic]
-- **Meaning:** Bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves
+- **Dissection:** [गार-लिक] (gar-lic)
+- **Meaning:** A small white plant like an onion with a very strong smell and taste, used in cooking.
 - **Hindi:** लहसुन
 - **Examples:**
-  1. He added three minced cloves of garlic to the pasta sauce for extra flavor.
-  2. The recipe calls for a simple combination of olive oil, garlic, and fresh herbs.
+  1. She used fresh **garlic** to make the soup taste better.
+  2. The smell of cooking **garlic** filled the warm kitchen.
 
 ## 9: Garment
-- **Dissection:** [gar-ment]
-- **Meaning:** An article of clothing
-- **Hindi:** गारमेंट
+- **Dissection:** [गार-मेंट] (gar-ment)
+- **Meaning:** A piece of clothing.
+- **Hindi:** कपड़ा / पोशाक
 - **Examples:**
-  1. Garments of the finest silk.
-  2. Parents must feed and dress their child.
+  1. She packed every single **garment** into her large suitcase.
+  2. This beautiful silk **garment** was made in India.
 
 ## 10: Gasoline
-- **Dissection:** [gas-ol-ine]
-- **Meaning:** A volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines
-- **Hindi:** पेट्रोल
+- **Dissection:** [गैस-अ-लीन] (gas-o-line)
+- **Meaning:** A liquid fuel used to make cars and other machines work.
+- **Hindi:** पेट्रोल / गैसोलीन
 - **Examples:**
-  1. Luckily, she was not completely aflame and would go down before the gasoline could erupt.
-  2. Gasoline and automobile tires were rationed commodities.
+  1. The car stopped because it ran out of **gasoline**.
+  2. The price of **gasoline** is going up again this month.
 
 ## 11: Gasp
-- **Dissection:** [gasp]
-- **Meaning:** A short labored intake of breath with the mouth open
-- **Hindi:** हांफी
+- **Dissection:** [गैस्प] (gasp - एक बार में बोलें)
+- **Meaning:** To take a short, quick breath through the mouth because of surprise, pain, or shock.
+- **Hindi:** हांफना
 - **Examples:**
-  1. She gave a gasp and fainted.
-  2. The runners reached the finish line, panting heavily.
+  1. She gave a loud **gasp** when she saw the big spider.
+  2. The tired runner began to **gasp** for air after the race.
 
 ## 12: Gather
-- **Dissection:** [gath-er]
-- **Meaning:** Sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching
+- **Dissection:** [गै-दर] (gath-er)
+- **Meaning:** To bring people or things together into one place.
 - **Hindi:** इकट्ठा करना
 - **Examples:**
-  1. Gather some stones.
-  2. Pull your thoughts together.
+  1. We must **gather** all the dry wood before the rain starts.
+  2. Many people will **gather** at the park for the music festival.
 
 ## 13: Gauge
-- **Dissection:** [gauge]
-- **Meaning:** A measuring instrument for measuring and indicating a quantity such as the thickness of wire or the amount of rain etc.
-- **Hindi:** गेज
+- **Dissection:** [गेज] (gauge - एक बार में बोलें)
+- **Meaning:** A tool used to measure something, like the amount of rain or air pressure.
+- **Hindi:** गेज / नापने का यंत्र
 - **Examples:**
-  1. I estimate this chicken to weigh three pounds.
-  2. Gauge bricks.
+  1. The fuel **gauge** shows that the car needs more gas.
+  2. He used a special **gauge** to check the tire pressure.
 
 ## 14: Gaze
-- **Dissection:** [gaze]
-- **Meaning:** A long fixed look
-- **Hindi:** निगाहें
+- **Dissection:** [गेज़] (gaze - एक बार में बोलें)
+- **Meaning:** To look steadily at someone or something for a long time.
+- **Hindi:** टकटकी लगाना
 - **Examples:**
-  1. He fixed his paternal gaze on me.
-  2. The students stared at the teacher with amazement.
+  1. He liked to sit and **gaze** at the beautiful stars.
+  2. Her quiet **gaze** made the nervous boy feel very shy.
 
 ## 15: Gear
-- **Dissection:** [gear]
-- **Meaning:** A toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion
-- **Hindi:** गियर
+- **Dissection:** [गिअर] (gear - एक बार में बोलें)
+- **Meaning:** Equipment or clothes used for a particular activity, or a part of a machine.
+- **Hindi:** गियर / उपकरण
 - **Examples:**
-  1. The fool got his tie caught in the geartrain.
-  2. She pitched her speech to the teenagers in the audience.
+  1. He packed his heavy camping **gear** into the big car.
+  2. You must change the car's **gear** to drive up the hill.
 
 ## 16: Gender
-- **Dissection:** [gender]
-- **Meaning:** A grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives; in some languages it is quite arbitrary but in Indo-European languages it is usually based on sex or animateness
+- **Dissection:** [जेन-डर] (gen-der)
+- **Meaning:** The state of being male or female.
 - **Hindi:** लिंग
 - **Examples:**
-  1. She didn't want to know the sex of the foetus.
-  2. The effect of the medication is dependent upon age, gender, and other factors.
+  1. The doctor asked for the age and **gender** of the patient.
+  2. Everyone should be treated fairly, no matter their **gender**.
 
 ## 17: Gene
-- **Dissection:** [gene]
-- **Meaning:** (genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity
+- **Dissection:** [जीन] (gene - एक बार में बोलें)
+- **Meaning:** A part of a cell in a living thing that controls what it looks like or how it grows.
 - **Hindi:** जीन
 - **Examples:**
-  1. Genes were formerly called factors.
-  2. A change in a gene is reflected in the protein or RNA molecule that it codes for.
+  1. The blue eye color comes from a special **gene** in her family.
+  2. A single **gene** can change the color of a flower.
 
 ## 18: Generate
-- **Dissection:** [gen-er-ate]
-- **Meaning:** Bring into existence
-- **Hindi:** उत्पन्न
+- **Dissection:** [जेन-अ-रेट] (gen-er-ate)
+- **Meaning:** To produce or create something, like power or ideas.
+- **Hindi:** उत्पन्न करना
 - **Examples:**
-  1. The new manager generated a lot of problems.
-  2. The computer bug generated chaos in the office.
+  1. The large wind turbines **generate** clean electricity for the town.
+  2. A good teacher can **generate** excitement about learning.
 
 ## 19: Generous
-- **Dissection:** [gen-er-ous]
-- **Meaning:** Willing to give and share unstintingly
-- **Hindi:** उदार
+- **Dissection:** [जेन-अ-रस] (gen-er-ous)
+- **Meaning:** Happy to give money, time, or help to other people.
+- **Hindi:** उदार / दानी
 - **Examples:**
-  1. A generous donation.
-  2. Unusually generous in his judgment of people.
+  1. It was very **generous** of him to pay for our dinner.
+  2. The **generous** woman gave many toys to the poor children.
 
 ## 20: Genius
-- **Dissection:** [geni-us]
-- **Meaning:** Someone who has exceptional intellectual ability and originality
-- **Hindi:** तेज़ दिमाग वाला
+- **Dissection:** [जी-नि-अस] (ge-ni-us)
+- **Meaning:** A person who is unusually smart or has a very special skill.
+- **Hindi:** प्रतिभाशाली व्यक्ति
 - **Examples:**
-  1. Mozart was a child genius.
-  2. He's smart but he's no Einstein.
+  1. Albert Einstein was a great **genius** in the field of science.
+  2. The young boy is a musical **genius** who plays the piano perfectly.
 
 ## 21: Genuine
-- **Dissection:** [genu-ine]
-- **Meaning:** Not fake or counterfeit
-- **Hindi:** असली
+- **Dissection:** [जेन-यु-इन] (gen-u-ine)
+- **Meaning:** Real and exactly what it appears to be; not fake.
+- **Hindi:** असली / सच्चा
 - **Examples:**
-  1. A genuine Picasso.
-  2. Genuine leather.
+  1. She bought a beautiful bag made of **genuine** leather.
+  2. He showed a **genuine** interest in helping the poor animals.
 
 ## 22: Geography
-- **Dissection:** [geo-graphy]
-- **Meaning:** Study of the earth's surface; includes people's responses to topography and climate and soil and vegetation
+- **Dissection:** [जि-ऑ-ग्र-फी] (ge-og-ra-phy)
+- **Meaning:** The study of the countries, oceans, mountains, and weather of the Earth.
 - **Hindi:** भूगोल
 - **Examples:**
-  1. Its boundaries had nothing to do with geography or ethnic groupings;;.
-  2. However, the Multiplication Table doesn' t signify: let' s try Geography.
+  1. We learned about the tall mountains in our **geography** class.
+  2. The **geography** of the desert makes it very hard to find water.
 
 ## 23: Geology
-- **Dissection:** [geo-logy]
-- **Meaning:** A science that deals with the history of the earth as recorded in rocks
-- **Hindi:** भूगर्भ शास्त्र
+- **Dissection:** [जि-ऑल-अ-जी] (ge-ol-o-gy)
+- **Meaning:** The scientific study of the rocks, soil, and history of the Earth.
+- **Hindi:** भूविज्ञान
 - **Examples:**
-  1. The key to the world of geology is change;;.
-  2. Since 1948 the working headquarters has been the Department of Geology and Mineralogy.
+  1. He studies **geology** because he loves collecting old rocks.
+  2. The **geology** of this area shows that a volcano was here long ago.
 
 ## 24: Geometry
-- **Dissection:** [geo-metry]
-- **Meaning:** The pure mathematics of points and lines and curves and surfaces
+- **Dissection:** [जि-ऑम-अ-ट्री] (ge-om-e-try)
+- **Meaning:** The part of math that studies lines, angles, shapes, and spaces.
 - **Hindi:** ज्यामिति
 - **Examples:**
-  1. This characterizes Euclid's formulation of geometry, but not Ptolemy's astronomy.
-  2. The experimental arrangement as described below is based on the geometry of free burning arcs.
+  1. We used a ruler and pencil to draw shapes in **geometry**.
+  2. Understanding **geometry** helps builders design strong houses.
 
 ## 25: Germ
-- **Dissection:** [germ]
-- **Meaning:** Anything that provides inspiration for later work
-- **Hindi:** रोगाणु
+- **Dissection:** [जर्म] (germ - एक बार में बोलें)
+- **Meaning:** A very small living thing that can cause disease or sickness.
+- **Hindi:** कीटाणु / रोगाणु
 - **Examples:**
-  1. It is through the metamorphosed dancer that the germ of form is discovered.
-  2. Thou well- kept, latent germ!
+  1. You must wash your hands with soap to kill every **germ**.
+  2. A tiny **germ** on the dirty table made him very sick.
 
 ## 26: Gesture
-- **Dissection:** [ges-ture]
-- **Meaning:** Motion of hands or body to emphasize or help to express a thought or feeling
-- **Hindi:** इशारा
+- **Dissection:** [जेस-चर] (ges-ture)
+- **Meaning:** A movement of your body, hands, or head to express an idea or feeling.
+- **Hindi:** इशारा / भाव
 - **Examples:**
-  1. A political gesture.
-  2. A gesture of defiance.
+  1. She made a quick hand **gesture** to tell me to stop.
+  2. Giving them free food was a very kind **gesture**.
 
 ## 27: Ghost
-- **Dissection:** [ghost]
-- **Meaning:** A mental representation of some haunting experience
+- **Dissection:** [गोस्ट] (ghost - एक बार में बोलें)
+- **Meaning:** The spirit of a dead person that a living person believes they can see.
 - **Hindi:** भूत
 - **Examples:**
-  1. He looked like he had seen a ghost.
-  2. It aroused specters from his past.
+  1. The little boy was afraid a scary **ghost** lived in his closet.
+  2. They told spooky **ghost** stories around the dark campfire.
 
 ## 28: Giant
-- **Dissection:** [gi-ant]
-- **Meaning:** Any creature of exceptional size
-- **Hindi:** बहुत बड़ा
+- **Dissection:** [जाइ-अंट] (gi-ant)
+- **Meaning:** Very large; much bigger than normal.
+- **Hindi:** बहुत बड़ा / विशाल
 - **Examples:**
-  1. Walton built a retail giant.
-  2. A jumbo jet.
+  1. We saw a **giant** elephant at the city zoo today.
+  2. He ate a **giant** bowl of ice cream after dinner.
 
 ## 29: Gigantic
-- **Dissection:** [gi-gant-ic]
-- **Meaning:** So exceedingly large or extensive as to suggest a giant or mammoth
+- **Dissection:** [जाइ-गैन-टिक] (gi-gan-tic)
+- **Meaning:** Extremely large.
 - **Hindi:** विशाल
 - **Examples:**
-  1. A gigantic redwood.
-  2. Gigantic disappointment.
+  1. The rich man lives in a **gigantic** house near the sea.
+  2. A **gigantic** wave crashed against the small wooden boat.
 
 ## 30: Glance
-- **Dissection:** [glance]
-- **Meaning:** A quick look
-- **Hindi:** झलक
+- **Dissection:** [ग्लैंस] (glance - एक बार में बोलें)
+- **Meaning:** To look quickly at someone or something.
+- **Hindi:** नज़र डालना / झलक
 - **Examples:**
-  1. She only glanced at the paper.
-  2. I only peeked--I didn't see anything interesting.
+  1. He took a quick **glance** at his watch to check the time.
+  2. A quick **glance** around the room showed that she was alone.
 
 ## 31: Glare
-- **Dissection:** [glare]
-- **Meaning:** A light within the field of vision that is brighter than the brightness to which the eyes are adapted
-- **Hindi:** चमक
+- **Dissection:** [ग्लैअर] (glare - एक बार में बोलें)
+- **Meaning:** A long, angry look, or a very bright, uncomfortable light.
+- **Hindi:** घूरना / चमक
 - **Examples:**
-  1. A glare of sunlight.
-  2. He enjoyed being in the limelight.
+  1. The teacher gave the noisy boy an angry **glare**.
+  2. The bright **glare** of the sun made it hard to drive.
 
 ## 32: Glide
-- **Dissection:** [glide]
-- **Meaning:** A vowellike sound that serves as a consonant
-- **Hindi:** फिसलन
+- **Dissection:** [ग्लाइड] (glide - एक बार में बोलें)
+- **Meaning:** To move smoothly and quietly.
+- **Hindi:** फिसलना
 - **Examples:**
-  1. His slide didn't stop until the bottom of the hill.
-  2. The children lined up for a coast down the snowy slope.
+  1. The beautiful white swan will smoothly **glide** across the calm lake.
+  2. The small paper airplane can **glide** through the air easily.
 
 ## 33: Glimpse
-- **Dissection:** [glimpse]
-- **Meaning:** A quick look
+- **Dissection:** [ग्लिम्प्स] (glimpse - एक बार में बोलें)
+- **Meaning:** A quick, short look at something or someone.
 - **Hindi:** झलक
 - **Examples:**
-  1. From the window he could catch a glimpse of the lake.
-  2. He caught only a glimpse of the professor's meaning.
+  1. I only caught a quick **glimpse** of the fast bird.
+  2. We got a brief **glimpse** of the famous actor in the street.
 
 ## 34: Glitter
-- **Dissection:** [glit-ter]
-- **Meaning:** The quality of shining with a bright reflected light
-- **Hindi:** चमक
-- **Examples:**
-  1. His eyes were glistening.
-  2. A glittering sword.
-
-## 35: Globe
-- **Dissection:** [globe]
-- **Meaning:** The 3rd planet from the sun; the planet we live on
-- **Hindi:** ग्लोब
-- **Examples:**
-  1. The Earth moves around the sun.
-  2. He sailed around the world.
-
-## 36: Gloomy
-- **Dissection:** [gloomy]
-- **Meaning:** Depressingly dark
-- **Hindi:** उदास
-- **Examples:**
-  1. The gloomy forest.
-  2. The glooming interior of an old inn.
-
-## 37: Glorious
-- **Dissection:** [glor-i-ous]
-- **Meaning:** Having or deserving or conferring glory
-- **Hindi:** यशस्वी
-- **Examples:**
-  1. A long and glorious career.
-  2. Our glorious literature.
-
-## 38: Glory
-- **Dissection:** [glory]
-- **Meaning:** A state of high honor
-- **Hindi:** वैभव
-- **Examples:**
-  1. He valued glory above life itself.
-  2. The glory of the sunrise.
-
-## 39: Glove
-- **Dissection:** [glove]
-- **Meaning:** The handwear used by fielders in playing baseball
-- **Hindi:** दस्ताना
-- **Examples:**
-  1. I wore gloves to keep my hands warm.
-  2. Frederico had a great glove, but he couldn't hit a curveball, so he never broke into the pros.
-
-## 40: Glow
-- **Dissection:** [glow]
-- **Meaning:** An alert and refreshed state
+- **Dissection:** [ग्लिट-अर] (glit-ter)
+- **Meaning:** To shine brightly with many small flashes of light.
 - **Hindi:** चमकना
 - **Examples:**
-  1. The glow of new love.
-  2. A glow of regret.
+  1. The gold ring will **glitter** brightly in the morning sun.
+  2. The dress was covered in small pieces of silver **glitter**.
+
+## 35: Globe
+- **Dissection:** [ग्लोब] (globe - एक बार में बोलें)
+- **Meaning:** An object shaped like a ball with a map of the world on it.
+- **Hindi:** ग्लोब / दुनिया
+- **Examples:**
+  1. The teacher pointed to our country on the round **globe**.
+  2. People travel all over the **globe** to learn new things.
+
+## 36: Gloomy
+- **Dissection:** [ग्लू-मी] (gloo-my)
+- **Meaning:** Dark or sad, giving a feeling of no hope.
+- **Hindi:** उदास / अंधकारमय
+- **Examples:**
+  1. It was a cold and **gloomy** day with dark rain clouds.
+  2. He had a **gloomy** look on his face after losing the game.
+
+## 37: Glorious
+- **Dissection:** [ग्लो-रि-अस] (glo-ri-ous)
+- **Meaning:** Very beautiful and impressive, or deserving great honor.
+- **Hindi:** शानदार
+- **Examples:**
+  1. We enjoyed a **glorious** sunny day at the quiet beach.
+  2. The brave soldiers won a **glorious** victory for their country.
+
+## 38: Glory
+- **Dissection:** [ग्लो-री] (glo-ry)
+- **Meaning:** Great honor, praise, and fame given to someone.
+- **Hindi:** वैभव / यश
+- **Examples:**
+  1. The brave king fought for the **glory** of his great nation.
+  2. The beautiful painting showed the true **glory** of the sunset.
+
+## 39: Glove
+- **Dissection:** [ग्लव] (glove - एक बार में बोलें)
+- **Meaning:** A piece of clothing worn on the hand to keep it warm or protect it.
+- **Hindi:** दस्ताना
+- **Examples:**
+  1. I lost my left winter **glove** in the deep snow.
+  2. The doctor put on a clean rubber **glove** before the exam.
+
+## 40: Glow
+- **Dissection:** [ग्लो] (glow - एक बार में बोलें)
+- **Meaning:** A soft, warm light.
+- **Hindi:** चमक / दीप्ति
+- **Examples:**
+  1. The fire gave off a warm orange **glow** in the dark room.
+  2. Her face had a healthy **glow** after the long run.
 
 ## 41: Glue
-- **Dissection:** [glue]
-- **Meaning:** Cement consisting of a sticky substance that is used as an adhesive
+- **Dissection:** [ग्लू] (glue - एक बार में बोलें)
+- **Meaning:** A sticky substance used to stick things together.
 - **Hindi:** गोंद
 - **Examples:**
-  1. Paste the sign on the wall.
-  2. Cut and paste the sentence in the text.
+  1. He used strong **glue** to fix the broken cup.
+  2. We need some **glue** to stick these two papers together.
 
 ## 42: Goods
-- **Dissection:** [goods]
-- **Meaning:** Benefit
-- **Hindi:** चीज़ें
+- **Dissection:** [गुड्स] (goods - एक बार में बोलें)
+- **Meaning:** Things that are made to be sold.
+- **Hindi:** सामान / माल
 - **Examples:**
-  1. For your own good.
-  2. What's the good of worrying?
+  1. The train was carrying heavy **goods** to the city.
+  2. The store sells baked **goods** like bread and cakes.
 
 ## 43: Gorgeous
-- **Dissection:** [gor-geous]
-- **Meaning:** Dazzlingly beautiful
-- **Hindi:** भव्य
+- **Dissection:** [गॉर-जस] (gor-geous)
+- **Meaning:** Very beautiful or attractive.
+- **Hindi:** बहुत सुंदर / भव्य
 - **Examples:**
-  1. A gorgeous Victorian gown.
-  2. All the contest judges agreed that Brigitt was absolutely gorgeous.
+  1. She wore a **gorgeous** red dress to the party.
+  2. The sunset over the ocean was absolutely **gorgeous**.
 
 ## 44: Gossip
-- **Dissection:** [gos-sip]
-- **Meaning:** Light informal conversation for social occasions
-- **Hindi:** गप करना
+- **Dissection:** [गॉस-इप] (gos-sip)
+- **Meaning:** Talk about other people's private lives that might not be true.
+- **Hindi:** गपशप
 - **Examples:**
-  1. The divorce caused much gossip.
-  2. She won't dish the dirt.
+  1. I do not like to listen to bad **gossip** about my friends.
+  2. The latest **gossip** in the office is about the new boss.
 
 ## 45: Govern
-- **Dissection:** [gov-ern]
-- **Meaning:** Bring into conformity with rules or principles or usage; impose regulations
-- **Hindi:** को नियंत्रित करने वाले
+- **Dissection:** [गव-अर्न] (gov-ern)
+- **Meaning:** To officially control and lead a country or city.
+- **Hindi:** शासन करना
 - **Examples:**
-  1. We cannot regulate the way people dress.
-  2. This town likes to regulate.
+  1. The new king will **govern** the large country fairly.
+  2. We need good laws to help **govern** the fast-growing city.
 
 ## 46: Governor
-- **Dissection:** [gov-ernor]
-- **Meaning:** The head of a state government
-- **Hindi:** राज्यपाल
+- **Dissection:** [गव-अर्न-अर] (gov-ern-or)
+- **Meaning:** A person chosen to lead a state or region.
+- **Hindi:** राज्यपाल / गवर्नर
 - **Examples:**
-  1. He will then appoint the study committee with Mr. Nugent's cooperation, the governor said.
-  2. The prospect of cutting back spending is an unpleasant one for any governor.
+  1. The state **governor** promised to build new schools for the children.
+  2. We will vote for a new **governor** next year.
 
 ## 47: Grab
-- **Dissection:** [grab]
-- **Meaning:** A mechanical device for gripping an object
-- **Hindi:** झपटना
+- **Dissection:** [ग्रैब] (grab - एक बार में बोलें)
+- **Meaning:** To take hold of something quickly and roughly.
+- **Hindi:** झपटना / पकड़ना
 - **Examples:**
-  1. Mays made the catch with his back to the plate.
-  2. He made a grab for the ball before it landed.
+  1. The hungry boy tried to **grab** the last cookie on the plate.
+  2. Please do not **grab** the toy from your little sister.
 
 ## 48: Grace
-- **Dissection:** [grace]
-- **Meaning:** (Christian theology) a state of sanctification by God; the state of one who is under such divine influence
-- **Hindi:** अनुग्रह
+- **Dissection:** [ग्रेस] (grace - एक बार में बोलें)
+- **Meaning:** Smooth, beautiful movement, or a short prayer before a meal.
+- **Hindi:** अनुग्रह / कृपा / गरिमा
 - **Examples:**
-  1. The conception of grace developed alongside the conception of sin.
-  2. It was debated whether saving grace could be obtained outside the membership of the church.
+  1. The dancer moved across the stage with beautiful **grace**.
+  2. The family said a short **grace** before eating dinner.
 
 ## 49: Gradual
-- **Dissection:** [gradu-al]
-- **Meaning:** (Roman Catholic Church) an antiphon (usually from the Book of Psalms) immediately after the epistle at Mass
-- **Hindi:** क्रमिक
+- **Dissection:** [ग्रैजु-अल] (grad-u-al)
+- **Meaning:** Happening slowly over a long period of time.
+- **Hindi:** क्रमिक / धीरे-धीरे होने वाला
 - **Examples:**
-  1. A gradual increase in prices.
-  2. A gradual slope.
+  1. There was a **gradual** change in the weather during the week.
+  2. He made a **gradual** recovery from his long illness.
 
 ## 50: Graduate
-- **Dissection:** [gradu-ate]
-- **Meaning:** A person who has received a degree from a school (high school or college or university)
-- **Hindi:** स्नातक
+- **Dissection:** [ग्रैजु-एट] (grad-u-ate)
+- **Meaning:** To finish school or college and receive a degree or diploma.
+- **Hindi:** स्नातक होना / पढ़ाई पूरी करना
 - **Examples:**
-  1. She graduated in 1990.
-  2. This school graduates 2,000 students each year.
+  1. My older brother will **graduate** from college next year.
+  2. She was the first person in her family to **graduate** from university.
 
 ## 51: Grain
-- **Dissection:** [grain]
-- **Meaning:** A relatively small granular particle of a substance
-- **Hindi:** अनाज
+- **Dissection:** [ग्रेन] (grain - एक बार में बोलें)
+- **Meaning:** The small hard seeds of plants like wheat and rice, or a tiny hard piece of something.
+- **Hindi:** अनाज / दाना
 - **Examples:**
-  1. A grain of sand.
-  2. A grain of sugar.
+  1. The farmer planted the small wheat **grain** in the soil.
+  2. She felt a sharp **grain** of sand in her eye.
 
 ## 52: Grammar
-- **Dissection:** [gram-mar]
-- **Meaning:** The branch of linguistics that deals with syntax and morphology (and sometimes also deals with semantics)
+- **Dissection:** [ग्रैम-अर] (gram-mar)
+- **Meaning:** The rules about how words change their form and combine with other words to make sentences.
 - **Hindi:** व्याकरण
 - **Examples:**
-  1. A grammar of geography.
-  2. 2012, Graeme Paton, A green light for more grammars? (in The Daily Telegraph, 11 January 2012).
+  1. We must study English **grammar** to speak correctly.
+  2. He made a small **grammar** mistake in his letter.
 
 ## 53: Grand
-- **Dissection:** [grand]
-- **Meaning:** The cardinal number that is the product of 10 and 100
-- **Hindi:** बड़ा
+- **Dissection:** [ग्रैंड] (grand - एक बार में बोलें)
+- **Meaning:** Very large, beautiful, and impressive.
+- **Hindi:** शानदार / विशाल
 - **Examples:**
-  1. An expansive lifestyle.
-  2. In the grand manner.
+  1. The king lived in a **grand** palace with many big rooms.
+  2. The large hotel had a **grand** entrance made of white stone.
 
 ## 54: Grant
-- **Dissection:** [grant]
-- **Meaning:** Any monetary aid
-- **Hindi:** अनुदान
+- **Dissection:** [ग्रांट] (grant - एक बार में बोलें)
+- **Meaning:** An amount of money given by the government or an organization for a special purpose, or to agree to give someone what they ask for.
+- **Hindi:** अनुदान / देना
 - **Examples:**
-  1. He got the beer concession at the ball park.
-  2. Grant permission.
+  1. The school received a **grant** to buy new computers.
+  2. The manager will **grant** him a week off for his holiday.
 
 ## 55: Graph
-- **Dissection:** [graph]
-- **Meaning:** A visual representation of the relations between certain quantities plotted with reference to a set of axes
-- **Hindi:** ग्राफ़
+- **Dissection:** [ग्राफ] (graph - एक बार में बोलें)
+- **Meaning:** A picture that uses lines or curves to show how different things are related or change.
+- **Hindi:** रेखांकन / ग्राफ
 - **Examples:**
-  1. By the use of various weights, data for a force-rate of shear graph can be obtained.
-  2. We consider now the graph of the function f{t} on Af.
+  1. The line **graph** shows how the temperature changed today.
+  2. She drew a colorful **graph** to explain the math problem.
 
 ## 56: Grasp
-- **Dissection:** [grasp]
-- **Meaning:** Understanding of the nature or meaning or quality or magnitude of something
-- **Hindi:** पकड़
+- **Dissection:** [ग्रास्प] (grasp - एक बार में बोलें)
+- **Meaning:** To hold something firmly, or to understand something completely.
+- **Hindi:** पकड़ना / समझना
 - **Examples:**
-  1. He has a good grasp of accounting practices.
-  2. Within the compass of education.
+  1. He held the thick rope in a tight **grasp**.
+  2. The young boy could easily **grasp** the difficult math rules.
 
 ## 57: Grateful
-- **Dissection:** [grate-ful]
-- **Meaning:** Feeling or showing gratitude
-- **Hindi:** आभारी
+- **Dissection:** [ग्रेट-फुल] (grate-ful)
+- **Meaning:** Feeling or showing thanks to someone who has helped you.
+- **Hindi:** आभारी / कृतज्ञ
 - **Examples:**
-  1. A grateful heart.
-  2. Grateful for the tree's shade.
+  1. I am very **grateful** for all your kind help today.
+  2. The poor man was **grateful** to receive the warm food.
 
 ## 58: Grave
-- **Dissection:** [grave]
-- **Meaning:** Death of a person
-- **Hindi:** कब्र
+- **Dissection:** [ग्रेव] (grave - एक बार में बोलें)
+- **Meaning:** A place in the ground where a dead person is buried, or very serious.
+- **Hindi:** कब्र / गंभीर
 - **Examples:**
-  1. He went to his grave without forgiving me.
-  2. From cradle to grave.
+  1. They placed beautiful red flowers on his quiet **grave**.
+  2. The doctor looked at the sick patient with a **grave** face.
 
 ## 59: Gravity
-- **Dissection:** [grav-ity]
-- **Meaning:** (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; ; ; --Albert Einstein
+- **Dissection:** [ग्रैव-इ-टी] (grav-i-ty)
+- **Meaning:** The force that pulls things down toward the center of the Earth.
 - **Hindi:** गुरुत्वाकर्षण
 - **Examples:**
-  1. The more remote the body the less the gravity.
-  2. The gravitation between two bodies is proportional to the product of their masses and inversely proportional to the square of the distance between them.
+  1. When you drop a ball, **gravity** pulls it to the floor.
+  2. There is no **gravity** in deep space, so astronauts float.
 
 ## 60: Graze
-- **Dissection:** [graze]
-- **Meaning:** A superficial abrasion
-- **Hindi:** धीरे से छूना
+- **Dissection:** [ग्रेज़] (graze - एक बार में बोलें)
+- **Meaning:** To eat grass in a field, or to slightly cut the skin by rubbing against something rough.
+- **Hindi:** चरना / छिल जाना
 - **Examples:**
-  1. The herd was grazing.
-  2. She was grazed by the stray bullet.
+  1. The quiet cows like to **graze** in the green field all day.
+  2. He fell down and managed to **graze** his knee on the road.
 
 ## 61: Grease
-- **Dissection:** [grease]
-- **Meaning:** A thick fatty oil (especially one used to lubricate machinery)
-- **Hindi:** ग्रीज़
+- **Dissection:** [ग्रीस] (grease - एक बार में बोलें)
+- **Meaning:** A thick, oily substance, often used to make machines run smoothly or found on cooked meat.
+- **Hindi:** ग्रीज़ / चर्बी
 - **Examples:**
-  1. Grease the wheels.
-  2. To my amazement, I greased the landing despite the tricky crosswinds.
+  1. The mechanic put thick black **grease** on the car engine.
+  2. There was too much hot **grease** in the frying pan.
 
 ## 62: Greed
-- **Dissection:** [greed]
-- **Meaning:** Excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves
+- **Dissection:** [ग्रीड] (greed - एक बार में बोलें)
+- **Meaning:** A strong desire to have more money, food, or power than you need.
 - **Hindi:** लालच
 - **Examples:**
-  1. Pumblechook's hands throughout the novel serve to travesty greed and hypocritical self-aggrandizement.
-  2. His greed was his undoing.
+  1. His selfish **greed** made him want to keep all the money.
+  2. The king's **greed** for land led to a long and terrible war.
 
 ## 63: Grief
-- **Dissection:** [grief]
-- **Meaning:** Intense sorrow caused by loss of a loved one (especially by death)
-- **Hindi:** दु: ख
+- **Dissection:** [ग्रीफ] (grief - एक बार में बोलें)
+- **Meaning:** Great sadness, especially because someone has died.
+- **Hindi:** दुःख / शोक
 - **Examples:**
-  1. Her death was a great grief to John.
-  2. She was worn out from so much grief.
+  1. She felt deep **grief** when her best friend moved far away.
+  2. The whole town shared his **grief** after the sad accident.
 
 ## 64: Grieve
-- **Dissection:** [grieve]
-- **Meaning:** Feel grief
-- **Hindi:** शोक
+- **Dissection:** [ग्रीव] (grieve - एक बार में बोलें)
+- **Meaning:** To feel very sad because someone has died or something terrible happened.
+- **Hindi:** शोक मनाना / दुःखी होना
 - **Examples:**
-  1. His behavior grieves his mother.
-  2. To grieve one's fate.
+  1. It is normal to **grieve** for a long time after losing a pet.
+  2. The family will deeply **grieve** the loss of their old grandfather.
 
 ## 65: Grill
-- **Dissection:** [grill]
-- **Meaning:** A restaurant where food is cooked on a grill
-- **Hindi:** ग्रिल
+- **Dissection:** [ग्रिल] (grill - एक बार में बोलें)
+- **Meaning:** A metal frame used for cooking food over a fire, or to cook food in this way.
+- **Hindi:** ग्रिल / जाली पर भूनना
 - **Examples:**
-  1. He cooked hamburgers on the grill.
-  2. Grill the sausages.
+  1. We will cook the fresh fish on the outdoor **grill** today.
+  2. He likes to **grill** hot dogs when we go camping.
 
 ## 66: Grim
-- **Dissection:** [grim]
-- **Meaning:** Not to be placated or appeased or moved by entreaty
-- **Hindi:** गंभीर
+- **Dissection:** [ग्रिम] (grim - एक बार में बोलें)
+- **Meaning:** Looking very serious, worried, or sad; without hope.
+- **Hindi:** गंभीर / भयंकर
 - **Examples:**
-  1. Grim determination.
-  2. Grim necessity.
+  1. The tired soldiers faced a very **grim** situation in the war.
+  2. She had a **grim** look on her face when she heard the bad news.
 
 ## 67: Grin
-- **Dissection:** [grin]
-- **Meaning:** A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement
-- **Hindi:** मुसकान
+- **Dissection:** [ग्रिन] (grin - एक बार में बोलें)
+- **Meaning:** A wide smile.
+- **Hindi:** मुस्कान
 - **Examples:**
-  1. Why do you grin? Did I say something funny?
-  2. She grinned pleasure at his embarrassment.
+  1. A big happy **grin** spread across the little boy's face.
+  2. She could not hide the large **grin** when she saw the present.
 
 ## 68: Grind
-- **Dissection:** [grind]
-- **Meaning:** An insignificant student who is ridiculed as being affected or boringly studious
-- **Hindi:** पिसना
+- **Dissection:** [ग्राइंड] (grind - एक बार में बोलें)
+- **Meaning:** To crush something into tiny pieces or powder.
+- **Hindi:** पीसना
 - **Examples:**
-  1. A coarse grind of coffee.
-  2. Grate one's teeth in anger.
+  1. We need to **grind** these fresh coffee beans before making coffee.
+  2. The large machine will **grind** the heavy stones into fine sand.
 
 ## 69: Grip
-- **Dissection:** [grip]
-- **Meaning:** The act of grasping
+- **Dissection:** [ग्रिप] (grip - एक बार में बोलें)
+- **Meaning:** To hold something tightly, or a firm hold.
 - **Hindi:** पकड़
 - **Examples:**
-  1. He released his clasp on my arm.
-  2. He has a strong grip for an old man.
+  1. He kept a strong **grip** on the steering wheel of the fast car.
+  2. The baby tried to **grip** his father's finger tightly.
 
 ## 70: Groan
-- **Dissection:** [groan]
-- **Meaning:** An utterance expressing pain or disapproval
-- **Hindi:** कराहना
+- **Dissection:** [ग्रोन] (groan - एक बार में बोलें)
+- **Meaning:** To make a long, low sound of pain, sadness, or complaining.
+- **Hindi:** कराहना / आह भरना
 - **Examples:**
-  1. The students groaned when the professor got out the exam booklets.
-  2. The ancient door soughed when opened.
+  1. The sick man gave a loud **groan** when he tried to stand up.
+  2. We heard the old wooden stairs **groan** under his heavy feet.
 
 ## 71: Grocery
-- **Dissection:** [gro-cery]
-- **Meaning:** A marketplace where groceries are sold
-- **Hindi:** किराना
+- **Dissection:** [ग्रो-स-री] (gro-ce-ry)
+- **Meaning:** Food and other things sold at a supermarket.
+- **Hindi:** किराना / खाने-पीने का सामान
 - **Examples:**
-  1. Grocery stores sell dozens of foods that boast of having almost no food value at all.
-  2. The large amount of vegetable grindings from the grocery store in the shopping center created a suspended solids problem.
+  1. I need to buy milk and bread at the local **grocery** store.
+  2. He carried the heavy bags of **grocery** items to the car.
 
 ## 72: Guarantee
-- **Dissection:** [guar-an-tee]
-- **Meaning:** A written assurance that some product or service will be provided or will meet certain specifications
-- **Hindi:** गारंटी
+- **Dissection:** [गै-रन-टी] (guar-an-tee)
+- **Meaning:** A promise that something will happen or that a product will work properly.
+- **Hindi:** गारंटी / पक्का वादा
 - **Examples:**
-  1. There is no guarantee that they are not lying.
-  2. I vouch for the quality of my products.
+  1. The new television comes with a one-year **guarantee**.
+  2. Hard work is not always a **guarantee** of complete success.
 
 ## 73: Guard
-- **Dissection:** [guard]
-- **Meaning:** A person who keeps watch over something or someone
-- **Hindi:** रक्षक
+- **Dissection:** [गार्ड] (guard - एक बार में बोलें)
+- **Meaning:** A person whose job is to protect people or places, or to keep watch.
+- **Hindi:** रक्षक / पहरेदार
 - **Examples:**
-  1. The left guard was injured on the play.
-  2. Keep your guard up.
+  1. The strong security **guard** stood outside the large bank.
+  2. The big dog will closely **guard** the house while we are away.
 
 ## 74: Guilt
-- **Dissection:** [guilt]
-- **Meaning:** The state of having committed an offense
-- **Hindi:** अपराध
+- **Dissection:** [गिल्ट] (guilt - एक बार में बोलें)
+- **Meaning:** A bad feeling because you have done something wrong, or the fact of having committed a crime.
+- **Hindi:** अपराध-बोध / दोष
 - **Examples:**
-  1. Attorneys for the eight other defendants said only that there was no proof of their clients' guilt.
-  2. These needs usually concern the reduction of guilt and some relief of tension.
+  1. He felt a deep sense of **guilt** for breaking his mother's vase.
+  2. The judge said there was clear proof of the man's **guilt**.
 
 ## 75: Guitar
-- **Dissection:** [gui-tar]
-- **Meaning:** A stringed instrument usually having six strings; played by strumming or plucking
+- **Dissection:** [गि-टार] (gui-tar)
+- **Meaning:** A musical instrument with six strings that you play by pulling or hitting the strings.
 - **Hindi:** गिटार
 - **Examples:**
-  1. Julian Davidson, guitar;;.
-  2. The second reason for his popularity is his complete spontaneity with the guitar.
+  1. He likes to play happy songs on his wooden acoustic **guitar**.
+  2. She is taking lessons to learn how to play the electric **guitar**.
 
 ## 76: Gulf
-- **Dissection:** [gulf]
-- **Meaning:** An arm of a sea or ocean partly enclosed by land; larger than a bay
+- **Dissection:** [गल्फ] (gulf - एक बार में बोलें)
+- **Meaning:** A large area of sea that is partly surrounded by land.
 - **Hindi:** खाड़ी
 - **Examples:**
-  1. He felt a gulf between himself and his former friends.
-  2. There is a vast disconnect between public opinion and federal policy.
+  1. The large ship sailed slowly across the deep blue **gulf**.
+  2. There are many beautiful small islands in the wide **gulf**.
 
 ## 77: Gum
-- **Dissection:** [gum]
-- **Meaning:** A preparation (usually made of sweetened chicle) for chewing
-- **Hindi:** गोंद
+- **Dissection:** [गम] (gum - एक बार में बोलें)
+- **Meaning:** A sweet candy that you chew but do not swallow, or the pink flesh inside your mouth that holds your teeth.
+- **Hindi:** च्यूइंग गम / मसूड़ा
 - **Examples:**
-  1. If you gum the tape it is stronger.
-  2. The old man had no teeth left and mumbled his food.
+  1. The boy likes to chew sweet bubble **gum** after lunch.
+  2. You should brush carefully to keep your teeth and **gum** healthy.
 

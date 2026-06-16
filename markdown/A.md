@@ -1,5 +1,4 @@
 ## 1: Articulate
-## 1: Articulate
 - **Dissection:** [ar-tic-u-late]
 - **Meaning:** Having or showing the ability to speak fluently and coherently.
 - **Hindi:** स्पष्ट करना

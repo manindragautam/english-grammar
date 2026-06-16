@@ -1,48 +1,48 @@
 ## 1: Qualification
-- **Dissection:** [qual-i-fic-a-tion]
-- **Meaning:** An attribute that must be met or complied with and that fits a person for something
+- **Dissection:** [क्वॉल-अ-फ़ि-के-शन] (qual-i-fi-ca-tion)
+- **Meaning:** A skill, quality, or experience that makes you right for a job or activity.
 - **Hindi:** योग्यता
 - **Examples:**
-  1. Her qualifications for the job are excellent.
-  2. One of the qualifications for admission is an academic degree.
+  1. She has the perfect **qualification** to be a great teacher.
+  2. You need a special **qualification** to drive a large bus.
 
 ## 2: Qualify
-- **Dissection:** [qual-i-fy]
-- **Meaning:** Prove capable or fit; meet requirements
-- **Hindi:** योग्य
+- **Dissection:** [क्वॉल-अ-फ़ाइ] (qual-i-fy)
+- **Meaning:** To have the right skills, knowledge, or experience to do something.
+- **Hindi:** योग्य होना
 - **Examples:**
-  1. She was qualified to run the marathon.
-  2. They nurses were qualified to administer the injections.
+  1. You must be very tall to **qualify** for the basketball team.
+  2. His hard work will help him **qualify** for a better job.
 
 ## 3: Quantity
-- **Dissection:** [quant-ity]
-- **Meaning:** How much there is or how many there are of something that you can quantify
-- **Hindi:** मात्रा
+- **Dissection:** [क्वान-ट-टी] (quan-ti-ty)
+- **Meaning:** An amount or number of something.
+- **Hindi:** मात्रा / परिमाण
 - **Examples:**
-  1. He had a quantity of ammunition.
-  2. You have to choose between quantity and quality.
+  1. The small shop sells a large **quantity** of fresh fruit.
+  2. You only need a small **quantity** of salt in the soup.
 
 ## 4: Quart
-- **Dissection:** [quart]
-- **Meaning:** A United States liquid unit equal to 32 fluid ounces; four quarts equal one gallon
-- **Hindi:** चौथाई गेलन
+- **Dissection:** [क्वॉर्ट] (quart - एक बार में बोलें)
+- **Meaning:** A unit for measuring liquid, equal to a quarter of a gallon.
+- **Hindi:** क्वार्ट (माप)
 - **Examples:**
-  1. The recipe requires you to add one quart of fresh milk to the mixture.
-  2. She bought a quart of chocolate ice cream from the local supermarket.
+  1. Please buy a **quart** of cold milk from the small store.
+  2. She drank a full **quart** of cold water after her run.
 
 ## 5: Quit
-- **Dissection:** [quit]
-- **Meaning:** Put an end to a state or an activity
+- **Dissection:** [क्विट] (quit - एक बार में बोलें)
+- **Meaning:** To stop doing something or to leave a job.
 - **Hindi:** छोड़ना
 - **Examples:**
-  1. Quit teasing your little brother.
-  2. The Secretary of the Navy will leave office next month.
+  1. He wants to **quit** his boring job and travel the world.
+  2. You should **quit** eating too much sugar if you want to be healthy.
 
 ## 6: Quote
-- **Dissection:** [quote]
-- **Meaning:** A punctuation mark used to attribute the enclosed text to someone else
-- **Hindi:** उद्धरण
+- **Dissection:** [क्वोट] (quote - एक बार में बोलें)
+- **Meaning:** To repeat the exact words that someone else has said or written.
+- **Hindi:** उद्धरण देना / ज्यों का त्यों कहना
 - **Examples:**
-  1. He quoted the Bible to her.
-  2. Quote prices for cars.
+  1. The teacher asked us to **quote** our favorite line from the book.
+  2. She likes to **quote** famous poets when she speaks.
 
